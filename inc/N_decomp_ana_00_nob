@@ -1,0 +1,1075 @@
+
+grafikkverksted	grafihkkadivudahka	grafihkkabádji	0	0	0	0
+
+forfatterverksted	tjálledivudahka	girječálliidbádji	0	0	0	0
+forfatterverksted	girjjetjálledivudahka	girječálliidbádji	0	0	0	0
+
+prosjektverksted	prosjæktadivudahka	prošeaktabádji	0	0	0	0
+
+referansegruppearbeid	referánssajuogosbarggo	referánsajoavkobargu	0	0	0	0
+
+folkehelseplanarbeid	álmmukvarresvuohtapládnabarggo	álbmotdearvvašvuođaplánabargu	0	0	0	0
+
+strategiplanarbeid	strategiddjapládnabarggo	strategiijaplánabargu	0	0	0	0
+strategiplanarbeid	strategijapládnabarggo	strategiijaplánabargu	0	0	0	0
+strategiplanarbeid	ájggomuspládnabarggo	strategiijaplánabargu	0	0	0	0
+
+jerninnhold	ruovddesisadno	ruovdesisdoallu	0	0	0	0
+jerninnhold	ruovddesisanádus	ruovdesisdoallu	0	0	0	0
+
+sekretærbistand	tjálledoarjja	čállingoddeveahkki	1	0	0	0
+sekretærbistand	tjálleviehkke	čállingoddeveahkki	1	0	0	0
+
+konsulentbistand	konsulænntadoarjja	konsuleantaveahkki	3	0	0	0
+konsulentbistand	konsulænntaviehkke	konsuleantaveahkki	3	0	0	0
+
+klimafond	dálkádahkafoannda	dálkkádatfoanda	1	0	0	0
+klimafond	dálkádahkaruhtavuorkká	dálkkádatfoanda	1	0	0	0
+
+katastrofefond	hiehtefoannda	roassofoanda	1	0	0	0
+katastrofefond	hiehteruhtavuorkká	roassofoanda	1	0	0	0
+
+kvenfond	guojnnafoannda	kvenafoanda	0	0	0	0
+kvenfond	guojnnaruhtavuorkká	kvenafoanda	0	0	0	0
+
+kunstnerfond	dájddárfoannda	dáiddárfoanda	0	0	0	0
+kunstnerfond	dájddárruhtavuorkká	dáiddárfoanda	0	0	0	0
+
+strukturfond	struktuvrrafoannda	strukturfoanda	2	0	0	0
+strukturfond	hábmefoannda	strukturfoanda	2	0	0	0
+strukturfond	struktuvrraruhtavuorkká	strukturfoanda	2	0	0	0
+strukturfond	hábmeruhtavuorkká	strukturfoanda	2	0	0	0
+
+vederlagsfond	máksofoannda	buhtadusfoanda	0	0	1	0
+vederlagsfond	máksoruhtavuorkká	buhtadusfoanda	0	0	1	0
+
+jordbruksfond	ednambarggofoannda	eanandoallofoanda	0	0	0	0
+jordbruksfond	ednambarggoruhtavuorkká	eanandoallofoanda	0	0	0	0
+
+obligasjonsfond	obligasjåvnnåfoannda	obligašuvdnafoanda	2	0	0	0
+obligasjonsfond	obligasjåvnnåruhtavuorkká	obligašuvdnafoanda	2	0	0	0
+
+lærerutdanningstilbud	åhpadiddjeåhpadusfálaldahka	oahpaheaddjeoahppofálaldat	0	0	0	0
+lærerutdanningstilbud	skåvlikåhpadusfálaldahka	oahpaheaddjeoahppofálaldat	0	0	0	0
+
+kommunevalgperiode	gielldaválggagávdda	gielddaválgaáigodat	0	0	0	0
+kommunevalgperiode	suohkanválggagávdda	gielddaválgaáigodat	0	0	0	0
+
+kongefamilie	gånågisfamillja	gonagasbearaš	1	0	1	0
+kongefamilie	gånågisgoahteulmutja	gonagasbearaš	1	0	1	0
+kongefamilie	gånågisfuolkke	gonagasbearaš	1	0	1	0
+kongefamilie	gånågisberaj	gonagasbearaš	1	0	1	0
+
+flyttsamefamilie	jåhttesábmefamillja	johttisámebearaš	0	0	0	0
+flyttsamefamilie	jåhttesábmegoahteulmutja	johttisámebearaš	0	0	0	0
+flyttsamefamilie	jåhttesábmefuolkke	johttisámebearaš	0	0	0	0
+flyttsamefamilie	jåhttesábmeberaj	johttisámebearaš	0	0	0	0
+
+sølvsmie	silbbasmirjjo	silbabádji/silbarávdi	0	0	0	0
+
+reinkjøttbransje	boahttsubierggosuorgge	bohccobiergosuorgi	0	0	0	0
+reinkjøttbransje	boahttsubierggoæládussuorgge	bohccobiergosuorgi	0	0	0	0
+
+klimapakke	dálkádahkapáhkke	dálkkádatpáhkka	0	0	0	0
+klimapakke	dálkádahkaskurppo	dálkkádatpáhkka	0	0	0	0
+
+turistpakke	turisstapáhkke	turistapáhkka	0	0	0	0
+turistpakke	turisstaskurppo	turistapáhkka	0	0	0	0
+
+førskolelæreryrke	åvddåskåvllååhpadiddjevirgge	ovdaskuvlaoahpaheaddjebargu	0	0	0	0
+
+ullkjole	hullovuolppo	ulločuvla	0	0	0	0
+ullkjole	hullotjåvllå	ulločuvla	0	0	0	0
+
+journalisthøgskole	journalisstaallaskåvllå	journalistaallaskuvla	0	0	0	0
+
+landbrukshøyskole	ednambarggoallaskåvllå	eanandoalloallaskuvla	0	0	0	0
+
+innlandsfisketurisme	jávrreguollimturissma	sáivaguolástanturisma	0	0	0	0
+
+fiskerikommune	guollimgiellda	guolástusgielda	5	0	0	0
+fiskerikommune	guolástusgiellda	guolástusgielda	5	0	0	0
+fiskerikommune	guollimsuohkan	guolástusgielda	5	0	0	0
+fiskerikommune	guolástussuohkan	guolástusgielda	5	0	0	0
+
+registerkommune	registargiellda	registtarsuohkan	0	0	0	0
+registerkommune	lågosgiellda	registtarsuohkan	0	0	0	0
+registerkommune	registarsuohkan	registtarsuohkan	0	0	0	0
+registerkommune	lågossuohkan	registtarsuohkan	0	0	0	0
+
+jordbrukskommune	ednambarggogiellda	eanandoallogielda	0	0	0	0
+jordbrukskommune	ednambarggosuohkan	eanandoallogielda	0	0	0	0
+
+prosjektkommune	prosjæktagiellda	prošeaktagielda	0	0	0	0
+prosjektkommune	prosjæktasuohkan	prošeaktagielda	0	0	0	0
+
+kystkommune	merragáddegiellda	riddogielda/riddosuohkan	4	0	0	0
+kystkommune	merraguovllogiellda	riddogielda/riddosuohkan	4	0	0	0
+kystkommune	merragáddesuohkan	riddogielda/riddosuohkan	4	0	0	0
+kystkommune	merraguovllosuohkan	riddogielda/riddosuohkan	4	0	0	0
+
+nasjonalparkstyre	álmmukmiehttsestivrra	álbmotmeahccestivra	4	0	1	0
+
+programstyre	prográmmastivrra	prográmmastivra	3	0	2	0
+
+utmarksstyre	miehttsestivrra	meahccestivra	7	0	2	0
+
+universitetsstyre	universitehttastivrra	universitehtastivra	1	0	0	0
+
+slektskapsbenevnelse	berajvuohtanammadus	fuolkevuođanamahus	0	0	0	0
+
+programforpliktelse	prográmmavælggogisvuohta	prográmmageatnegasvuohta	0	0	0	0
+programforpliktelse	prográmmavælggo	prográmmageatnegasvuohta	0	0	0	0
+programforpliktelse	prográmmaåvdåsvásstádus	prográmmageatnegasvuohta	0	0	0	0
+
+alderspensjonsforpliktelse	boarrásijruhtavælggogisvuohta	ahkepenšuvdnageatnegasvuohta	0	0	0	0
+alderspensjonsforpliktelse	boarrásijpensjåvnnåvælggogisvuohta	ahkepenšuvdnageatnegasvuohta	0	0	0	0
+alderspensjonsforpliktelse	boarrásijruhtavælggo	ahkepenšuvdnageatnegasvuohta	0	0	0	0
+alderspensjonsforpliktelse	boarrásijpensjåvnnåvælggo	ahkepenšuvdnageatnegasvuohta	0	0	0	0
+alderspensjonsforpliktelse	boarrásijruhtaåvdåsvásstádus	ahkepenšuvdnageatnegasvuohta	0	0	0	0
+alderspensjonsforpliktelse	boarrásijpensjåvnnååvdåsvásstádus	ahkepenšuvdnageatnegasvuohta	0	0	0	0
+
+folkerettsforpliktelse	álmmukriektávælggogisvuohta	álbmotriektegeatnegasvuohta	0	0	0	0
+folkerettsforpliktelse	álmmukriektávælggo	álbmotriektegeatnegasvuohta	0	0	0	0
+folkerettsforpliktelse	álmmukriektáåvdåsvásstádus	álbmotriektegeatnegasvuohta	0	0	0	0
+
+flaggkonkurranse	slávggágilpustallam	leavgagilvu	0	0	0	0
+flaggkonkurranse	slávggágilppom	leavgagilvu	0	0	0	0
+flaggkonkurranse	slávggágilpos	leavgagilvu	0	0	0	0
+
+stilkonkurranse	stijllagilpustallam	stiilačállingilvu	0	0	0	0
+stilkonkurranse	stijllagilppom	stiilačállingilvu	0	0	0	0
+stilkonkurranse	stijllagilpos	stiilačállingilvu	0	0	0	0
+
+grunnkursklasse	vuodokurssaklássa	vuođđokursaluohkká	0	0	0	0
+grunnkursklasse	álggokurssaklássa	vuođđokursaluohkká	0	0	0	0
+
+internatklasse	internáhttaklássa	internáhttaluohkká	0	0	0	0
+
+innholdsanalyse	sisadnoanalyjssa	sisdoalloguorahallan/sisdoalloanalysa	0	0	0	0
+innholdsanalyse	sisanádusanalyjssa	sisdoalloguorahallan/sisdoalloanalysa	0	0	0	0
+innholdsanalyse	sisadnoguoradallam	sisdoalloguorahallan/sisdoalloanalysa	0	0	0	0
+innholdsanalyse	sisanádusguoradallam	sisdoalloguorahallan/sisdoalloanalysa	0	0	0	0
+
+statsadvokatembete	stáhtaadvokáhttaámmát	stáhtaadvokáhtaámmát	0	0	0	0
+
+kommunehelsetjeneste	gielldavarresvuodadievnastus	gielddadearvvašvuođabálvalus/suohkandearvvašvuođabálvalus	7	0	0	0
+kommunehelsetjeneste	suohkanvarresvuodadievnastus	gielddadearvvašvuođabálvalus/suohkandearvvašvuođabálvalus	7	0	0	0
+
+kystfiskeflåte	merragátteguollimboarre	riddobivdofanas	1	0	0	0
+
+havfiskeflåte	merraguollimboarre	áhpebivdi	1	0	0	0
+
+kystflåte	merragáddeboarre	riddofanas	7	0	3	0
+kystflåte	merraguovlloboarre	riddofanas	7	0	3	0
+
+klasserådsmøte	klássarádetjåhkanibme	luohkkáráđđečoahkkin	0	0	0	0
+
+oljeformue	oalljoruhtaåbmudahka	oljoopmodat	0	0	0	0
+oljeformue	ulljoruhtaåbmudahka	oljoopmodat	0	0	0	0
+oljeformue	oalljoåbmudahka	oljoopmodat	0	0	0	0
+oljeformue	ulljoåbmudahka	oljoopmodat	0	0	0	0
+
+grunnlovsparagraf	vuodoláhkaparagráffa	vuođđoláhkaparagráfa	6	0	0	0
+
+banksjef	báŋŋkaoajvve	báŋkohoavda	0	0	3	0
+
+hotellsjef	hotællaoajvve	hoteallahoavda	0	0	0	0
+
+radiosjef	radiooajvve	rádiohoavda	0	0	0	0
+
+regjeringssjef	ráddidusoajvve	ráđđehusjođiheaddji	0	0	0	0
+
+landbrukssjef	ednambarggooajvve	eanandoallohoavda	0	0	0	0
+
+jordbrukssjef	ednambarggooajvve	eanandoallohoavda	0	0	0	0
+
+skogbrukssjef	miehttsebarggooajvve	eanandoallohoavda	0	0	0	0
+
+etatsjef	etáhttaoajvve	etáhttahoavda	2	0	1	0
+
+bibliotekvederlag	bibliotehkkamákso	girjerádjomáksu/girjerádjobuhtadus	0	0	0	0
+bibliotekvederlag	girjjevuorkkámákso	girjerádjomáksu/girjerádjobuhtadus	0	0	0	0
+
+klassedeling	klássajuogadibme	klássajuogadeapmi	0	0	0	0
+klassedeling	klássajuohkem	klássajuogadeapmi	0	0	0	0
+klassedeling	klássajuohko	klássajuogadeapmi	0	0	0	0
+
+paragrafinndeling	paragráffajuohkem	paragráfajuohku	0	0	0	0
+
+valgkretsinndeling	válggabijrrajuohkem	válgabiirejuohku/válgabiirejuogadeapmi/válgabiirejuohkin	1	0	0	0
+valgkretsinndeling	válggaguovllojuohkem	válgabiirejuohku/válgabiirejuogadeapmi/válgabiirejuohkin	1	0	0	0
+
+prosjektlederstilling	prosjæktanjunnjusjvirgge	prošeaktajođiheaddjivirgi	1	0	0	0
+
+tusjtegning	tussjatjuorgas	tuššasárgun	0	0	0	0
+
+jernbanebevilgning	ruovdderahteruhtajuollodibme	johtolatplána	0	0	1	0
+jernbanebevilgning	ruovdderahtejuollodibme	johtolatplána	0	0	1	0
+
+omstillingsbevilgning	nuppástuhttemruhtajuollodibme	nuppástuhttinruhtajuolludeapmi	0	0	0	0
+omstillingsbevilgning	nuppástuhttemjuollodibme	nuppástuhttinruhtajuolludeapmi	0	0	0	0
+
+grunnskolelærerutdanning	vuodoskåvllååhpadiddjeåhpadus	vuođđoskuvlaoahpaheddjiidoahppu/vuođđoskuvlaoahpaheaddjeoahppu	35	0	0	0
+
+førskolelærerutdanning	åvddåskåvllååhpadiddjeåhpadus	ovdaskuvlaoahpaheaddjeoahppu	23	0	8	0
+
+yrkesfaglærerutdanning	viddnofáhkaåhpadiddjeåhpadus	fidnofágaoahpaheaddjeoahppu	2	0	0	0
+
+universitetsetablering	universitehttaásadibme	universitehtavuođđudeapmi	0	0	0	0
+universitetsetablering	universitehttavuododibme	universitehtavuođđudeapmi	0	0	0	0
+
+kystfiskerinæring	merragáddeguollimæládus	riddoguolástusealáhus	0	0	0	0
+kystfiskerinæring	merraguovlloguollimæládus	riddoguolástusealáhus	0	0	0	0
+
+strategidrøfting	strategiddjaárvvaladdam	strategiijadigaštallan	0	0	0	0
+strategidrøfting	strategijaárvvaladdam	strategiijadigaštallan	0	0	0	0
+strategidrøfting	ájggomusárvvaladdam	strategiijadigaštallan	0	0	0	0
+strategidrøfting	strategiddjaságastallam	strategiijadigaštallan	0	0	0	0
+strategidrøfting	strategijaságastallam	strategiijadigaštallan	0	0	0	0
+strategidrøfting	ájggomusságastallam	strategiijadigaštallan	0	0	0	0
+
+turistsesong	turisstagávdda	turistaáigi/turistaáigodat	0	0	0	0
+turistsesong	turisstaájgge	turistaáigi/turistaáigodat	0	0	0	0
+
+barnevernpedagog	mánájsuodjaluspedagoga	mánáidsuodjaluspedagoga	0	0	0	0
+barnevernpedagog	mánájsuodjaluspedagåvggå	mánáidsuodjaluspedagoga	0	0	0	0
+
+bibliotekkatalog	bibliotehkkakataloga	girjerádjokataloga	0	0	0	0
+bibliotekkatalog	girjjevuorkkákataloga	girjerádjokataloga	0	0	0	0
+bibliotekkatalog	bibliotehkkakatalåvggå	girjerádjokataloga	0	0	0	0
+bibliotekkatalog	girjjevuorkkákatalåvggå	girjerádjokataloga	0	0	0	0
+
+kjerneområdestrategi	guovddaguovllostrategiddja	guovddášguovllustrategiija	0	0	0	0
+kjerneområdestrategi	guovddaguovllostrategija	guovddášguovllustrategiija	0	0	0	0
+kjerneområdestrategi	guovddaguovlloájggomus	guovddášguovllustrategiija	0	0	0	0
+
+miljøvernstrategi	birásgáhttimstrategiddja	birasgáhttenstrategiija	0	0	0	0
+miljøvernstrategi	birásgáhttimstrategija	birasgáhttenstrategiija	0	0	0	0
+miljøvernstrategi	birásgáhttimájggomus	birasgáhttenstrategiija	0	0	0	0
+
+arbeidsgiverstrategi	barggovaddestrategiddja	bargoaddistrategiija	0	0	0	0
+arbeidsgiverstrategi	barggovaddestrategija	bargoaddistrategiija	0	0	0	0
+arbeidsgiverstrategi	barggovaddeájggomus	bargoaddistrategiija	0	0	0	0
+
+reiselivsstrategi	mannoæládusstrategiddja	mátkeeallinstrategiija/mátkeealáhusstrategiija	3	0	0	0
+reiselivsstrategi	mannoæládusstrategija	mátkeeallinstrategiija/mátkeealáhusstrategiija	3	0	0	0
+reiselivsstrategi	mannoæládusájggomus	mátkeeallinstrategiija/mátkeealáhusstrategiija	3	0	0	0
+
+fiskeribiologi	guollimbiologiddja	guolástanbiologiija	0	0	0	0
+fiskeribiologi	guolástusbiologiddja	guolástanbiologiija	0	0	0	0
+fiskeribiologi	guollimbiologija	guolástanbiologiija	0	0	0	0
+fiskeribiologi	guolástusbiologija	guolástanbiologiija	0	0	0	0
+
+dybdepsykologi	tjiegŋudahkapsykologiddja	čikŋodatpsykologiija	0	0	0	0
+dybdepsykologi	tjiegŋudahkapsykologija	čikŋodatpsykologiija	0	0	0	0
+
+kulturminneterminologi	kulturmujttoterminologiddja	kulturmuitoterminologiija	0	0	0	0
+kulturminneterminologi	kulturmujttoterminologija	kulturmuitoterminologiija	0	0	0	0
+
+skrivebordsterminologi	tjállembievddeterminologiddja	čállinbeavdeterminologiija	0	0	0	0
+skrivebordsterminologi	tjállembievddeterminologija	čállinbeavdeterminologiija	0	0	0	0
+
+klimateknologi	dálkádahkateknologiddja	dálkkádatteknologiija	0	0	0	0
+klimateknologi	dálkádahkateknologija	dálkkádatteknologiija	0	0	0	0
+
+sesongfiskeri	gávddaguolástibme	áigodatguolástus/áigodatguolásteapmi	0	0	0	0
+sesongfiskeri	ájggeguolástibme	áigodatguolástus/áigodatguolásteapmi	0	0	0	0
+sesongfiskeri	gávddaguollim	áigodatguolástus/áigodatguolásteapmi	0	0	0	0
+sesongfiskeri	ájggeguollim	áigodatguolástus/áigodatguolásteapmi	0	0	0	0
+sesongfiskeri	gávddaguolástus	áigodatguolástus/áigodatguolásteapmi	0	0	0	0
+sesongfiskeri	ájggeguolástus	áigodatguolástus/áigodatguolásteapmi	0	0	0	0
+
+programkategori	prográmmakategoriddja	prográmmaoassi/prográmmakategoriija	3	0	0	0
+programkategori	prográmmakategorija	prográmmaoassi/prográmmakategoriija	3	0	0	0
+
+verkstedindustri	divudahkaindustriddja	divohatindustriija	0	0	0	0
+verkstedindustri	divudahkaindustrija	divohatindustriija	0	0	0	0
+
+oljeindustri	oalljoindustriddja	oljoindustriija	1	0	2	0
+oljeindustri	ulljoindustriddja	oljoindustriija	1	0	2	0
+oljeindustri	oalljoindustrija	oljoindustriija	1	0	2	0
+oljeindustri	ulljoindustrija	oljoindustriija	1	0	2	0
+
+næringsmiddelindustri	biebmosindustriddja	ealáhusávnnasbuvttadeapmi/biebmogálvoindustriija/borramušgálvoindustriija	4	0	0	0
+næringsmiddelindustri	biebmosindustrija	ealáhusávnnasbuvttadeapmi/biebmogálvoindustriija/borramušgálvoindustriija	4	0	0	0
+
+bergverksindustri	bákteásadusindustriddja	báktedoaibmaindustriija	1	0	0	0
+bergverksindustri	bákteásadusindustrija	báktedoaibmaindustriija	1	0	0	0
+
+landbruksindustri	ednambarggoindustriddja	eanandoalloindustriija	0	0	0	0
+landbruksindustri	ednambarggoindustrija	eanandoalloindustriija	0	0	0	0
+
+gassindustri	gássaindustriddja	gássaindustriija	0	0	0	0
+gassindustri	gássaindustrija	gássaindustriija	0	0	0	0
+
+turistindustri	turisstaindustriddja	turismaindustriija/turistaindustriija	0	0	0	0
+turistindustri	turisstaindustrija	turismaindustriija/turistaindustriija	0	0	0	0
+
+eiendomsrettgaranti	æjggobuvtaduodastus	eaiggáduššanvuođadáhkádus	0	0	0	0
+eiendomsrettgaranti	æjggumriektábuvtaduodastus	eaiggáduššanvuođadáhkádus	0	0	0	0
+eiendomsrettgaranti	æjggodahkoduodastus	eaiggáduššanvuođadáhkádus	0	0	0	0
+eiendomsrettgaranti	æjggumriektádahkoduodastus	eaiggáduššanvuođadáhkádus	0	0	0	0
+
+verdipapirforetak	árvvopáhperdåjmadahka	árvobáberdoaibma	0	0	0	0
+
+jordbruksforetak	ednambarggodåjmadahka	eanadoallodoaibma	0	0	1	0
+
+festivalbibliotek	festivállabibliotehkka	festiválabibliotehka	2	0	0	0
+festivalbibliotek	festivállagirjjevuorkká	festiválabibliotehka	2	0	0	0
+
+universitetsbibliotek	universitehttabibliotehkka	universitehtagirjerájus	1	0	0	0
+universitetsbibliotek	universitehttagirjjevuorkká	universitehtagirjerájus	1	0	0	0
+
+sykehusapotek	skihppijviessoapotehkka	buohcceviessoapotehka	0	0	0	0
+
+universitetsklinikk	universitehttaklinihkka	universitehtaklinihkka	1	0	0	0
+
+sykehusklinikk	skihppijviessoklinihkka	buhcciidviessobátnedivššohat	0	0	0	0
+
+pilotklinikk	hálediddjeklinihkka	geahččaladdanklinihkka	0	0	0	0
+pilotklinikk	girddevuoddjeklinihkka	geahččaladdanklinihkka	0	0	0	0
+
+landbruksteknikk	ednambarggoteknihkka	eanandoalloteknihkka	0	0	0	0
+
+grunnskolestatistikk	vuodoskåvllåstatistihkka	vuođđoskuvlastatistihkka	2	0	0	0
+
+bibliotekstatistikk	bibliotehkkastatistihkka	girjerájusstatistihkka	0	0	0	0
+bibliotekstatistikk	girjjevuorkkástatistihkka	girjerájusstatistihkka	0	0	0	0
+
+jordbruksstatistikk	ednambarggostatistihkka	eanandoallostatistihkka/eanadoallostatistihkka	1	0	0	0
+
+statistikkbank	statistihkkabáŋŋka	statistihkkabáŋku	1	0	0	0
+
+familiepark	familljapárkka	bearašpárka	0	0	0	0
+familiepark	goahteulmutjapárkka	bearašpárka	0	0	0	0
+familiepark	fuolkkepárkka	bearašpárka	0	0	0	0
+familiepark	berajpárkka	bearašpárka	0	0	0	0
+familiepark	familljasalljo	bearašpárka	0	0	0	0
+familiepark	goahteulmutjasalljo	bearašpárka	0	0	0	0
+familiepark	fuolkkesalljo	bearašpárka	0	0	0	0
+familiepark	berajsalljo	bearašpárka	0	0	0	0
+familiepark	familljaálmmuksalljo	bearašpárka	0	0	0	0
+familiepark	goahteulmutjaálmmuksalljo	bearašpárka	0	0	0	0
+familiepark	fuolkkeálmmuksalljo	bearašpárka	0	0	0	0
+familiepark	berajálmmuksalljo	bearašpárka	0	0	0	0
+
+familiejordbruk	familljaednambarggo	bearašeanadoallu	0	0	0	0
+familiejordbruk	goahteulmutjaednambarggo	bearašeanadoallu	0	0	0	0
+familiejordbruk	fuolkkeednambarggo	bearašeanadoallu	0	0	0	0
+familiejordbruk	berajednambarggo	bearašeanadoallu	0	0	0	0
+
+silkesjal	silkkilijnne	silkeliidni	0	0	1	0
+
+regjeringskvartal	ráddiduskvartálla	ráđđehusgoartil/ráđđehuskvartála	1	0	0	0
+regjeringskvartal	ráddidusjahkeneljadis	ráđđehusgoartil/ráđđehuskvartála	1	0	0	0
+regjeringskvartal	ráddidusneljadis	ráđđehusgoartil/ráđđehuskvartála	1	0	0	0
+
+knutepunktfestival	guovdásjfestiválla	guovddášfestivála	2	0	2	0
+
+reinkjøttsandel	boahttsubierggooasse	bohccobiergooassi	0	0	0	0
+
+grunnbokshjemmel	vuodogirjjeloahpádus	giddodatvuođđu	5	0	0	0
+
+villmarkspanel	miehttsepanella	meahccepanela	0	0	0	0
+villmarkspanel	åjdåmiehttsepanella	meahccepanela	0	0	0	0
+villmarkspanel	luohtopanella	meahccepanela	0	0	0	0
+
+barnevernspanel	mánájsuodjaluspanella	mánáidsuodjaluspanela	1	0	0	0
+
+motorferdsel	motåvrråmannulahka	mohtorfievrojohtin/meahccemohtorjohtolat/mohtorjohtaleapmi	54	0	0	0
+motorferdsel	motåvrråjåhtulahka	mohtorfievrojohtin/meahccemohtorjohtolat/mohtorjohtaleapmi	54	0	0	0
+motorferdsel	motåvrråjåhtålibme	mohtorfievrojohtin/meahccemohtorjohtolat/mohtorjohtaleapmi	54	0	0	0
+motorferdsel	motåvrråjåhtålus	mohtorfievrojohtin/meahccemohtorjohtolat/mohtorjohtaleapmi	54	0	0	0
+
+sektorkapittel	suorggekapihtal	sektorkapihtal	0	0	0	0
+
+budsjettkapittel	budsjæhttakapihtal	bušeahttakapihtal	5	0	1	0
+
+slottskapell	sloahttakapælla	šloahttakapealla	0	0	0	0
+slottskapell	laddnekapælla	šloahttakapealla	0	0	0	0
+
+turisthotell	turisstahotælla	turistahotealla	0	0	0	0
+
+utmarksdomstol	miehttsedigge	meahcceduopmostuollu	27	0	8	0
+utmarksdomstol	miehttseriektá	meahcceduopmostuollu	27	0	8	0
+utmarksdomstol	miehttseduobbmoståvllå	meahcceduopmostuollu	27	0	8	0
+
+klimaprogram	dálkádahkaprográmma	dálkkádatprográmma	0	0	0	0
+
+skolebibliotekprogram	skåvllåbibliotehkkaprográmma	skuvlagirjerádjoprográmma	0	0	0	0
+
+designprogram	hábbmimprográmma	designprográmma/hábmenprográmma	0	0	0	0
+
+seminarprogram	seminárraprográmma	semináraprográmma	0	0	0	0
+
+saksbehandlerprogram	ássjegiehtadalleprográmma	áššemeannudanprográmma	0	0	0	0
+
+tilretteleggingsprogram	hiebadahttemprográmma	láhčinprográmma	0	0	0	0
+
+orddelingsprogram	báhkojuohkemprográmma	sátnejuohkinprográmma	1	0	1	0
+
+utvekslingsprogram	lånudallamprográmma	lonuhusprográmma	0	0	0	0
+
+revitaliseringsprogram	ælládahttemprográmma	ealáskahttinprográmma	0	0	7	0
+
+språkopplæringsprogram	giellaåhpadusprográmma	giellaoahppoprográmma/giellaoahppanprográmma	0	0	0	0
+
+kompetansehevingsprogram	máhtudaklåpptimprográmma	gelbbolašvuođaloktenprográmma	2	0	0	0
+
+jordbruksprogram	ednambarggoprográmma	eanadoalloprográmma	0	0	0	0
+
+demensprogram	demænssaprográmma	demeansaprográmma	0	0	0	0
+
+innovasjonsprogram	innovasjåvnnåprográmma	innovašuvdnaprográmma	2	0	0	0
+
+partnerskapsprogram	guojmmevuohtaprográmma	guoibmevuođaprográmma	0	0	0	0
+
+stipendiatprogram	stipænndiáhttaprográmma	stipendiáhtaprográmma	0	0	0	0
+
+referansesystem	referánssavuogádahka	referánsavuogádat	0	0	0	0
+referansesystem	referánssasystebma	referánsavuogádat	0	0	0	0
+referansesystem	referánssavuohke	referánsavuogádat	0	0	0	0
+
+journalsystem	journállavuogádahka	journálavuogádat	4	0	1	0
+journalsystem	journállasystebma	journálavuogádat	4	0	1	0
+journalsystem	journállavuohke	journálavuogádat	4	0	1	0
+
+barnevernsystem	mánájsuodjalusvuogádahka	mánáidsuodjalusvuogádat	0	0	0	0
+barnevernsystem	mánájsuodjalussystebma	mánáidsuodjalusvuogádat	0	0	0	0
+barnevernsystem	mánájsuodjalusvuohke	mánáidsuodjalusvuogádat	0	0	0	0
+
+regjeringssystem	ráddidusvuogádahka	ráđđehusvuogádat	0	0	0	0
+regjeringssystem	ráddidussystebma	ráđđehusvuogádat	0	0	0	0
+regjeringssystem	ráddidusvuohke	ráđđehusvuogádat	0	0	0	0
+
+evalueringssystem	árvustallamvuogádahka	árvvoštallanvuogádat	0	0	0	0
+evalueringssystem	árvustallamsystebma	árvvoštallanvuogádat	0	0	0	0
+
+innovasjonssystem	innovasjåvnnåvuogádahka	innovašuvdnasystema/innovašuvdnavuogádat	1	0	0	0
+innovasjonssystem	innovasjåvnnåsystebma	innovašuvdnasystema/innovašuvdnavuogádat	1	0	0	0
+innovasjonssystem	innovasjåvnnåvuohke	innovašuvdnasystema/innovašuvdnavuogádat	1	0	0	0
+
+budsjettsystem	budsjæhttavuogádahka	bušeahttavuogádat	0	0	0	0
+budsjettsystem	budsjæhttasystebma	bušeahttavuogádat	0	0	0	0
+budsjettsystem	budsjæhttavuohke	bušeahttavuogádat	0	0	0	0
+
+arkivsystem	ibnosvuogádahka	arkiivavuogádat	2	0	1	0
+arkivsystem	vuorkkávuogádahka	arkiivavuogádat	2	0	1	0
+arkivsystem	ibnossystebma	arkiivavuogádat	2	0	1	0
+arkivsystem	vuorkkásystebma	arkiivavuogádat	2	0	1	0
+arkivsystem	ibnosvuohke	arkiivavuogádat	2	0	1	0
+arkivsystem	vuorkkávuohke	arkiivavuogádat	2	0	1	0
+
+sykkelhjelm	syhkaljælmma	sihkkeljealbma	0	0	0	0
+sykkelhjelm	syhkaloajvvesuojalm	sihkkeljealbma	0	0	0	0
+
+landbruksøkonom	ednambarggoekonoma	eanandoalloekonoma	0	0	0	0
+landbruksøkonom	ednambarggoekonåvmmå	eanandoalloekonoma	0	0	0	0
+
+grunnskolereform	vuodoskåvllåådåstus	vuođđoskuvlaođastus	0	0	0	0
+
+bibliotekreform	bibliotehkkaådåstus	girjerádjoođastus/girjerájusođastus	1	0	0	0
+bibliotekreform	girjjevuorkkáådåstus	girjerádjoođastus/girjerájusođastus	1	0	0	0
+
+organisasjonsreform	organisasjåvnnåådåstus	organisašuvdnaođastus	0	0	0	0
+
+debattforum	ságastallamságastallamsadje	digaštangaskaoapmi	0	0	0	0
+
+Nordlysfestivalen	guovsagisfestiválla	Nordlysfestivála	0	0	0	0
+
+skolestyreformann	skåvllåstivrranjunnjusj	skuvlastivrrajođiheaddji	3	0	0	0
+
+regjeringsdelegasjon	ráddidusrájadusá	ráđđehussáttagoddi	0	0	0	0
+regjeringsdelegasjon	ráddidusdelegasjåvnnå	ráđđehussáttagoddi	0	0	0	0
+
+kunderelasjon	oasstegasskavuohta	gávpeoktavuohta	0	0	1	0
+
+familierelasjon	familljagasskavuohta	bearašoktavuohta	0	0	0	0
+familierelasjon	goahteulmutjagasskavuohta	bearašoktavuohta	0	0	0	0
+familierelasjon	fuolkkegasskavuohta	bearašoktavuohta	0	0	0	0
+familierelasjon	berajgasskavuohta	bearašoktavuohta	0	0	0	0
+
+bondeorganisasjon	båndororganisasjåvnnå	boanddaidorganisašuvdna	0	0	0	0
+
+bransjeorganisasjon	suorggeorganisasjåvnnå	fidnosuorgeorganisašuvdna	2	0	1	0
+bransjeorganisasjon	æládussuorggeorganisasjåvnnå	fidnosuorgeorganisašuvdna	2	0	1	0
+
+kystfiskeorganisasjon	merragátteguollimorganisasjåvnnå	riddoguolástanorganisašuvdna	0	0	0	0
+
+fiskeriorganisasjon	guollimorganisasjåvnnå	guolástansearvi/guolástusorganisašuvdna	4	0	0	0
+fiskeriorganisasjon	guolástusorganisasjåvnnå	guolástansearvi/guolástusorganisašuvdna	4	0	0	0
+
+miljøvernorganisasjon	birásgáhttimorganisasjåvnnå	birasgáhttenorganisašuvdna	0	0	1	0
+
+kunstnerorganisasjon	dájddárorganisasjåvnnå	dáiddaorganisašuvdna	12	0	1	0
+
+lærerorganisasjon	åhpadiddjeorganisasjåvnnå	oahpaheaddjeorganisašuvdna	1	0	0	0
+lærerorganisasjon	skåvlikorganisasjåvnnå	oahpaheaddjeorganisašuvdna	1	0	0	0
+
+jordbruksorganisasjon	ednambarggoorganisasjåvnnå	eanadoalloorganisašuvdna	1	0	0	0
+
+reiselivsorganisasjon	mannoæládusorganisasjåvnnå	mátkeorganisašuvdna	0	0	0	0
+
+prosjektorganisasjon	prosjæktaorganisasjåvnnå	prošeaktaorganisašuvdna	0	0	0	0
+
+produsentorganisasjon	buvtadiddjeorganisasjåvnnå	buvttadanorganisašuvdna	0	0	0	0
+
+turistorganisasjon	turisstaorganisasjåvnnå	turistaorganisašuvdna	0	0	0	0
+
+paraplyorganisasjon	harvvesuodjeorganisasjåvnnå	goavdeorganisašuvdna	1	0	0	0
+paraplyorganisasjon	rássjosuodjeorganisasjåvnnå	goavdeorganisašuvdna	1	0	0	0
+paraplyorganisasjon	rássjosuojánorganisasjåvnnå	goavdeorganisašuvdna	1	0	0	0
+
+radiostasjon	radiostasjåvnnå	rádiostašuvdna	0	0	0	0
+
+nærradiostasjon	lagosrádiostasjåvnnå	lagasrádiostašuvdna	0	0	0	0
+
+flystasjon	girddestasjåvnnå	girdihámman	0	0	1	0
+
+pappapermisjon	páhppapermisjåvnnå	áhččevirgelohpi	1	0	0	0
+pappapermisjon	áhttjepermisjåvnnå	áhččevirgelohpi	1	0	0	0
+
+svangerskapspermisjon	iesselisvuohtapermisjåvnnå	mánnáoažžunvirgelohpi/áhpehisvuođavirgelohpi	2	0	0	0
+
+tettstedsdefinisjon	tjoahkkebájkketjielggidus	čoahkkebáikedefinišuvdna	0	0	0	0
+tettstedsdefinisjon	tjoahkkebájkkedefinisjåvnnå	čoahkkebáikedefinišuvdna	0	0	0	0
+
+friluftslivsdefinisjon	luonndoiellemtjielggidus	meahcástallandefinišuvdna	0	0	0	0
+friluftslivsdefinisjon	ålggoiellemtjielggidus	meahcástallandefinišuvdna	0	0	0	0
+friluftslivsdefinisjon	luonndoiellemdefinisjåvnnå	meahcástallandefinišuvdna	0	0	0	0
+friluftslivsdefinisjon	ålggoiellemdefinisjåvnnå	meahcástallandefinišuvdna	0	0	0	0
+
+grunnlovsrevisjon	vuodoláhkadárkestibme	vuođđoláhkadárkkástus	0	0	0	0
+grunnlovsrevisjon	vuodoláhkadárkastus	vuođđoláhkadárkkástus	0	0	0	0
+
+transaksjon	likseaksjåvnnå	reaidaruhtageavaheapmi	2	0	0	0
+
+soldataksjon	soldáhttaaksjåvnnå	soalddátakšuvdna	0	0	0	0
+soldataksjon	soahteålmåjaksjåvnnå	soalddátakšuvdna	0	0	0	0
+soldataksjon	doarroålmåjaksjåvnnå	soalddátakšuvdna	0	0	0	0
+
+oljeproduksjon	oalljobuvtadibme	oljobohkan	0	0	8	0
+oljeproduksjon	ulljobuvtadibme	oljobohkan	0	0	8	0
+
+matfiskproduksjon	bårråmguollebuvtadibme	guollebuvttadeapmi	0	0	0	0
+
+teaterproduksjon	teáhterbuvtadibme	teáhterbuvttadeapmi	0	0	0	0
+
+doktorgradsproduksjon	doktorgrádabuvtadibme	doavttergrádabuvttadeapmi/doavttirgrádabuvttadeapmi	7	0	0	0
+
+innholdsproduksjon	sisadnobuvtadibme	sisdoallobuvttadeapmi	0	0	0	0
+innholdsproduksjon	sisanádusbuvtadibme	sisdoallobuvttadeapmi	0	0	0	0
+
+landbruksproduksjon	ednambarggobuvtadibme	eanadoallobuvttadeapmi/eanandoallobuvttadeapmi	4	0	0	0
+
+jordbruksproduksjon	ednambarggobuvtadibme	eanadoallobuvttadeapmi/eanandoallobuvttadeapmi	6	0	0	0
+
+gassproduksjon	gássabuvtadibme	gássabuvttadeapmi	0	0	0	0
+
+drivhusproduksjon	sjaddadimviessobuvtadibme	šaddovistegilvin	0	0	0	0
+
+svinekjøttproduksjon	svijnebierggobuvtadibme	spiidnebiergobuvttadeapmi	2	0	0	0
+
+sauekjøttproduksjon	sávtsabierggobuvtadibme	sávzabiergobuvttadus	0	0	0	0
+
+reinkjøttproduksjon	boahttsubierggobuvtadibme	bohccobiergobuvttadeapmi	1	0	0	0
+
+stebarnsadopsjon	mánnábielleadopsjåvnnå	mánnábealleadopšuvdna	1	0	0	0
+
+papirversjon	páhperversjåvnnå	báberveršuvdna/báberhápmi	9	0	0	0
+
+teaterinstitusjon	teáhterinstitusjåvnnå	teáhterinstitušuvdna/teáhterásahus	0	0	0	0
+
+lærerutdanningsinstitusjon	åhpadiddjeåhpadusinstitusjåvnnå	oahpaheaddjeoahppoinstitušuvdna/oahpaheaddjeoahppoásahus	2	0	0	0
+
+biblioteksinstitusjon	bibliotehkkainstitusjåvnnå	girjerádjoinstitušuvdna	0	0	0	0
+biblioteksinstitusjon	girjjevuorkkáinstitusjåvnnå	girjerádjoinstitušuvdna	0	0	0	0
+
+barnevernsinstitusjon	mánájsuodjalusinstitusjåvnnå	mánáidsuodjalanásahus/mánáidsuodjalusásahus/mánáidsuodjalusinstitušuvdna	3	0	0	0
+
+knutepunktinstitusjon	guovdásjinstitusjåvnnå	guovddášásahus/guovddášdoaibmaásahus	2	0	0	0
+
+fiskerihavn	guollimhámnna	guolástanhápman	7	0	0	0
+fiskerihavn	guolástushámnna	guolástanhápman	7	0	0	0
+fiskerihavn	guollimoagge	guolástanhápman	7	0	0	0
+fiskerihavn	guolástusoagge	guolástanhápman	7	0	0	0
+
+medborgerskap	viesátguojmmeskáhppa	borgárvuohta	0	0	0	0
+
+internattrapp	internáhttalávkkidahka	internáhttatráhppá	0	0	0	0
+internattrapp	internáhttatráhppá	internáhttatráhppá	0	0	0	0
+
+klimaseminar	dálkádahkaseminárra	dálkkádatseminára	0	0	0	0
+
+kommuneseminar	gielldaseminárra	gielddaseminára	0	0	0	0
+kommuneseminar	suohkanseminárra	gielddaseminára	0	0	0	0
+
+styreseminar	stivrraseminárra	stivrraseminára	1	0	0	0
+
+fiskeriseminar	guollimseminárra	guolástusseminára	0	0	0	0
+fiskeriseminar	guolástusseminárra	guolástusseminára	0	0	0	0
+
+filmseminar	filmmaseminárra	filbmaseminára	0	0	0	0
+
+prosjektlederseminar	prosjæktajådediddjeseminárra	prošeaktajođiheaddjiseminára/prošeaktajođihanseminára	1	0	0	0
+
+forskerseminar	åtsådiddjeseminárra	dutkanseminára	0	0	0	0
+forskerseminar	dutkeseminárra	dutkanseminára	0	0	0	0
+forskerseminar	guoradalleseminárra	dutkanseminára	0	0	0	0
+
+utmarksseminar	miehttseseminárra	meahcástanseminára	1	0	0	0
+
+innovasjonsseminar	innovasjåvnnåseminárra	innovašuvdnaseminára	0	0	0	0
+
+næringslivsseminar	æládusiellemseminárra	ealáhusseminára	0	0	0	0
+næringslivsseminar	æládusseminárra	ealáhusseminára	0	0	0	0
+
+forfatterhonorar	tjállemákso	čállibálká/girječállibálká	5	0	0	0
+forfatterhonorar	girjjetjállemákso	čállibálká/girječállibálká	5	0	0	0
+forfatterhonorar	tjállebálkká	čállibálká/girječállibálká	5	0	0	0
+forfatterhonorar	girjjetjállebálkká	čállibálká/girječállibálká	5	0	0	0
+
+konsulenthonorar	konsulænntamákso	konsuleantabuhtadus	0	0	0	0
+konsulenthonorar	konsulænntabálkká	konsuleantabuhtadus	0	0	0	0
+
+klimaforsker	dálkádahkaåtsådiddje	dálkkádatdutki	1	0	1	0
+klimaforsker	dálkádahkadutke	dálkkádatdutki	1	0	1	0
+klimaforsker	dálkádahkaguoradalle	dálkkádatdutki	1	0	1	0
+
+utmarksbruker	miehttseaddne	meahccegeavaheaddji	3	0	1	0
+
+gjødselkjeller	dádetjieller	muhkkekeallir	0	0	0	0
+
+referansenummer	referánssanummar	referánsanummir	9	0	1	0
+
+organisasjonsnummer	organisasjåvnnånummar	organisašuvdnanummar/organisašuvdnanummir	2	0	0	0
+
+prosjektnummer	prosjæktanummar	prošeaktanummar	0	0	0	0
+
+internatstyrer	internáhttastivrra	internáhttahoavda/internáhttajođiheaddji	3	0	0	0
+
+grunnskolelærer	vuodoskåvllååhpadiddje	vuođđoskuvlaoahpaheaddji	28	0	9	0
+grunnskolelærer	vuodoskåvllåskåvlik	vuođđoskuvlaoahpaheaddji	28	0	9	0
+
+søndagsskolelærer	ájllekskåvllååhpadiddje	sotnabeaiskuvlaoahpaheaddji	0	0	0	0
+søndagsskolelærer	ájllekskåvllåskåvlik	sotnabeaiskuvlaoahpaheaddji	0	0	0	0
+
+klasselærer	klássaåhpadiddje	luohkkáoahpaheaddji	0	0	1	0
+klasselærer	klássaskåvlik	luohkkáoahpaheaddji	0	0	1	0
+
+tegnspråklærer	sevvamgiellaåhpadiddje	mearkagieloahpaheaddji	0	0	0	0
+tegnspråklærer	sevvamgiellaskåvlik	mearkagieloahpaheaddji	0	0	0	0
+
+seminarlærer	seminárraåhpadiddje	semináraoahpaheaddji	0	0	0	0
+seminarlærer	seminárraskåvlik	semináraoahpaheaddji	0	0	0	0
+
+snekkerlærer	snihkkáråhpadiddje	snihkkároahpaheaddji	0	0	0	0
+snekkerlærer	snihkkárskåvlik	snihkkároahpaheaddji	0	0	0	0
+
+landbrukslærer	ednambarggoåhpadiddje	eanandoallooahpaheaddji	0	0	0	0
+landbrukslærer	ednambarggoskåvlik	eanandoallooahpaheaddji	0	0	0	0
+
+internatlærer	internáhttaåhpadiddje	internáhttaoahpaheaddji	0	0	0	0
+internatlærer	internáhttaskåvlik	internáhttaoahpaheaddji	0	0	0	0
+
+prosjektteater	prosjæktateáhter	prošeaktateáhter	0	0	0	0
+
+kvadratkilometer	neljudahkakilomehtar	njealjehaskilomehter	10	0	2	0
+
+kunstnerregister	dájddárregistar	dáiddaregisttar	0	0	0	0
+kunstnerregister	dájddárlågos	dáiddaregisttar	0	0	0	0
+
+verdipapirregister	árvvopáhperregistar	árvobáberregisttar	0	0	0	0
+verdipapirregister	árvvopáhperlågos	árvobáberregisttar	0	0	0	0
+
+foretaksregister	dåjmadahkaregistar	fitnodatlogaheapmi	1	0	0	0
+foretaksregister	dåjmadahkalågos	fitnodatlogaheapmi	1	0	0	0
+
+jernbanesektor	ruovdderahtesuorgge	ruovdemáđiisektor	0	0	0	0
+
+matvaresektor	biebbmosuorgge	biebmogálvosuorgi	0	0	0	0
+
+meierisektor	mejeriddjasuorgge	meieriijasuorgi/meieriijasektor	0	0	0	0
+meierisektor	mejerijasuorgge	meieriijasuorgi/meieriijasektor	0	0	0	0
+
+fiskerisektor	guollimsuorgge	guolástussuorgi	2	0	0	0
+fiskerisektor	guolástussuorgge	guolástussuorgi	2	0	0	0
+
+industrisektor	industriddjasuorgge	industriijasuorgi	0	0	0	0
+industrisektor	industrijasuorgge	industriijasuorgi	0	0	0	0
+
+biblioteksektor	bibliotehkkasuorgge	girjerádjosuorgi	0	0	0	0
+biblioteksektor	girjjevuorkkásuorgge	girjerádjosuorgi	0	0	0	0
+
+folkebiblioteksektor	álmmukbibliotehkkasuorgge	álbmotgirjerájussuorgi	0	0	0	0
+folkebiblioteksektor	álmmukgirjjevuorkkásuorgge	álbmotgirjerájussuorgi	0	0	0	0
+
+banksektor	báŋŋkasuorgge	báŋkosuorgi	0	0	0	0
+
+kraftverkssektor	tjáhtjefábmoásadussuorgge	fápmoráhkkanussuorgi	0	0	0	0
+
+landbrukssektor	ednambarggosuorgge	eanandoallosektor	5	0	0	0
+
+samferdselssektor	jåhtulahkasuorgge	johtalussuorgi	3	0	0	0
+samferdselssektor	jåhtålussuorgge	johtalussuorgi	3	0	0	0
+
+barnevernssektor	mánájsuodjalussuorgge	mánáidsuodjalussuorgi	0	0	0	0
+
+universitetssektor	universitehttasuorgge	universitehtasuorgi/universitehtasektor	0	0	0	0
+
+landbrukskontor	ednambarggokontåvrrå	eanadoallokantuvra	2	0	1	0
+
+prosjektkontor	prosjæktakontåvrrå	prošeaktakantuvra	1	0	1	0
+
+arkivkontor	ibnoskontåvrrå	arkiivakantuvra	0	0	0	0
+arkivkontor	vuorkkákontåvrrå	arkiivakantuvra	0	0	0	0
+
+industrimotor	industriddjamotåvrrå	industriijamohtor	0	0	0	0
+industrimotor	industrijamotåvrrå	industriijamohtor	0	0	0	0
+
+familiestruktur	familljastruktuvrra	bearašstruktuvra	1	0	0	0
+familiestruktur	goahteulmutjastruktuvrra	bearašstruktuvra	1	0	0	0
+familiestruktur	fuolkkestruktuvrra	bearašstruktuvra	1	0	0	0
+familiestruktur	berajstruktuvrra	bearašstruktuvra	1	0	0	0
+familiestruktur	familljahábme	bearašstruktuvra	1	0	0	0
+familiestruktur	goahteulmutjahábme	bearašstruktuvra	1	0	0	0
+familiestruktur	fuolkkehábme	bearašstruktuvra	1	0	0	0
+familiestruktur	berajhábme	bearašstruktuvra	1	0	0	0
+
+bransjestruktur	suorggestruktuvrra	suorgestruktuvra	0	0	0	0
+bransjestruktur	æládussuorggestruktuvrra	suorgestruktuvra	0	0	0	0
+bransjestruktur	suorggehábme	suorgestruktuvra	0	0	0	0
+bransjestruktur	æládussuorggehábme	suorgestruktuvra	0	0	0	0
+
+flåtestruktur	boarrestruktuvrra	fanasstruktuvra	1	0	0	0
+flåtestruktur	boarrehábme	fanasstruktuvra	1	0	0	0
+
+slakteristruktur	njuovadahkastruktuvrra	njuovvanstruktuvra	3	0	0	0
+slakteristruktur	njuovadahkahábme	njuovvanstruktuvra	3	0	0	0
+
+bibliotekstruktur	bibliotehkkastruktuvrra	girjerájusstruktuvra	0	0	0	0
+bibliotekstruktur	girjjevuorkkástruktuvrra	girjerájusstruktuvra	0	0	0	0
+bibliotekstruktur	bibliotehkkahábme	girjerájusstruktuvra	0	0	0	0
+bibliotekstruktur	girjjevuorkkáhábme	girjerájusstruktuvra	0	0	0	0
+
+klinikkstruktur	klinihkkastruktuvrra	klinihkkastruktuvra	1	0	0	0
+klinikkstruktur	klinihkkahábme	klinihkkastruktuvra	1	0	0	0
+
+landbruksstruktur	ednambarggostruktuvrra	eanadoallostruktuvra	0	0	0	0
+landbruksstruktur	ednambarggohábme	eanadoallostruktuvra	0	0	0	0
+
+jordbruksstruktur	ednambarggostruktuvrra	eanandoallostruktuvra	0	0	0	0
+jordbruksstruktur	ednambarggohábme	eanandoallostruktuvra	0	0	0	0
+
+organisasjonsstruktur	organisasjåvnnåstruktuvrra	organisašuvdnavuogádat/organisašuvdnastruktuvra	6	0	0	0
+organisasjonsstruktur	organisasjåvnnåhábme	organisašuvdnavuogádat/organisašuvdnastruktuvra	6	0	0	0
+
+institusjonsstruktur	institusjåvnnåstruktuvrra	institušunstruktuvra/ásahusstruktuvra	1	0	0	0
+institusjonsstruktur	institusjåvnnåhábme	institušunstruktuvra/ásahusstruktuvra	1	0	0	0
+
+sykehusstruktur	skihppijviessostruktuvrra	buohcceviessostruktuvra	0	0	0	0
+sykehusstruktur	skihppijviessohábme	buohcceviessostruktuvra	0	0	0	0
+
+programsekretær	prográmmatjálle	prográmmačálli	0	0	0	0
+
+redaksjonssekretær	dåjmadustjálle	redakšuvdnačálli	0	0	0	0
+
+fiskeridirektør	guollimdirekterra	guolástusdirektevra	1	0	0	0
+fiskeridirektør	guolástusdirekterra	guolástusdirektevra	1	0	0	0
+fiskeridirektør	guollimdirektørra	guolástusdirektevra	1	0	0	0
+fiskeridirektør	guolástusdirektørra	guolástusdirektevra	1	0	0	0
+
+programdirektør	prográmmadirekterra	prográmmadirektevra	0	0	1	0
+programdirektør	prográmmadirektørra	prográmmadirektevra	0	0	1	0
+
+hovedstadsavis	oajvvestádaavijssa	oaivegávpotaviisa	0	0	0	0
+
+smørboks	vuodjalåda	vuodjaskáhppu	0	0	0	0
+smørboks	vuodjaboaksa	vuodjaskáhppu	0	0	0	0
+
+spydspiss	sájttegådtjå	sáitenjuolla	1	0	0	0
+
+universitetssykehus	universitehttaskihppijviesso	universitehtabuohcceviessu	4	0	2	0
+
+grunnskoleinternat	vuodoskåvllåinternáhtta	vuođđoskuvlainternáhtta	1	0	0	0
+
+lekeapparat	ståganapparáhtta	duhkorasapparáhtta	0	0	0	0
+
+radioapparat	radioapparáhtta	rádioapparáhtta	0	0	0	0
+
+regjeringsapparat	ráddidusapparáhtta	ráđđehusapparáhtta	0	0	0	0
+
+familieetat	familljaetáhtta	bearašetáhtta	2	0	2	0
+familieetat	goahteulmutjaetáhtta	bearašetáhtta	2	0	2	0
+familieetat	fuolkkeetáhtta	bearašetáhtta	2	0	2	0
+familieetat	berajetáhtta	bearašetáhtta	2	0	2	0
+
+drøftingsnotat	árvvaladdamtjála	guorahallannotáhta	0	0	0	0
+drøftingsnotat	ságastallamtjála	guorahallannotáhta	0	0	0	0
+drøftingsnotat	árvvaladdamnotáhtta	guorahallannotáhta	0	0	0	0
+drøftingsnotat	ságastallamnotáhtta	guorahallannotáhta	0	0	0	0
+
+spedbarnsdødelighet	njuorakjámedahka	njuoratmánáidjámolašvuohta	1	0	0	0
+spedbarnsdødelighet	njuorakmánnájámedahka	njuoratmánáidjámolašvuohta	1	0	0	0
+
+organisasjonsfrihet	organisasjåvnnåfriddjavuohta	organiserenfriijavuohta	0	0	0	0
+
+miljøkriminalitet	biráskriminalitehtta	biraskriminalitehta	0	0	0	0
+miljøkriminalitet	birásvierredahko	biraskriminalitehta	0	0	0	0
+
+slakterikapasitet	njuovadahkamáhtukvuohta	njuovvanvejolašvuohta	1	0	0	0
+
+saksbehandlerkapasitet	ássjegiehtadallemáhtukvuohta	áššemeannudeaddjinákca/áššemeannudankapasitehta/áššemeannudannákca	2	0	0	0
+
+landsdelsuniversitet	rijkaguovllouniversitehtta	guovlluuniversitehta	0	0	0	0
+
+programaktivitet	prográmmadoajmma	prográmmadoaibma	0	0	1	0
+programaktivitet	prográmmadåjmadibme	prográmmadoaibma	0	0	1	0
+
+radioaktivitet	radiodoajmma	rádioaktivitehta	7	0	1	0
+radioaktivitet	radiodåjmadibme	rádioaktivitehta	7	0	1	0
+
+innovasjonsaktivitet	innovasjåvnnådoajmma	innovašundoaibma	0	0	0	0
+innovasjonsaktivitet	innovasjåvnnådåjmadibme	innovašundoaibma	0	0	0	0
+
+friluftslivsaktivitet	luonndoiellemdoajmma	meahcástallandoaibma/olgodoaibma	1	0	0	0
+friluftslivsaktivitet	ålggoiellemdoajmma	meahcástallandoaibma/olgodoaibma	1	0	0	0
+friluftslivsaktivitet	luonndoiellemdåjmadibme	meahcástallandoaibma/olgodoaibma	1	0	0	0
+friluftslivsaktivitet	ålggoiellemdåjmadibme	meahcástallandoaibma/olgodoaibma	1	0	0	0
+
+prosjektaktivitet	prosjæktadoajmma	prošeaktadoaibma	0	0	0	0
+prosjektaktivitet	prosjæktadåjmadibme	prošeaktadoaibma	0	0	0	0
+
+lungekreft	giehpesbårredávdda	geahpesborasdávda	0	0	0	0
+
+tykktarmskreft	guhkabuojddebårredávdda	gassačoalleboras	0	0	0	0
+tykktarmskreft	gassatjoallebårredávdda	gassačoalleboras	0	0	0	0
+
+familiebedrift	familljavidnudahka	bearašfitnodat	2	0	1	0
+familiebedrift	goahteulmutjavidnudahka	bearašfitnodat	2	0	1	0
+familiebedrift	fuolkkevidnudahka	bearašfitnodat	2	0	1	0
+familiebedrift	berajvidnudahka	bearašfitnodat	2	0	1	0
+
+utmarksbedrift	miehttsevidnudahka	meahcástanfitnodat	0	0	0	0
+
+jordbruksbedrift	ednambarggovidnudahka	eanandoallofitnodat/eanadoallofitnodat	5	0	0	0
+
+reiselivsbedrift	mannoæládusvidnudahka	mátkeeallinfitnodat/mátkeeallinealáhusfitnodat/mátkeealáhusfitnodat	2	0	0	0
+
+reinkjøttbedrift	boahttsubierggovidnudahka	bohccobiergofitnodat	0	0	0	0
+
+nordområdeprosjekt	nuorttaguovlloprosjækta	davviguovlluprošeakta	1	0	0	0
+nordområdeprosjekt	nuorttalijguovlloprosjækta	davviguovlluprošeakta	1	0	0	0
+nordområdeprosjekt	nuorttoguovlloprosjækta	davviguovlluprošeakta	1	0	0	0
+
+vindmølleprosjekt	bieggamilloprosjækta	bieggamilloprošeakta	0	0	0	0
+
+strategiprosjekt	strategiddjaprosjækta	strategiijaprošeakta	0	0	0	0
+strategiprosjekt	strategijaprosjækta	strategiijaprošeakta	0	0	0	0
+strategiprosjekt	ájggomusprosjækta	strategiijaprošeakta	0	0	0	0
+
+industriprosjekt	industriddjaprosjækta	industriijaprošeakta	0	0	0	0
+industriprosjekt	industrijaprosjækta	industriijaprošeakta	0	0	0	0
+
+statistikkprosjekt	statistihkkaprosjækta	statistihkkaprošeakta	0	0	0	0
+
+fylkesplanprosjekt	fylkapládnaprosjækta	fylkkaplánaprošeakta	0	0	0	0
+
+moloprosjekt	bárroduostunprosjækta	bárrobuođđoprošeakta	0	0	0	0
+moloprosjekt	bárrobuodoprosjækta	bárrobuođđoprošeakta	0	0	0	0
+
+ungdomslitteraturprosjekt	nuorajgirjálasjvuohtaprosjækta	nuoraidgirjjálašvuođaprošeakta	0	0	0	0
+
+anskaffelsesprosjekt	åttjulvisprosjækta	háhkanprošeakta	0	0	0	0
+anskaffelsesprosjekt	ásadusprosjækta	háhkanprošeakta	0	0	0	0
+
+omstillingsprosjekt	nuppástuhttemprosjækta	nuppástuhttinprošeakta	1	0	0	0
+
+utvekslingsprosjekt	lånudallamprosjækta	lonohallanprošeakta	0	0	0	0
+
+fredningsprosjekt	ráfájduhttemprosjækta	ráfáidahttinprošeakta	0	0	0	0
+
+revitaliseringsprosjekt	ælládahttemprosjækta	ealáskahttinprošeakta	0	0	0	0
+
+begynneropplæringsprosjekt	álggoåhpadusprosjækta	álgooahpahusprošeakta/álgooahppoprošeakta	0	0	0	0
+
+barmarkskjøringsprosjekt	bievllavuodjemprosjækta	bievlavuodjinprošeakta/bievlavuodjenprošeakta	0	0	0	0
+
+kompetansehevingsprosjekt	máhtudaklåpptimprosjækta	gelbbolašvuođaloktenprojeakta	0	0	0	0
+
+demensprosjekt	demænssaprosjækta	demeansaprošeakta	0	0	0	0
+
+reiselivsprosjekt	mannoæládusprosjækta	mátkkoštusealáhusprošeakta	0	0	0	0
+
+næringslivsprosjekt	æládusiellemprosjækta	ealáhusprošeakta	0	0	0	0
+næringslivsprosjekt	æládusprosjækta	ealáhusprošeakta	0	0	0	0
+
+vannkraftprosjekt	tjáhtjefábmoprosjækta	čázádatprojeakta	0	0	0	0
+
+pilotprosjekt	hálediddjeprosjækta	pilohtaprošeakta/álggahanprošeakta/ovddasmanniprošeakta	28	0	0	0
+pilotprosjekt	girddevuoddjeprosjækta	pilohtaprošeakta/álggahanprošeakta/ovddasmanniprošeakta	28	0	0	0
+
+arkivprosjekt	ibnosprosjækta	vuorkáprošeakta	0	0	0	0
+arkivprosjekt	vuorkkáprosjækta	vuorkáprošeakta	0	0	0	0
+
+prosjektkonsulent	prosjæktakonsulænnta	prošeaktakonsuleanta	0	0	0	0
+
+flaggreglement	slávggánjuolgadus	leavgamearrádus/leavganjuolggadus	1	0	0	0
+
+permisjonsreglement	permisjåvnnånjuolgadus	virgelohpenjuolggadus	0	0	0	0
+
+familiedepartement	familljadepartemænnta	bearašdepartemeanta	14	0	13	0
+familiedepartement	goahteulmutjadepartemænnta	bearašdepartemeanta	14	0	13	0
+familiedepartement	fuolkkedepartemænnta	bearašdepartemeanta	14	0	13	0
+familiedepartement	berajdepartemænnta	bearašdepartemeanta	14	0	13	0
+
+miljøverndepartement	birásgáhttimdepartemænnta	Birasgáhttendepartemeanta/birasgáhttendepartemeanta	98	0	0	0
+
+sektordepartement	suorggedepartemænnta	suorgedepartemeanta	0	0	0	0
+
+justisdepartement	justijssadepartemænnta	justisdepartemeanta	30	0	10	0
+
+sjøfartsdepartement	merramannulahkadepartemænnta	mearrajohtindepartemeanta	0	0	0	0
+
+referansedokument	referánssatjála	referánsadokumeanta	0	0	0	0
+referansedokument	referánssadokumænnta	referánsadokumeanta	0	0	0	0
+
+konkurransedokument	gilpustallamtjála	gilvodokumeanta	0	0	0	0
+konkurransedokument	gilppomtjála	gilvodokumeanta	0	0	0	0
+konkurransedokument	gilpostjála	gilvodokumeanta	0	0	0	0
+konkurransedokument	gilpustallamdokumænnta	gilvodokumeanta	0	0	0	0
+konkurransedokument	gilppomdokumænnta	gilvodokumeanta	0	0	0	0
+konkurransedokument	gilposdokumænnta	gilvodokumeanta	0	0	0	0
+
+strategidokument	strategiddjatjála	strategiijadokumeanta/strategiijaáššegirji	3	0	0	0
+strategidokument	strategijatjála	strategiijadokumeanta/strategiijaáššegirji	3	0	0	0
+strategidokument	ájggomustjála	strategiijadokumeanta/strategiijaáššegirji	3	0	0	0
+strategidokument	strategiddjadokumænnta	strategiijadokumeanta/strategiijaáššegirji	3	0	0	0
+strategidokument	strategijadokumænnta	strategiijadokumeanta/strategiijaáššegirji	3	0	0	0
+strategidokument	ájggomusdokumænnta	strategiijadokumeanta/strategiijaáššegirji	3	0	0	0
+
+lovforslagsdokument	láhkaárvvalustjála	láhkaevttohusáššebábir	0	0	0	0
+lovforslagsdokument	láhkaárvvalusdokumænnta	láhkaevttohusáššebábir	0	0	0	0
+
+flaggprodusent	slávggábuvtadiddje	leavgabuvttadeaddji	0	0	0	0
+
+gassprodusent	gássabuvtadiddje	gássabuvttadeaddji	0	0	0	0
+
+reiselivsprodusent	mannoæládusbuvtadiddje	mátkeealáhusbuvttadeaddji	0	0	0	0
+
+reinkjøttprodusent	boahttsubierggobuvtadiddje	bohccobiergobuvttadeaddji	0	0	0	0
+
+institusjonskonsert	institusjåvnnåkonsærtta	ásahuskonsearta	0	0	0	0
+
+klimarapport	dálkádahkadiedádus	dálkkádatraporta	2	0	2	0
+
+seminarrapport	seminárradiedádus	semináraraporta	0	0	0	0
+
+revisorrapport	dárkastiddjediedádus	dárkkistanraporta	0	0	1	0
+
+evalueringsrapport	árvustallamdiedádus	evaluerenraporta/árvvoštallanraporta	9	0	0	0
+
+kringkastingsrapport	sáddimdiedádus	áibmomediaraporta	0	0	0	0
+
+kvartalsrapport	kvartálladiedádus	kvartálaraporta	0	0	0	0
+kvartalsrapport	neljadisdiedádus	kvartálaraporta	0	0	0	0
+kvartalsrapport	jahkeneljadisdiedádus	kvartálaraporta	0	0	0	0
+
+aktivitetsrapport	doajmmadiedádus	doaibmaraporta	0	0	0	0
+
+prosjektrapport	prosjæktadiedádus	prošeaktaraporta	25	0	9	0
+
+familieturist	familljaturissta	bearašturista	0	0	0	0
+familieturist	goahteulmutjaturissta	bearašturista	0	0	0	0
+familieturist	fuolkketurissta	bearašturista	0	0	0	0
+familieturist	berajturissta	bearašturista	0	0	0	0
+
+mediadebatt	mediaságastallam	mediadigaštallan	0	0	0	0
+
+klimadebatt	dálkádahkaságastallam	dálkkádatságastallan	0	0	0	0
+
+kommunebudsjett	gielldabudsjæhtta	suohkanbušeahtta	0	0	0	0
+kommunebudsjett	suohkanbudsjæhtta	suohkanbušeahtta	0	0	0	0
+
+bistandsbudsjett	doarjjabudsjæhtta	ovddidanbušeahtta	1	0	0	0
+bistandsbudsjett	viehkkebudsjæhtta	ovddidanbušeahtta	1	0	0	0
+
+samferdselsbudsjett	jåhtulahkabudsjæhtta	johtalusbušeahtta	0	0	0	0
+samferdselsbudsjett	jåhtålusbudsjæhtta	johtalusbušeahtta	0	0	0	0
+
+reiselivspott	mannoæládusbilkke	mátkeealáhusbuđet	0	0	0	0
+reiselivspott	mannoæládusálbedibme	mátkeealáhusbuđet	0	0	0	0
+reiselivspott	mannoæládusálbádus	mátkeealáhusbuđet	0	0	0	0
+reiselivspott	mannoæládusbilkkádus	mátkeealáhusbuđet	0	0	0	0
+
+folkehelseinstitutt	álmmukvarresvuohtainstituhtta	álbmotdearvvašvuođainstituhtta	2	0	2	0
+
+skyssbåt	filkkavanntsa	sáhttofanas	0	0	0	0
+skyssbåt	sáhttovanntsa	sáhttofanas	0	0	0	0
+skyssbåt	filkkavanás	sáhttofanas	0	0	0	0
+skyssbåt	sáhttovanás	sáhttofanas	0	0	0	0
+
+hygienekrav	rájnasvuohtarávkalvis	hygienagáibádus	2	0	0	0
+hygienekrav	rájnasvuohtagájbbádus	hygienagáibádus	2	0	0	0
+
+programkrav	prográmmarávkalvis	prográmmagáibádus	0	0	0	0
+programkrav	prográmmagájbbádus	prográmmagáibádus	0	0	0	0
+
+miljøvernkrav	birásgáhttimrávkalvis	birasgáhttengáibádus	0	0	0	0
+miljøvernkrav	birásgáhttimgájbbádus	birasgáhttengáibádus	0	0	0	0
+
+rapportkrav	diedádusrávkalvis	raportagáibádus	0	0	0	0
+rapportkrav	diedádusgájbbádus	raportagáibádus	0	0	0	0
+
+papirarkiv	páhperibnos	báberarkiiva	0	0	0	0
+papirarkiv	páhpervuorkká	báberarkiiva	0	0	0	0
+
+redaksjonsarkiv	dåjmadusibnos	doaimmahusrájus	0	0	0	0
+redaksjonsarkiv	dåjmadusvuorkká	doaimmahusrájus	0	0	0	0
+
+klimaperspektiv	dálkádahkaperspektijvva	dálkkádatperspektiiva	2	0	0	0
+
+nordområdeperspektiv	nuorttaguovlloperspektijvva	davviguovlluperspektiiva	2	0	0	0
+nordområdeperspektiv	nuorttalijguovlloperspektijvva	davviguovlluperspektiiva	2	0	0	0
+nordområdeperspektiv	nuorttoguovlloperspektijvva	davviguovlluperspektiiva	2	0	0	0
+
+reformperspektiv	ådåstusperspektijvva	ođasmahttinjurdda	0	0	0	0
+
+landbruksperspektiv	ednambarggoperspektijvva	eanandoalloperspektiiva/eanadoalloperspektiiva	1	0	0	0
+
+partnerskapsperspektiv	guojmmevuohtaperspektijvva	searvevuođaperspektiiva/bealledatvuođaperspektiiva/ovttasdoaibmanperspektiiva	3	0	0	0
+
+etnisitetsperspektiv	tjerdalasjvuohtaperspektijvva	čearddalašvuođaperspektiiva	0	0	0	0
+etnisitetsperspektiv	etnisitehttaperspektijvva	čearddalašvuođaperspektiiva	0	0	0	0
+
+sølvsmedmiljø	silbbasmirjárbirás	silbarávdebiras	0	0	0	0
+
+familiemiljø	familljabirás	bearašoktavuohta	0	0	0	0
+familiemiljø	goahteulmutjabirás	bearašoktavuohta	0	0	0	0
+familiemiljø	fuolkkebirás	bearašoktavuohta	0	0	0	0
+familiemiljø	berajbirás	bearašoktavuohta	0	0	0	0
+
+klassemiljø	klássabirás	luohkkábiras	0	0	0	0
+
+folkemusikkmiljø	álmmukmusihkkabirás	álbmotmusihkkabiras	0	0	0	0
+
+tegnspråkmiljø	sevvamgiellabirás	mearkagiellabiras	0	0	0	0
+
+næringsutviklingsmiljø	æládusåvddånahttembirás	ealáhusovddidanbiras	0	0	0	0
+
+reinkappkjøringsmiljø	hierggevuodjembirás	heargegilvobiras	0	0	0	0
+
+landbruksmiljø	ednambarggobirás	eanageavahanbiras	0	0	0	0
+
+jordbruksmiljø	ednambarggobirás	eanandoallobiras/eanadoallobiras	0	0	0	0
+
+universitetsmiljø	universitehttabirás	universitehtabiras	0	0	0	0
+
+bedriftsmiljø	vidnudahkabirás	fitnodatbiras	0	0	0	0
+
+reiselivsmiljø	mannoæládusbirás	mátkeealáhusbiras	0	0	0	0
+
+internatmiljø	internáhttabirás	internáhttabiras	0	0	0	0
+
+produsentmiljø	buvtadiddjebirás	buvttadanbiras	0	0	0	0
