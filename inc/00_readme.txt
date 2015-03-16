@@ -1,6 +1,23 @@
 # -*- mode: org -*-
 #+STARTUP: showall
 
+* How we mark lines
+
+  Files are hopefully at about the same "quality level", meaning
+  either most of it is good, or most of it is bad.
+
+  If it seems most of the file is good, write a comment at the top
+  like "# Most of this is good:" and only mark the bad lines, with an
+  @-symbol before any bad lines.
+
+  If it seems most of the file is bad, write a comment at the top like
+  "# Most of this is bad:" and only mark the good lines, with an
+  +-symbol before any good lines.
+
+  Feel free to correct candidates entries if it's easily done quickly,
+  otherwise put a ?-symbol before lines that need to be looked at or
+  checked further later on.
+
 
 * Filename format
    
