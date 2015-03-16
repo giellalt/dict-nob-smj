@@ -1,3 +1,6 @@
+Det meste her er OK og markert med +. Et par kandidater er markert med ? og må sjekkes opp senere.
+--
+
 +abstrakt	abstrákta	abstrákta	1	1	7	0
 
 akademisk	akádemihkalasj	akademihkalaš	5	0	1	0
@@ -5,24 +8,24 @@ akademisk	akádemihkalasj	akademihkalaš	5	0	1	0
 
 arkeologisk	arkkeologalasj	arkeologalaš	9	0	10	0
 arkeologisk	arkkeolåvggålasj	arkeologalaš	9	0	10	0
-+arkeologisk	arkeologalasj
++arkeologisk	arkeolåvgålasj
 
 didaktisk	didákttalasj	didákttalaš	0	0	0	0
 +didaktisk	didaktalasj
 
 ekstern	ålguldas	olgguldas	73	0	37	0
 +ekstern	ålgoldis
-+ekstern	ålgop
+ekstern	ålgop
 
-enerådende	åkturádálasj	oktoráđálaš	4	0	0	0
-+enerådende	aktu ráddit
-+enerådende	(aktu)ráddijiddje
++enerådende	akturádálasj	oktoráđálaš	4	0	0	0
+enerådende	aktu ráddit
+enerådende	(aktu)ráddijiddje
 
 +flerårig	moattejahkásasj	máŋggajahkásaš	8	9	2	0
 
 formell	fårmåla	formála	123	0	31	0
 formell	hámulasj	hámolaš	123	0	1	0
-+formell	formálalasj
++formell	formálla
 
 fornybar	ådåsmuvve	ođasmuvvi	55	0	11	0
 +fornybar	ådåsmahtte
@@ -31,16 +34,16 @@ fremtidsrettet	boahtteájggedidolasj	boahtteáiggediđolaš	15	0	0	0
 +fremtidsrettet	boahtteájggásasj
 
 funksjonell	funktionála	funktionála	26	0	3	0
-+funksjonell	doajmme
+funksjonell	doajmme
 +funksjonell	dåjmalasj
 
 geografisk	ednandiedalasj	eatnandieđalaš	162	0	4	0
 +geografisk	geografalasj
 
 geologisk	geolugalasj	geologalaš	8	0	7	0
-+geologisk	geologalasj
++geologisk	geolåvgålasj
 
-grenseoverskridende	rádjerastildeaddje	rádjerasttildeaddji	94	0	13	0
+?grenseoverskridende	rádjerastildeaddje	rádjerasttildeaddji	94	0	13	0
 grenseoverskridende	rájárastideaddje	rájárasttideaddji	94	0	1	0
 +grenseoverskridende	rájájrasstididdje
 
@@ -72,7 +75,7 @@ minimal	minemála	minimála	5	0	1	0
 
 operativ	åperatijva	operatiiva	18	0	3	0
 operativ	åperatijvvalasj	operatiivvalaš	18	0	0	0
-+operativ	operatijva el. operatijvalasj
+?operativ	operatijva el. operatijvalasj
 
 +parlamentarisk	parlamentáralasj	parlamentáralaš	195	23	166	4
 
@@ -86,7 +89,7 @@ privat	priváhtalasj	priváhtalaš	223	6	0	0
 produktiv	pråduktijva	produktiiva	13	0	3	0
 produktiv	pråduktijvvalasj	produktiivvalaš	13	0	2	0
 +produktiv	produktijvalasj
-+produktiv	buktagis
+produktiv	buktagis
 
 retorisk	returalasj	retoralaš	0	0	0	0
 +retorisk	retorihkalasj
@@ -120,7 +123,7 @@ teknisk	teknalasj	teknalaš	113	0	8	0
 +teknisk	teknihkalasj
 
 teologisk	teolugalasj	teologalaš	1	0	4	0
-+teologisk	teologalasj
++teologisk	teolåvgålasj
 
 ufullstendig	dievasmeahttun	dievasmeahttun	6	0	0	0
 ufullstendig	iehpedievaslasj	eahpedievaslaš	6	0	0	0
@@ -131,7 +134,7 @@ unaturlig	iehpelunddolasj	eahpelunddolaš	5	0	9	0
 
 universell	uneversála	universála	43	0	5	0
 +universell	gájkkásasj
-+universell	almulasj
+universell	almulasj
 
 visuell	visoálalasj	visuálalaš	12	0	4	0
-+visuell	visualalasj
++visuell	visuálla
