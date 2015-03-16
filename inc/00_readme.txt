@@ -16,7 +16,9 @@
 
   Feel free to correct candidates entries if it's easily done quickly,
   otherwise put a ?-symbol before lines that need to be looked at or
-  checked further later on.
+  checked further later on. Note: a ? means that whole line-group (ie.
+  all lines with that nob-word) is unfinished, not just that exact
+  line.
 
 
 * Filename format
