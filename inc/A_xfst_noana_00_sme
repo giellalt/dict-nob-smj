@@ -1,3 +1,4 @@
+# most of these candidates are bad. some good with just a little bit of corrections.
 
 bakvendt	jårgo-	jorggu-	0	0	0	0
 
@@ -6,7 +7,7 @@ norsk	nårgå	norgga	2036	0	1157	0
 dansk-norsk	dánsska-nårgå	dánska-norgga	11	0	3	0
 
 analog	análoga	analoga	3	0	4	0
-analog	análåvggå	analoga	3	0	4	0
++analog	análåvggå	analoga	3	0	4	0
 
 akutt	fáhkka	fáhkka	22	2	46	0
 brå	fáhkka	fáhkka	6	2	46	0
@@ -43,9 +44,9 @@ multifunksjonell	mulltefunktionála	multifunktionála	0	0	1	0
 
 konstitusjonell	kånsstetutionála	konstitutionála	15	0	1	0
 
-føderal	føderála	føderála	1	0	0	0
++føderal	føderálla	føderála	1	0	0	0
 
-bilateral	biláterála	bilaterála	15	0	3	0
++bilateral	bilaterálla	bilaterála	15	0	3	0
 
 multilateral	mulltelaterála	multilaterála	4	0	1	0
 
@@ -71,7 +72,7 @@ anonym	anunyma	anonyma	2	0	3	0
 
 homogen	håmugena	homogena	3	0	1	0
 
-heterogen	heterogena	heterogena	0	0	1	0
++heterogen	heterogedna	heterogena	0	0	1	0
 
 human	humána	humána	6	0	0	0
 
@@ -87,7 +88,7 @@ cirkumpolar	tsirkkumpolára	cirkumpolára	1	0	0	0
 
 konsulær	kånnsulára	konsulára	1	0	0	0
 
-binær	binára	binára	0	0	1	0
+binær	binárra	binára	0	0	1	0
 
 humanitær	humánitára	humanitára	6	0	1	0
 
@@ -194,13 +195,13 @@ emosjonell	dåvddujtjuohttse	dovduičuohcci	1	0	0	0
 
 rådgivende	ráddeadde	ráđđeaddi	44	0	109	0
 
-framvoksende	sjadde	šaddi	1	24	12	0
++framvoksende	sjaddel	šaddi	1	24	12	0
 
 variabel	målssåtjudde	molsašuddi	7	0	10	0
 
 nedslått	slunnde	šlundi	0	0	2	0
 
-langsiktig	guhkesájgge	guhkesáiggi	130	0	19	0
++langsiktig	guhkesájggásasj	guhkesáiggi	130	0	19	0
 
 konstruktiv	bajásráhkadeaddje	bajásráhkadeaddji	25	0	0	0
 
@@ -210,7 +211,7 @@ mistenksom	iehpedeaddje	eahpideaddji	0	0	1	0
 
 avgjørende	mierredeaddje	mearrideaddji	241	0	63	0
 
-tilsvarende	vásstedeaddje	vástideaddji	274	0	46	0
++tilsvarende	vásstediddje	vástideaddji	274	0	46	0
 
 attraktiv	gesuheaddje	geasuheaddji	45	0	31	0
 
@@ -224,7 +225,7 @@ ugyldig	iehpegustojeaddje	eahpegustojeaddji	4	0	0	0
 
 ekspansiv	vijddáneaddje	viidáneaddji	2	0	0	0
 
-representativ	åvdåsteaddje	ovddasteaddji	23	0	193	0
++representativ	åvdåstiddje	ovddasteaddji	23	0	193	0
 
 nedadgående	njieddje	njieddji	3	0	1	0
 synkende	njieddje	njieddji	6	0	1	0
@@ -243,7 +244,7 @@ uengasjerende	iehpemovttijdahtte	eahpemovttiidahtti	0	0	0	0
 betenkelig	iehpedahtte	eahpidahtti	11	0	8	0
 skeptisk	iehpedahtte	eahpidahtti	8	0	8	0
 
-hjerteskjærende	vájmmubávttjagahtte	váibmobávččagahtti	0	0	0	0
++hjerteskjærende	vájmobávtjagahtte	váibmobávččagahtti	0	0	0	0
 
 uønsket	iehpesávahahtte	eahpesávahahtti	8	0	0	0
 
@@ -255,8 +256,8 @@ kritikkverdig	moajtehahtte	moaittehahtti	2	0	1	0
 
 urovekkende	baldehahtte	balddihahtti	4	0	18	0
 
-anvendbar	anehahtte	anihahtti	1	0	5	0
-anvendelig	anehahtte	anihahtti	5	0	5	0
++anvendbar	anedahtte	anihahtti	1	0	5	0
++anvendelig	anedahtte	anihahtti	5	0	5	0
 
 lønnsom	gánnehahtte	gánnihahtti	44	0	4	0
 
@@ -296,7 +297,7 @@ norsk	dárugiel	dárogiel	2036	0	126	0
 nynorsk	åddådárogiel	ođđadárogiel	16	0	0	0
 
 aktuell	guovddel	guovdil	241	46	25	0
-sentral	guovddel	guovdil	606	46	25	0
++sentral	guovddelis	guovdil	606	46	25	0
 
 unyansert	iehpedárkel	eahpedárkil	0	0	0	0
 uspesifisert	iehpedárkel	eahpedárkil	1	0	0	0
@@ -327,7 +328,7 @@ viss	dihtulágan	dihtolágan	170	0	7	0
 
 forskjellig	goabbatlágan	goabbatlágan	169	0	11	0
 
-forskjellig	ietjálágan	iežálágan	169	0	2	0
++forskjellig	ietjálágásj	iežálágan	169	0	2	0
 
 glemsk	mujtuhuvvan	muittohuvvan	0	0	0	0
 
@@ -397,14 +398,14 @@ lojal	åskåldas	oskkáldas	6	0	17	0
 
 dum	gájgas	gáiggas	3	0	0	0
 
-uavklart	iehpetjielggas	eahpečielggas	11	0	63	0
++uavklart	iehpetjielgas	eahpečielggas	11	0	63	0
 
 uomtvistelig	tjabutjielggas	čabučielggas	4	0	0	0
 
 robust	stargas	starggas	15	0	1	0
 
 føre var	várrugas	várrugas	0	0	22	0
-var	várrugas	várrugas	5162	0	22	0
++var	várrogis	várrugas	5162	0	22	0
 
 livlig	elaskas	ealaskas	2	0	3	0
 levedyktig	elaskas	ealaskas	37	0	3	0
@@ -425,7 +426,7 @@ kronisk	guhkálmas	guhkálmas	5	0	2	0
 
 legendarisk	bækkálmas	beakkálmas	0	0	20	0
 
-ensom	aktunas	aktonas	4	0	1	0
++ensom	aktugasj	aktonas	4	0	1	0
 
 forvirrende	måjvås	moivvas	1	0	6	0
 
@@ -459,7 +460,7 @@ jevn	jámmes	jámmis	37	0	7	0
 
 desentralisert	gájdus	gáiddus	33	0	37	0
 
-første	vuostamus	vuosttamus	1307	0	0	0
++første	vuostasj	vuosttamus	1307	0	0	0
 
 åpenbar	tjalmus	čalmmus	24	0	2	0
 tydelig	tjalmus	čalmmus	105	0	2	0
@@ -483,55 +484,55 @@ uryddig	iehpetjorgat	eahpečorgat	1	0	0	0
 
 langermet	guhkessoajak	guhkessoajat	0	0	0	0
 
-mangeartet	moattesjlájak	máŋggašlájat	3	0	1	0
++mangeartet	moatteslájak	máŋggašlájat	3	0	1	0
 
-mangeartet	moattebealak	máŋggabealat	3	0	47	0
++mangeartet	moattebelak	máŋggabealat	3	0	47	0
 
 gjensidig	guovtebealak	guovttebealat	60	0	3	0
 
-kvensktalende	kvenágielak	kvenagielat	0	0	1	0
++kvensktalende	kvenagielak	kvenagielat	0	0	1	0
 
 svensk	ruotagielak	ruoŧagielat	144	0	3	0
 
-firespråklig	njieljjegielak	njealjegielat	0	0	0	0
++firespråklig	nieljegielak	njealjegielat	0	0	0	0
 
 sørsamisk	máttasámegielak	máttasámegielat	565	0	1	0
 
-norsktalende	dárugielak	dárogielat	45	0	74	0
-norsk	dárugielak	dárogielat	2036	0	74	0
++norsktalende	dárogielak	dárogielat	45	0	74	0
++norsk	dárogielak	dárogielat	2036	0	74	0
 
-nynorsk	åddådárogielak	ođđadárogielat	16	0	0	0
++nynorsk	åddådárogielak	ođđadárogielat	16	0	0	0
 
 engelsk	æŋŋgalasgielak	eaŋgalasgielat	59	0	1	0
 
 minoritetsspråklig	unnetlogugielak	unnitlogugielat	5	0	1	0
 
-positiv	miehtemielak	miehtemielat	354	4	0	0
++positiv	miehtemielak	miehtemielat	354	4	0	0
 
 åndssvak	miellavájllak	miellaváillat	0	0	0	0
 
 utdanningsskadelidende	oahppuvájllak	oahppováillat	4	0	16	0
 utdanningsskadelidt	oahppuvájllak	oahppováillat	5	0	16	0
 
-flerkulturell	moattekultuvrrak	máŋggakultuvrrat	43	0	6	0
++flerkulturell	moattekultuvrak	máŋggakultuvrrat	43	0	6	0
 
-trekulturell	gålmåkultuvrrak	golmmakultuvrrat	0	0	0	0
++trekulturell	gålmåkultuvrak	golmmakultuvrrat	0	0	0	0
 
-tidlig	árák	árat	578	0	16	0
++tidlig	árrat	árat	578	0	16	0
 
 lik	semmadásak	seammadásat	303	0	0	0
 
 glemsk	mujtuhuvvak	muittohuvvat	0	0	1	0
 
-femte	vidák	viđat	44	0	14	0
++femte	vidát	viđat	44	0	14	0
 
 moderne	åddåmálle	ođđamállet	122	0	18	0
 
-mer	iene	eanet	1587	4	1852	0
++mer	ienep	eanet	1587	4	1852	0
 
 ubalansert	iehpedásse	eahpedásset	1	0	0	0
 
-trist	ahkep	ahkit	10	0	10	0
++trist	ahket	ahkit	10	0	10	0
 
 indre	siskep	siskkit	134	0	33	0
 
@@ -551,7 +552,7 @@ hardhjertet	garravájmo	garraváimmot	0	0	0	0
 
 alternativ	målsåevtto	molssaevttot	146	0	0	0
 
-ytre	ålgo	olggut	63	0	20	0
++ytre	ålgop	olggut	63	0	20	0
 
 populær	bivno	bivnnut	11	0	52	0
 attraktiv	bivno	bivnnut	45	0	52	0
@@ -564,7 +565,7 @@ rødgrønn	ruksesruoná	ruksesruoná	0	0	1	0
 
 kystnær	riddulagasj	riddolagaš	10	0	4	0
 
-ensartet	åvtålágasj	ovttalágaš	5	0	0	0
++ensartet	åvtålágasj	ovttalágaš	5	0	0	0
 
 mindreårig	vuolleahkahasj	vuolleahkahaš	5	0	0	0
 
@@ -574,7 +575,7 @@ yrkesaktiv	barggunávttsalasj	bargonávccalaš	6	0	0	0
 
 fylkeskommunal	fylkagielddalasj	fylkkagielddalaš	79	0	16	0
 
-fleretnisk	moattetjearddalasj	máŋggačearddalaš	2	0	1	0
++fleretnisk	moattetjerdalasj	máŋggačearddalaš	2	0	1	0
 
 demografisk	demugráfalasj	demográfalaš	5	0	6	0
 
@@ -630,14 +631,14 @@ konkurransepolitisk	gilvvupolitihkalasj	gilvopolitihkalaš	1	0	0	0
 
 kulturpolitisk	kullturpolitihkalasj	kulturpolitihkalaš	13	0	15	0
 
-praktisk	praktehkalasj	praktihkalaš	167	0	67	0
++praktisk	praktihkalasj	praktihkalaš	167	0	67	0
 
 arktisk	arktehkalasj	arktihkalaš	123	0	0	0
 
-innenlandsk	sisrijkkalasj	sisriikkalaš	4	0	5	0
++innenlandsk	sisrijkalasj	sisriikkalaš	4	0	5	0
 nasjonal	sisrijkkalasj	sisriikkalaš	734	0	5	0
 
-norsk	dárugielalasj	dárogielalaš	2036	0	1	0
++norsk	dárogielalasj	dárogielalaš	2036	0	1	0
 
 pertentlig	fuolalasj	fuolalaš	0	0	6	0
 omtenksom	fuolalasj	fuolalaš	0	0	6	0
@@ -656,8 +657,8 @@ liberal	liberálalasj	liberálalaš	3	0	0	0
 
 individuell	inndeviduálalasj	individuálalaš	86	0	6	0
 
-handlekraftig	doajmalasj	doaimmalaš	0	0	25	0
-driftsmessig	doajmalasj	doaimmalaš	9	0	25	0
++handlekraftig	dåjmalasj	doaimmalaš	0	0	25	0
++driftsmessig	dåjmalasj	doaimmalaš	9	0	25	0
 
 sosioøkonomisk	såsioekonomalasj	sosioekonomalaš	2	0	1	0
 sosioøkonomisk	såsioekonåvmmålasj	sosioekonomalaš	2	0	1	0
@@ -669,7 +670,7 @@ regional	regiovnalasj	regiovnnalaš	661	0	33	0
 
 upersonlig	iehpepersovnalasj	eahpepersovnnalaš	1	0	0	0
 
-nasjonal	nasjuvnalasj	našuvnnalaš	734	2	139	0
++nasjonal	nasjåvnålasj	našuvnnalaš	734	2	139	0
 
 internasjonal	innternasjuvnalasj	internašuvnnalaš	514	0	3	0
 
@@ -731,9 +732,9 @@ byråkratisk	byrukráhtalasj	byrokráhtalaš	3	0	4	0
 
 ikke-statlig	ij-stáhtalasj	ii-stáhtalaš	1	0	0	0
 
-arktisk	árktalasj	árktalaš	123	14	118	0
++arktisk	árktalasj	árktalaš	123	14	118	0
 
-subarktisk	subárktalasj	subárktalaš	1	0	1	0
++subarktisk	subárktalasj	subárktalaš	1	0	1	0
 
 baltisk	bálltalasj	báltalaš	0	0	0	0
 
@@ -743,7 +744,7 @@ autentisk	autenttalasj	autenttalaš	0	0	2	0
 
 optimistisk	åptemistalasj	optimisttalaš	5	0	4	0
 
-humanistisk	humánistalasj	humanisttalaš	5	0	6	0
++humanistisk	humanistalasj	humanisttalaš	5	0	6	0
 
 rasistisk	rasestalasj	rasisttalaš	4	0	13	0
 
@@ -785,7 +786,7 @@ rask	álsjalasj	álššalaš	90	0	0	0
 
 norsk-russisk	nårggålasj-ruossjalasj	norgalaš-ruoššalaš	14	0	3	0
 
-samisk	sábmelasj	sápmelaš	13712	2	999	0
++samisk	sábmelasj	sápmelaš	13712	2	999	0
 
 urasjonell	iehpeulmmilasj	eahpeulbmillaš	0	0	0	0
 
@@ -814,7 +815,7 @@ løpende	jåtkkulasj	jotkkolaš	68	0	4	0
 psykisk	silulasj	silolaš	103	0	6	0
 mental	silulasj	silolaš	5	0	6	0
 
-regional	guvlulasj	guvllolaš	661	0	73	0
++regional	guovlulasj	guvllolaš	661	0	73	0
 
 uoffisiell	iehpealmolasj	eahpealmmolaš	2	0	1	0
 
@@ -831,7 +832,7 @@ gavmild	udnulasj	utnolaš	1	0	1	0
 
 utradisjonell	ij-árbbevirolasj	ii-árbevirolaš	3	0	0	0
 
-norsk	dárrulasj	dárrolaš	2036	0	1	0
++norsk	dárulasj	dárrolaš	2036	0	1	0
 
 variert	målsulasj	molssolaš	99	0	0	0
 
@@ -926,8 +927,8 @@ rede	válmasj	válmmaš	53	0	9	0
 
 sjelden	hárvvenasj	hárvenaš	49	0	7	0
 
-foreløpig	gasskaboddasasj	gaskaboddasaš	75	0	16	0
-midlertidig	gasskaboddasasj	gaskaboddasaš	97	0	16	0
++foreløpig	gasskabåddåsasj	gaskaboddasaš	75	0	16	0
++midlertidig	gasskabåddåsasj	gaskaboddasaš	97	0	16	0
 
 interdepartemental	depártemeanttajdgaskasasj	departemeanttaidgaskasaš	10	0	2	0
 
@@ -935,7 +936,7 @@ tilsvarende	sullasasj	sullasaš	274	0	110	0
 
 tilsvarende	semmasullasasj	seammasullasaš	274	0	10	0
 
-midlertidig	båddusasj	boddosaš	97	0	0	0
++midlertidig	båddåsasj	boddosaš	97	0	0	0
 
 opprinnelig	álggoálgosasj	álgoálgosaš	78	0	15	0
 
@@ -943,7 +944,7 @@ lang	guhkkusasj	guhkkosaš	486	0	22	0
 
 lik	åvtåsturrosasj	ovttasturrosaš	303	0	0	0
 
-likeverdig	semmaárvosasj	seammaárvosaš	146	0	6	0
+likeverdig	semmoárvosasj	seammaárvosaš	146	0	6	0
 
 likeverdig	åvtåárvosasj	ovttaárvosaš	146	0	30	0
 
@@ -985,9 +986,9 @@ gjensidig	guovtebeallásasj	guovttebeallásaš	60	0	0	0
 
 liberal	frijjahápmásasj	friijahápmásaš	3	0	0	0
 
-likeverdig	semmadássásasj	seammadássásaš	146	0	6	0
++likeverdig	dássásasj	seammadássásaš	146	0	6	0
 
-likeverdig	åvtådássásasj	ovttadássásaš	146	0	49	0
++likeverdig	dássásasj	ovttadássásaš	146	0	49	0
 
 observant	ájttsavasj	áicavaš	1	0	0	0
 
@@ -1014,7 +1015,7 @@ holdbar	doallevasj	doallevaš	9	0	13	0
 
 relevant	ássjájgullevasj	áššáigullevaš	150	0	12	0
 
-aktiv	doajmmevasj	doaibmevaš	378	0	4	0
++aktiv	dåjmalasj	doaibmevaš	378	0	4	0
 
 relevant	ássjájsoahppevasj	áššáisoahppevaš	150	0	0	0
 
@@ -1034,13 +1035,13 @@ multihandikappet	moattesivavulosj	máŋggasivavuloš	0	0	0	0
 
 mindreårig	agevulosj	agivuloš	5	0	1	0
 
-primær	åvdemusj	ovddemuš	130	0	12	0
++primær	åvdemus	ovddemuš	130	0	12	0
 
 fremre	åvdemusj	ovddimuš	0	0	5	0
 
-overordnet	bajemusj	bajimuš	206	0	73	0
++overordnet	bajemus	bajimuš	206	0	73	0
 
-sist	maŋemusj	maŋimuš	523	0	359	0
++sist	maŋemus	maŋimuš	523	0	359	0
 
 sammensatt	sægásj	seagáš	54	0	1	0
 
