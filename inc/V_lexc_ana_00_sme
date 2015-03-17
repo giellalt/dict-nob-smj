@@ -1,19 +1,20 @@
+#Det meste her er bra, noe ikke. Dessuten må alle -erit rettes til -ierit (begynte å gjøre det manuelt, men det var ganske mange)
 
 anskaffe	háhkuhit	háhkat	7	6	173	0
 
 avholde	ásadit	doallat	117	997	814	2
 
-bosette	årrot	ássat	101	1840	1259	3
+bosette	årrut	ássat	101	1840	1259	3
 
 foregå	dáhpáduvvat	dáhpáhuvvat	170	264	387	9
 
-gradere	graderit	graderet	15	0	2	0
+gradere	gradierit	graderet	15	0	2	0
 
-konsolidere	konsoliderit	konsolideret	7	0	1	0
+konsolidere	konsolidierit	konsolideret	7	0	1	0
 
-reagere	reagerit	reageret	16	0	20	0
+reagere	reagierit	reageret	16	0	20	0
 
-privilegere	privilegerit	privilegeret	1	0	0	0
+privilegere	privilegierit	privilegeret	1	0	0	0
 
 redigere	redigerit	redigeret	15	0	3	0
 
@@ -93,31 +94,31 @@ konstituere	konstituerit	konstitueret	21	0	3	0
 
 intensivere	intensiverit	intensiveret	11	0	0	0
 
-avsette	várrodit	várret	198	33	154	0
+@avsette	várrodit	várret	198	33	154	0
 
-kjenne	dåbdådit	dovddadit	243	3	24	0
+kjenne	dåbddåt	dovddadit	243	3	24	0
 
 utarbeide	dahkat	ráhkadit	412	3629	1141	32
 
-yte	vaddet	addit	106	1929	1532	146
+@yte	vaddet	addit	106	1929	1532	146
 
-forklare	tjielggidit	čilgedit	77	0	117	0
+forklare	tjielggit	čilgedit	77	0	117	0
 
-favorisere	åjddet	oidit	3	2	3	0
-tilgodese	åjddet	oidit	8	2	3	0
+@favorisere	åjddet	oidit	3	2	3	0
+@tilgodese	åjddet	oidit	8	2	3	0
 
-overføre	fievrridit	fievrridit	241	0	160	0
+@overføre	fievrridit	fievrridit	241	0	160	0
 
-forveksle	målsodit	malssidit	5	0	0	0
+@forveksle	målsodit	malssidit	5	0	0	0
 
 portrettere	gåvvidit	govvidit	0	228	114	1
 gjenspeile	gåvvidit	govvidit	42	228	114	1
 
-politianmelde	vájddet	váidit	0	16	158	0
+@politianmelde	vájddet	váidit	0	16	158	0
 
-omfatte	sisŋedit	siskkildit	485	0	40	0
+@omfatte	sisŋedit	siskkildit	485	0	40	0
 
-følge	tjuovudit	čuvodit	1623	22	58	0
+følge	tjuovvot	čuvodit	1623	22	58	0
 
 begripe	dádjadit	ipmirdit	69	749	231	31
 
@@ -130,7 +131,7 @@ delegere	fábmodit	fápmudit	82	10	34	2
 
 lette	giehpedit	geahppudit	101	54	3	2
 
-forutsette	ævtodit	eaktudit	231	45	88	0
+@forutsette	ævtodit	eaktudit	231	45	88	0
 
 utdype	tjiegŋodit	čiekŋudit	12	51	26	16
 
@@ -145,7 +146,7 @@ utøve	dåjmadit	doaimmahit	128	252	453	0
 skolere	åhpadit	oahpahit	157	1680	1047	45
 opplære	åhpadit	oahpahit	528	1680	1047	45
 
-trene	hárjjidit	hárjehit	15	118	201	0
+trene	hárjjidallat	hárjehit	15	118	201	0
 
 opptre	vuosedit	čájehit	29	943	1151	34
 
@@ -155,28 +156,28 @@ fullføre	ållidit	ollehit	52	265	17	0
 
 bygge	tsieggidit	huksehit	516	0	129	0
 
-fange	dabrridit	darvehit	38	0	8	0
+@fange	dabrridit	darvehit	38	0	8	0
 
-tilføre	nammadit	namuhit	44	423	299	20
+@tilføre	nammadit	namuhit	44	423	299	20
 
 formulere	hábmedit	hámuhit	32	36	2	0
 
-utveksle	lånodit	lonuhit	29	0	86	0
+utveksle	lånudit	lonuhit	29	0	86	0
 
-røyne	vuornodit	vuortnuhit	0	0	3	0
+@røyne	vuornodit	vuortnuhit	0	0	3	0
 
-skattlegge	vierodit	vearuhit	0	0	6	0
+@skattlegge	vierodit	vearuhit	0	0	6	0
 
-sy	goarodit	goaruhit	13	9	5	0
+sy	goarrot	goaruhit	13	9	5	0
 
 vektlegge	dættodit	deattuhit	11	203	584	11
 understreke	dættodit	deattuhit	239	203	584	11
 
-identifisere	dåbddådit	dovdáhit	57	0	5	0
+identifisere	dåbddåt	dovdáhit	57	0	5	0
 
 nedfelle	javllat	cealkit	32	4221	484	15
 fastslå	javllat	cealkit	54	4221	484	15
-hilse	javllat	cealkit	8	4221	484	15
+@hilse	javllat	cealkit	8	4221	484	15
 
 protokollføre	tjállet	čállit	1	2334	1451	77
 
@@ -206,15 +207,15 @@ utfylle	ållistit	ollistit	32	0	11	0
 fullføre	ållistit	ollistit	52	0	11	0
 komplettere	ållistit	ollistit	3	0	11	0
 
-overlevere	gaskostit	gaskkustit	21	31	106	1
+@overlevere	gaskostit	gaskkustit	21	31	106	1
 
-reise	tjuottjáldahttet	čuoččáldahttit	366	0	7	0
+@reise	tjuottjáldahttet	čuoččáldahttit	366	0	7	0
 
 svikte	biehttet	beahttit	10	105	24	1
 
 modernisere	ådåsmahttet	ođasmahttit	14	23	154	0
 
-sidestille	báldastahttet	bálddastahttit	4	0	5	0
+@sidestille	báldastahttet	bálddastahttit	4	0	5	0
 
 omgi	birástahttet	birastahttit	2	13	6	0
 
@@ -223,9 +224,9 @@ jamføre	buohtastahttet	buohtastahttit	6	299	99	24
 innarbeide	sajájduhttet	sajáiduhttit	41	0	2	0
 forankre	sajájduhttet	sajáiduhttit	51	0	2	0
 
-skade	vaháguhttet	vaháguhttit	205	4	6	0
+skade	vahágahttet	vaháguhttit	205	4	6	0
 
-dokumentere	duodastit	duođaštit	237	302	464	13
+dokumentere	duodastahttet	duođaštit	237	302	464	13
 
 tilrettelegge	láhtjet	láhčit	133	236	235	20
 
