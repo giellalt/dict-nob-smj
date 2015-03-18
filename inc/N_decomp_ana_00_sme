@@ -1,11 +1,12 @@
+#Dårlige kandidater markert med @
 
-sommersesong	giessebåddå	geassebodda	1	0	1	0
+@sommersesong	giessebåddå	geassebodda	1	0	1	0
 
-fagområde	fágaduovda	fágaduovdda	48	0	0	0
+@fagområde	fágaduovda	fágaduovdda	48	0	0	0
 
-sommerkommune	giessegiellda	geassegielda	0	0	0	0
+sommerkommune	giessesuohkan	geassegielda	0	0	0	0
 
-vinterkommune	dálvvegiellda	dálvegielda	0	0	0	0
+vinterkommune	dálvvesuohkan	dálvegielda	0	0	0	0
 
 kunstfond	dájddafoannda	dáiddafoanda	4	0	2	0
 
@@ -13,31 +14,31 @@ støttefond	doarjjafoannda	doarjjafoanda	0	0	0	0
 
 etatsjef	etáhttajådediddje	etáhttahoavda	2	0	1	0
 
-allmennfag	dáhpefága	dábálašfága	5	0	2	0
+@allmennfag	dáhpefága	dábálašfága	5	0	2	0
 
-energistrategi	energiddjastrategiddja	energiijastrategiija	0	0	0	0
+energistrategi	energistrategiddja	energiijastrategiija	0	0	0	0
 
 språkterminologi	giellaterminologiddja	giellaterminologiija	0	0	0	0
-språkterminologi	giellaterminologija	giellaterminologiija	0	0	0	0
+@språkterminologi	giellaterminologija	giellaterminologiija	0	0	0	0
 
 energiteknologi	energiddjateknologiddja	energiijateknologiija	0	0	0	0
 
 landindustri	ednamindustriddja	eanaindustriija	0	0	0	0
-landindustri	ednamindustrija	eanaindustriija	0	0	0	0
+@landindustri	ednamindustrija	eanaindustriija	0	0	0	0
 
-energipolitikk	energiddjapolitihkka	energiijapolitihkka	4	0	1	0
+energipolitikk	energipolitihkka	energiijapolitihkka	4	0	1	0
 
 overføringspolitikk	doarjjapolitihkka	doarjjapolitihkka	0	0	0	0
 
 fylkespolitikk	fylkkapolitihkka	fylkkapolitihkka	0	0	0	0
 
-energifylke	energiddjafylkka	energiijafylka	0	0	0	0
+energifylke	energifylkka	energiijafylka	0	0	0	0
 
 midtfylke	gasskafylkka	gaskafylka	0	0	0	0
 
 skilleark	gasskaárkka	gaskaárka	0	0	0	0
 
-fagskole	fágaskåvllå	fágaskuvla	78	0	14	0
+fagskole	fáhkaskåvllå	fágaskuvla	78	0	14	0
 
 filmskole	filmmaskåvllå	filbmaskuvla	0	0	0	0
 
@@ -45,12 +46,12 @@ husflidsskole	duodjeskåvllå	duodjeskuvla	2	0	1	0
 
 vinterskole	dálvveskåvllå	dálveskuvla	2	0	0	0
 
-landareal	ednamareála	eananareála	8	0	0	0
+landareal	ednamareálla	eananareála	8	0	0	0
 
 støttetiltak	doarjjadoajmma	doarjjadoaibma	1	0	2	0
 
 økonomisystem	ekonomiddjasystebma	ekonomiijasystema	1	0	0	0
-økonomisystem	ekonomijasystebma	ekonomiijasystema	1	0	0	0
+@økonomisystem	ekonomijasystebma	ekonomiijasystema	1	0	0	0
 
 tilskuddsramme	doarjjarámma	doarjjarámma	2	0	2	0
 
@@ -58,10 +59,10 @@ funksjonsprogram	funksjåvnnåprográmma	funkšuvdnaprográmma	0	0	0	0
 
 språkutviklingsprogram	giellaåvddånahttemprográmma	giellaovddidanprográmma	1	0	0	0
 
-kunstdiplom	dájddadiploma	dáiddadiploma	1	0	1	0
+@kunstdiplom	dájddadiploma	dáiddadiploma	1	0	1	0
 kunstdiplom	dájddadiplåvmmå	dáiddadiploma	1	0	1	0
 
-fylkesagronom	fylkkaagronoma	fylkkaagronoma	0	0	0	0
+@fylkesagronom	fylkkaagronoma	fylkkaagronoma	0	0	0	0
 fylkesagronom	fylkkaagronåvmmå	fylkkaagronoma	0	0	0	0
 
 steingrunn	gierggeednam	geađgeeana	0	0	6	0
@@ -78,78 +79,78 @@ fylkesorganisasjon	fylkkaorganisasjåvnnå	fylkkaorganisašuvdna	0	0	0	0
 vårsesjon	gidásesjåvnnå	giđđasešuvdna	4	0	0	0
 
 økonomiseksjon	ekonomiddjaseksjåvnnå	ekonomiijasekšuvdna	1	0	0	0
-økonomiseksjon	ekonomijaseksjåvnnå	ekonomiijasekšuvdna	1	0	0	0
+@økonomiseksjon	ekonomijaseksjåvnnå	ekonomiijasekšuvdna	1	0	0	0
 
 støttefunksjon	doarjjafunksjåvnnå	doarjjafunkšuvdna	3	0	0	0
 
 tilskuddsorgan	doarjjaorgána	doarjjaorgána	0	0	0	0
 
-myndighetsorgan	fábmodusorgána	eiseváldeorgána	3	0	0	0
+@myndighetsorgan	fábmodusorgána	eiseváldeorgána	3	0	0	0
 
 økonomiplan	ekonomiddjaplána	ekonomiijaplána	77	0	4	0
 økonomiplan	ekonomijaplána	ekonomiijaplána	77	0	4	0
 
 fylkesdelplan	fylkkaoasseplána	fylkkaoasseplána	3	0	0	0
 
-landbruksstruktur	ednamdoallostruktuvra	eanadoallostruktuvra	0	0	0	0
+@landbruksstruktur	ednamdoallostruktuvra	eanadoallostruktuvra	0	0	0	0
 
-jordbruksstruktur	ednamdoallostruktuvra	eanandoallostruktuvra	0	0	0	0
+@jordbruksstruktur	ednamdoallostruktuvra	eanandoallostruktuvra	0	0	0	0
 
-menystruktur	fállostruktuvra	fállostruktuvra	0	0	0	0
+m@enystruktur	fállostruktuvra	fállostruktuvra	0	0	0	0
 
 tilbudsstruktur	fálaldakstruktuvra	fálaldatstruktuvra	8	0	0	0
 
-feltkurs	gieddekurssa	gieddekursa	2	0	0	0
+@feltkurs	gieddekurssa	gieddekursa	2	0	0	0
 
 duodjikurs	duodjekurssa	duodjekursa	3	0	3	0
 
-feltstudiekurs	gieddeåhpaduskurssa	gieddeoahpahuskursa	0	0	0	0
+@feltstudiekurs	gieddeåhpaduskurssa	gieddeoahpahuskursa	0	0	0	0
 
-temakurs	fáddákurssa	fáddákursa	0	0	0	0
+@temakurs	fáddákurssa	fáddákursa	0	0	0	0
 
-energiressurs	energiddjaresursa	energiijaresursa	2	0	0	0
+energiressurs	energiresursa	energiijaresursa	2	0	0	0
 
 tilskuddsressurs	doarjjaresursa	doarjjaresursa	0	0	0	0
 
 jordressurs	ednamresursa	eanaresursa	0	0	0	0
 
-styrkeforhold	fábmogasskavuohta	fápmogaskavuohta	1	0	0	0
-maktforhold	fábmogasskavuohta	fápmogaskavuohta	2	0	0	0
+@styrkeforhold	fábmogasskavuohta	fápmogaskavuohta	1	0	0	0
+@maktforhold	fábmogasskavuohta	fápmogaskavuohta	2	0	0	0
 
-språkvanske	giellaváttesvuohta	giellaváttisvuohta	1	0	4	0
+@språkvanske	giellaváttesvuohta	giellaváttisvuohta	1	0	4	0
 
 språkrettighet	giellarievtesvuohta	giellavuoigatvuohta	2	0	4	0
 
-duodjikompetanse	duodjemáhtto	duodjegelbbolašvuohta	1	0	0	0
+duodjikompetanse	duodjemáhtudahka	duodjegelbbolašvuohta	1	0	0	0
 
 maktforhold	fábmodille	fápmodilálašvuohta	2	0	0	0
 
-tilskuddsmiddel	doarjjaruhta	doarjjaruhta	14	0	16	0
+tilskuddsmiddel	ruhtadoarjja	doarjjaruhta	14	0	16	0
 
-språkprosjektmiddel	giellaprosjæktaruhta	giellaprošeaktaruhta	0	0	1	0
+@språkprosjektmiddel	giellaprosjæktaruhta	giellaprošeaktaruhta	0	0	1	0
 
-støtteobjekt	doarjjaáhta	doarjjaáhta	11	0	7	0
+@støtteobjekt	doarjjaáhta	doarjjaáhta	11	0	7	0
 
 kunstprosjekt	dájddaprosjækta	dáiddaprošeakta	0	0	1	0
 
 duodjiprosjekt	duodjeprosjækta	duodjeprošeakta	0	0	0	0
 
-fagutviklingsprosjekt	fágaåvddånahttemprosjækta	fágaovddidanprošeakta	0	0	0	0
+fagutviklingsprosjekt	fáhkaåvddånahttemprosjækta	fágaovddidanprošeakta	0	0	0	0
 
-fagkonsulent	fágakonsulænnta	fágakonsuleanta	3	0	1	0
+fagkonsulent	fáhkakonsulænnta	fágakonsuleanta	3	0	1	0
 
 grunnlagsmateriale	duogásjdokumænnta	duogášdokumeanta	8	0	0	0
 
 støtteprosent	doarjjaprosænnta	doarjjaproseanta	0	0	0	0
 tilskuddsprosent	doarjjaprosænnta	doarjjaproseanta	0	0	0	0
 
-emnekart	fáddákártta	fáddákárta	0	0	0	0
+@emnekart	fáddákártta	fáddákárta	0	0	0	0
 
 tilskuddspost	doarjjapoassta	doarjjapoasta	5	0	1	0
 
 støtteapparat	doarjjaapparáhtta	doarjjaapparáhtta	3	0	0	0
 
-energidirektorat	energiddjadirektoráhtta	energiijadirektoráhtta	22	0	9	0
+energidirektorat	energidirektoráhtta	energiijadirektoráhtta	22	0	9	0
 
 språkforbilde	giellaåvddågåvvå	giellaovdagovva	0	0	0	0
 
@@ -157,7 +158,7 @@ sykdomsbilde	dávddagåvvå	dávdagovva	1	0	0	0
 
 sannhetsbilde	duohtavuohtagåvvå	duohtavuođagovva	0	0	0	0
 
-tilskuddsmodell	doarjjamálle	doarjjamálle	0	0	0	0
+@tilskuddsmodell	doarjjamálle	doarjjamálle	0	0	0	0
 
 tilskuddsbrev	doarjjagirjje	doarjjareive	72	0	20	0
 
@@ -165,19 +166,19 @@ tilskuddssøker	doarjjaåhttse	doarjjaohcci	0	0	0	0
 
 kraftpris	fábmohadde	fápmohaddi	0	0	0	0
 
-energikomite	energiddjanammadus	energiijalávdegoddi	0	0	0	0
+energikomite	energinammadus	energiijalávdegoddi	0	0	0	0
 
-etikkutvalg	etijkkanammadus	etihkkalávdegoddi	0	0	0	0
+etikkutvalg	etihkkanammadus	etihkkalávdegoddi	0	0	0	0
 
-finanskomité	finánsanammadus	finánsalávdegoddi	22	0	14	0
+finanskomité	finánssanammadus	finánsalávdegoddi	22	0	14	0
 
-midtrekkverk	gasskaájdde	gaskaáidi	0	0	5	0
+@midtrekkverk	gasskaájdde	gaskaáidi	0	0	5	0
 
 tilskuddsmyndighet	doarjjafábmodus	doarjjaeiseváldi	1	0	0	0
 
-dommerfullmektig	duobmárvállde	duopmárváldi	0	0	0	0
+@dommerfullmektig	duobmárvállde	duopmárváldi	0	0	0	0
 
-pulkjerne	gieresruovdde	gieresruovdi	0	0	0	0
+@pulkjerne	gieresruovdde	gieresruovdi	0	0	0	0
 
 mellomstilling	gasskavirgge	gaskavirgi	0	0	0	0
 
@@ -185,44 +186,44 @@ språkstilling	giellavirgge	giellavirgi	0	0	0	0
 
 kunstfelt	dájddasuorgge	dáiddasuorgi	0	0	5	0
 
-fagområde	fágasuorgge	fágasuorgi	48	0	36	0
+fagområde	fáhkasuorgge	fágasuorgi	48	0	36	0
 
 energisektor	energiddjasuorgge	energiijasuorgi	2	0	0	0
 
 økonomiområde	ekonomiddjasuorgge	ekonomiijasuorgi	0	0	0	0
 økonomiområde	ekonomijasuorgge	ekonomiijasuorgi	0	0	0	0
 
-finanssektor	finánsasuorgge	finánsasuorgi	0	0	0	0
+finanssektor	finánssasuorgge	finánsasuorgi	0	0	0	0
 
 kraftsektor	fábmosuorgge	fápmosuorgi	0	0	0	0
-myndighetsområde	fábmosuorgge	fápmosuorgi	12	0	0	0
+@myndighetsområde	fábmosuorgge	fápmosuorgi	12	0	0	0
 
-sikkerhetssektor	dårvvosuorgge	dorvosuorgi	0	0	0	0
+@sikkerhetssektor	dårvvosuorgge	dorvosuorgi	0	0	0	0
 
-emneområde	fáddásuorgge	fáddásuorgi	0	0	0	0
-temaområde	fáddásuorgge	fáddásuorgi	1	0	0	0
+@emneområde	fáddásuorgge	fáddásuorgi	0	0	0	0
+@temaområde	fáddásuorgge	fáddásuorgi	1	0	0	0
 
 fylkesleder	fylkkajådediddje	fylkkajođiheaddji	2	0	5	0
 
-feltlederstilling	gieddejådediddje	gieddejođiheaddji	0	0	0	0
-feltleder	gieddejådediddje	gieddejođiheaddji	1	0	0	0
+@feltlederstilling	gieddejådediddje	gieddejođiheaddji	0	0	0	0
+@feltleder	gieddejådediddje	gieddejođiheaddji	1	0	0	0
 
-jordbær	ednammuorjje	eanamuorji	1	0	1	0
+@jordbær	ednammuorjje	eanamuorji	1	0	1	0
 
-elitemelk	elihtamielkke	elihtamielki	0	0	0	0
+@elitemelk	elihtamielkke	elihtamielki	0	0	0	0
 
 økonomiaspekt	ekonomiddjabielle	ekonomiijabealli	0	0	0	0
 økonomiaspekt	ekonomijabielle	ekonomiijabealli	0	0	0	0
 
-sikkerhetsaspekt	dårvvobielle	dorvvolašvuođabealli	0	0	0	0
+@sikkerhetsaspekt	dårvvobielle	dorvvolašvuođabealli	0	0	0	0
 
-maktstilling	fábmodille	fápmodilli	0	0	1	0
-kraftsituasjon	fábmodille	fápmodilli	0	0	1	0
-styrkeforhold	fábmodille	fápmodilli	1	0	1	0
+@maktstilling	fábmodille	fápmodilli	0	0	1	0
+@kraftsituasjon	fábmodille	fápmodilli	0	0	1	0
+@styrkeforhold	fábmodille	fápmodilli	1	0	1	0
 
 forskningsverden	dutkeværált	dutkiidmáilbmi	2	0	0	0
 
-kommuneoppgjør	gielldatjielggidus	gielddaidčielggadeapmi	0	0	0	0
+@kommuneoppgjør	gielldatjielggidus	gielddaidčielggadeapmi	0	0	0	0
 
 bakgrunnsutredning	duogásjtjielggidus	duogáščielggadeapmi	0	0	0	0
 
@@ -232,7 +233,7 @@ vinterbruk	dálvveadno	dálvegeavaheapmi	0	0	0	0
 
 kraftforbruk	fábmoadno	fápmogeavaheapmi	0	0	1	0
 
-legemiddelbruk	dálkasadno	dálkkasgeavaheapmi	1	0	1	0
+@legemiddelbruk	dálkasadno	dálkkasgeavaheapmi	1	0	1	0
 
 tilskuddsforvaltning	doarjjaháldadus	doarjjahálddašeapmi	59	0	10	0
 
@@ -240,7 +241,7 @@ dokumentasjonsforvaltning	dokumentasjåvnnåháldadus	dokumentašuvdnahálddaše
 
 midtsamisk	gasskasábme	gaskasápmi	0	0	0	0
 
-fjellsame	duottarsábme	duottarsápmi	10	0	1	0
+@fjellsame	duottarsábme	duottarsápmi	10	0	1	0
 
 duodjiord	duodjebáhko	duodjesátni	0	0	0	0
 
@@ -250,9 +251,9 @@ tilskuddsandel	doarjjaoasse	doarjjaoassi	0	0	1	0
 
 støttenivå	doarjjadásse	doarjjadássi	1	0	1	0
 
-myndighetsnivå	fábmodusdásse	eiseváldedássi	1	0	0	0
+@myndighetsnivå	fábmodusdásse	eiseváldedássi	1	0	0	0
 
-myndighetsnivå	fábmodásse	fápmodássi	1	0	0	0
+@myndighetsnivå	fábmodásse	fápmodássi	1	0	0	0
 
 språkforvirring	giellamåjvve	giellamoivi	0	0	0	0
 
@@ -260,7 +261,7 @@ fylkeslag	fylkkasiebrre	fylkkasearvi	5	0	2	0
 
 dommerforening	duobmársiebrre	duopmársearvi	0	0	0	0
 
-energisak	energiddjaássje	energiijaášši	2	0	1	0
+energisak	energiássje	energiijaášši	2	0	1	0
 
 økonomisak	ekonomiddjaássje	ekonomiijaášši	0	0	0	0
 økonomisak	ekonomijaássje	ekonomiijaášši	0	0	0	0
@@ -269,38 +270,38 @@ tilskuddssak	doarjjaássje	doarjjaášši	3	0	3	0
 
 kunstnerformål	dájddaulmme	dáiddaulbmil	0	0	0	0
 
-energiformål	energiddjaulmme	energiijaulbmil	6	0	0	0
+energiformål	energiulmme	energiijaulbmil	6	0	0	0
 
 støtteformål	doarjjaulmme	doarjjaulbmil	0	0	0	0
 
-fondssøknad	foanndaåhtså	foandaohcan	0	0	0	0
+@fondssøknad	foanndaåhtså	foandaohcan	0	0	0	0
 
-språksøknad	giellaåhtså	giellaohcan	0	0	0	0
+@språksøknad	giellaåhtså	giellaohcan	0	0	0	0
 
-språkprosjektsøknad	giellaprosjæktaåhtså	giellaprošeaktaohcan	0	0	0	0
+@språkprosjektsøknad	giellaprosjæktaåhtså	giellaprošeaktaohcan	0	0	0	0
 
-asylsøknad	dårvvoåhtså	dorvoohcan	0	0	0	0
+@asylsøknad	dårvvoåhtså	dorvoohcan	0	0	0	0
 
-energiutbygging	energiddjahuksen	energiijahuksen	2	0	0	0
+@energiutbygging	energiddjahuksen	energiijahuksen	2	0	0	0
 
-kraftutbygging	fábmohuksen	fápmohuksen	11	0	1	0
+@kraftutbygging	fábmohuksen	fápmohuksen	11	0	1	0
 
-fylkesmøte	fylkkatjoahkke	fylkkačoahkkin	0	0	0	0
+@fylkesmøte	fylkkatjoahkke	fylkkačoahkkin	0	0	0	0
 fylkesmøte	fylkkatjåhkanibme	fylkkačoahkkin	0	0	0	0
 
-temamøte	fáddátjoahkke	fáddáčoahkkin	1	0	1	0
-temamøte	fáddátjåhkanibme	fáddáčoahkkin	1	0	1	0
+@temamøte	fáddátjoahkke	fáddáčoahkkin	1	0	1	0
+@temamøte	fáddátjåhkanibme	fáddáčoahkkin	1	0	1	0
 
-utstyrsanskaffelse	dávveroasste	dávviroastin	1	0	0	0
+@utstyrsanskaffelse	dávveroasste	dávviroastin	1	0	0	0
 
-sykdomsspredning	dávddanjoammo	dávddaidnjoammun	0	0	0	0
+@sykdomsspredning	dávddanjoammo	dávddaidnjoammun	0	0	0	0
 
 kunstområde	dájddabirás	dáiddabiras	1	0	1	0
 
 økonomiregelverk	ekonomiddjanjuolgadus	ekonomiijanjuolggadus	4	0	4	0
 økonomireglement	ekonomiddjanjuolgadus	ekonomiijanjuolggadus	7	0	4	0
-økonomiregelverk	ekonomijanjuolgadus	ekonomiijanjuolggadus	4	0	4	0
-økonomireglement	ekonomijanjuolgadus	ekonomiijanjuolggadus	7	0	4	0
+@økonomiregelverk	ekonomijanjuolgadus	ekonomiijanjuolggadus	4	0	4	0
+@økonomireglement	ekonomijanjuolgadus	ekonomiijanjuolggadus	7	0	4	0
 
 kraftproduksjon	fábmobuvtadus	fápmobuvttadus	5	0	0	0
 
@@ -309,17 +310,17 @@ språkkrav	giellagájbbádus	giellagáibádus	4	0	2	0
 landkrav	ednamgájbbádus	eanagáibádus	0	0	0	0
 
 økonomibestemmelse	ekonomiddjamærrádus	ekonomiijamearrádus	0	0	0	0
-økonomibestemmelse	ekonomijamærrádus	ekonomiijamearrádus	0	0	0	0
+@økonomibestemmelse	ekonomijamærrádus	ekonomiijamearrádus	0	0	0	0
 
 språkbestemmelse	giellamærrádus	giellamearrádus	1	0	1	0
 
-sikkerhetsansvar	dårvvoåvdåsvásstádus	dorvoovddasvástádus	0	0	0	0
+@sikkerhetsansvar	dårvvoåvdåsvásstádus	dorvoovddasvástádus	0	0	0	0
 
-språkseksjon	giellajuohko	giellajuogus	1	0	1	0
+@språkseksjon	giellajuohko	giellajuogus	1	0	1	0
 
-temaundervisning	fáddáåhpadus	fáddáoahpahus	1	0	0	0
+@temaundervisning	fáddáåhpadus	fáddáoahpahus	1	0	0	0
 
-dramaundervisning	drámáåhpadus	drámáoahpahus	0	0	0	0
+dramaundervisning	drámáåhpadibme	drámáoahpahus	0	0	0	0
 
 kunstinstitusjon	dájddaásadus	dáiddaásahus	0	0	1	0
 
@@ -327,56 +328,56 @@ språkpåvirkning	giellavájkudus	giellaváikkuhus	0	0	0	0
 
 støttenæring	doarjjaæládus	doarjjaealáhus	0	0	0	0
 
-finansnæring	finánsaæládus	finánsaealáhus	0	0	0	0
+finansnæring	finansæládus	finánsaealáhus	0	0	0	0
 
 duodjinæring	duodjeæládus	duodjeealáhus	28	0	16	0
 
 kraftnæring	fábmoæládus	fápmoealáhus	0	0	0	0
 
-språktilbud	giellafálaldak	giellafálaldat	7	0	2	0
+språktilbud	giellafálaldahka	giellafálaldat	7	0	2	0
 
-filmtilbud	filmmafálaldak	filbmafálaldat	0	0	0	0
+filmtilbud	filmmafálaldahka	filbmafálaldat	0	0	0	0
 
 filmspørsmål	filmmagatjálvis	filbmagažaldat	0	0	0	0
 
 stønadsperiode	doarjjagávdda	doarjjaáigodat	8	0	4	0
 
-fylkesvåpen	fylkkagåvvå	fylkkagovastat	0	0	0	0
+@fylkesvåpen	fylkkagåvvå	fylkkagovastat	0	0	0	0
 
-tilskuddsmyndighet	doarjjaæjgát	doarjjaeaiggát	1	0	0	0
+@tilskuddsmyndighet	doarjjaæjgát	doarjjaeaiggát	1	0	0	0
 
-energibehov	energiddjadárbbo	energiijadárbu	4	0	0	0
+energibehov	energidárbbo	energiijadárbu	4	0	0	0
 
 kraftbehov	fábmodárbbo	fápmodárbu	0	0	0	0
 
-temaside	fáddásijddo	fáddásiidu	1	0	0	0
+@temaside	fáddásijddo	fáddásiidu	1	0	0	0
 
-språkkunnskap	gielladájddo	gielladáidu	9	0	6	0
+@språkkunnskap	gielladájddo	gielladáidu	9	0	6	0
 
-grunndisponering	ednamhálldo	eanaháldu	1	0	0	0
+@grunndisponering	ednamhálldo	eanaháldu	1	0	0	0
 
-vårfiske	gidábivddo	giđđabivdu	1	0	0	0
+@vårfiske	gidábivddo	giđđabivdu	1	0	0	0
 
 filmarbeid	filmmabarggo	filbmabargu	1	0	3	0
 
-feltoppdrag	gieddebarggo	gieddebargu	0	0	5	0
+@feltoppdrag	gieddebarggo	gieddebargu	0	0	5	0
 
-energisamarbeid	energiddjaaktisasjbarggo	energiijaovttasbargu	1	0	0	0
+energisamarbeid	energiaktisasjbarggo	energiijaovttasbargu	1	0	0	0
 
-handsnøre	giehtaduorggo	giehtaduorgu	0	0	0	0
+@handsnøre	giehtaduorggo	giehtaduorgu	0	0	0	0
 
-fylkesinndeling	fylkkajuohko	fylkkajuohku	0	0	0	0
+@fylkesinndeling	fylkkajuohko	fylkkajuohku	0	0	0	0
 
-jordskifte	ednamjuohko	eanajuohku	37	0	0	0
+@jordskifte	ednamjuohko	eanajuohku	37	0	0	0
 
 støttegruppe	doarjjajuogos	doarjjajoavku	0	0	1	0
 
 sykdomsutgift	dávddagållo	dávdagollu	0	0	0	0
 
-finanskostnad	finánsagållo	finánsagollu	0	0	0	0
-finansutgift	finánsagållo	finánsagollu	2	0	0	0
+finanskostnad	finánssagållo	finánsagollu	0	0	0	0
+finansutgift	finánssagållo	finánsagollu	2	0	0	0
 
-energiforsyning	energiddjafállo	energiijafállu	5	0	0	0
+energiforsyning	energifállo	energiijafállu	5	0	0	0
 
 energiregion	energiddjaguovllo	energiijaguovlu	0	0	0	0
 
@@ -390,31 +391,31 @@ vinterfôr	dálvvebiebbmo	dálvebiebmu	3	0	0	0
 
 fylkesveg	fylkkagæjnno	fylkkageaidnu	43	0	5	0
 
-kunstutdannelse	dájddaoahppa	dáiddaoahppu	0	0	3	0
+@kunstutdannelse	dájddaoahppa	dáiddaoahppu	0	0	3	0
 
-forskerutdannelse	dutkeoahppa	dutkiidoahppu	0	0	0	0
+@forskerutdannelse	dutkeoahppa	dutkiidoahppu	0	0	0	0
 
-forskerutdanning	dutkeoahppa	dutkioahppu	2	0	0	0
+@forskerutdanning	dutkeoahppa	dutkioahppu	2	0	0	0
 
-fagutvalg	fágaárbbedáhpe	fágaárbevierru	33	0	0	0
+@fagutvalg	fágaárbbedáhpe	fágaárbevierru	33	0	0	0
 
 duodjitradisjon	duodjeárbbedáhpe	duodjeárbevierru	1	0	2	0
 
-håndverkstradisjon	giehtaduodjeárbbedáhpe	giehtaduodjeárbevierru	1	0	0	0
+håndverkstradisjon	duodjeárbbedáhpe	giehtaduodjeárbevierru	1	0	0	0
 
-duodjitradisjon	duodjevierro	duodjevierru	1	0	0	0
-håndverkstradisjon	duodjevierro	duodjevierru	1	0	0	0
+@duodjitradisjon	duodjevierro	duodjevierru	1	0	0	0
+@håndverkstradisjon	duodjevierro	duodjevierru	1	0	0	0
 
 bakgrunnskunnskap	duogásjdiehto	duogášdiehtu	1	0	3	0
 bakgrunnsstoff	duogásjdiehto	duogášdiehtu	2	0	3	0
 
 språkkriterium	giellaækto	giellaeaktu	1	0	0	0
 
-dokumentliste	dokumænntalissto	dokumeantalistu	7	0	0	0
+dokumentliste	dokumænntalissta	dokumeantalistu	7	0	0	0
 
 filmforbund	filmmalihtto	filbmalihttu	1	0	0	0
 
-energivare	energiddjagálvvo	energiijagálvu	0	0	0	0
+energivare	energigálvvo	energiijagálvu	0	0	0	0
 
 duodjiprodukt	duodjegálvvo	duodjegálvu	4	0	0	0
 
@@ -422,9 +423,9 @@ dokumentasjonsgrunnlag	dokumænntavuodo	dokumeantavuođđu	2	0	0	0
 
 stipendgrense	doarjjarádjá	doarjjarádjá	0	0	0	0
 
-jordteig	ednambihttá	eanabihttá	0	0	8	0
+@jordteig	ednambihttá	eanabihttá	0	0	8	0
 
-parsell	ednambihttá	eananbihttá	1	0	0	0
+@parsell	ednambihttá	eananbihttá	1	0	0	0
 
 språkmann	giellaulmusj	giellaolmmoš	0	0	1	0
 
