@@ -18,7 +18,8 @@
   otherwise put a ?-symbol before lines that need to be looked at or
   checked further later on. Note: a ? means that whole line-group (ie.
   all lines with that nob-word) is unfinished, not just that exact
-  line.
+  line. Similarly, a minus symbol (-) means the candidate is good, but
+  the Bokmål word is suspicious.
 
 
 * Filename format
