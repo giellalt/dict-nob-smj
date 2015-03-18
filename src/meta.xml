@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictmeta>
+
+  <!-- The ID string for the dictionary -->
+  <id>nobsmj</id>
+
+  <!-- The natural language name(s) for the dictionary -->
+  <name xml:lang="no">Norsk-lulesamisk ordbok</name>
+  <name xml:lang="se">Dáru-julevsámi sátnegirji</name>
+  <name xml:lang="sma">Daaroen-julevsaemien baakoegærja</name>
+  <name xml:lang="smj">Dárro-julevsáme báhkogirjje</name>
+  <name xml:lang="sv">Norsk-lulesamisk ordbok</name>
+
+
+  <!-- Whether the dictionary should be publicly visible or not: -->
+  <public>yes</public>
+
+  <!-- License and copyright: -->
+  <license>CC-BY-SA</license>
+  <copyright>Uspesifisert</copyright>
+
+  <!-- Short, free description -->
+  <description xml:lang="no">
+    <p>Ordboka er utvikla ved Giellatekno frå ei rekkje kjelder,
+    mellom anna ved å samkøyra eksisterande ordbøker.</p>
+  </description>
+
+  <!-- List of languages supported by the dictionary. -->
+  <!-- Each language is identified with ISO 639-2 three-letter codes. -->
+  <!-- Only one source language allowed, but multiple target languages are ok. -->
+  <langs>
+    <srclang>nob</srclang>
+    <trglang>smj</trglang>
+  </langs>
+</dictmeta>
