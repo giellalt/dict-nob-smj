@@ -32,7 +32,7 @@ våres	bievllat	bievlat	3	1	11	0
 
 anstrenge	rahtjat	rahčat	1	188	112	4
 
-mistrives	ahkedussjat	ahkiduššat	0	0	0	0
+@mistrives	ahkedussjat	ahkiduššat	0	0	0	0
 
 runde	jårbbit	jorbet	20	13	2	1
 
@@ -191,7 +191,7 @@ intensivere	intensivierit	intensiveret	11	0	0	0
 
 konservere	konservierit	konserveret	1	0	1	0
 
-avsette	várrit	várret	198	80	154	0
+@avsette	várrit	várret	198	80	154	0
 
 @tjore	vieddit	veaddit	0	9	6	0
 
@@ -245,8 +245,8 @@ overnatte	idjadit	ijastit	12	2	13	1
 
 konkretisere	tjielgastuhttet	čielggadahttit	30	0	0	0
 
-frede	ráfájduhttit	ráfáidahttit	41	0	20	0
-@verne	ráfájdahttit	ráfáidahttit	187	0	20	0
+frede	ráfájduhttet	ráfáidahttit	41	0	20	0
+@verne	ráfájdahttet	ráfáidahttit	187	0	20	0
 
 reise seg	tjuottjánit	čuoččáldahttit	366	0	7	0
 
@@ -254,18 +254,18 @@ svikte	biehttit	beahttit	10	0	24	0
 
 modernisere	ådåsmahttet	ođasmahttit	14	0	154	0
 
-sidestille	báldastahttit	bálddastahttit	4	0	5	0
+@sidestille	báldastahttet	bálddastahttit	4	0	5	0
 
-omgi	birástahttit	birastahttit	2	0	6	0
+omgi	birástahttet	birastahttit	2	0	6	0
 
-jamføre	buohtastahttit	buohtastahttit	6	0	99	0
+jamføre	buohtastahttet	buohtastahttit	6	0	99	0
 
-@samordne	åvtåstahttit	ovttastahttit	123	0	102	0
+@samordne	åvtåstahttet	ovttastahttit	123	0	102	0
 
-innarbeide	sajájduhttit	sajáiduhttit	41	0	2	0
-forankre	sajájduhttit	sajáiduhttit	51	0	2	0
+innarbeide	sajájduhttet	sajáiduhttit	41	0	2	0
+forankre	sajájduhttet	sajáiduhttit	51	0	2	0
 
-skade	vahágahttit	vaháguhttit	205	0	6	0
+skade	vahágahttet	vaháguhttit	205	0	6	0
 
 tilrettelegge	láhtjet dilev	láhčit	133	0	235	0
 
@@ -282,7 +282,7 @@ gro	savvet	savvot	8	3	3	0
 
 @tømre	tsæhkkut	ceahkkut	0	0	2	0
 
-begjære	ádnot	átnut	14	0	22	0
+@begjære	ádnot	átnut	14	0	22	0
 
 @ankomme	sæjvvut	seaivut	3	0	17	0
-lande	sæjvvut	seaivut	519	0	17	0
+lande	sæjvvot	seaivut	519	0	17	0
