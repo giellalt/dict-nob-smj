@@ -1,12 +1,13 @@
+#Det meste her er dårlig, men noe bra etter å ha blitt retta litt opp på
 
-jf.	vrd	vrd	257	0	92	0
+?jf.	vrd	vrd	257	0	92	0
 
 ramme	tjuohtsat	čuohcat	625	0	133	0
 
 konstituere	virggájbidjat	virgáibidjat	21	0	29	0
-tilsette	virggájbidjat	virgáibidjat	42	0	29	0
++tilsette	virggáj bidjat	virgáibidjat	42	0	29	0
 
-anskaffe	háhkat	háhkat	7	0	173	0
++anskaffe	háhkuhit	háhkat	7	0	173	0
 
 uteksperimentere	hutkat	hutkat	0	0	52	0
 
@@ -14,23 +15,23 @@ leke	duhkurdallat	duhkordallat	47	0	0	0
 
 sammenlikne	værddádallat	veardádallat	22	0	16	0
 
-mekle	såbahallat	soabahallat	10	0	1	0
++mekle	såbadallat	soabahallat	10	0	1	0
 
 omhandle	váldahallat	válddahallat	81	0	41	0
 omtale	váldahallat	válddahallat	153	0	41	0
 beskrive	váldahallat	válddahallat	89	0	41	0
 
-hjelpe	vehkahallat	veahkahallat	192	0	1	0
+hjelpe	viehkedit	veahkahallat	192	0	1	0
 
 overkjøre	duolmahallat	duolmmahallat	2	0	1	0
 
-lære	oahpahallat	oahpahallat	1191	0	41	0
++lære	oahppat	oahpahallat	1191	0	41	0
 
-gjennomgå	guorahallat	guorahallat	90	0	432	0
++undersøke	guoradallat	guorahallat	90	0	432	0
 
 skuffe	behtahallat	beahtahallat	7	0	33	0
 
-skylde	siváhallat	sivahallat	89	0	37	0
++skylde	sivádahttet	sivahallat	89	0	37	0
 
 forstå	áddehallat	áddehallat	194	0	4	0
 
@@ -38,7 +39,7 @@ takle	birggehallat	birgehallat	9	0	8	0
 
 avveie	vihkkehallat	vihkkehallat	4	0	2	0
 
-domfelle	dubbmehallat	dubmehallat	1	0	17	0
++domfelle	duobbmidallat	dubmehallat	1	0	17	0
 
 ramme	fáhtehallat	fáhtehallat	625	0	2	0
 
@@ -48,7 +49,7 @@ utveksle	lånuhallat	lonohallat	29	0	34	0
 
 balansere	bisuhallat	bisohallat	25	0	1	0
 
-drepes	gåttåhallat	gottáhallat	0	0	1	0
+drepes	gåtteduvvat	gottáhallat	0	0	1	0
 bli drept	gåttåhallat	gottáhallat	0	0	1	0
 
 avholde	doallat	doallat	117	0	814	0
@@ -65,18 +66,18 @@ imitere	áddestallat	áđđestallat	0	0	3	0
 
 overdrive	lijgástallat	liiggástallat	1	0	0	0
 
-anslå	merusjtallat	meroštallat	30	0	122	0
-beregne	merusjtallat	meroštallat	111	0	122	0
+anslå	merustallat	meroštallat	30	0	122	0
+beregne	merustallat	meroštallat	111	0	122	0
 definere	merusjtallat	meroštallat	124	0	122	0
 forvente	merusjtallat	meroštallat	137	0	122	0
 
-omgås	servusjtallat	servvoštallat	0	0	10	0
++omgås	sæbrástallat	servvoštallat	0	0	10	0
 
 medvirke	mielldedoajmmat	mieldedoaibmat	66	0	1	0
 
 undervurdere	duolmmat	duolbmat	1	0	31	0
-trå	duolmmat	duolbmat	51	0	31	0
-overkjøre	duolmmat	duolbmat	2	0	31	0
++trå	duolmmot	duolbmat	51	0	31	0
++overkjøre	duolmmot	duolbmat	2	0	31	0
 
 overstyre	badjelduolmmat	badjelduolbmat	1	0	1	0
 
@@ -95,7 +96,7 @@ bre	levvat	leavvat	14	0	40	0
 
 bosette	ásájduvvat	ásaiduvvat	101	0	24	0
 
-bli fornorsket	dárujduvvat	dáruiduvvat	0	0	98	0
++bli fornorsket	dárojduvvat	dáruiduvvat	0	0	98	0
 
 systematisere	vuogájduvvat	vuogáiduvvat	16	0	7	0
 
@@ -105,7 +106,7 @@ skifte	lådnåhuvvat	lotnahuvvat	36	0	1	0
 
 innføre	tjálehuvvat	čálihuvvat	199	0	21	0
 
-foregå	dáhpáhuvvat	dáhpáhuvvat	170	0	387	0
+foregå	dáhpáduvvat	dáhpáhuvvat	170	0	387	0
 
 endre	æráhuvvat	earáhuvvat	604	0	7	0
 
@@ -114,7 +115,7 @@ bli frustrert	moaráhuvvat	moaráhuvvat	0	0	1	0
 
 støve	gavjjaluvvat	gavjaluvvat	0	0	0	0
 
-styrke	nanusmuvvat	nanosmuvvat	1141	0	19	0
++styrkes	nanostuvvat	nanosmuvvat	1141	0	19	0
 
 modne	rávásmuvvat	rávásmuvvat	4	0	4	0
 
@@ -122,7 +123,7 @@ bekymre	fuolastuvvat	fuolastuvvat	53	0	9	0
 
 kjede	lájtastuvvat	láittastuvvat	4	0	3	0
 
-forene	åvtåstuvvat	ovttastuvvat	23	0	27	0
++forenes	aktiduvvat	ovttastuvvat	23	0	27	0
 
 forskyve	sirddatjuvvat	sirdašuvvat	4	0	10	0
 
@@ -130,8 +131,8 @@ bekymre	vuorjjatjuvvat	vuorjašuvvat	53	0	8	0
 
 oppfylle	ållåtjuvvat	ollašuvvat	227	0	179	0
 
-drepes	sårmmåtjuvvat	sorbmašuvvat	0	0	0	0
-bli drept	sårmmåtjuvvat	sorbmašuvvat	0	0	0	0
++drepes	sårmmiduvvat	sorbmašuvvat	0	0	0	0
++bli drept	sårmmiduvvat	sorbmašuvvat	0	0	0	0
 dø	sårmmåtjuvvat	sorbmašuvvat	47	0	0	0
 
 forme seg	hábmatjuvvat	hápmašuvvat	0	0	1	0
@@ -145,7 +146,7 @@ plage	giksatjuvvat	giksašuvvat	19	0	2	0
 bekymre	vájvvatjuvvat	váivašuvvat	53	0	5	0
 
 overkjøre	badjelgeahttjat	badjelgeahččat	2	0	47	0
-neglisjere	badjelgeahttjat	badjelgeahččat	3	0	47	0
++neglisjere	badjelgæhttjat	badjelgeahččat	3	0	47	0
 nedprioritere	badjelgeahttjat	badjelgeahččat	6	0	47	0
 
 satse	áŋŋgerussjat	áŋgiruššat	251	0	135	0
@@ -156,7 +157,7 @@ utjevne	jevddit	jevdet	11	0	0	0
 
 stille	tseggit	cegget	447	0	191	0
 
-blogge	blåggit	blogget	2	0	1	0
++blogge	bloaggit	blogget	2	0	1	0
 
 overlevere	gejggit	geiget	21	0	82	0
 avlevere	gejggit	geiget	12	0	82	0
@@ -171,13 +172,13 @@ streike	strejkkit	streiket	1	0	3	0
 
 ferdigstille	válmmit	válbmet	67	2	14	0
 
-domfelle	dubbmit	dubmet	1	0	70	0
++domfelle	duobbmit	dubmet	1	0	70	0
 
 koordinere	åktijornnit	oktiiordnet	84	0	19	0
 
 opptjene	dinit	dinet	0	0	77	0
 
-mene	mejnit	meinet	1940	0	8	0
++mene	miejnnit	meinet	1940	0	8	0
 
 bortvise	gevrrit	gevret	3	0	6	0
 
@@ -194,9 +195,9 @@ boikotte	båjkkuhttit	boikohttet	0	0	4	0
 
 opptre	láhttit	láhttet	29	0	101	0
 
-klappe	spedtjit	spežžet	1	0	0	0
++klappe	spiedtjit	spežžet	1	0	0	0
 
-kjenne	dåvdådit	dovddadit	243	0	24	0
++kjenne	dåbddåt	dovddadit	243	0	24	0
 
 våge	roahkadit	roahkadit	11	0	1	0
 
@@ -210,7 +211,7 @@ nøytralisere	dussjadit	duššadit	0	0	25	0
 
 yte	addit	addit	106	0	1532	0
 
-forklare	tjilggedit	čilgedit	77	0	117	0
++forklare	tjielggit	čilgedit	77	0	117	0
 
 utvikle	gárggedit	gárgedit	1600	0	33	0
 
@@ -220,7 +221,7 @@ forfalle	luskijdit	luskkiidit	16	0	0	0
 
 forsikre	dáhkedit	dáhkidit	10	0	65	0
 
-berømme	rámedit	rámidit	10	0	51	0
++berømme	rámmpot	rámidit	10	0	51	0
 
 overføre	fievredit	fievrridit	241	0	160	0
 
@@ -228,16 +229,16 @@ forveksle	malsedit	malssidit	5	0	0	0
 
 samsvare	åktijvástidit	oktiivástidit	168	0	3	0
 
-portrettere	gåvvedit	govvidit	0	0	114	0
-gjenspeile	gåvvedit	govvidit	42	0	114	0
++portrettere	gåvvit	govvidit	0	0	114	0
++gjenspeile	gåvvit	govvidit	42	0	114	0
 
-bekjempe	vuostaldit	vuosttaldit	20	0	50	0
++bekjempe	vuosteldit	vuosttaldit	20	0	50	0
 
 omfatte	siskeldit	siskkildit	485	0	40	0
 
 oppta	sisáváldit	sisaváldit	81	0	19	0
 
-motta	vuosstáváldit	vuostáváldit	192	0	9	0
++motta	vuosstájválddet	vuostáváldit	192	0	9	0
 
 følge	tjuvudit	čuvodit	1623	0	58	0
 
@@ -257,11 +258,11 @@ trygge	oadjudit	oadjudit	79	0	2	0
 
 delegere	fábmudit	fápmudit	82	0	34	0
 
-minske	unnudit	unnudit	10	0	4	0
++minske	unnedit	unnudit	10	0	4	0
 
 lette	gæhppudit	geahppudit	101	0	3	0
 
-øke	stuorrudit	stuorrudit	1164	0	8	0
++øke	stuoredit	stuorrudit	1164	0	8	0
 
 forutsette	ektudit	eaktudit	231	0	88	0
 
@@ -270,15 +271,15 @@ dempe	lájvvudit	láivudit	12	0	6	0
 
 skade	hávvudit	hávvudit	205	0	0	0
 
-utdype	tjiegŋudit	čiekŋudit	12	0	26	0
++utdype	tjiegŋodit	čiekŋudit	12	0	26	0
 
-konstituere	vuoddudit	vuođđudit	21	0	194	0
++konstituere	vuododit	vuođđudit	21	0	194	0
 
-snevre	gárttjudit	gáržudit	2	0	1	0
++snevre	gártjedit	gáržudit	2	0	1	0
 
 synse	navddit	navdit	2	0	102	0
 
-omsette	vuovddit	vuovdit	15	0	532	0
++omsette	vuobddet	vuovdit	15	0	532	0
 
 fortrenge	eretduvdit	eretduvdit	8	0	0	0
 
@@ -298,22 +299,22 @@ kutte	njiejadit	njiejahit	15	0	0	0
 
 utøve	doajmadit	doaimmahit	128	2	453	0
 
-skolere	oahpadit	oahpahit	157	0	1047	0
-opplære	oahpadit	oahpahit	528	0	1047	0
++skolere	åhpadit	oahpahit	157	0	1047	0
++opplære	åhpadit	oahpahit	528	0	1047	0
 
-mistenke	sivádit	sivahit	0	0	67	0
++mistenke	sivádit	sivahit	0	0	67	0
 
 hilse	dervadit	dearvvahit	8	0	15	0
 
 forutsette	åvddedit	ovdehit	231	0	4	0
 
-trene	hárjjedit	hárjehit	15	0	201	0
++trene	hárjjidallat	hárjehit	15	0	201	0
 
 opptre	tjájedit	čájehit	29	0	1151	0
 
 anerkjenne	dåhkkedit	dohkkehit	88	0	752	0
 
-fullføre	ålledit	ollehit	52	0	17	0
++fullføre	ållidit	ollehit	52	0	17	0
 
 flytte	fárredit	fárrehit	212	0	52	0
 
@@ -356,18 +357,18 @@ intensivere	hoahpudit	hoahpuhit	11	0	9	0
 
 skattlegge	verudit	vearuhit	0	0	6	0
 
-sy	goarudit	goaruhit	13	0	5	0
++sy	goarrot	goaruhit	13	0	5	0
 
-vektlegge	dettudit	deattuhit	11	0	584	0
-understreke	dettudit	deattuhit	239	0	584	0
++vektlegge	dættodit	deattuhit	11	0	584	0
++understreke	dættodit	deattuhit	239	0	584	0
 
 minne	mujtudit	muittuhit	66	0	119	0
 
-foreslå	evtudit	eavttuhit	573	0	125	0
++foreslå	ævtodit	eavttuhit	573	0	125	0
 
 identifisere	dåvddådit	dovdáhit	57	0	5	0
 
-premiere	bálkkádit	bálkáhit	5	0	46	0
++premiere	bálkkit	bálkáhit	5	0	46	0
 engasjere	bálkkádit	bálkáhit	56	0	46	0
 
 hoie	hujkkit	huikit	0	0	17	0
@@ -387,20 +388,20 @@ si	tsielkkelit	cealkilit	1008	0	0	0
 
 registrere	sisátjállit	sisačállit	274	0	5	0
 
-følge etter	tjuovvulit	čuovvulit	0	0	255	0
-følge	tjuovvulit	čuovvulit	1623	0	255	0
++følge etter	tjuovvolit	čuovvulit	0	0	255	0
++følge	tjuovvolit	čuovvulit	1623	0	255	0
 
 fragmentere	hágganit	hágganit	4	0	1	0
 
-øyne	oajnnit	oaidnit	16	0	1547	0
++øyne	vuojnnet	oaidnit	16	0	1547	0
 
 nedsette	fuodnánit	fuotnánit	85	0	2	0
 
 skille	spiehkkasit	spiehkkasit	120	0	9	0
 
-oppdra	bajásgeassit	bajásgeassit	2	0	23	0
++oppdra	bajásgiesset	bajásgeassit	2	0	23	0
 
-møte frem	boahtit	boahtit	0	0	2135	0
++møte frem	boahtet	boahtit	0	0	2135	0
 
 vie	nájttit	náitit	2138	0	5	0
 
@@ -426,8 +427,8 @@ differensiere	tsæhkkálastit	ceahkkálastit	20	0	0	0
 
 inkorporere	sisskálastit	siskálastit	14	0	0	0
 
-gå i mot	vuosstálastit	vuostálastit	0	0	75	0
-bekjempe	vuosstálastit	vuostálastit	20	0	75	0
++gå i mot	vuosstálasstet	vuostálastit	0	0	75	0
++bekjempe	vuosstálasstet	vuostálastit	20	0	75	0
 
 avholde	tjoahkkemastit	čoahkkimastit	117	0	2	0
 
@@ -441,8 +442,8 @@ nummerere	nummarastit	nummarastit	2	0	6	0
 
 nummerere	nummárastit	nummárastit	2	0	0	0
 
-framheve	dettastit	deattastit	24	0	8	0
-understreke	dettastit	deattastit	239	0	8	0
++framheve	dættodit	deattastit	24	0	8	0
++understreke	dættodit	deattastit	239	0	8	0
 
 konsolidere	åvtåstit	ovttastit	7	0	490	0
 
@@ -468,7 +469,7 @@ forplikte	giednegahttit	geatnegahttit	101	0	120	0
 
 vanære	iehpegudnejahttit	eahpegudnejahttit	0	0	0	0
 
-hedre	guddnijahttit	gudnijahttit	6	0	6	0
++hedre	guddnit	gudnijahttit	6	0	6	0
 
 effektivisere	bævtálmahttit	beavttálmahttit	38	0	11	0
 
@@ -487,7 +488,7 @@ vanskeliggjøre	váttásmahttit	váttásmahttit	12	0	3	0
 
 knekke	vuollánahttit	vuollánahttit	1	0	1	0
 
-øke	lassánahttit	lassánahttit	1164	0	3	0
++øke	lasedit	lassánahttit	1164	0	3	0
 
 blottstille	almustahttit	almmostahttit	0	0	1	0
 
@@ -503,7 +504,7 @@ endre	æráhuhttit	earáhuhttit	604	0	4	0
 
 forankre	ruohtastuhttit	ruohtastuhttit	51	0	0	0
 
-synliggjøre	tjalmustuhttit	čalmmustuhttit	166	0	9	0
++synliggjøre	tjalmostahttet	čalmmustuhttit	166	0	9	0
 
 ryste	hirmástuhttit	hirpmástuhttit	1	0	13	0
 
@@ -513,7 +514,7 @@ forberede	válmasjtit	válmmaštit	66	0	34	0
 
 ane	ávasjtit	ávaštit	21	0	1	0
 
-dokumentere	duodasjtit	duođaštit	237	0	464	0
++dokumentere	duodastit	duođaštit	237	0	464	0
 
 sambo	elusjtit	eloštit	10	0	1	0
 
@@ -526,10 +527,10 @@ frarå	hujggátjit	huigášit	0	0	0	0
 merke	fuobmátjit	fuopmášit	190	0	8	0
 registrere	fuobmátjit	fuopmášit	274	0	8	0
 
-samle	tjåggut	čoggot	303	0	10	0
++samle	tjoagget	čoggot	303	0	10	0
 påløpe	tjåggut	čoggot	8	0	10	0
 
-berømme	rábbmut	rábmot	10	0	35	0
++berømme	rámmpot	rábmot	10	0	35	0
 
 skaffe	skáhpput	skáhppot	110	0	15	0
 levere	skáhpput	skáhppot	182	0	15	0
@@ -547,11 +548,11 @@ presentere	åvddåndivvut	ovdandivvut	121	0	5	0
 
 strekke	vagŋut	vakŋut	33	0	0	0
 
-flytte	sirddát	sirdát	212	0	17	0
++flytte	sirddet	sirdát	212	0	17	0
 
-gjenkjenne	dåvddåt	dovdát	6	0	64	0
++gjenkjenne	dåbddåt	dovdát	6	0	64	0
 
-lyse	tjuovggát	čuovgát	90	0	3	0
++lyse	tjuovggat	čuovgát	90	0	3	0
 
 sage	sahát	sahát	4	0	7	0
 
