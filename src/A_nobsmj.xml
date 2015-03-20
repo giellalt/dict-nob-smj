@@ -1,0 +1,2409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="nobsmj" xml:lang="nob">
+  <e>
+    <lg>
+      <l pos="A" src="fad">ideell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">ideála</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">fast</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">fássta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sakte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">njoahtse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sped</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">siegge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">doven</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">lájkke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">velfungerende</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">doajmme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">bærekraftig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">guoddel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">arbeidsom</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">bargál</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">søvnig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">vájbas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sirkulær</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">jårbås</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">rund</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">jårbås</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">opphetet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">báhkas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ydmyk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">njuoras</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">moro</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">suohtas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sjenerøs</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">árvas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">omfattende</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">vijdes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">direkte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">njuolggat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">mye</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">ållo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">mange</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">ållo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ond</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">bahá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">grammatisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">grammatihkalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">journalistisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">journalistalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">lingvistisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">gielladiedalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">finsk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">suobmelasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ordinær</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dábálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">allmenn</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dábálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">treårig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">gålmåjahkásasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">eksisterende</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dálásj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">abstrakt</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">abstrákta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">akademisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">akademalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">arkeologisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">arkeolåvgålasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">didaktisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">didaktalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ekstern</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">ålgoldis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">enerådende</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">akturádálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">flerårig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">moattejahkásasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">formell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">formálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">fornybar</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">ådåsmahtte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">fremtidsrettet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">boahtteájggásasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">funksjonell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dåjmalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">geografisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">geografalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">geologisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">geolåvgålasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">hensiktsmessig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">ávkálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">interkommunal</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">suohkanijgasskasasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kollektiv</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">aktisasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">landsdekkende</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">rijkavijddásasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">landsomfattende</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">rijkavijddásasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">mekanisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">mekánalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">mellomstatlig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">rijkajgasskasasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">minimal</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">minimálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">parlamentarisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">parlamentáralasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">prinsipiell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">prinsihpalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">privat</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">priváhta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">produktiv</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">produktijvalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">retorisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">retorihkalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">rosa</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">guovggisruoppsat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">skjønnlitterær</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">tjáppagirjálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">smittsom</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dæhppulis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sosiokulturell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">sosiokultuvralasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">statistisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">statistihkalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">strukturell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">struktuvralasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">syntetisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">syntehtalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tapper</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">gierddis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">teknisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">teknihkalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">teologisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">teolåvgålasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ufullstendig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">iehpedievalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">unaturlig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">iehpeluondulasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">universell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">gájkkásasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">visuell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">visuálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">mer</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">ienep</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">enig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">avtamielalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tilfreds</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dudálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sist</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">maŋemus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">særlig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">sierralágásj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ekstensiv</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">ekstensijva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">alternativ</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">alternatijva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">innovativ</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">innovatijva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">deduktiv</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">deduktijva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">mer</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">ienep</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">samisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">sámegiella</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">samisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">sábme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">real</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">reála</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">reell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">reála</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">uformell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">iehpeformálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">unormal</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">iehpenormálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">regional</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">regionálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">liberal</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">liberála</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">nøytral</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">neutrála</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">audiovisuell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">audiovisuálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">relevant</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">relevánnta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">eksklusiv</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">eksklusijva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kumulativ</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">kumulatijva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">representativ</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">representatijva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">subjektiv</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">subjektijva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kort</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">oadne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">intelligent</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">jiermmá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">oppegående</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">jiermmá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">effektiv</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">doajmmel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">funksjonssikker</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">doajmmel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">krevende</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">gájbbedahkes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">uviss</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">iehpevisses</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">usikker</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">iehpevisses</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">fremre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">åvdemus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">deilig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">njálgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">flerspråklig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">moattegielak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">trespråklig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">gålmågielak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">enspråklig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">åvtågielak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">samisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">sámegielak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">mangeartet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">moattesuorak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">fremre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">åvdep</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">overordnet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">bajep</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">djerv</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">jállo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">elektronisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">elektråvnålasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">genetisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">genetihkalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">likestillingspolitisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dássáduspolitihkalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">flerspråklig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">moattegielalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">enspråklig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">åvtågielalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">enig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">åvtåmielalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">finansiell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">rudálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">utradisjonell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">iehpedábálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">uvanlig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">iehpedábálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">harmonisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">ráfálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">litterær</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">girjálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">toårig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">guovtejahkásasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">analog</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">análåvggå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">føderal</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">føderálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">bilateral</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">bilaterálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">heterogen</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">heterogedna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">framvoksende</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">sjaddel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">langsiktig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">guhkesájggásasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tilsvarende</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">vásstediddje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">representativ</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">åvdåstiddje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">hjerteskjærende</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">vájmobávtjagahtte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">anvendbar</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">anedahtte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">anvendelig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">anedahtte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sentral</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">guovddelis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">forskjellig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">ietjálágásj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">uavklart</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">iehpetjielgas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">var</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">várrogis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ensom</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">aktugasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">første</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">vuostasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">mangeartet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">moatteslájak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">mangeartet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">moattebelak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kvensktalende</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">kvenagielak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">firespråklig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">nieljegielak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">norsktalende</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dárogielak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">norsk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dárogielak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">nynorsk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">åddådárogielak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">positiv</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">miehtemielak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">flerkulturell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">moattekultuvrak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">trekulturell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">gålmåkultuvrak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tidlig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">árrat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">femte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">vidát</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">mer</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">ienep</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">trist</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">ahket</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ytre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">ålgop</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ensartet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">åvtålágasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">fleretnisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">moattetjerdalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">praktisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">praktihkalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">innenlandsk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">sisrijkalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">norsk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dárogielalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">driftsmessig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dåjmalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">handlekraftig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dåjmalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">nasjonal</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">nasjåvnålasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">arktisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">árktalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">subarktisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">subárktalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">humanistisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">humanistalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">samisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">sábmelasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">regional</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">guovlulasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">norsk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dárulasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">midlertidig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">gasskabåddåsasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">foreløpig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">gasskabåddåsasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">midlertidig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">båddåsasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">likeverdig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dássásasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">likeverdig</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dássásasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">aktiv</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">dåjmalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">primær</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">åvdemus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">overordnet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">bajemus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sist</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="A">maŋemus</t>
+      </tg>
+    </mg>
+  </e>
+  <!-- Bad suggestions, remove next time round: 
+sentral ::: guovdásjlasj
+kunnskapsdrevet ::: máhttuvuojmálasj
+tydelig ::: tjalmus
+konstitusjonell ::: kånsstetutionála
+konstitusjonell ::: vuoddulágalasj
+minoritetsspråklig ::: unnetlogugielak
+balansert ::: dássedettolasj
+relativ ::: relátijva
+relativ ::: relátijvvalasj
+avgjørende ::: mierredeaddje
+umistelig ::: massekeahtes
+umistelig ::: vierddetmeahttun
+humanitær ::: humánitára
+humanitær ::: humániteara
+langermet ::: guhkessoajak
+kjemisk ::: kemijjalasj
+forutsigbar ::: vuordehahtte
+forutsigbar ::: diehttevasj
+forutsigbar ::: vuorddevasj
+ulik ::: sierralágan
+kunnskapsintensiv ::: máhttujntensijva
+skeptisk ::: iehpedahtte
+uheldig ::: iehpeojddolasj
+uheldig ::: hejvvemeahttun
+norrøn ::: nårrøna
+presis ::: ajdulasj
+tilfreds ::: duhtavasj
+uengasjerende ::: iehpemovttijdahtte
+utdanningsskadelidende ::: oahppuvájllak
+mangelfull ::: vájlevasj
+populærvitenskapelig ::: påpulearadiedalasj
+uslitelig ::: gierddevasj
+arkeologisk ::: arkkeologalasj
+arkeologisk ::: arkkeolåvggålasj
+mangfoldig ::: sláddjás
+tredobbelt ::: gålmågeardásasj
+rådgivende ::: ráddeadde
+meningsløs ::: ulmmelmeahttun
+meningsløs ::: ulmeheapme
+urørt ::: guosskameahttun
+spesialpedagogisk ::: erenoamásjpedagåvggålasj
+spesialpedagogisk ::: erenoamásjpedagogalasj
+eksplisitt ::: eksplesihtta
+ikke-statlig ::: ij-stáhtalasj
+ekte ::: iekte
+uendelig ::: nåhkåmeahttun
+regional ::: regiovnalasj
+omtenksom ::: fuolalasj
+allsidig ::: moattebeallásasj
+allsidig ::: moattebealálasj
+oversiktlig ::: tjalmus
+medisinsk ::: dálkaslasj
+uforsonlig ::: soahpameahttun
+distriktspsykiatrisk ::: guovlupsykiátralasj
+trivelig ::: guojmmáj
+motstridende ::: vuosstálas
+konstruktiv ::: huksejeaddje
+konstruktiv ::: kånstruktijva
+konstruktiv ::: kånstruktijvvalasj
+konstruktiv ::: bajásráhkadeaddje
+konstruktiv ::: ráhkaduslasj
+samarbeid ::: åvtåsrádijd
+rødgrønn ::: ruksesruoná
+samfunnsmessig ::: servvudatlasj
+interkommunal ::: gieldajdgaskasasj
+maksimal ::: maksemála
+jevn ::: jámmes
+sedvanlig ::: virulasj
+parallell ::: báldalas
+teknisk ::: teknalasj
+jevnaldrende ::: semmaahkásasj
+alternativ ::: målsåevtto
+alternativ ::: allternatijva
+liberalistisk ::: liberálalasj
+modig ::: arvvel
+forskjellig ::: sierralágan
+forskjellig ::: goabbatlágan
+holdbar ::: doallevasj
+åpenbar ::: tjalmus
+rask ::: álsjalasj
+kritikkverdig ::: moajtehahtte
+lik ::: åvtålágan
+lik ::: semmalágan
+lik ::: åvtåsturrosasj
+lik ::: semmadásak
+målrettet ::: mierredidolasj
+konkret ::: kånkrehtalasj
+uoffisiell ::: iehpealmolasj
+relevant ::: ássjájgullevasj
+relevant ::: ássjájsoahppevasj
+relevant ::: ássjájguoskevasj
+relevant ::: tjuodtjuvasj
+intellektuell ::: inntellektuála
+psykisk ::: psykehkalasj
+psykisk ::: silulasj
+førhistorisk ::: åvddåhistorjjálasj
+uomtvistelig ::: tjabutjielggas
+kontinental ::: kånntenentála
+aktuell ::: guovddel
+voldelig ::: vehkaválddálasj
+føre var ::: várrugas
+dogmatisk ::: dågmåhtalasj
+løpende ::: åkteles
+løpende ::: jåtkkulasj
+rettferdig ::: njuolgalasj
+dobbelt ::: duppal
+enerådende ::: aktu ráddit
+enerådende ::: (aktu)ráddijiddje
+diakritisk ::: diakrehtalasj
+deduktiv ::: deduktijva
+dyrkbar ::: gilvehahtte
+dobbel ::: duppal
+dobbel ::: duppalgeardásasj
+levedyktig ::: birggenvejolasj
+levedyktig ::: iellenfámolasj
+levedyktig ::: elaskas
+ikke-kommersiell ::: iehpegávppálasj
+fremtidsrettet ::: boahtteájggedidolasj
+uforståelig ::: ibmermeahttun
+ekstern ::: ålguldas
+ekstern ::: ålgop
+kronisk ::: guhkálmas
+kontinuerlig ::: joatkevasj
+kontinuerlig ::: jåtkkulasj
+anstendig ::: ávdalasj
+rådløs ::: rádeheapme
+retorisk ::: returalasj
+kursiv ::: kurssijva
+yrkesaktiv ::: barggunávttsalasj
+produktiv ::: buktagis
+produktiv ::: pråduktijva
+produktiv ::: pråduktijvvalasj
+urimelig ::: vuojggatmeahttun
+urimelig ::: gåvtuheapme
+ulønnsom ::: gánnáhahtekeahtes
+landbrukspolitisk ::: enadoallopolitihkalasj
+landbrukspolitisk ::: enandoallopolitihkalasj
+kompetent ::: gelbulasj
+kontroversiell ::: kåntruversiealla
+oppmerksom ::: fuolalasj
+opprinnelig ::: álggoálgosasj
+yrkesfaglig ::: fiddnufágalasj
+konkurransepolitisk ::: gilvvupolitihkalasj
+dansk-norsk ::: dánsska-nårgå
+sportslig ::: falle
+interaktiv ::: innteraktijva
+fornybar ::: ådåsmuvve
+subsidiær ::: subsediáralasj
+subsidiær ::: subsediára
+uregelmessig ::: jevdaheapme
+solidarisk ::: såledáralasj
+multihandikappet ::: moattesivavulosj
+ufør ::: barggunávttsaheapme
+engelsk ::: æŋŋgalasgielak
+ubesvart ::: vásstetkeahtes
+operativ ::: åperatijva
+operativ ::: åperatijvvalasj
+betenkelig ::: iehpedahtte
+karrig ::: sjattuheapme
+ineffektiv ::: iehpedoajmme
+forretningsmessig ::: gávpálasj
+forretningsmessig ::: fidnudatlasj
+umyndig ::: vuolleahkásasj
+halvårig ::: jahkebeallásasj
+heldig ::: lihkkusj
+mørkeblå ::: tjåhkkesalep
+urettmessig ::: iehperievttalasj
+fremre ::: åvdemusj
+rampet ::: hilbbak
+minimal ::: minemála
+rosa ::: guvggesruoksak
+human ::: humána
+robust ::: stargas
+positiv ::: buorremiella
+kompleks ::: moattedáfo
+arbeidsrettslig ::: barggurievttálasj
+nevenyttig ::: vuohkkáj
+nominell ::: nåmenealla
+nominell ::: nåmenála
+kjønnsrelatert ::: såhkåbealguoskevasj
+ugift ::: nájttalkeahtes
+akutt ::: fáhkka
+akutt ::: fáhkkatlasj
+universell ::: almulasj
+universell ::: uneversála
+intensiv ::: inntensijva
+enkel ::: æŋŋkal
+enkel ::: gæhppasep
+landsdekkende ::: miehtárijkasasj
+landsdekkende ::: rijkavijdosasj
+katolsk ::: katulihkalasj
+urettferdig ::: vuojggatmeahttun
+urettferdig ::: vánhurskismeahttun
+urettferdig ::: iehperehálasj
+kommunal ::: gieldalasj
+stødig ::: starggak
+akademisk ::: akádemihkalasj
+lytefri ::: vigeheapme
+fullverdig ::: ållesárvosasj
+mental ::: menntála
+mental ::: silulasj
+entydig ::: åvtåtjilggolasj
+fåfengt ::: ávkeheapme
+uholdbar ::: dåhkketmeahttun
+arbeidsledig ::: barguheapme
+byråkratisk ::: byrukráhtalasj
+kompromissløs ::: soahpameahttun
+nedslått ::: slunnde
+kollegial ::: kållegiála
+utdanningsskadelidt ::: oahppuvájllak
+beskjeden ::: udjo
+hensiktsmessig ::: hejvulasj
+hensiktsmessig ::: ulmmelasj
+utsatt ::: hierkke
+utsatt ::: suojeheapme
+halvmørk ::: germus
+hardhjertet ::: garravájmo
+prosessuell ::: pråsessuála
+upersonlig ::: iehpepersovnalasj
+sammensatt ::: sægásj
+utadvendt ::: roahkkat
+urasjonell ::: iehpeulmmilasj
+svensk ::: ruotagielak
+høytidelig ::: allaájggálasj
+etterspurt ::: åhtsålas
+kvalitativ ::: kvaletatijvvalasj
+unødig ::: dárbasjmeahttun
+norsk-russisk ::: nårgå-ruossja
+norsk-russisk ::: nårggålasj-ruossjalasj
+regulær ::: virulasj
+langvarig ::: guhkelmas
+langvarig ::: guhketájgásasj
+langvarig ::: bisstel
+mangedobbel ::: moattegeardásasj
+attraktiv ::: gesuheaddje
+attraktiv ::: bivno
+usaklig ::: ássjeheapme
+mindreårig ::: agevulosj
+mindreårig ::: vuolleahkahasj
+innovativ ::: innuvatijva
+treffsikker ::: diejvvel
+åndssvak ::: miellavájllak
+uskyldig ::: ássjeheapme
+yrkesrettet ::: fidnufágalasj
+smidig ::: njuovttjel
+epidemiologisk ::: epedemiologalasj
+epidemiologisk ::: epedemiolåvggålasj
+skjematisk ::: skåvålasj
+marginal ::: marggenála
+marginal ::: birtseheapme
+marginal ::: birtsas
+norsk ::: nårggålasj
+norsk ::: nårgå
+norsk ::: dárugiel
+krigshistorisk ::: soahtehistorjjálasj
+primitiv ::: primetijvvalasj
+primitiv ::: åktågeardán
+statistisk ::: statestalasj
+særlig ::: váseden
+særlig ::: erenoamásj
+uendret ::: rievddatkeahtes
+ærbødig ::: guddnebalolasj
+korporativ ::: kårppuratijva
+normativ ::: nårmåtijva
+kontradiktorisk ::: kåntrådiktoralasj
+livskraftig ::: elesj
+materiell ::: ávnaslasj
+tropisk ::: tråhpålasj
+strukturell ::: struktuvrralasj
+strukturell ::: ráhkaduslasj
+ekspansiv ::: ekspansijva
+ekspansiv ::: vijddáneaddje
+initiativrik ::: ælljár
+samisk ::: sámás
+syntetisk ::: synntehtalasj
+grei ::: buorremenolasj
+nynorsk ::: åddådárogiel
+sammenhengende ::: jåtkkulasj
+gjenstridig ::: nággár
+velvillig ::: buorredáhtolasj
+moderat ::: muttulasj
+unyansert ::: iehpedárkel
+naturhistorisk ::: luonduhistorjjálasj
+industriell ::: inndustrijjalasj
+industriell ::: inndustriála
+anonym ::: namáheapme
+anonym ::: anunyma
+uskreven ::: tjáletkeahtes
+militær ::: miletearalasj
+variert ::: moattebealálasj
+variert ::: målsulasj
+variert ::: girjjáj
+amerikansk ::: amerihká
+ufrivillig ::: iehpedáhtolasj
+rasistisk ::: rasestalasj
+meddelsom ::: hálláj
+dum ::: gájgas
+tidkrevende ::: áddjáj
+glemsk ::: mujtuhuvvak
+glemsk ::: mujtuheapme
+glemsk ::: mujtuhuvvan
+profesjonell ::: fiddnumáhtolasj
+profesjonell ::: fidnulasj
+livlig ::: elaskas
+ugrunnet ::: vuoduheapme
+funksjonell ::: doajmme
+funksjonell ::: funktionála
+formidabel ::: máduheapme
+baltisk ::: bálltalasj
+grønlandsk ::: ruonáeatnanlasj
+sosiokulturell ::: såsiokultuvrralasj
+uhensiktsmessig ::: ulmeheapme
+interdepartemental ::: depártemeanttajdgaskasasj
+nedadgående ::: njieddje
+folkelig ::: ålmutjeaddjáj
+jordbrukspolitisk ::: enandoallopolitihkalasj
+skjønnlitterær ::: tjáppagirjjálasj
+avbalansert ::: dássálas
+diplomatisk ::: diplumáhtalasj
+matematisk ::: matemáhtalasj
+offensiv ::: åffensijvvalasj
+offensiv ::: åffensijva
+offensiv ::: alvalasj
+optimistisk ::: åptemistalasj
+frisisk ::: frisálasj
+permanent ::: bissuvasj
+permanent ::: bisstevasj
+passiv ::: passijvvalasj
+ubebodd ::: ávdden
+ensidig ::: åvtåbeallásasj
+representativ ::: åvdåstuslasj
+kulturpolitisk ::: kullturpolitihkalasj
+prinsipiell ::: prinnsepiála
+prinsipiell ::: prinnsehpalasj
+helårig ::: birrajagásj
+selvstendig ::: iesjbergejeaddje
+forvirrende ::: måjvås
+landsomfattende ::: rijkavijdosasj
+geologisk ::: geolugalasj
+fleksibel ::: njuovttjel
+langsiktig ::: guhkesájgásasj
+langsiktig ::: guhketájgásasj
+midlertidig ::: gasskaájgásasj
+fysisk ::: fysehkalasj
+fysisk ::: rumasjlasj
+redaksjonell ::: doajmahuslasj
+redaksjonell ::: redáktjuvnalasj
+likeverdig ::: semmoárvosasj
+likeverdig ::: åvtåárvosasj
+likeverdig ::: åvtåveardásasj
+emosjonell ::: dåvddujtjuohttse
+gjensidig ::: guovtebeallásasj
+gjensidig ::: guovtebealak
+uttallig ::: låhkåmeahttun
+uverdig ::: árvuheapme
+uverdig ::: gudneheapme
+observant ::: ájttsavasj
+seksuell ::: seksoála
+rasjonell ::: rasjuvnalasj
+rasjonell ::: ulmmelasj
+tragisk ::: suorgatlasj
+leksikalsk ::: leksekála
+subjektiv ::: subjektijvvalasj
+virtuell ::: virttoála
+autentisk ::: autenttalasj
+interessant ::: berusjtahtte
+trofast ::: åskåldas
+polar ::: pålåra
+internasjonal ::: innternasjuvnalasj
+analog ::: análoga
+reindriftsfaglig ::: boatsudoallofágalasj
+hektisk ::: dileheapme
+nautisk ::: nautalasj
+legendarisk ::: bækkálmas
+lønnsom ::: gánnehahtte
+brå ::: fáhkka
+signifikant ::: signefikánta
+personalpolitisk ::: barggijdpolitihkalasj
+avdragsfri ::: oassemávssekeahtes
+uspesifisert ::: iehpedárkel
+uspesifisert ::: dárkkelmeahttun
+utilbørlig ::: hejvvetmeahttun
+sosial ::: såsiálalasj
+avdød ::: råhkke
+moderne ::: åddåmálle
+ambisiøs ::: guddneáŋger
+uønsket ::: sávákeahtes
+uønsket ::: iehpesávahahtte
+multifunksjonell ::: mulltefunktionála
+immateriell ::: vuojŋalasj
+immateriell ::: iehpeávnaslasj
+tidsriktig ::: åddåájgásasj
+psykosomatisk ::: psykusomáhtalasj
+treffende ::: diejvvel
+populær ::: bivno
+visuell ::: visoálalasj
+blinkende ::: sjælggak
+uttrykkelig ::: váldálasj
+rede ::: válmasj
+germansk ::: germánalasj
+teologisk ::: teolugalasj
+streng ::: goavve
+likegyldig ::: berusjmeahttun
+tilsvarende ::: vástulasj
+tilsvarende ::: sullasasj
+tilsvarende ::: semmalágan
+tilsvarende ::: semmasullasasj
+imøtekommende ::: ålmutjaddjáj
+mer ::: ienebuv
+mer ::: æmbo
+næringssvak ::: návttsaheapme
+ugyldig ::: iehpegustojeaddje
+privatrettslig ::: priváhtarievttálasj
+kollektiv ::: kållektijvvalasj
+ukritisk ::: árvusjtalakeahtes
+ubalansert ::: iehpedásse
+negativ ::: negátijvvalasj
+negativ ::: njieddje
+trådløs ::: jådåskeahtes
+karismatisk ::: karesmáhtalasj
+bakvendt ::: jårgo-
+global ::: glåbålalasj
+global ::: glåbåla
+høflig ::: buorremenolasj
+mistenksom ::: iehpedeaddje
+fortvilt ::: várnuheapme
+angjeldende ::: gusstujeaddje
+maritim ::: maretijma
+maritim ::: maretijmma
+homogen ::: håmugena
+tapper ::: oaván
+etnisk ::: ednehkalasj
+privat ::: priváhtalasj
+demografisk ::: demugráfalasj
+målretta ::: mierredidolasj
+individuell ::: inndeviduála
+individuell ::: inndeviduálalasj
+individuell ::: åktågaslasj
+mellomstatlig ::: stáhtajdgaskasasj
+formell ::: fårmåla
+formell ::: hámulasj
+grenseløs ::: rájáheapme
+uklar ::: sedus
+pertentlig ::: fuolalasj
+tveegget ::: guovteávjjo
+kreativ ::: krietijvvalasj
+håpløs ::: várnuheapme
+urolig ::: ráfeheapme
+utradisjonell ::: ij-árbbevirolasj
+morfofonologisk ::: mårffufonolåvggålasj
+morfofonologisk ::: mårffufonologalasj
+hørselshemmet ::: guluheapme
+brukervennlig ::: áddehahtte
+cirkumpolar ::: tsirkkumpolára
+viss ::: dihtulágan
+religiøs ::: åskuldatlasj
+etnografisk ::: ednugráfalasj
+verdslig ::: májlmmálasj
+traumatisk ::: traumáhtalasj
+periodisk ::: ájggudatlasj
+prektig ::: ebbmuj
+didaktisk ::: didákttalasj
+organisatorisk ::: årggånisatuvrralasj
+liberal ::: liberálalasj
+liberal ::: frijjahápmásasj
+skattefri ::: veruheapme
+elektrisk ::: elektralasj
+kommersiell ::: kåmmersiála
+kommersiell ::: kåmmersiealla
+kommersiell ::: gávpálasj
+krevende ::: gájbbedeaddje
+nasjonal ::: rijkagottálasj
+nasjonal ::: nationálalasj
+nasjonal ::: sisrijkkalasj
+lang ::: guhkkusasj
+magisk ::: magehkalasj
+urovekkende ::: baldehahtte
+topografisk ::: tåpugráfalasj
+optimal ::: åptemála
+empirisk ::: emmperalasj
+sørsamisk ::: oarjjelsámegiel
+sørsamisk ::: máttasámegielak
+orange ::: åråntja
+vepsisk ::: vepsalasj
+indre ::: siskep
+velordnet ::: årnetlasj
+opposisjonell ::: nággár
+uvirkelig ::: jurdasjmeahttun
+konkurransedyktig ::: gilvvuvuojmálasj
+geografisk ::: ednandiedalasj
+synkende ::: njieddje
+psykososial ::: psykusosiálalasj
+psykososial ::: psykusosiála
+diagnostisk ::: diagnustalasj
+uidentifiserbar ::: dåvddåmeahttun
+sosioøkonomisk ::: såsioekonåvmmålasj
+sosioøkonomisk ::: såsioekonomalasj
+somatisk ::: såmåhtalasj
+framsynt ::: oajnnel
+uoppdragen ::: oahppameahttun
+tverrvitenskapelig ::: moattediedalasj
+objektiv ::: åbjektijvvalasj
+objektiv ::: åbjektijva
+fortsettende ::: joatkevasj
+ansvarlig ::: vástulasj
+umoderne ::: boaresájgásasj
+unaturlig ::: iehpelunddolasj
+binær ::: binárra
+forfatningsmessig ::: vuoddunjuolggaduslasj
+konsekvent ::: jergalasj
+konsekvent ::: kånnsekveanta
+konsekvent ::: njuolguslasj
+variabel ::: målssåtjudde
+variabel ::: rievddavasj
+endeløs ::: gietjehes
+analytisk ::: anályhtalasj
+uryddig ::: iehpetjorgat
+arktisk ::: arktehkalasj
+læstadiansk ::: læsstadialasj
+læstadiansk ::: lesstadiánalasj
+sjelden ::: hárvve
+sjelden ::: hárvvenasj
+ufullstendig ::: dievasmeahttun
+ufullstendig ::: iehpedievaslasj
+ortodoks ::: årttudoksa
+kystnær ::: riddulagasj
+virkningsfull ::: vájkuhanfámolasj
+fylkeskommunal ::: fylkasuohkanlasj
+fylkeskommunal ::: fylkagielddalasj
+grenseoverskridende ::: rájárastideaddje
+nyansert ::: moattebeallásasj
+smittsom ::: njoammo
+ligegyldig ::: berusjmeahttun
+enkelt ::: åvtåskas
+enkelt ::: ieŋŋkel
+harmonisk ::: såbalasj
+harmonisk ::: harmunalasj
+nådeløs ::: ármuheapme
+selvvalgt ::: ietjasválljen
+desentralisert ::: gájdus
+ikke-fornybar ::: nåhkåvasj
+ikke-fornybar ::: iehpeodasmuvve
+konsulær ::: kånnsulára
+gavmild ::: udnulasj
+uvurderlig ::: vierddetmeahttun
+multilateral ::: mulltelaterála
+samvittighetsfull ::: oamedovddolasj
+aktiv ::: aktijvvalasj
+genetisk ::: genehtalasj
+egnet ::: hejvulasj
+slem ::: nevrrutjep
+slem ::: bahánihkkán
+lojal ::: åskåldas
+lojal ::: låjåla
+dyktig ::: ábás
+landbruksøkonomisk ::: enadoalloekonomalasj
+landbruksøkonomisk ::: enadoalloekonåvmmålasj
+suksessiv ::: suksessijvvalasj
+verneverdig ::: gáhttenárvosasj
+ekstensiv ::: ekstensijva
+uærlig ::: verrutjep
+uærlig ::: iehperehálasj
+ -->
+  <!-- Questionable suggestions, look more at: 
+
+?dynamisk	såddjel	soddjil	18	0	2	0
+
+-få	unnán	unnán	3532	69	522	0
+
+-ryddig	tjårggåt	čorgat	7	2	19	0
+
+-streng	tjavggat	čavgat	64	8	45	0
+
+?krypende	njoammo	njoammu	0	0	25	0
+
+-lovmessig	lágálasj	lágalaš	6	0	25	0
+
+-velstående	jábálasj	jábálaš	1	0	3	0
+
+-forsvarlig	dåhkålasj	dohkálaš	115	0	270	0
+
+-verdig	gudnálasj	gutnálaš	24	2	2	0
+hederlig	gudnálasj	gutnálaš	1	2	2	0
+
++grenseoverskridende	rájájrasstididdje
+grenseoverskridende	rájárastideaddje	rájárasttideaddji	94	0	1	0
+?grenseoverskridende	rádjerastildeaddje	rádjerasttildeaddji	94	0	13	0
+
+?operativ	operatijva el. operatijvalasj
+operativ	åperatijva	operatiiva	18	0	3	0
+operativ	åperatijvvalasj	operatiivvalaš	18	0	0	0
+
+?enkelt	aktugasj	ovttaskas	720	89	291	17
+
+-uærlig	verrutjit	verrošit	0	0	9	0
+
+-jevnaldrende	avtavuorrasasj	ovttaahkásaš	5	0	1	0
+
+?skjev	bånjo-	bonju-	14	0	0	0 #why firstcmp? 
+
+?uriktig	boasto-	boasttu-	17	0	0	0 #why firstcmp? boasto attr, boasstot pred
+
+?hatefull	vassjáj	vaššái	0	0	0	0 # sg. ill analysis for both smj and sme
+
+?tverrpolitisk	doarespolitihkalasj	doarespolitihkalaš	6	1	2	0
+
+?ukritisk	iehpekritihkalasj	eahpekritihkalaš	3	0	0	0
+
+-pussig	merkalasj	mearkkalaš	0	0	1	0
+
+?positiv	buorremielalasj	buorremielalaš	354	0	1	0 
+
+?uformell	iehpeformálalasj	eahpeformálalaš	16	22	8	0 #unsure if I rather want the short fort -álla for most of the -álalasj entries
+
+?urealistisk	iehperealistalasj	eahperealisttalaš	4	0	3	0
+
+?ukristelig	iehperistalasj	eahperisttalaš	0	0	0	0
+
+-fruktbar	buvtalasj	buvttalaš	5	0	0	0
+
+-offisiell	virgálasj	virggálaš	81	25	57	0
+
+-jevnaldrende	åvtåahkásasj	ovttaahkásaš	5	0	1	0
+
+ -->
+</r>

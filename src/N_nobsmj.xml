@@ -1,0 +1,3404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="nobsmj" xml:lang="nob">
+  <e>
+    <lg>
+      <l pos="N" src="fad">sommerkommune</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giessesuohkan</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vinterkommune</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dálvvesuohkan</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunstfond</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dájddafoannda</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støttefond</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjafoannda</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">etatsjef</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">etáhttajådediddje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energistrategi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">energistrategiddja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkterminologi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giellaterminologiddja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energiteknologi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">energiddjateknologiddja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landindustri</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ednamindustriddja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energipolitikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">energipolitihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">overføringspolitikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjapolitihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkespolitikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fylkkapolitihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energifylke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">energifylkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">midtfylke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">gasskafylkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">skilleark</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">gasskaárkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fagskole</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fáhkaskåvllå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">filmskole</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">filmmaskåvllå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">husflidsskole</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duodjeskåvllå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vinterskole</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dálvveskåvllå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landareal</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ednamareálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støttetiltak</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjadoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">økonomisystem</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ekonomiddjasystebma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilskuddsramme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjarámma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">funksjonsprogram</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">funksjåvnnåprográmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkutviklingsprogram</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giellaåvddånahttemprográmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunstdiplom</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dájddadiplåvmmå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesagronom</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fylkkaagronåvmmå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">steingrunn</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">gierggeednam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mobiltelefon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giehtatelefåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mobil</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giehtatelefåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesdelegasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fylkkadelegasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunstnerorganisasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dájddaorganisasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesorganisasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fylkkaorganisasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vårsesjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">gidásesjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">økonomiseksjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ekonomiddjaseksjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støttefunksjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjafunksjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilskuddsorgan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjaorgána</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">økonomiplan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ekonomiddjaplána</t>
+        <t pos="N">ekonomijaplána</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesdelplan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fylkkaoasseplána</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">m@enystruktur</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fállostruktuvra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilbudsstruktur</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fálaldakstruktuvra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">duodjikurs</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duodjekurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energiressurs</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">energiresursa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilskuddsressurs</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjaresursa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordressurs</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ednamresursa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkrettighet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giellarievtesvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">duodjikompetanse</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duodjemáhtudahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">maktforhold</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fábmodille</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilskuddsmiddel</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ruhtadoarjja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunstprosjekt</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dájddaprosjækta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">duodjiprosjekt</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duodjeprosjækta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fagutviklingsprosjekt</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fáhkaåvddånahttemprosjækta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fagkonsulent</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fáhkakonsulænnta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">grunnlagsmateriale</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duogásjdokumænnta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støtteprosent</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjaprosænnta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilskuddsprosent</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjaprosænnta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilskuddspost</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjapoassta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støtteapparat</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjaapparáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energidirektorat</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">energidirektoráhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkforbilde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giellaåvddågåvvå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sykdomsbilde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dávddagåvvå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sannhetsbilde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duohtavuohtagåvvå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilskuddsbrev</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjagirjje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilskuddssøker</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjaåhttse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kraftpris</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fábmohadde</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energikomite</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">energinammadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">etikkutvalg</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">etihkkanammadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">finanskomité</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">finánssanammadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilskuddsmyndighet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjafábmodus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mellomstilling</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">gasskavirgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkstilling</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giellavirgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunstfelt</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dájddasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fagområde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fáhkasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energisektor</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">energiddjasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">økonomiområde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ekonomijasuorgge</t>
+        <t pos="N">ekonomiddjasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">finanssektor</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">finánssasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kraftsektor</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fábmosuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesleder</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fylkkajådediddje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">økonomiaspekt</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ekonomiddjabielle</t>
+        <t pos="N">ekonomijabielle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forskningsverden</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dutkeværált</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bakgrunnsutredning</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duogásjtjielggidus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sommerbruk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giesseadno</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vinterbruk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dálvveadno</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kraftforbruk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fábmoadno</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilskuddsforvaltning</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjaháldadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentasjonsforvaltning</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dokumentasjåvnnåháldadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">midtsamisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">gasskasábme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">duodjiord</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duodjebáhko</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støttesats</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjamierre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilskuddsandel</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjaoasse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støttenivå</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjadásse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkforvirring</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giellamåjvve</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkeslag</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fylkkasiebrre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dommerforening</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duobmársiebrre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energisak</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">energiássje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">økonomisak</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ekonomijaássje</t>
+        <t pos="N">ekonomiddjaássje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilskuddssak</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjaássje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunstnerformål</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dájddaulmme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energiformål</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">energiulmme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støtteformål</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjaulmme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesmøte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fylkkatjåhkanibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunstområde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dájddabirás</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">økonomireglement</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ekonomiddjanjuolgadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">økonomiregelverk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ekonomiddjanjuolgadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kraftproduksjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fábmobuvtadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkkrav</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giellagájbbádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landkrav</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ednamgájbbádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">økonomibestemmelse</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ekonomiddjamærrádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkbestemmelse</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giellamærrádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dramaundervisning</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">drámáåhpadibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunstinstitusjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dájddaásadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkpåvirkning</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giellavájkudus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støttenæring</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjaæládus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">finansnæring</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">finansæládus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">duodjinæring</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duodjeæládus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kraftnæring</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fábmoæládus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språktilbud</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giellafálaldahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">filmtilbud</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">filmmafálaldahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">filmspørsmål</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">filmmagatjálvis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">stønadsperiode</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjagávdda</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energibehov</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">energidárbbo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kraftbehov</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fábmodárbbo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">filmarbeid</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">filmmabarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energisamarbeid</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">energiaktisasjbarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støttegruppe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjajuogos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sykdomsutgift</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dávddagållo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">finansutgift</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">finánssagållo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">finanskostnad</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">finánssagållo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energiforsyning</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">energifállo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energiregion</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">energiddjaguovllo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilskuddsområde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjaguovllo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">territorium</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ednamguovllo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landområde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ednamguovllo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vinterfôr</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dálvvebiebbmo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesveg</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fylkkagæjnno</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">duodjitradisjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duodjeárbbedáhpe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">håndverkstradisjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duodjeárbbedáhpe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bakgrunnskunnskap</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duogásjdiehto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bakgrunnsstoff</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duogásjdiehto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkkriterium</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giellaækto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentliste</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dokumænntalissta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">filmforbund</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">filmmalihtto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energivare</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">energigálvvo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">duodjiprodukt</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duodjegálvvo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentasjonsgrunnlag</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dokumænntavuodo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">stipendgrense</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjarádjá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkmann</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giellaulmusj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunstnersenter</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dájddaguovdásj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støttesenter</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjjaguovdásj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentasjonssenter</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dokumentasjåvnnåguovdásj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kraftsenter</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fábmoguovdásj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kultursenterfond</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">kulturguovdásjfoannda</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">havvind</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">áhpebiegga</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">multimedium</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">multimedia</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tragedie</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">tragediddja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilskudd</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doarjja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kartotek</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">kartotiehkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dynamikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dynamihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rytmikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">rytmihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">poliklinikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">poliklinihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">motorikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">motorihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">historikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">historihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">problematikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">problematihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">systematikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">systematihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kosmetikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">kosmetihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">taktikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">taktihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">narkotikum</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">narkotihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">karakteristikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">karakteristihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">videofilm</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">videofilmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">paradigme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">paradigma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fjernsynsprogram</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">tv-prográmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">piktogram</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">piktográmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sadisme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">sadissma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">pluralisme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">pluralissma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kapitalisme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">kapitalissma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">organisme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">organissma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mekanisme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">mekanissma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">terrorisme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">terrorissma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">analfabetisme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">analfabetissma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">antisemittisme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">antisemittissma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">variasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">variasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">assosiasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">assosiasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">spesifikasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">spesifikasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">applikasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">applikasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">appell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">appellasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">spekulasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">spekulasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">artikulasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">artikulasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">populasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">populasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">okkupasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">okkupasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">integrasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">integrasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sivilisasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">sivilisasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kvinneorganisasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">nissunorganisasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">opplæringsorganisasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">oahppoorganisasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">autorisasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">autorisasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">improvisasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">improvisasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kassasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">kassasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">konsultasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">konsultasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">base</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">stasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">manifestasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">manifestasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ambisjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ambisjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ekspedisjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ekspedisjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rekvisisjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">rekvisisjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">stortingsproposisjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">stuorradiggeproposisjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">divisjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">divisjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">provisjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">provisjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jurisdiksjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">jurisdiksjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rekonstruksjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">rekonstruksjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">suspensjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">suspensjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">statsinstitusjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">stáhtainstitusjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">konstitusjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">konstitusjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sametingsplan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">sámediggepládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">nomenklatur</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">nomenklatuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">konjunktur</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">konjunktuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tekstur</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">tekstuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">eksistens</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">eksistænssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">formalitet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">formalitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">habilitet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">habilitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">legitimitet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">legitimitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">modernitet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">modernitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">solidaritet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">solidaritiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">prioritet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">prioritiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">produktivitet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">produktivitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">samhold</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">aktisasjvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">testamente</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">testamænnta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kommentar</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">kommentárra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">moment</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">momænnta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fasit</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fasihtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utviklingsperspektiv</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">åvddånahttemperspektijvva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">oversikt</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">åbbålasjgåvvå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sjølbilde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">iesjgåvvå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">betennelse</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">vuolssje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utsendelse</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">sádden</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">Nordlandsbanen</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">Nordlandsbanen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kong</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">gånågis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">hule</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">tjiehpas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">Morgenbladet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">Morgenbladet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">samebarn</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">sámemánná</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">innspill</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">javllamus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">lite punkt</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">tjuokkásj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">leukemi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">leukemiddja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">diakoni</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diakoniddja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">nasjonalgalleri</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">nasjonalgalleriddja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">byråkrati</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">byråkratiddja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">prosti</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">prostiddja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kartotek</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">kartotiehkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">arkivsystem</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">arkivsystiebma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">operativsystem</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">operativsystiebma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sivilagronom</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">sivilagronåvmmå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">amatør</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">amaterra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">invaliditet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">invaliditiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">formalitet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">formalitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">nationalitet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">nationalitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">habilitet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">habilitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mobilitet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">mobilitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">legitimitet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">legitimitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">suverenitet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">suverenitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">modernitet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">modernitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">solidaritet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">solidaritiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">integritet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">integritiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">prioritet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">prioritiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kontinuitet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">kontinuitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">produktivitet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">produktivitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">turné</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">turniedja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">lokalradioklage</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">bájkkeradioguoddalus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">norskfaget</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dárogielfáhka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utviklingstilskudd</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">åvddånahttemdoarjja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonsteknikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemteknijkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mediepolitikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">medijápolitihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">nasjonalsang</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">álmmuklávlla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ressursskole</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">resurssaskåvllå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonsvirksomhet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemdoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fjernsynsprogram</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">tv-prográmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sosialdarwinisme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">sosialdarwinissma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sameland</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">sámeednam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonsorgan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemorgána</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">barnehageplan</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">mánájgárddepládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fritidsmulighet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">asstoájggevejulasjvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonskonsulent</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemkonsulænnta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sosialdemokrat</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">sosialdemokráhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sosialetat</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">sosialetáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">oversikt</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">ållesgåvvå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">stedsnavnutvalg</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">bájkkenammanammadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fagområde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fáhkasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sosialsektor</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">sosiállasuorgge</t>
+        <t pos="N">sosialsuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">læreplass</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">oahpposadje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonsleder</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemjådediddje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">lærested</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">oahppobájkke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">demokratiutvikling</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">demokratiddjaåvddånahttem</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">stedsnavnsutvikling</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">bájkkenammaåvddånahttem</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">stedsutvikling</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">bájkkeåvddånahttem</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonsledelse</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemjåhtte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">medieoppslag</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">medijáássje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reinflytting</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">boatsojjåhtte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">musikkmiljø</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">musihkkabirás</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sløydutstilling</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duodjevuosádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">premiere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">vuostasjvuosádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kulturminnevern</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">kulturmujttosuodjalus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">orientering</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkem</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonstilbud</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemfálaldak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sommersesong</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">biehtsegávdda</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonssamfunn</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemsebrudahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">lovverk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">bivddoláhkaårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fakta</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duohtadiehto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">faktainformasjon</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">duohtadiehto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonsbehov</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemdárbbo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonsarbeid</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkembarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">opplysningsarbeid</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkembarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kjernevåpen</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">atomværjjo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ressursgruppe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">resurssajuogos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">næringsdrift</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">æládusbarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ressursområde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">resurssaguovllo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonsflyt</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemjåhto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonskompetanse</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemmáhtto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonsmateriale</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemnævvo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonsmateriell</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemnævvo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonsgrunnlag</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemvuodo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mediehistorie</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">medijáhiståvrrå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ressursperson</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">resurssaulmusj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonssenter</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemguovdásj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonssentral</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">diehtojuohkemguovdásj</t>
+      </tg>
+    </mg>
+  </e>
+  <!-- Bad suggestions, remove next time round: 
+grunndisponering ::: ednamhálldo
+farvannsbeskrivelse ::: ulle
+velstand ::: buorredille
+jordskifte ::: ednamjuohko
+totalkostnad ::: dievvagållo
+totalkostnad ::: dievalasjgållo
+språksøknad ::: giellaåhtså
+fylkesagronom ::: fylkkaagronoma
+pulkjerne ::: gieresruovdde
+landindustri ::: ednamindustrija
+økonomiseksjon ::: ekonomijaseksjåvnnå
+asylsøknad ::: dårvvoåhtså
+trestamme ::: smáhkkomuorra
+myndighetsnivå ::: fábmodusdásse
+myndighetsnivå ::: fábmodásse
+feltlederstilling ::: gieddejådediddje
+maktstilling ::: fábmodille
+duodjitradisjon ::: duodjevierro
+temaside ::: fáddásijddo
+nordområdespørsmål ::: davveguovlloássje
+nordområdespørsmål ::: davveássje
+stedsutvikling ::: bájkkeåvddånahttet
+språkkunnskap ::: gielladájddo
+kunstdiplom ::: dájddadiploma
+temakurs ::: fáddákurssa
+temamøte ::: fáddátjåhkanibme
+temamøte ::: fáddátjoahkke
+kraftutbygging ::: fábmohuksen
+barnehagepersonale ::: mánájgárddepládna
+sikkerhetsansvar ::: dårvvoåvdåsvásstádus
+fondssøknad ::: foanndaåhtså
+språkprosjektmiddel ::: giellaprosjæktaruhta
+kommuneoppgjør ::: gielldatjielggidus
+ressursområde ::: resurssaguovllot
+støtteobjekt ::: doarjjaáhta
+sikkerhetssektor ::: dårvvosuorgge
+jordbær ::: ednammuorjje
+myndighetsområde ::: fábmosuorgge
+prostata ::: åvddåráksá
+temaundervisning ::: fáddáåhpadus
+fylkesmøte ::: fylkkatjoahkke
+temaområde ::: fáddásuorgge
+økonomibestemmelse ::: ekonomijamærrádus
+energiutbygging ::: energiddjahuksen
+nordområdeutdanning ::: davveguovllooahppat
+nordområdeutdanning ::: davveguovllooahppot
+nordområdeutdanning ::: davveguovllooahppa
+nordområdeutdanning ::: davveoahppat
+nordområdeutdanning ::: davveguovllooahppo
+nordområdeutdanning ::: davveoahppot
+nordområdeutdanning ::: davveoahppa
+nordområdeutdanning ::: davveoahppo
+styrkeforhold ::: fábmodille
+styrkeforhold ::: fábmogasskavuohta
+forskerutdannelse ::: dutkeoahppa
+legemiddelbruk ::: dálkasadno
+handsnøre ::: giehtaduorggo
+sommerkommune ::: biehtsesuohkan
+sommerkommune ::: biehtsegiellda
+sykdomsspredning ::: dávddanjoammo
+fiskeskinn ::: guolletjuomas
+lovteknikk ::: bivddoláhkateknijkka
+språkterminologi ::: giellaterminologija
+elitemelk ::: elihtamielkke
+jordteig ::: ednambihttá
+stedsnavnsutvikling ::: bájkkenammaåvddånahttet
+sommerskole ::: biehtseskåvllå
+observatørstatus ::: ájttsesadje
+feltoppdrag ::: gieddebarggo
+fylkesvåpen ::: fylkkagåvvå
+livsfaseperspektiv ::: ahkeoasseperspektijvva
+nordområdediplomati ::: davveguovllodiplomatija
+nordområdediplomati ::: davvediplomatiddja
+nordområdediplomati ::: davveguovllodiplomatiddja
+nordområdediplomati ::: davvediplomatija
+håndverkstradisjon ::: duodjevierro
+helhetsperspektiv ::: dievvaperspektijvva
+helhetsperspektiv ::: dievalasjperspektijvva
+språkprosjektsøknad ::: giellaprosjæktaåhtså
+høyere utdanning ::: alukoahppat
+høyere utdanning ::: allakoahppat
+høyere utdanning ::: alukoahppa
+høyere utdanning ::: allakoahppa
+høyere utdanning ::: alukoahppo
+høyere utdanning ::: allakoahppo
+tilskuddsmyndighet ::: doarjjaæjgát
+miniatyrrein ::: boatsoj
+tvangstrøye ::: tjulkko
+sommerbolig ::: biehtseviesso
+sommersamling ::: biehtsetjåhkanibme
+sommersamling ::: biehtsetjoahkke
+kjennskap ::: dåbddåt
+fylkesinndeling ::: fylkkajuohko
+lokalradioklage ::: bájkkerádioguoddalus
+sørsameområde ::: lullesáme
+feltkurs ::: gieddekurssa
+demokratiutvikling ::: demokratiddjaåvddånahttet
+demokratiutvikling ::: demokratijaåvddånahttem
+demokratiutvikling ::: demokratijaåvddånahttet
+embetsverk ::: ámmátdoajmma
+emnekart ::: fáddákártta
+midtrekkverk ::: gasskaájdde
+parsell ::: ednambihttá
+tidevann ::: ulle
+feltleder ::: gieddejådediddje
+nordområdeperspektiv ::: davveguovlloperspektijvva
+nordområdeperspektiv ::: davveperspektijvva
+jordbruksstruktur ::: ednamdoallostruktuvra
+mannsperspektiv ::: dievddoperspektijvva
+nordområdearbeid ::: davveguovllobarggo
+nordområdearbeid ::: davvebarggo
+nordområdemelding ::: davvediedádus
+nordområdemelding ::: davveguovllodiedádus
+orden ::: tjårggåtvuohta
+økonomireglement ::: ekonomijanjuolgadus
+sedvanerettighet ::: boaresdáhpe
+sedvanerettighet ::: boaresvierro
+høyfjell ::: tjierro
+vårfiske ::: gidábivddo
+utstyrsanskaffelse ::: dávveroasste
+nordområdemuseum ::: davvemusedja
+nordområdemuseum ::: davveguovllomusea
+nordområdemuseum ::: davvemusea
+nordområdemuseum ::: davveguovllomusedja
+myndighetsorgan ::: fábmodusorgána
+tilskuddsmodell ::: doarjjamálle
+tragedie ::: tragedija
+forskerutdanning ::: dutkeoahppa
+sommersesong ::: biehtsebåddå
+sommersesong ::: giessebåddå
+gardsmat ::: barggobårråt
+gardsmat ::: doallobårråt
+feltstudiekurs ::: gieddeåhpaduskurssa
+landbruksstruktur ::: ednamdoallostruktuvra
+nordområdeutvalg ::: davveguovllonammadus
+nordområdeutvalg ::: davvenammadus
+språkvanske ::: giellaváttesvuohta
+proposisjonsforslag ::: diggeproposisjåvnnåoajvvadus
+eventyrvariant ::: variánta
+dommerfullmektig ::: duobmárvállde
+emneområde ::: fáddásuorgge
+eldrepolitikk ::: boarespolitihkka
+eldrepolitikk ::: boaresguovllopolitihkka
+økonomisystem ::: ekonomijasystebma
+kunstutdannelse ::: dájddaoahppa
+sikkerhetsaspekt ::: dårvvobielle
+språkseksjon ::: giellajuohko
+nordområdeutvikling ::: davveguovlloåvddånahttet
+nordområdeutvikling ::: davveåvddånahttet
+nordområdeutvikling ::: davveguovlloåvddånahttem
+nordområdeutvikling ::: davveåvddånahttem
+kraftsituasjon ::: fábmodille
+nordområdeprosjekt ::: davveguovllovuodnaprosjækta
+nordområdeprosjekt ::: davveguovlloviessoprosjækta
+nordområdeprosjekt ::: davvevuodnaprosjækta
+nordområdeprosjekt ::: davveviessoprosjækta
+nordområdeprosjekt ::: davveprosjækta
+nordområdeprosjekt ::: davveguovlloprosjækta
+fjellsame ::: duottarsábme
+fagutvalg ::: fágaárbbedáhpe
+allmennfag ::: dáhpefága
+delegat ::: sáttat
+fagområde ::: fágaduovda
+sommerbruk ::: biehtseadno
+økonomiregelverk ::: ekonomijanjuolgadus
+maktforhold ::: fábmogasskavuohta
+ -->
+  <!-- Questionable suggestions, look more at: 
+
+?kollega	kollega	kollega	15	1	3	0
+
+?sameradio	sámerádio	sámirádio	13	0	8	0
+
+?generasjonsperspektiv	buolvvaperspektijvva	buolvaperspektiiva	0	0	0	0
+
+?fritidsarena	asstoájggebájkke	astoáiggebáiki	0	0	0	0
+
+?bruksordning	doajmmaårnik	doaibmaortnet	2	0	1	0 #i think maybe vuohke or doajmma instead of årnik - for all årnik below as well
+
+?autorisasjonsordning	autorisasjåvnnåårnik	autorisašuvdnaortnet	1	0	0	0
+
+?fritidsordning	asstoájggeårnik	astoáiggeortnet	1	0	2	0
+
+?dagsorden	bæjvásjårnik	beaiveortnet	35	0	0	0
+?dagsorden	biejvveårnik	beaiveortnet	35	0	0	0
+
+?bruksordning	adnoårnik	geavahanortnet	2	0	0	0
+
+?informasjonsordning	diehtojuohkemårnik	diehtojuohkinortnet	0	0	0	0
+
+?samarbeidsordning	aktisasjbarggoårnik	ovttasbargoortnet	1	0	0	0
+
+?kompensasjonsordning	buvtadusårnik	buvttadusortnet	3	0	0	0
+
+ -->
+</r>

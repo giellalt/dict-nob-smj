@@ -1,0 +1,4699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="nobsmj" xml:lang="nob">
+  <e>
+    <lg>
+      <l pos="V" src="fad">skjule</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjiehkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utlåne</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">luojkkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">felle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjuollat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">hugge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjuollat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">orde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">hállat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">knyte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjadnat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">hugge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjuohppat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sakse</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjuohppat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">rundvaske</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bassat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oversende</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sáddit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">avgrense</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ráddjit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lovfeste</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">nannit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">assosiere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">assosierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">veilede</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bagádit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">makte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">nagádit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skjule</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjiegadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utrede</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjielgadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">avklare</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjielgadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kle av seg</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">nuoladit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lunsje</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bårådit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">delfinansiere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">oasseruhtadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">møte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dejvadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">prolongere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">guhkedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forkynne</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sárnnedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bedre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">buoredit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fastsette</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">mierredit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">likestille</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dássedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">delta</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sæbrrat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gråte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ganjáldit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">rive</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gajkudit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forvalte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">háldadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">iverksette</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">álgadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">snike</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">njágadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sleppe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">besadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">hemme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gåtsadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bidra</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">viehkedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">smelle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bávkedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">eksplodere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bávkedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">overbevise</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">jáhkedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">røske</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gajkedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">livnære</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ieledit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oppleve</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vásedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">nedlegge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">hiejtedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oppgi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">diededit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tilkjenne</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">miededit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">føre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">jådedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lede</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">jådedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">drepe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gåddålit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">påklage</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">guoddalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sprenge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bávkkalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">dukke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">buoktjalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tilsidesette</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">duvddelit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">nærme seg</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">lahkanit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">separere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sieradit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">svekke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">hedjunit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">nærme seg</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">lahknit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forsinke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">maŋŋunit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forverre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">værránit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ferdigstilles</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gárvvánit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bli ferdigstilt</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gárvvánit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">løses</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjoavddásit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fordele</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">juogestit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">viske</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sihkastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">slette</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sihkastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">høre litt</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gulástit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">stemme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">jienastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">revidere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dárkestit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lyve</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gielestit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">frikjøpe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">lånestit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">rusle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">váttsatjit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forvalte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">háldadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forkaste</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">hilggot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sløyfe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sihkkut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">slette</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sihkkut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lagre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuorkkit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sømme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">goarrot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">rullere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">målssut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">møte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">duosstot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kjøre avsted</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuoddját</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">aktivisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dåjmadahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">anke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">guoddalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">arkivere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuorkkit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">avkorte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">oanedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">befare</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gehtjadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">budsjettere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">budsjettierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">digitalisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">digitalisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">etterlyse</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">åtsådit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">evaluere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">árvustallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fokusere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjalmostit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">frigi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">luojttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">hegne</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">oaggit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">implementere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">implementierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">initiere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">álgadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">integrere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">avtastahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">introdusere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">oahpásmuhttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">knytte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">buduk</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">konkludere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjoahkkájgiesset s*</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">konstatere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">konstatierit</t>
+        <t pos="V">gávnadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">konsultere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">rádádallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kuppe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">fámujn rievvot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">legalisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">legalisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">levne</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">guodet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">makulere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dåssjidit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">medføre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">buktet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oppgradere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ådåsmahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">overholde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">anodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">overkomme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">rijbadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">overskygge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">siegestit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">overvåke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">váksjudit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">poste</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">poasstit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">protokollere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjállet bievddegirjjáj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">rapportere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">diededit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ratifisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ratifisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">realisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">jåhtuj biedjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">refse</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">nuktalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">restaurere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">åbddit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">revitalisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ælládahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sensurere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sensurierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">signere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuolláj tjállet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skissere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">hábmedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skåne</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">árjjot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sluttføre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">låhpadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">snekre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">snihkkut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">spekulere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">árvvádallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">spesifisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjielggit el. dárkkelappot/snivábut tjielggit</t>
+        <t pos="V">spesifisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">stemple</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">stiempeldit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">symbolisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gåvåstahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tematisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tematisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tilrå</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">oajvvadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">torturere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bijnedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tørre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">duosstat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utprøve</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gæhttjaladdat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utsmykke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">hiervvit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vedvare</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bissot</t>
+        <t pos="V">vihpat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">verdsette</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">árvvon adnet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">videreføre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">joarkket</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">votere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">jienastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">anskaffe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">háhkuhit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">avholde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ásadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bosette</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">årrut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">foregå</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dáhpáduvvat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gradere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gradierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">konsolidere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">konsolidierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">reagere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">reagierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">privilegere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">privilegierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">redigere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">redigierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">assimilere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">assimilierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">uniformere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">uniformierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">eksaminere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">eksaminierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">indoktrinere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">indoktrinierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">internere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">internierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">aksjonere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">aksjunierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">pensjonere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">pensjunierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fakturere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">fakturierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kodifisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">kodifisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kvalifisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">kvalifisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">notifisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">notifisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">spesialisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">spesialisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kommersialisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">kommersialisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">optimalisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">optimalisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">operasjonalisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">operasjonalisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">institusjonalisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">institusjonalisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">moralisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">moralisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">mobilisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">mobilisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sivilisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sivilisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">anonymisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">anonymisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">harmonisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">harmonisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kategorisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">kategorisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">problematisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">problematisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">privatisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">privatisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">alfabetisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">alfabetisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">praktisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">praktisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">effektivisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">effektivisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">filetere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">filetierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">akkreditere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">akkreditierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">prosjektere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">projektierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">prosjektere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">prosjektierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">reflektere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">reflektierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">dokumentere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dokumentierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">adoptere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">adoptierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">insistere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">insistierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">rekonstruere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">rekonstruierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">konstituere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">konstituierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">intensivere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">intensivierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kjenne</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dåbddåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utarbeide</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dahkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forklare</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjielggit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gjenspeile</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gåvvidit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">portrettere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gåvvidit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">følge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjuovvot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">begripe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dádjadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">overføre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sirddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">omdisponere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sirddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">trygge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">oadjodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">delegere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">fábmodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lette</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">giehpedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utdype</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjiegŋodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">konstituere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuododit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oppfylle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dievddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">omsette</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuobddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utøve</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dåjmadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skolere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">åhpadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">opplære</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">åhpadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">trene</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">hárjjidallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">opptre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuosedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">anerkjenne</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dåhkkidit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fullføre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ållidit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bygge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tsieggidit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">formulere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">hábmedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utveksle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">lånudit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sy</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">goarrot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vektlegge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dættodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">understreke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dættodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">identifisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dåbddåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">nedfelle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">javllat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fastslå</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">javllat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">protokollføre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjállet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">følge etter</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjuovvolit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">følge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjuovvolit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">øyne</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuojnnet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">prege</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bájnnet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">anse</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">adnet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">murre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">njimmurit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utbetale</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">mákset</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">møte frem</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">boahtet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">overlate</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">luojttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fordømme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">lájttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">overlevere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">buktet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fullføre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ållistit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">komplettere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ållistit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utfylle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ållistit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">supplere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ållistit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">svikte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">biehttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">modernisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ådåsmahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">omgi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">birástahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">jamføre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">buohtastahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">innarbeide</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sajájduhttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forankre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sajájduhttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skade</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vahágahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">dokumentere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">duodastahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tilrettelegge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">láhtjet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">frarå</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">biehtodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">blogge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bloaggit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">samsvare</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">hiehpat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">øke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">lasedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skade</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vahágahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fortelle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">mujttalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skjemmes</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">hehpanit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skilles</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ærránit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ramle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ravggat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kjøre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuodjet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">behandle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">giehtadallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">joike</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">juojgastallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tilegne</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">åmastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">våres</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bievllat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">anstrenge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">rahtjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">runde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">jårbbit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">surfe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">surffit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fragmentere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">háddjit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">pakke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">páhkkit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lakkere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">láhkkit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">spille</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">spellat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sløye</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjoallit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">transkribere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">transkribierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gradere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gradierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">konsolidere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">konsolidierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">reagere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">reagierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">delegere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">delegierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">privilegere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">privilegierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">redigere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">redigierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">dirigere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dirigierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">profilere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">profilierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">assimilere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">assimilierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">installere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">installierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kontrollere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">kontrollierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">isolere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">isolierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">regulere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">regulierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">konfirmere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">konfirmierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">uniformere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">uniformierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">koordinere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">koordinierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">definere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">definierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">eksaminere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">eksaminierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">indoktrinere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">indoktrinierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">internere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">internierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">aksjonere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">aksjonierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">pensjonere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">pensjonierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">demonstrere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">demonstrierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">illustrere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">illustrierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fakturere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">fakturierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">strukturere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">strukturierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kodifisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">kodifisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kvalifisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">kvalifisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">notifisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">notifisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">spesialisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">spesialisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kommersialisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">kommersialisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lokalisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">lokalisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">optimalisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">optimalisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">formalisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">formalisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kanalisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">kanalisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">operasjonalisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">operasjonalisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">institusjonalisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">institusjonalisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">moralisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">moralisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">mobilisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">mobilisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sivilisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sivilisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">anonymisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">anonymisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kolonisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">kolonisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">harmonisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">harmonisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kategorisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">kategorisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">problematisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">problematisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">systematisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">systematisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">privatisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">privatisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">alfabetisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">alfabetisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">konkretisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">konkretisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">praktisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">praktisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">effektivisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">effektivisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">filetere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">filetierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">akkreditere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">akkreditierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">hospitere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">hospitierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">prioritere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">prioritierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">prosjektere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">projektierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">prosjektere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">prosjektierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">reflektere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">reflektierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">dokumentere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dokumentierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">adoptere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">adoptierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">arrestere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">arrestierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">investere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">investierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">insistere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">insistierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">rekonstruere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">rekonstruierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">konstituere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">konstituierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">intensivere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">intensivierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">konservere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">konservierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">stride</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">rijddat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oppjustere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bajedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">inngå avtale</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">lihtudit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">overføre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sirddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">omdisponere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sirddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oppfylle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dievddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tilsette</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">virgádit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utveksle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">lånudit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">protokollføre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjállit bievddegirjjáj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">prege</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bájnnit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">anse</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">adnet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">murre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">nimmurit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utbetale</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">mákset</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">overlate</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">luojttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fordømme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">lájttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">overlevere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">buktet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">overnatte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">idjadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">konkretisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjielgastuhttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">frede</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ráfájduhttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">reise seg</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjuottjánit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">svikte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">biehttit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">modernisere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ådåsmahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">omgi</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">birástahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">jamføre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">buohtastahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">innarbeide</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sajájduhttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forankre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sajájduhttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skade</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vahágahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tilrettelegge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">láhtjet dilev</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">erte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">hárddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">drepes</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gåddut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bli drept</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gåddut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gro</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">savvet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lande</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sæjvvot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tilsette</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">virggáj bidjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">anskaffe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">háhkuhit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">mekle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">såbadallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lære</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">oahppat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">undersøke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">guoradallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skylde</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sivádahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">domfelle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">duobbmidallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">omgås</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sæbrástallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">overkjøre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">duolmmot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">trå</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">duolmmot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bli fornorsket</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dárojduvvat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">styrkes</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">nanostuvvat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forenes</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">aktiduvvat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">drepes</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sårmmiduvvat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bli drept</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sårmmiduvvat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">neglisjere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">badjelgæhttjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">blogge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bloaggit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">domfelle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">duobbmit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">mene</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">miejnnit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">klappe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">spiedtjit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kjenne</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dåbddåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forklare</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjielggit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">berømme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">rámmpot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gjenspeile</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gåvvit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">portrettere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gåvvit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bekjempe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuosteldit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">motta</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuosstájválddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">minske</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">unnedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">øke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">stuoredit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utdype</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjiegŋodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">konstituere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuododit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">snevre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">gártjedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">omsette</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuobddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skolere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">åhpadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">opplære</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">åhpadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">mistenke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sivádit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">trene</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">hárjjidallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fullføre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ållidit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sy</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">goarrot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vektlegge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dættodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">understreke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dættodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">foreslå</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">ævtodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">premiere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bálkkit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">følge etter</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjuovvolit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">følge</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjuovvolit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">øyne</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuojnnet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oppdra</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">bajásgiesset</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">møte frem</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">boahtet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bekjempe</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuosstálasstet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gå i mot</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">vuosstálasstet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">framheve</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dættodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">understreke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dættodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">hedre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">guddnit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">øke</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">lasedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">synliggjøre</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjalmostahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">dokumentere</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">duodastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">samle</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjoagget</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">berømme</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">rámmpot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">flytte</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">sirddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gjenkjenne</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">dåbddåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lyse</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="V">tjuovggat</t>
+      </tg>
+    </mg>
+  </e>
+  <!-- Bad suggestions, remove next time round: 
+opprøre ::: iettedit
+stille ::: tseggit
+utveksle ::: lånuhallat
+bli inspirert ::: måvtijdit
+gjerde ::: ájddut
+erobre ::: vuollástit
+rengjøre ::: buhtestit
+legalisere ::: loabálattjan dahkat
+utelukke ::: lihttsut
+fordoble ::: duppalastit
+verne ::: ráfájdahttet
+bevare ::: sejludit
+medføre ::: dagádit
+medføre ::: mieldesetbuktit
+medføre ::: sjaddat
+meisle ::: ávnastit
+overskygge ::: sævnjadit
+knytte ::: laktatjuvvat
+knytte ::: laktásit
+knytte ::: skurppo
+kategorisere ::: sláddjit
+initiere ::: initierit
+dumme ::: tjurbbutjit
+fullføre ::: dievasmahttit
+fullføre ::: ållestit
+fullføre ::: ållåsmahttit
+mistrives ::: ahkedussjat
+stilne ::: jaskudit
+utfylle ::: dievasmahttit
+utfylle ::: ållestit
+leke ::: duhkurdallat
+utprøve ::: giehttjalit
+ivareta ::: fuoladit
+blottstille ::: almustahttit
+blottstille ::: almmustahttet
+aktivisere ::: doajmmaj oadtjot el. biedjat
+aktivisere ::: bargadit
+aktivisere ::: aktivisierit
+skjelle ::: sjiggut
+supplere ::: dievasmahttit
+supplere ::: ållestit
+utøve ::: doajmadit
+redusere ::: uhttsudit
+begripe ::: ibmerdit
+anerkjenne ::: dåhkkedit
+bli drept ::: gåttåhallat
+forsere ::: jådålmahttit
+sage ::: sahát
+intensivere ::: hoahpudit
+svekke ::: goaredit
+svekke ::: såjddådit
+svekke ::: rassjut
+gjenspeile ::: spedjalastit
+vippe ::: jårgedit
+vanskeliggjøre ::: váddudit
+vanskeliggjøre ::: váttásmahttit
+nøytralisere ::: dussjadit
+hilse ::: tsielkkit
+hilse ::: javllat
+hilse ::: dervadit
+transportere ::: giesedit
+fragmentere ::: hágganit
+politianmelde ::: vájddet
+politianmelde ::: vájddit
+konstatere ::: fuomátjit
+konstatere ::: javllat
+konstatere ::: tsuojggit
+skape ::: båhtsijdahttit
+forme seg ::: hábmatjuvvat
+utvide ::: buoredit
+skamslå ::: lábmatjuvvat
+symbolisere ::: gåvåstit
+uteksperimentere ::: hutkat
+etterspørre ::: åhtsålit
+hanskes ::: dájsstalit
+skynde ::: doabmat
+satse ::: áŋŋgerussjat
+nøye ::: duhtat
+reise ::: tjuottjáldahttet
+inkorporere ::: sisskálastit
+utarbeide ::: ráhkadahttit
+utarbeide ::: ráhkadit
+komplettere ::: ållestit
+nummerere ::: nummárastit
+nummerere ::: nummarastit
+vie ::: nájttit
+ane ::: ávasjtit
+fraskrive ::: besadit
+oppløfte ::: måvtåskit
+oppfylle ::: ållåtjuvvat
+oppfylle ::: ållåtjuhttit
+holde seg ::: rijbbat
+påløpe ::: tjåggut
+forfalle ::: luskijdit
+lenke ::: goallustit
+tilgodese ::: åjddit
+tilgodese ::: åjddet
+lide ::: bijnnatjuvvat
+lide ::: gillát
+kveste ::: hávváduvvat
+rekruttere ::: besstit
+overholde ::: tjuovvut
+overholde ::: doallat
+overholde ::: doahttalit
+kutte ::: njiejadit
+jamføre ::: vierddedit
+samordne ::: åktijhejvedit
+samordne ::: åvtåstahttet
+samordne ::: báldalastit
+samordne ::: buohtalastit
+spesifisere ::: tjilggit
+spesifisere ::: ajdustahttit
+ratifisere ::: tjårggit
+ratifisere ::: dåhkkidit
+konsultere ::: konsultierit
+konsultere ::: rádev åhtsåt
+forenkle ::: álkásmahttit
+oppgradere ::: låpptit
+kuppe ::: váldástallat
+kuppe ::: rihpat
+merke ::: fuobmátjit
+oppheve ::: fámuhuhttit
+nedfelle ::: tsielkkit
+involvere ::: sårråt
+involvere ::: fátmmastit
+overdrive ::: lijgástallat
+bli ivrig ::: måvtijdit
+presentere ::: åvddåndivvut
+omtale ::: váldahallat
+undergrave ::: hejudit
+dø ::: sårmmåtjuvvat
+anslå ::: merustallat
+inneholde ::: sisdoallat
+inneholde ::: sistesetdoallat
+klype ::: tsiktsit
+ramme ::: fáhtehallat
+ramme ::: tjuohtsat
+lette ::: gæhppudit
+bortvise ::: gevrrit
+tilføre ::: namudit
+tilføre ::: nammadit
+frarå ::: hujggátjit
+identifisere ::: dåvddådit
+poste ::: påsstit
+systematisere ::: vuogájduvvat
+differensiere ::: tsæhkkálastit
+opptjene ::: dinit
+balansere ::: dássádallat
+balansere ::: bisuhallat
+balansere ::: dássit
+formulere ::: hámudit
+formulere ::: sádnádit
+overstyre ::: badjelduolmmat
+drive ::: vuodjelit
+ryste ::: suorgadit
+ryste ::: hirmástuhttit
+strømme ::: márrat
+utforske ::: suokkardit
+oppta ::: sisáváldit
+strekke ::: vagŋut
+strekke ::: fadnat
+insistere ::: nággit
+våge ::: roahkadit
+utjevne ::: jevddit
+utjevne ::: dássit
+forvente ::: merusjtallat
+sammenlikne ::: værddádallat
+forplikte ::: giednegahttit
+stemple ::: stæmmpalastit
+oppkjøre ::: bålltut
+møte ::: gávnadit
+kneble ::: jávuhuhttit
+beskrive ::: váldahallat
+overføre ::: fievrridit
+overføre ::: fievredit
+ringe ::: tjuojaldahttit
+fastslå ::: tsielkkit
+skaffe ::: skáhpput
+skaffe ::: dábudit
+avveie ::: vihkkehallat
+overvåke ::: gåtsedit
+overvåke ::: váksjut
+anke ::: gujddit el. doalvvot ássjev
+bekjempe ::: dájsstalit
+forelegge ::: sáhkkuhallat
+kjempe ::: tjuoladit
+stake ::: tjuojmudit
+stake ::: dihkkádit
+minne ::: mujtudit
+røyne ::: vuornodit
+røyne ::: vuornudit
+rapportere ::: raportierit
+integrere ::: åvtåjdahttit
+integrere ::: åvtåjduvvat
+integrere ::: særvvadit
+protokollere ::: protokollierit
+medvirke ::: mielldedoajmmat
+medvirke ::: mielvvájkkudit
+arkivere ::: ibnnit
+arkivere ::: arkivierit
+arkivere ::: vurkkit
+fortrenge ::: eretduvdit
+følge ::: tjuvudit
+påvise ::: tjujudit
+definere ::: merusjtallat
+skissere ::: sárggut
+skissere ::: gåvvidit
+skissere ::: tjilggit
+framtre ::: almmanit
+føre ::: dagádit
+føre ::: buvtedit
+støve ::: gavjjaluvvat
+unngå ::: æsstat
+si ::: tsielkkelit
+modne ::: rávásmuvvat
+tømre ::: tsæhkkut
+sidestille ::: báldastahttet
+makulere ::: dussjadit
+foregå ::: dáhpáduvvat
+skjerpe ::: tjavggit
+spekulere ::: árvvedit
+konkludere ::: konkludierit
+antyde ::: gietjedit
+avlevere ::: gejggit
+beregne ::: merustallat
+forveksle ::: malsedit
+forveksle ::: målsodit
+refse ::: huvddit
+opptre ::: láhttit
+opptre ::: tjájedit
+peke ::: tsuojggut
+peke ::: tjujudit
+peke ::: tsujggit
+tjore ::: vieddit
+nedprioritere ::: badjelgeahttjat
+bosette ::: ásájduvvat
+bosette ::: ássat
+avsette ::: várrit
+avsette ::: várrodit
+avsette ::: lihttsut
+frustreres ::: moaráhuvvat
+bre ::: levvat
+returnere ::: máhtsadit
+revidere ::: ådåstit
+bekymre ::: fuolastuvvat
+bekymre ::: vuorjjatjuvvat
+bekymre ::: vájvvatjuvvat
+forstå ::: áddehallat
+overlevere ::: gaskustit
+overlevere ::: gejggit
+overlevere ::: gaskostit
+oppgi ::: luobadit
+kassere ::: bálkkásit
+avverge ::: æsstat
+revitalisere ::: åvdesjtit
+revitalisere ::: ælládit
+skyve ::: dådjålit
+skyve ::: duvddelit
+forberede ::: válmasjtit
+delegere ::: fábmudit
+levne ::: mårrånit
+utrydde ::: jávkkadit
+tørre ::: vissjat
+etterlyse ::: vájlladit
+etterlyse ::: åhtsålit
+omhandle ::: májnatjit
+omhandle ::: váldahallat
+omhandle ::: váldadit
+favorisere ::: åjddit
+favorisere ::: åjddet
+hoie ::: hujkkit
+undervurdere ::: duolmmat
+havne ::: doalvvut
+rede ::: selvvedit
+laste ::: lásstit
+nulle ::: sihkkut
+snakke ::: suomastit
+taste ::: dettatjit
+sammenstille ::: dássádallat
+oppdatere ::: dievasmahttit
+oppdatere ::: ájggeguovdilastit
+oppdatere ::: ájggádit
+registrere ::: sisátjállit
+registrere ::: fuobmátjit
+dempe ::: lájvvudit
+takle ::: birggehallat
+overkjøre ::: badjelgeahttjat
+overkjøre ::: duolmahallat
+dvele ::: smiehtadit
+utsmykke ::: tjiŋádit
+effektivisere ::: bævtálmahttit
+yte ::: addit
+yte ::: vaddet
+tyste ::: sláttardit
+imitere ::: áddestallat
+vedvare ::: joatkatjuvvat
+kalkulere ::: rehkenastit
+kappe ::: sadit
+avholde ::: doallat
+avholde ::: tjoahkkemastit
+overkomme ::: vuojttit
+overkomme ::: ájmmudit
+bemerke ::: merkatjit
+monne ::: ávkudit
+signere ::: vuollájtjállit
+signere ::: tjálestit
+knekke ::: vuollánahttit
+moderere ::: lájvvudit
+levere ::: skáhpput
+sambo ::: elusjtit
+konsolidere ::: åvtåstit
+overskride ::: rasteldit
+underordne ::: vuollástit
+henvise ::: tjujudit
+gjengi ::: bájudit
+reflektere ::: smiehttat
+forskyve ::: sirddatjuvvat
+mime ::: áddestallat
+verdsette ::: árvusatnit
+verdsette ::: merustit
+torturere ::: illastit
+vigsle ::: vihádit
+forsikre ::: dáhkedit
+bli frustrert ::: moaráhuvvat
+ankomme ::: sæjvvut
+introdusere ::: introdusierit
+introdusere ::: oahpásmahttet
+hegne ::: birástahttit
+tilrå ::: rávvit
+tilrå ::: árvvalit
+snekre ::: snihkkit
+frigi ::: luvvit
+digitalisere ::: digitaliserit
+utslette ::: jávkkadit
+skade ::: hávvudit
+koordinere ::: åktijhejvedit
+koordinere ::: åktijornnit
+koordinere ::: buohtalastit
+begjære ::: ádnot
+omfatte ::: sisdoallat
+omfatte ::: siskeldit
+omfatte ::: sisŋedit
+variere ::: rievdadit
+opphøre ::: bissedit
+framskynde ::: árádit
+nedsette ::: fuodnánit
+samsvare ::: åktijvástidit
+avkorte ::: vuoledit
+splitte ::: háddjit
+inspirere ::: oajvvadit
+frata ::: manádit
+ferdigstille ::: válmmit
+hjelpe ::: viehkedit
+skjemme ::: biledit
+skremme ::: gavnnjit
+endre ::: æráhuhttit
+endre ::: æráhuvvat
+signalisere ::: gietjedit
+suse ::: sjuvedit
+bygge ::: huksedit
+drepes ::: gåtteduvvat
+brøyte ::: bålltut
+informere ::: guládit
+begeistre ::: illusit
+kvalifisere ::: gælbbudahttit
+innebære ::: mieldesetbuktit
+trygge ::: oadjudit
+vokse ::: vijddut
+skifte ::: lådnåhuvvat
+kvie ::: gárrut
+uroe ::: ráfehuhttit
+standardisere ::: åvtåjduhttit
+flytte ::: fárredit
+utvikle ::: gárggedit
+klapre ::: tjoalkkit
+budsjettere ::: budsjehterit
+vende ::: jårrålit
+trampe ::: stæmmput
+dytte ::: håjggådit
+synse ::: navddit
+implementere ::: doajmmaj biedjat
+implementere ::: siságoddit
+implementere ::: dåjmmijbidjat
+implementere ::: sajustit
+kjede ::: lájtastuvvat
+fremkomme ::: almmanit
+nevne ::: namáhastit
+gapskratte ::: riessjkit
+skøye ::: lejkastallat
+avta ::: vájddut
+passere ::: rasteldit
+boikotte ::: båjkkuhttit
+skåne ::: ármedit
+konstituere ::: virggájbidjat
+sluttføre ::: gergadit
+befare ::: didusjtit
+befare ::: gæhttjat
+befare ::: guoradit
+engasjere ::: bálkkádit
+streike ::: strejkkit
+plage ::: giksatjuvvat
+fokusere ::: fuomátjuhttit
+fokusere ::: fokusierit
+fokusere ::: tjalmostahttet
+opparbeide ::: gárttadit
+forankre ::: fakkastit
+forankre ::: ruohtastuhttit
+forutsette ::: ævtodit
+forutsette ::: åvddedit
+forutsette ::: ektudit
+sensurere ::: sensurerit
+vanære ::: iehpegudnejahttit
+innføre ::: tjálehuvvat
+skattlegge ::: verudit
+skattlegge ::: vierodit
+realisere ::: duohtandahkat
+skille ::: spiehkkasit
+doble ::: duppalastit
+tematisere ::: guovddelastit
+bidra ::: dagádit
+bidra ::: vájkudit
+fange ::: dabrridit
+fange ::: darvvedit
+restaurere ::: åvdesjtit
+evaluere ::: árvusjtallat
+evaluere ::: evaluierit
+oppfange ::: fáhtit
+skuffe ::: behtahallat
+videreføre ::: joatkit
+videreføre ::: joatkatjuvvat
+videreføre ::: fievredit
+veilede ::: oajvvadit
+ -->
+  <!-- Questionable suggestions, look more at: 
+
+?innleie	lájggudit	láigohit	2	0	76	0
+
+?jf.	bs	vrd	257	33	92	0
+
+?jf.	vrd	vrd	257	0	92	0
+
+ -->
+</r>
