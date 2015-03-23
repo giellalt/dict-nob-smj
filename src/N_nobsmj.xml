@@ -76,7 +76,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">energiddjateknologiddja</t>
+        <t pos="N">energiteknologiddja</t>
       </tg>
     </mg>
   </e>
@@ -286,7 +286,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">giehtatelefåvnnå</t>
+        <t pos="N">mobiltelefåvnnå</t>
       </tg>
     </mg>
   </e>
@@ -296,7 +296,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">giehtatelefåvnnå</t>
+        <t pos="N">mobijlla</t>
       </tg>
     </mg>
   </e>
@@ -427,7 +427,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">energiresursa</t>
+        <t pos="N">energiresurssa</t>
       </tg>
     </mg>
   </e>
@@ -437,7 +437,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">doarjjaresursa</t>
+        <t pos="N">doarjjaresurssa</t>
       </tg>
     </mg>
   </e>
@@ -447,7 +447,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">ednamresursa</t>
+        <t pos="N">ednamresurssa</t>
       </tg>
     </mg>
   </e>
@@ -737,7 +737,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">energiddjasuorgge</t>
+        <t pos="N">energisuorgge</t>
       </tg>
     </mg>
   </e>
@@ -959,7 +959,6 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">ekonomijaássje</t>
         <t pos="N">ekonomiddjaássje</t>
       </tg>
     </mg>
@@ -1300,7 +1299,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">energiddjaguovllo</t>
+        <t pos="N">energiguovllo</t>
       </tg>
     </mg>
   </e>
@@ -1530,7 +1529,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">áhpebiegga</t>
+        <t pos="N">merrabiegga</t>
       </tg>
     </mg>
   </e>
@@ -1540,7 +1539,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">multimedia</t>
+        <t pos="N">multimedijá</t>
       </tg>
     </mg>
   </e>
@@ -2320,7 +2319,8 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">sádden</t>
+        <t pos="N">sátta</t>
+        <t pos="N">sáhkaguodde</t>
       </tg>
     </mg>
   </e>
@@ -2346,7 +2346,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">hule</l>
+      <l pos="N" src="fad">hule i snøen</l>
     </lg>
     <mg>
       <tg>
@@ -2670,7 +2670,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">diehtojuohkemteknijkka</t>
+        <t pos="N">diehtojuohkemteknihkka</t>
       </tg>
     </mg>
   </e>
@@ -3001,7 +3001,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">biehtsegávdda</t>
+        <t pos="N">giessegávdda</t>
       </tg>
     </mg>
   </e>
@@ -3021,7 +3021,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">bivddoláhkaårnik</t>
+        <t pos="N">láhka</t>
       </tg>
     </mg>
   </e>
