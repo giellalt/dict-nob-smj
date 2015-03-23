@@ -6708,6 +6708,296 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">aggregat</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">aggregáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">apparat</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">apparáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">billedkunst</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">gåvvådájdda</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bjørkeved</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">soahkemuorra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dur</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">jurra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ferskvannsfisk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">jávrreguolle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">frakk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">fráhkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">godhet</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">buorrevuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">handlingsprogram</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">doajmmaprográmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">hundreår</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">tjuohtejahke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">journalistikk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">journalistihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">knokkel</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dákte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">lønnstillegg</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">bálkkálasádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">medalje</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">medállja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">medikament</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">dálkas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mellomtrinn</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">gasskadásse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">postkasse</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">poasstakássa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">punktskrift</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">tjuokkestjála</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">riksspråk</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">rijkagiella</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkbærer</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">giellaguodde</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkforsker</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">gielladutke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkvitenskap</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">gielladieda</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tast</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">boallo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tekstforfatter</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">tækstatjálle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">telefaks</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">telefáksa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">traktat</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">traktáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">valgting</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">válggadigge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vaselin</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">vaselijnna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vedkasse</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">muorrakássa</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
 arkivsystem ::: vuorkkávuohke
 arkivsystem ::: ibnossystebma
@@ -7247,4 +7537,3 @@ maktforhold ::: fábmogasskavuohta
 
  -->
 </r>
-
