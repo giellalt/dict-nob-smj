@@ -1,4 +1,3 @@
-
 dr.philos.	dr.philos.	dr.philos.	0	0	0	0
 
 mag.art.	mag.art.	mag.art.	0	0	0	0
@@ -35,18 +34,7 @@ bachelorgrad	bachelorgráda	bachelorgráda	4	1	3	0
 
 rettsstat	riektestáda	riektestáda	1	0	0	0
 
-kommunalkomite	gielldakomitea	gieldakomitea	1	0	0	0
-kommunalkomité	gielldakomitea	gieldakomitea	6	0	0	0
-kommunalkomite	gielldakomitiedja	gieldakomitea	1	0	0	0
-kommunalkomité	gielldakomitiedja	gieldakomitea	6	0	0	0
-
 motvind	vuosstebiegga	vuostebiegga	1	17	4	0
-
-dybdedialog	dárkkelisdialoga	dárkilisdialoga	0	0	0	0
-dybdedialog	dárkkelisdialåvggå	dárkilisdialoga	0	0	0	0
-
-bibliotekkatalog	girjjerádjokataloga	girjerádjokataloga	0	0	0	0
-bibliotekkatalog	girjjerádjokatalåvggå	girjerádjokataloga	0	0	0	0
 
 orienteringsfag	o-fága	o-fága	2	0	0	0
 
@@ -68,9 +56,6 @@ nettmedium	næhttamedia	neahttamedia	0	0	0	0
 
 bildemedium	gåvvåmedia	govvamedia	0	0	0	0
 
-direktebevilgning	njuolggadoarjja	njuolgadoarjja	2	3	0	0
-direktetilskudd	njuolggadoarjja	njuolgadoarjja	14	3	0	0
-
 kalvetilskudd	miessedoarjja	miessedoarjja	3	0	1	0
 
 kvinnekampanje	nissunkampánnja	nissonkampánnja	0	0	0	0
@@ -83,13 +68,7 @@ pristiltakslov	haddedoajmmaláhka	haddedoaibmaláhka	0	0	0	0
 
 hundelov	benaláhka	beanaláhka	1	0	0	0
 
-ressurslovgivning	resursaláhka	resursaláhka	0	0	1	0
-resurslov	resursaláhka	resursaláhka	0	0	1	0
-
 fjellov	miehttseláhka	meahcceláhka	6	0	1	0
-
-sektorlovgivning	suorggeláhka	suorgeláhka	0	0	0	0
-sektorlov	suorggeláhka	suorgeláhka	0	0	0	0
 
 Finnmarksloven	Finnmárkoláhka	Finnmárkoláhka	158	9	94	0
 
@@ -173,9 +152,6 @@ tekstil	tekstijla	tekstiila	2	1	5	0
 
 celle	sella	sealla	0	0	1	0
 
-spansk språk	spánskagiella	spánskkagiella	0	7	0	0
-spansk	spánskagiella	spánskkagiella	2	7	0	0
-
 kai-språk	gáddegiella	gáddegiella	0	0	0	0
 
 scenespråk	lávddegiella	lávdegiella	0	0	0	0
@@ -226,9 +202,6 @@ sikkerhetstiltak	sihkkarvuodadoajmma	sihkkarvuođadoaibma	1	0	0	0
 
 utmarksvirksomhet	miehttsedoajmma	meahccedoaibma	1	0	0	0
 
-fritidspreget virksomhet	astoájggedoajmma	asttuáiggedoaibma	0	0	0	0
-fritidsformål	astoájggedoajmma	asttuáiggedoaibma	2	0	0	0
-
 sektoroppgave	suorggedoajmma	suorgedoaibma	0	0	0	0
 
 landsdelsfunksjon	rijkaoassedoajmma	riikkaoassedoaibma	0	0	0	0
@@ -272,18 +245,6 @@ bachelorprogram	bachelorprográmma	bachelorprográmma	0	0	0	0
 infrastrukturprogram	infrastrukturprográmma	infrastrukturprográmma	0	0	0	0
 
 endringsprogram	rievddadusprográmma	rievdadusprográmma	0	0	0	0
-
-kunstdiplom	dájdadiploma	dáiddadiploma	1	0	1	0
-kunstdiplom	dájdadiplåvmmå	dáiddadiploma	1	0	1	0
-
-siviløkonom	sivijlaekonoma	siviilaekonoma	1	0	0	0
-siviløkonom	sivijlaekonåvmmå	siviilaekonoma	1	0	0	0
-
-fylkesagronom	fylkaagronoma	fylkkaagronoma	0	0	0	0
-fylkesagronom	fylkaagronåvmmå	fylkkaagronoma	0	0	0	0
-
-sivilagronom	sivijlaagronoma	siviilaagronoma	1	0	0	0
-sivilagronom	sivijlaagronåvmmå	siviilaagronoma	1	0	0	0
 
 sikkerhetsmekanisme	sihkkarvuodamekanisma	sihkkarvuođamekanisma	0	0	0	0
 
@@ -347,9 +308,6 @@ samferdselsplan	jåhtålusplána	johtalusplána	4	0	1	0
 
 krigsveteran	soahteveterána	soahteveterána	0	0	2	0
 
-likevektsprinsipp	dásseárvoprinsihppa	dásseárvoprinsihppa	0	0	0	0
-likeverdsprinsipp	dásseárvoprinsihppa	dásseárvoprinsihppa	1	0	0	0
-
 pære	pera	peara	1	0	1	0
 
 siidastyre	sijdastivra	siiddastivra	6	0	2	0
@@ -359,9 +317,6 @@ sommersiidastyre	giessesijddastivra	geassesiiddastivra	0	0	0	0
 riksvalgstyre	rijkaválgastivra	riikkaválgastivra	0	0	0	0
 
 fylkesvalgstyre	fylkaválgastivra	fylkkaválgastivra	0	0	0	0
-
-lensstyre	lenastivra	leanastivra	0	2	10	0
-fylkesstyre	lenastivra	leanastivra	1	2	10	0
 
 utmarksstyre	miehttsestivra	meahccestivra	7	0	2	0
 
@@ -519,9 +474,6 @@ virkelighet	duodalasjvuohta	duođalašvuohta	26	3	5	1
 
 kraft	fámulasjvuohta	fámolašvuohta	287	0	0	0
 
-sikkerhet	dårvulasjvuohta	dorvvolašvuohta	116	0	4	0
-trygghet	dårvulasjvuohta	dorvvolašvuohta	56	0	4	0
-
 abnormitet	iehpedábálasjvuohta	eahpedábálašvuohta	0	0	0	0
 
 mediesituasjon	mediadilálasjvuohta	mediadilálašvuohta	0	0	0	0
@@ -558,9 +510,6 @@ likestillingsmiddel	dásseárvoruhta	dásseárvoruhta	0	0	0	0
 
 utjevningsmandat	dássemandáhta	dássemandáhta	8	0	0	0
 
-ekstramandat	lassemandáhta	lassimandáhta	0	0	0	0
-tilleggsmandat	lassemandáhta	lassimandáhta	0	0	0	0
-
 bakgrunnsnotat	duogásjnotáhta	duogášnotáhta	1	0	0	0
 
 nasjonalstat	nationálastáhta	nationálastáhta	16	0	4	0
@@ -572,9 +521,6 @@ reservenettkart	hiehtekárta	heahtekárta	0	0	0	0
 emnekart	fáddákárta	fáddákárta	0	0	0	0
 
 klasseliste	klássalista	klássalista	0	0	0	0
-
-Flyttsamelista	jåhttesámelista	johttisámelista	21	0	0	0
-flyttsameliste	jåhttesámelista	johttisámelista	24	0	0	0
 
 manntallsliste	jienastuslista	jienastuslista	0	0	0	0
 
@@ -589,9 +535,6 @@ radioapparat	rádioapparáhtta	rádioapparáhtta	0	0	0	0
 statsetat	stáhtaetáhtta	stáhtaetáhtta	1	0	0	0
 
 fylkeskulturetat	fylkakulturetáhtta	fylkkakulturetáhtta	0	0	0	0
-
-fjernsynssending	TV-sátta	TV-sátta	0	0	6	0
-TV-sending	TV-sátta	TV-sátta	4	0	6	0
 
 morgensending	idetsátta	iđitsátta	0	0	5	0
 
@@ -630,10 +573,6 @@ pc	pc	pc	2	0	0	0
 cd	cd	cd	3	3	13	0
 
 bokskap	girjjeskábe	girjeskábe	0	0	0	0
-
-likeverdsmodell	dásseárvomálle	dásseárvomálle	0	0	0	0
-likevektsmodell	dásseárvomálle	dásseárvomálle	0	0	0	0
-likevektsprinsipp	dásseárvomálle	dásseárvomálle	0	0	0	0
 
 storkniv	stuorranijbe	stuorraniibi	1	0	0	0
 
@@ -689,13 +628,7 @@ IT-bransje	IT-suorgge	IT-suorgi	0	0	0	0
 
 kunstfelt	dájdasuorge	dáiddasuorgi	0	0	5	0
 
-museumsområde	museasuorge	museasuorgi	0	0	1	0
-museumssektor	museasuorge	museasuorgi	1	0	1	0
-
 reallinje	reálasuorge	reálasuorgi	0	0	0	0
-
-mineralbransje	minerálasuorge	minerálasuorgi	0	0	0	0
-mineralsektor	minerálasuorge	minerálasuorgi	0	0	0	0
 
 rammeområde	rámmasuorge	rámmasuorgi	2	0	0	0
 
@@ -719,15 +652,9 @@ biblioteksektor	girjjerádjosuorge	girjerádjosuorgi	0	0	0	0
 
 snekkerlinje	snihkkársuorge	snihkkársuorgi	0	0	0	0
 
-forsvarsgren	suodjalussuorge	suodjalussuorgi	0	1	0	0
-forsvarssektor	suodjalussuorge	suodjalussuorgi	4	1	0	0
-
 samferdselssektor	jåhtålussuorge	johtalussuorgi	3	0	0	0
 
 fiskerisektor	guolástussuorge	guolástussuorgi	2	0	0	0
-
-emneområde	fáddásuorge	fáddásuorgi	0	0	0	0
-temaområde	fáddásuorge	fáddásuorgi	1	0	0	0
 
 museumssektor	dávvervuorkásuorge	dávvirvuorkásuorgi	1	0	0	0
 
@@ -787,17 +714,11 @@ rettsforhold	riektedille	riektedilli	63	0	35	0
 
 piratsituasjon	merrarievvárdille	mearrarievvárdilli	0	0	0	0
 
-fiskestamme	guollenálle	guollenálli	1	0	7	0
-fiskebestand	guollenálle	guollenálli	7	0	7	0
-
 statsrådsekretær	stáhtaráddetjálle	stáhtaráđđečálli	0	0	0	0
 
 statsministersekretær	stáhtaministartjálle	stáhtaministtarčálli	0	0	0	0
 
 pdf-format	pdf-hábme	pdf-hápmi	11	0	1	0
-
-sennagress	gámásuojnne	gámasuoidni	3	0	5	0
-sennegras	gámásuojnne	gámasuoidni	5	0	5	0
 
 sjøsamegutt	merrasámebárnne	mearrasámebárdni	0	0	0	0
 
@@ -817,9 +738,6 @@ kvinneandel	nissunoasse	nissonoassi	24	0	4	0
 
 utgiftsside	gållooasse	gollooassi	0	0	0	0
 
-kvist	risse	rissi	3	20	14	0
-busk	risse	rissi	8	20	14	0
-
 statsbesøk	stáhtaguosse	stáhtaguossi	1	0	0	0
 
 siidanivå	sijddadásse	siidadássi	1	0	0	0
@@ -831,9 +749,6 @@ mellomfagsnivå	gasskafágadásse	gaskafágadássi	0	0	0	0
 risikonivå	risskadásse	riskadássi	0	0	0	0
 
 postnivå	poasstadásse	poastadássi	2	0	0	0
-
-detaljeringsgrad	dárkkelvuodadásse	dárkilvuođadássi	1	0	0	0
-detaljeringsnivå	dárkkelvuodadásse	dárkilvuođadássi	1	0	0	0
 
 sikkerhetsnivå	sihkarvuodadásse	sihkarvuođadássi	4	0	0	0
 
@@ -871,12 +786,6 @@ fiskerettighet	guolástusriekte	guolástusriekti	12	0	1	0
 
 museumsbygg	museaviste	museavisti	5	0	2	0
 
-museumsbygning	dávvervuorkáviste	dávvirvuorkávisti	0	0	0	0
-museumsbygg	dávvervuorkáviste	dávvirvuorkávisti	5	0	0	0
-
-sentralbygg	guovdásjviste	guovddášvisti	0	0	0	0
-sentrumsbygning	guovdásjviste	guovddášvisti	0	0	0	0
-
 skadeflom	jåhkådulve	johkadulvi	0	0	0	0
 
 pdf-skjema	pdf-skåvve	pdf-skovvi	0	0	0	0
@@ -913,18 +822,9 @@ bibliotekspørsmål	girjjerádjoássje	girjerádjoášši	0	0	0	0
 
 vegsak	gæjnnoássje	geaidnoášši	0	0	1	0
 
-utdanningssak	oahppoássje	oahppoášši	2	0	1	0
-opplæringssak	oahppoássje	oahppoášši	5	0	1	0
-
-likestillingssak	dásseárvoássje	dásseárvoášši	0	0	1	0
-likestillingsspørsmål	dásseárvoássje	dásseárvoášši	5	0	1	0
-
 endringssak	rievddadusássje	rievdadusášši	0	0	0	0
 
 forsvarsspørsmål	suodjalusássje	suodjalusášši	0	0	0	0
-
-fiskerisak	guolástusássje	guolástusášši	1	0	3	0
-fiskerispørsmål	guolástusássje	guolástusášši	6	0	3	0
 
 krabbesak	ræbbáássje	reabbáášši	0	0	0	0
 
@@ -933,9 +833,6 @@ avisartikkel	avijsaartihkal	aviisaartihkal	4	0	0	0
 nettartikkel	næhttaartihkal	neahttaartihkal	0	0	0	0
 
 språkkapittel	giellakapihtal	giellakapihtal	4	0	1	0
-
-delkapittel	oassekapihtal	oassekapihtal	0	0	0	0
-underkapittel	oassekapihtal	oassekapihtal	3	0	0	0
 
 kunstnerformål	dájdaulmmel	dáiddaulbmil	0	0	0	0
 
@@ -957,12 +854,6 @@ mineralforum	minerálaforum	minerálaforum	3	0	0	0
 
 kvinneforum	nissunforum	nissonforum	0	0	1	0
 
-boring	båhkån	bohkan	1	0	9	0
-utvinning	båhkån	bohkan	48	0	9	0
-
-grensekommunesamarbeid	rádjesuohkan	rádjesuohkan	0	0	1	0
-grensekommune	rádjesuohkan	rádjesuohkan	1	0	1	0
-
 materiellanskaffelse	materiálaháhkan	materiálaháhkan	0	0	0	0
 
 fylkesforsyning	fylkagálvoháhkan	fylkkagálvoháhkan	0	0	0	0
@@ -970,9 +861,6 @@ fylkesforsyning	fylkagálvoháhkan	fylkkagálvoháhkan	0	0	0	0
 infrastrukturinvestering	infrastrukturháhkan	infrastrukturháhkan	0	0	0	0
 
 finansmarked	finánsamárkan	finánsamárkan	4	0	0	0
-
-valutamarked	ruhtamárkan	ruhtamárkan	0	0	0	0
-finansmarked	ruhtamárkan	ruhtamárkan	4	0	0	0
 
 produktmarked	buvtamárkan	buvttamárkan	0	0	0	0
 
@@ -982,9 +870,6 @@ hasard	spellan	speallan	0	0	19	0
 
 jakt	lådden	lodden	198	0	11	0
 
-lydinnspilling	bádden	bádden	0	0	18	0
-plateinnspilling	bádden	bádden	0	0	18	0
-
 oppvarming	liggen	liggen	53	0	8	0
 
 sentraloppvarming	guovdásjliggen	guovddášliggen	0	0	0	0
@@ -992,9 +877,6 @@ sentraloppvarming	guovdásjliggen	guovddášliggen	0	0	0	0
 pålegg	bággen	bággen	67	0	13	0
 
 produktutvikling	buvtagárgen	buvttagárgen	34	0	0	0
-
-avgrensing	ráddjen	ráddjen	12	0	28	0
-avgrensning	ráddjen	ráddjen	32	0	28	0
 
 museumsutbygging	museahuksen	museahuksen	0	0	1	0
 
@@ -1069,12 +951,6 @@ underskriftsaksjon	nammavuollájtjállen	nammavuolláičállin	0	0	0	0
 betaling	máksen	máksin	58	0	49	0
 
 tap	massen	massin	200	0	27	0
-
-tap av reinkalver	miessemassen	miessemassin	0	0	0	0
-kalvetap	miessemassen	miessemassin	3	0	0	0
-
-avskjed fra embete eller stilling	hiejtten	heaitin	0	0	6	0
-frafall	hiejtten	heaitin	19	0	6	0
 
 kjøp	oassten	oastin	155	0	57	0
 
@@ -1156,12 +1032,6 @@ tallmateriale	låhkoávnas	lohkoávnnas	8	0	0	0
 
 næringsstoff	biebbmoávnas	biebmoávnnas	0	0	3	0
 
-læremiddel	oahppoávnas	oahppoávnnas	370	0	6	0
-læremateriell	oahppoávnas	oahppoávnnas	4	0	6	0
-
-kunnskapstilfang	diehtoávnas	diehtoávnnas	0	0	0	0
-datamateriale	diehtoávnas	diehtoávnnas	4	0	0	0
-
 gjenstandsmateriale	dávverávnas	dávvirávnnas	2	0	0	0
 
 veiledningsmateriell	oajvvadusávnas	oaivadusávnnas	5	0	0	0
@@ -1171,9 +1041,6 @@ kunststoff	dahkoávnas	dahkuávnnas	0	0	0	0
 smittestoff	njoammoávnas	njoammuávnnas	1	0	0	0
 
 kulepunkt	oassetjuokkes	oassečuokkis	20	0	0	0
-
-tilleggspoeng	lassetjuokkes	lassičuokkis	1	0	1	0
-tilleggspunkt	lassetjuokkes	lassičuokkis	2	0	1	0
 
 EU-regelverk	EO-njuolgadus	EO-njuolggadus	0	0	0	0
 
@@ -1198,9 +1065,6 @@ knutepunktinstitusjon	guovdásjdoajmmaásadus	guovddášdoaibmaásahus	2	0	0	0
 statsinstitusjon	stáhtaásadus	stáhtaásahus	3	0	2	0
 
 språkpåvirkning	giellavájkkudus	giellaváikkuhus	0	0	0	0
-
-langtidsettervirkning	guhkesájggevájkkudus	guhkesáiggeváikkuhus	0	0	0	0
-langtidsvirkning	guhkesájggevájkkudus	guhkesáiggeváikkuhus	0	0	0	0
 
 rettsvirkning	riektevájkkudus	riekteváikkuhus	3	0	0	0
 
@@ -1228,9 +1092,6 @@ nødmelding	hiehtediedádus	heahtedieđáhus	4	0	0	0
 
 tilleggsmelding	lassediedádus	lassidieđáhus	2	0	1	0
 
-strukturmeldning	strukturdiedádus	strukturdieđáhus	0	0	0	0
-strukturmelding	strukturdiedádus	strukturdieđáhus	1	0	0	0
-
 endringsmelding	rievddadusdiedádus	rievdadusdieđáhus	0	0	0	0
 
 fiskerimelding	guolástusdiedádus	guolástusdieđáhus	1	0	0	0
@@ -1257,9 +1118,6 @@ skalle	gállut	gállot	9	0	1	0
 
 messe	messut	meassut	3	0	17	0
 
-faktainformasjon	duohtadiedut	duohtadieđut	0	0	1	0
-fakta	duohtadiedut	duohtadieđut	7	0	1	0
-
 Lavangen	Loabát	Loabát	59	3	37	0
 
 statsadvokatembete	stáhtaadvokáhtaámmát	stáhtaadvokáhtaámmát	0	0	0	0
@@ -1269,9 +1127,6 @@ fylkesmannsembete	fylkamánneámmát	fylkkamánneámmát	5	0	0	0
 fiskeriyrke	guolástusámmát	guolástusámmát	0	0	0	0
 
 TV-serie	TV-rájddo	TV-ráidu	0	0	8	0
-
-jordbearbeiding	bælldo	bealdu	1	32	11	0
-innmark	bælldo	bealdu	24	32	11	0
 
 forfatning	vædjo	veadju	5	113	1136	25
 
@@ -1292,9 +1147,6 @@ bordtak	bielkká	bielká	0	7	0	0
 Ole	Åvlá	Ovllá	144	6	64	0
 
 fjernsynsdrama	TV-drámá	TV-drámá	1	0	0	0
-
-reindriftsunge	badjemánná	badjemánná	0	0	7	0
-flyttsamebarn	badjemánná	badjemánná	5	0	7	0
 
 flyttsamebarn	jåhttesámemánná	johttisámemánná	5	0	0	0
 
