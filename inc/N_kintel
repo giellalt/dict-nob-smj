@@ -137,7 +137,7 @@ arbeidsår	barggujahke	bargojahki	1	0	0	0
 +arbeidsår	barggojahke
 
 arkeologi	arkkeologijja	arkeologiija	12	0	5	0
-+arkeologi	arkeologija
++arkeologi	arkeologiddja
 
 arkitekt	arkketeakta	arkiteakta	14	0	14	0
 +arkitekt	arkitækta
@@ -423,7 +423,7 @@ dimensjon	oalle	oalli	48	199	67	0
 +dimensjon	dimensjåvnnå
 
 diplom	dipluma	diploma	3	0	14	0
-+diplom	diploma
++diplom	diplåvmmå
 
 diskos	skærro	skearru	0	0	79	0
 +diskos	duolbun
@@ -590,10 +590,10 @@ etnisitet	ednalasjvuohta	etnalašvuohta	49	0	0	0
 +etnisitet	tjerdalasjvuohta
 
 etnografi	ednugrafijja	etnografiija	3	0	2	0
-+etnografi	etnografija
++etnografi	etnografiddja
 
 etnologi	ednulogijja	etnologiija	1	0	0	0
-+etnologi	etnologija
++etnologi	etnologiddja
 
 etterforskning	dutkkalmasat	dutkkalmasat	1	0	0	0
 +etterforskning	guoradallam
@@ -687,7 +687,7 @@ ferskvannsfiske	sájvvatjáhtseguolásteapme	sáivačáhceguolásteapmi	5	0	0	0
 +ferskvannsfiske	jávrreguollim
 
 filosofi	filusofijja	filosofiija	6	0	11	0
-+filosofi	filosofija
++filosofi	filosofiddja
 
 finansdepartement	Ruhtadandepartemeanta	Ruhtadandepartemeanta	39	0	7	0
 finansdepartement	finánsadepartemeanta	finánsadepartemeanta	39	0	2	0
@@ -1087,10 +1087,10 @@ generalforsamling	válldutjoahkken	váldočoahkkin	31	0	12	0
 
 geografi	enadieda	eanadieđa	24	0	0	0
 geografi	geografijja	geografiija	24	0	12	0
-+geografi	geografija
++geografi	geografiddja
 
 geologi	geolugijja	geologiija	3	0	4	0
-+geologi	geologija
++geologi	geologiddja
 
 gjenstandssamling	áhtutjoakkáldat	áhtočoakkáldat	0	0	0	0
 +gjenstandssamling	dávvervuorkká
@@ -1426,7 +1426,7 @@ informasjonskontor	diehtujuohkinkantuvra	diehtojuohkinkantuvra	0	0	1	0
 +informasjonskontor	diehtokontåvrrå
 
 informasjonsteknologi	infurmasjuvnnateknologijja	informašuvdnateknologiija	5	0	0	0
-+informasjonsteknologi	diehtoteknologija
++informasjonsteknologi	diehtoteknologiddja
 
 informasjonstjeneste	diedehanbálvalus	dieđihanbálvalus	18	0	0	0
 informasjonstjeneste	diehtubálvalus	diehtobálvalus	18	0	0	0
@@ -1636,7 +1636,7 @@ kolon	duppaltjuokkes	duppalčuokkis	0	0	2	0
 +kolon	gærddotjuogga
 
 koloni	kålunijja	koloniija	3	0	8	0
-+koloni	kolonija
++koloni	koloniddja
 
 kols	giehpesdávda	geahpesdávda	0	0	1	0
 +kols	kålsså
@@ -1828,7 +1828,7 @@ kystområde	riddusuorge	riddosuorgi	15	0	0	0
 +kystområde	merraguovllo
 
 kåseri	hærvvasáhka	hearvasáhka	0	0	0	0
-+kåseri	kåserija
++kåseri	kåseriddja
 
 lagring	vurkkenrustet	vurkenrusttet	27	0	0	0
 +lagring	vuorkudibme
@@ -1930,7 +1930,7 @@ litteraturhistorie	girjálasjvuodahistorjá	girjjálašvuođahistorjá	5	0	0	0
 +litteraturhistorie	girjálasjvuodahiståvrrå
 
 liturgi	liturgijja	liturgiija	5	0	7	0
-+liturgi	liturgija
++liturgi	liturgiddja
 
 livsopphold	birggemusj	birgemuš	10	0	0	0
 +livsopphold	viessomuj
@@ -2036,7 +2036,7 @@ læringsplattform	oahppanlávde	oahppanlávdi	1	0	0	0
 +læringsplattform	oahppamvuogádahka
 
 læringsstrategi	oahppanstrategijja	oahppanstrategiija	1	0	0	0
-+læringsstrategi	oahppamstrategija
++læringsstrategi	oahppamstrategiddja
 
 læringsutbytte	oahppanboadus	oahppanboađus	9	0	0	0
 læringsutbytte	oahppanbuvtta	oahppanbuvtta	9	0	0	0
@@ -2118,7 +2118,7 @@ medlemstall	miellahttolohku	miellahttolohku	3	0	2	0
 +medlemstall	sebrulasjlåhko
 
 meieri	mejerijja	meieriija	4	0	2	0
-+meieri	mejerija
++meieri	mejeriddja
 
 meldeplikt	diedehangeatnegasvuohta	dieđihangeatnegasvuohta	2	0	5	0
 +meldeplikt	diededimvælggo
@@ -2762,7 +2762,7 @@ prosjektplan	pråsjeaktaplána	prošeaktaplána	5	0	2	0
 +prosjektplan	prosjæktapládna
 
 psykologi	psykulogijja	psykologiija	3	0	4	0
-+psykologi	psykologija
++psykologi	psykologiddja
 
 publikasjon	prentus	preanttus	45	0	10	0
 publikasjon	publekasjuvnna	publikašuvdna	45	0	5	0
@@ -3753,7 +3753,7 @@ teolog	teoluga	teologa	1	0	4	0
 +teolog	teologa
 
 terminologi	termenologijja	terminologiija	87	0	41	0
-+terminologi	terminologija
++terminologi	terminologiddja
 
 tidsintervall	ájggebodda	áigebodda	1	0	3	0
 tidsintervall	ájggegaskadat	áigegaskkadat	1	0	0	0

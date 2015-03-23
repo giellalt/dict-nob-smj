@@ -1,4 +1,3 @@
-
 fritidspreget	asstoájggebájna	?????	1	0	0	0
 fritidspreget	asstobájna	?????	1	0	0	0
 
@@ -65,7 +64,6 @@ arealkategori	areálasládja	areálašládja	0	0	0	0
 bergart	báktesládja	báktešládja	5	0	3	0
 
 reintragedie	boatsojtragediddja	boazotragediija	0	0	0	0
-reintragedie	boatsojtragedija	boazotragediija	0	0	0	0
 
 logopedi	logopediddja	logopediija	0	0	0	0
 
@@ -82,26 +80,22 @@ typografi	typografiddja	typografiija	0	0	0	0
 litografi	litografiddja	litografiija	0	0	1	0
 
 arealstrategi	areálastrategiddja	areálastrategiija	0	0	0	0
-arealstrategi	areálastrategija	areálastrategiija	0	0	0	0
 
 jobbstrategi	barggostrategiddja	bargostrategiija	0	0	0	0
-jobbstrategi	barggostrategija	bargostrategiija	0	0	0	0
 
-nordområdestrategi	nuorttaguovllostrategija	davviguovllustrategiija	17	2	1	0
+nordområdestrategi	nuorttaguovllostrategiddja	davviguovllustrategiija	17	2	1	0
 
 fysiologi	fysiologiddja	fysiologiija	4	1	2	0
 
 kriminologi	kriminologiddja	kriminologiija	0	0	0	0
 
 reindriftsterminologi	boatsojbarggoterminologiddja	boazodoalloterminologiija	0	0	0	0
-reindriftsterminologi	boatsojbarggoterminologija	boazodoalloterminologiija	0	0	0	0
 
 bioteknologi	bioteknologiddja	bioteknologiija	23	0	6	0
 bioteknologi	bioteknologiddjaidja	bioteknologiija	23	0	6	0
 bioteknologi	bioteknologijaidja	bioteknologiija	23	0	6	0
 
 miljøteknologi	birásteknologiddja	birasteknologiija	6	0	0	0
-miljøteknologi	birásteknologija	birasteknologiija	6	0	0	0
 
 zoologi	zoologiddja	zoologiija	0	0	0	0
 
@@ -124,32 +118,26 @@ akademi	akademiddjaidja	akademiija	2	0	4	0
 akademi	akademijaidja	akademiija	2	0	4	0
 
 kommuneøkonomi	buorggoekonomiddja	gielddaekonomiija	8	0	1	0
-kommuneøkonomi	buorggoekonomija	gielddaekonomiija	8	0	1	0
 
 driftsøkonomi	doajmmaekonomiddja	doaibmaekonomiija	2	0	1	0
-driftsøkonomi	doajmmaekonomija	doaibmaekonomiija	2	0	1	0
 
-verdensøkonomi	væráltekonomija	máilmmiekonomiija	1	1	0	0
+verdensøkonomi	væráltekonomiddja	máilmmiekonomiija	1	1	0	0
 
 reindriftsøkonomi	boatsojbarggoekonomiddja	boazodoalloekonomiija	1	0	0	0
-reindriftsøkonomi	boatsojbarggoekonomija	boazodoalloekonomiija	1	0	0	0
 
 miljøøkonomi	birásekonomiddja	birasekonomiija	0	0	0	0
-miljøøkonomi	birásekonomija	birasekonomiija	0	0	0	0
 
 anatomi	anatomiddja	anatomiija	0	1	1	0
 anatomi	anatomiddjaidja	anatomiija	0	0	1	0
 anatomi	anatomijaidja	anatomiija	0	0	1	0
 
 miljøterapi	birásterapiddja	birasterapiija	0	0	0	0
-miljøterapi	birásterapija	birasterapiija	0	0	0	0
 
 periferi	periferiddja	periferiija	0	0	0	0
 
 geriatri	geriatriddja	geriatriija	2	0	0	0
 
 bergindustri	bákteindustriddja	bákteindustriija	2	0	1	0
-bergindustri	bákteindustrija	bákteindustriija	2	0	1	0
 
 dysleksi	dysleksiddja	dysleksiija	0	0	1	0
 
