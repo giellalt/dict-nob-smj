@@ -6,7 +6,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">ideála</t>
+        <t pos="A">ideálla</t>
       </tg>
     </mg>
   </e>
@@ -22,7 +22,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">sakte</l>
+      <l pos="A" src="fad">treg</l>
     </lg>
     <mg>
       <tg>
@@ -166,7 +166,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">njuolggat</t>
+        <t pos="A">njuolgga</t>
       </tg>
     </mg>
   </e>
@@ -206,7 +206,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">grammatihkalasj</t>
+        <t pos="A">grammáhtalasj</t>
       </tg>
     </mg>
   </e>
@@ -316,7 +316,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">didaktalasj</t>
+        <t pos="A">didavtalasj</t>
       </tg>
     </mg>
   </e>
@@ -396,7 +396,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">geografalasj</t>
+        <t pos="A">geográfalasj</t>
       </tg>
     </mg>
   </e>
@@ -796,7 +796,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">sábme</t>
+        <t pos="A">sáme</t>
       </tg>
     </mg>
   </e>
@@ -806,7 +806,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">reála</t>
+        <t pos="A">reálla</t>
       </tg>
     </mg>
   </e>
@@ -816,7 +816,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">reála</t>
+        <t pos="A">reálla</t>
       </tg>
     </mg>
   </e>
@@ -856,7 +856,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">liberála</t>
+        <t pos="A">liberálla</t>
       </tg>
     </mg>
   </e>
@@ -866,7 +866,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">neutrála</t>
+        <t pos="A">neutrálla</t>
       </tg>
     </mg>
   </e>
@@ -1012,7 +1012,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">fremre</l>
+      <l pos="A" src="fad">fremste</l>
     </lg>
     <mg>
       <tg>
@@ -1056,13 +1056,13 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">åvtågielak</t>
+        <t pos="A">avtagielak</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">samisk</l>
+      <l pos="A" src="fad">samiskspråklig</l>
     </lg>
     <mg>
       <tg>
@@ -1166,7 +1166,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">åvtåmielalasj</t>
+        <t pos="A">avtamielalasj</t>
       </tg>
     </mg>
   </e>
@@ -1556,7 +1556,7 @@
     </lg>
     <mg>
       <tg>
-        <t pos="A">åvtålágasj</t>
+        <t pos="A">avtalágasj</t>
       </tg>
     </mg>
   </e>
