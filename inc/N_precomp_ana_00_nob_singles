@@ -1,8 +1,11 @@
+
+# det meste bra, @ = dårlige kandidater
+
 urfolkstema	álggoálmmukássje	eamiálbmotfáddá	0	1	0	0
 
 vedlikeholdskostnad	hoajddogållo	divodangollu	1	1	0	0
 
-studieverksted	åhpadusdivudahka	oahppobádji	0	1	0	0
+@studieverksted	åhpadusdivudahka	oahppobádji	0	1	0	0
 
 nordområdearbeid	nuorttaguovllobarggo	davviguovllubargu	1	1	0	0
 
@@ -10,7 +13,7 @@ utdanningssamarbeid	åhpadusaktisasjbarggo	oahppoovttasbargu	1	1	0	0
 
 verneplanarbeid	suodjalimpládnabarggo	suodjalanplánabargu/suodjalusplánabargu	15	1	0	0
 
-pionerarbeid	njunnjusjbarggo	ovddasmannibargu	2	1	0	0
+@pionerarbeid	njunnjusjbarggo	ovddasmannibargu	2	1	0	0
 
 informasjonsarbeid	diehtobarggo	diehtojuohkinbargu/dieđihanbargu	19	1	0	0
 
@@ -42,7 +45,7 @@ nyhetstilbud	ådåsfálaldahka	ođasfálaldat	0	1	0	0
 
 yrkesforbud	barggobuorgulvis	fidnogielddus	0	0	0	0
 
-prøveperiode	åtsålvisájgge	geahččalanáigodat	6	2	2	0
+@prøveperiode	åtsålvisájgge	geahččalanáigodat	6	2	2	0
 
 søknadsperiode	åhtsåmájgge	ohcanáigodat	0	1	0	0
 
@@ -96,7 +99,7 @@ hjemkommune	sijddasuohkan	ruovttugielda/ruovttusuohkan	7	1	0	0
 
 bykommune	stádasuohkan	gávpotgielda	5	0	0	1
 
-yrkesgruppe	barggogádtse	fidnojoavku/ámmátjoavku/fidnosuorgi/virgejoavku	3	0	0	0
+@yrkesgruppe	barggogádtse	fidnojoavku/ámmátjoavku/fidnosuorgi/virgejoavku	3	0	0	0
 
 urfolksgruppe	álggoálmmukjuogos	eamiálbmotjoavku/álgoálbmotjoavku	8	0	0	2
 
@@ -112,7 +115,7 @@ fjellrase	várreulmusj	várrenálli	0	1	0	0
 
 prosjektledelse	prosjæktajådedibme	prošeaktajođiheapmi/prošeaktanjunuš	4	0	0	1
 
-fellesbetegnelse	aktisasjmærkka	oktasašnamahus	1	0	0	0
+@fellesbetegnelse	aktisasjmærkka	oktasašnamahus	1	0	0	0
 
 kunstutdannelse	dájddaåhpadus	dáiddaoahppu	0	2	3	0
 
@@ -146,7 +149,7 @@ veiledningshefte	bagádustjoahkke	nevvodangihpa	0	0	0	0
 
 informasjonshefte	diehtotjoahkke	prográmmaráidu	1	1	2	0
 
-regjeringsskifte	ráddidusmålssot	ráđđehusmolsun	4	0	0	1
+@regjeringsskifte	ráddidusmålssot	ráđđehusmolsun	4	0	0	1
 
 samekomite	sámejuogos	sámelávdegoddi	0	1	4	0
 
@@ -156,9 +159,9 @@ tannhelsetjeneste	bádnevarresvuodadievnastus	bátnedearvvasvuođabálvalus/bát
 
 konsulenttjeneste	konsulænntavirgge	nevvohatbálvalus	3	1	0	0
 
-arkivtjeneste	ibnosdievnastus	arkiivabálvalus	3	2	1	0
+@arkivtjeneste	ibnosdievnastus	arkiivabálvalus	3	2	1	0
 
-hurtigbåtrute	jåhtelisvanntsarukto	valesfanasfálaldat/jođánisfanasrukto	1	0	0	1
+@hurtigbåtrute	jåhtelisvanntsarukto	valesfanasfálaldat/jođánisfanasrukto	1	0	0	1
 
 fylkesmøte	fylkkadigge	fylkkačoahkkin	0	19	0	0
 
@@ -190,13 +193,13 @@ språkvalg	giellaválljim	giellaválljen	10	4	3	3
 
 planutvalg	pládnajuogos	plánenlávdegoddi	25	2	1	0
 
-bakbinding	bahtasabek	maŋŋečanus	0	0	0	0
+@bakbinding	bahtasabek	maŋŋečanus	0	0	0	0
 
-avtaleforhandling	barggosjiehtadussjiehtadallam	šiehtadussoahpamuš/šiehtadusšiehtadallan	3	0	0	0
+@avtaleforhandling	barggosjiehtadussjiehtadallam	šiehtadussoahpamuš/šiehtadusšiehtadallan	3	0	0	0
 
-myndighetshandling	oajvvedoajmma	eiseváldegieđahallan	0	1	0	0
+@myndighetshandling	oajvvedoajmma	eiseváldegieđahallan	0	1	0	0
 
-kretsfordeling	aktavuohtajuohko	kreatsajuohku	0	0	0	0
+@kretsfordeling	aktavuohtajuohko	kreatsajuohku	0	0	0	0
 
 utviklingsavdeling	åvddånahttemåssudahka	ovddidanossodat/ovdánahttinossodat	4	1	0	0
 
@@ -206,7 +209,7 @@ læremiddelutvikling	oahpponævvoåvddånibme	oahpponeavvoovddideapmi/oahpponeav
 
 rettsutvikling	riektáåvddånibme	riekteovdánahttin/riekteovddideapmi	9	2	0	0
 
-språkstilling	giellatjuovos	giellavirgi	0	1	0	0
+@språkstilling	giellatjuovos	giellavirgi	0	1	0	0
 
 prosjektlederstilling	prosjæktajådediddjevirgge	prošeaktajođiheaddjivirgi	1	0	0	1
 
@@ -230,7 +233,7 @@ kunstutdanning	dájddaåhpadus	dáiddároahppu	4	2	0	1
 
 religionsundervisning	åsskoåhpadus	kristtalašvuođaoahpahus	1	1	0	0
 
-oppgaveløsning	dahkamustjoavddet	doaibmačoavdin/dahkamuščoavdin	4	0	0	3
+@oppgaveløsning	dahkamustjoavddet	doaibmačoavdin/dahkamuščoavdin	4	0	0	3
 
 fellesløsning	aktisasjtjoavdos	oktasaščoavddus	0	0	0	1
 
@@ -256,9 +259,9 @@ hovednæring	oajvveæládus	váldoealáhus	13	1	5	0
 
 kulturnæring	kultuvrraæládus	kulturealáhus	28	0	6	1
 
-språkoverføring	giellasirddem	giellafievrrideapmi/giellasirdin	3	1	0	0
+?språkoverføring	giellasirddem	giellafievrrideapmi/giellasirdin	3	1	0	0
 
-statskog	stáhttamiehttse	stáhtavuovdi	50	0	2	1
+?statskog	stáhttamiehttse	stáhtavuovdi	50	0	2	1
 
 barselomsorg	mánnáhukso	mánnáoažžunfuolla	0	1	0	0
 
@@ -280,7 +283,7 @@ urfolkssak	álggoálmmukássje	eamiálbmotášši/álgoálbmotášši	15	1	0	0
 
 hovedtiltak	oajvvedoajmma	váldodoaibmabidju	0	1	0	0
 
-arbeidsmarkedstiltak	barggomárnándoajmma	barggahusdoaibma/bargomárkandoaibmabidju	5	0	0	0
+@arbeidsmarkedstiltak	barggomárnándoajmma	barggahusdoaibma/bargomárkandoaibmabidju	5	0	0	0
 
 fellestiltak	aktisasjdoajmma	oktasašdoaibma	5	0	2	0
 
@@ -288,7 +291,7 @@ fylkesbibliotek	fylkkagirjjevuorkká	fylkkagirjerájus/fylkkagirjerádju	16	1	0	
 
 fiskeripolitikk	guolástuspolitihkka	guolástanpolitihkka	25	1	2	0
 
-arbeidsmarkedspolitikk	barggomárnánpolitihkka	bargomárkanpolitihkka	2	0	0	0
+@arbeidsmarkedspolitikk	barggomárnánpolitihkka	bargomárkanpolitihkka	2	0	0	0
 
 velferdspolitikk	álkkáduspolitihkka	čálgopolitihkka	2	0	0	1
 
@@ -296,13 +299,13 @@ oppvekstpolitikk	bajássjaddampolitihkka	bajásšaddanpolitihkka	0	0	0	0
 
 kameratflokk	ráddnavehka	ustitjoavku	0	1	0	0
 
-forretningsfolk	oasesålmåj	gávpealmmái	0	2	4	0
+@forretningsfolk	oasesålmåj	gávpealmmái	0	2	4	0
 
 minoritetsfolk	unneplåhkoálmmuk	unnitlohkočearda	1	1	0	0
 
-læreverk	oahppagirjje	oahppodagus	18	4	0	0
+@læreverk	oahppagirjje	oahppodagus	18	4	0	0
 
-handelsjordbruk	oasesednambarggo	gávpeeanadoallu/gávpeeanandoallu	0	2	0	0
+@handelsjordbruk	oasesednambarggo	gávpeeanadoallu/gávpeeanandoallu	0	2	0	0
 
 urfolkspråk	álggoálmmukgiella	eamiálbmotgiella	0	1	1	0
 
@@ -310,19 +313,19 @@ urfolksspråk	álggoálmmukgiella	álgoálbmotgiella	2	1	1	0
 
 kommunikasjonsspråk	guládallamgiella	gulahallangiella/ovttastallangiella	12	3	0	3
 
-kunnskapsspråk	máhttogiella	máhttogiella	0	0	0	1
+@kunnskapsspråk	máhttogiella	máhttogiella	0	0	0	1
 
 tospråklighetsmiddel	guovtegielakvuohtaruhta	guovttegielalašvuođaruhta/guovttegielatruhta/guovttegielalašruhta/guovttegielatvuođaruhta	42	0	0	3
 
 prosjektmiddel	prosjæktaruhta	prošeaktaruhta	51	0	20	1
 
-totalandel	ållesoasse	oppalašoassi	1	1	0	0
+@totalandel	ållesoasse	oppalašoassi	1	1	0	0
 
 regnskapstall	ruhtalåhko	rehketdoallolohku	4	21	1	0
 
 samarbeidsavtalemodell	aktisasjbarggosjiehtadusvuohke	ovttasbargosoahpamušmálle	0	0	0	0
 
-likeverdsmodell	avtaárvvusasjvuohtavuohke	dásseárvomálle	0	0	0	0
+@likeverdsmodell	avtaárvvusasjvuohtavuohke	dásseárvomálle	0	0	0	0
 
 studiemateriell	oahpponævvo	oahppomateriála	1	90	4	0
 
@@ -358,7 +361,7 @@ kunnskapssystem	doajmmasuorgge	máhttovuogádat	0	2	0	0
 
 tekstform	tækstahábme	teakstahápmi	1	0	0	4
 
-forstudium	baháåhpadus	ovdadutkan	0	0	0	0
+@forstudium	baháåhpadus	ovdadutkan	0	0	0	0
 
 halvtidsstudium	bielleájggeåhpadus	jahkebealoahppu	0	1	0	0
 
@@ -392,7 +395,7 @@ urfolksregion	álggoálmmukguovllo	álgoálbmotregiovdna/álgoálbmotguovlu	5	0	
 
 sameorganisasjon	sámesiebrre	sámeorganisašuvdna	0	8	3	0
 
-salgsorganisasjon	oassesiebrre	gávpeorganisašuvdna	5	2	1	0
+@salgsorganisasjon	oassesiebrre	gávpeorganisašuvdna	5	2	1	0
 
 næringsorganisasjon	æládussiebrre	ealáhusorganisašuvdna	18	1	8	0
 
@@ -400,7 +403,7 @@ idrettsorganisasjon	valástallamsiebrre	falástallanorganisašuvdna	5	2	0	0
 
 turistorganisasjon	turisstasiebrre	turistaorganisašuvdna	0	2	0	0
 
-talesituasjon	ságastallamdille	ságastallandilálašvuohta	1	0	0	3
+@talesituasjon	ságastallamdille	ságastallandilálašvuohta	1	0	0	3
 
 lærersituasjon	åhpadiddjedille	oahpaheaddjedilli	1	2	1	0
 
@@ -430,17 +433,17 @@ førskolebarn	åvddåskåvllåmánná	ovdaskuvlamánná	3	0	2	1
 
 områdevern	guovllosuodjalibme	guovllugáhtten/guovllusuodjalus/guovllusuodjaleapmi	7	1	0	0
 
-skogsvern	vuovddesuodjalibme	meahccesuodjaleapmi/vuovdesuodjalus	0	1	0	0
+@skogsvern	vuovddesuodjalibme	meahccesuodjaleapmi/vuovdesuodjalus	0	1	0	0
 
 gårdsnavn	sijddanamma	dállonamma	0	1	0	0
 
 hovedbudskap	oajvvesáhka	váldocealkka	1	4	1	0
 
-formular	bahásmålle	lávadat	2	0	0	0
+@formular	bahásmålle	lávadat	2	0	0	0
 
 fellesseminar	aktisasjseminárra	oktasašseminára	0	0	0	0
 
-myndighetsansvar	oajvvevásstádus	eiseváldegeatnegasvuohta	0	2	0	0
+@myndighetsansvar	oajvvevásstádus	eiseváldegeatnegasvuohta	0	2	0	0
 
 undervisningsleder	åhpadusoajvve	oahpahusjođiheaddji	2	2	1	0
 
@@ -450,7 +453,7 @@ forlagsarbeider	almmudahkabargge	lágádusbargi	0	0	0	0
 
 omsorgsarbeider	huksobargge	fuolahusbargi	3	3	1	0
 
-lommepenger	sålbbebiednik	lummaruhta	0	2	0	0
+@lommepenger	sålbbebiednik	lummaruhta	0	2	0	0
 
 skolesaker	skåvllåássje	skuvlabierggas	1	1	0	0
 
@@ -472,11 +475,11 @@ tilleggsvilkår	ruhtadille	lasseeaktu	0	27	0	0
 
 næringsaktør	æládusoassálasste	ealáhusoasálaš	7	2	0	0
 
-skoledirektør	skåvllådirektørra	skuvladirektevra	28	1	20	0
+@skoledirektør	skåvllådirektørra	skuvladirektevra	28	1	20	0
 
 politidirektør	politiddjadirekterra	politiijadirektevra	1	0	0	3
 
-utdanningsdirektør	åhpadusdirektørra	oahpahusdirektevra/oahppodirektevra	4	1	0	0
+@utdanningsdirektør	åhpadusdirektørra	oahpahusdirektevra/oahppodirektevra	4	1	0	0
 
 ærepris	guddnebálkká	gudnebálkkašupmi	0	14	3	0
 
@@ -512,7 +515,7 @@ instruksjonsmyndighet	bagádusoajvve	gohččunváldi/bagadanváldi	13	0	0	0
 
 kommunikasjonsferdighet	guládallamtjehpudahka	gulahallangálga	0	0	0	3
 
-yrkesmulighet	barggomáhttelis	fidnovejolašvuohta	0	0	0	0
+@yrkesmulighet	barggomáhttelis	fidnovejolašvuohta	0	0	0	0
 
 forlagsvirksomhet	almmudahkadoajmma	lágádusdoaibma/girjelágádusdoaibma	5	0	0	0
 
@@ -542,7 +545,7 @@ lærerstudent	åhpadiddjestudænnta	oahpaheaddjestudeanta	2	1	2	0
 
 godtgjørelsesreglement	ruhtanjuolgadus	buhtadusnjuolggadus	2	1	1	0
 
-bevilgningsreglement	ruhtanjuolgadus	juolludannjuolggadus/juolludusnjuolggadus	9	1	0	0
+@bevilgningsreglement	ruhtanjuolgadus	juolludannjuolggadus/juolludusnjuolggadus	9	1	0	0
 
 regiondepartement	guovllodepartemænnta	regiovdnadepartemeanta	0	10	0	0
 
