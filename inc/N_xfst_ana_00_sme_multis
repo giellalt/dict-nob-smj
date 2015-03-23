@@ -1,34 +1,36 @@
+# + = ok
+
 kommunalkomite	gielldakomitea	gieldakomitea	1	0	0	0
 kommunalkomité	gielldakomitea	gieldakomitea	6	0	0	0
 kommunalkomite	gielldakomitiedja	gieldakomitea	1	0	0	0
 kommunalkomité	gielldakomitiedja	gieldakomitea	6	0	0	0
 
 dybdedialog	dárkkelisdialoga	dárkilisdialoga	0	0	0	0
-dybdedialog	dárkkelisdialåvggå	dárkilisdialoga	0	0	0	0
++dybdedialog	dárkkelisdialåvggå	dárkilisdialoga	0	0	0	0
 
 bibliotekkatalog	girjjerádjokataloga	girjerádjokataloga	0	0	0	0
 bibliotekkatalog	girjjerádjokatalåvggå	girjerádjokataloga	0	0	0	0
 
-direktebevilgning	njuolggadoarjja	njuolgadoarjja	2	3	0	0
-direktetilskudd	njuolggadoarjja	njuolgadoarjja	14	3	0	0
++direktebevilgning	njuolggadoarjja	njuolgadoarjja	2	3	0	0
++direktetilskudd	njuolggadoarjja	njuolgadoarjja	14	3	0	0
 
 ressurslovgivning	resursaláhka	resursaláhka	0	0	1	0
 resurslov	resursaláhka	resursaláhka	0	0	1	0
 
-sektorlovgivning	suorggeláhka	suorgeláhka	0	0	0	0
++sektorlovgivning	suorggeláhka	suorgeláhka	0	0	0	0
 sektorlov	suorggeláhka	suorgeláhka	0	0	0	0
 
-spansk språk	spánskagiella	spánskkagiella	0	7	0	0
++spansk språk	spánskagiella	spánskkagiella	0	7	0	0
 spansk	spánskagiella	spánskkagiella	2	7	0	0
 
 fritidspreget virksomhet	astoájggedoajmma	asttuáiggedoaibma	0	0	0	0
 fritidsformål	astoájggedoajmma	asttuáiggedoaibma	2	0	0	0
 
 kunstdiplom	dájdadiploma	dáiddadiploma	1	0	1	0
-kunstdiplom	dájdadiplåvmmå	dáiddadiploma	1	0	1	0
++kunstdiplom	dájdadiplåvmmå	dáiddadiploma	1	0	1	0
 
 siviløkonom	sivijlaekonoma	siviilaekonoma	1	0	0	0
-siviløkonom	sivijlaekonåvmmå	siviilaekonoma	1	0	0	0
++siviløkonom	sivijlaekonåvmmå	siviilaekonoma	1	0	0	0
 
 fylkesagronom	fylkaagronoma	fylkkaagronoma	0	0	0	0
 fylkesagronom	fylkaagronåvmmå	fylkkaagronoma	0	0	0	0
@@ -67,16 +69,16 @@ mineralsektor	minerálasuorge	minerálasuorgi	0	0	0	0
 forsvarsgren	suodjalussuorge	suodjalussuorgi	0	1	0	0
 forsvarssektor	suodjalussuorge	suodjalussuorgi	4	1	0	0
 
-emneområde	fáddásuorge	fáddásuorgi	0	0	0	0
-temaområde	fáddásuorge	fáddásuorgi	1	0	0	0
++emneområde	fáddásuorge	fáddásuorgi	0	0	0	0
++temaområde	fáddásuorge	fáddásuorgi	1	0	0	0
 
-fiskestamme	guollenálle	guollenálli	1	0	7	0
-fiskebestand	guollenálle	guollenálli	7	0	7	0
++fiskestamme	guollenálle	guollenálli	1	0	7	0
++fiskebestand	guollenálle	guollenálli	7	0	7	0
 
 sennagress	gámásuojnne	gámasuoidni	3	0	5	0
 sennegras	gámásuojnne	gámasuoidni	5	0	5	0
 
-kvist	risse	rissi	3	20	14	0
++kvist	risse	rissi	3	20	14	0
 busk	risse	rissi	8	20	14	0
 
 detaljeringsgrad	dárkkelvuodadásse	dárkilvuođadássi	1	0	0	0
@@ -88,17 +90,17 @@ museumsbygg	dávvervuorkáviste	dávvirvuorkávisti	5	0	0	0
 sentralbygg	guovdásjviste	guovddášvisti	0	0	0	0
 sentrumsbygning	guovdásjviste	guovddášvisti	0	0	0	0
 
-utdanningssak	oahppoássje	oahppoášši	2	0	1	0
-opplæringssak	oahppoássje	oahppoášši	5	0	1	0
++utdanningssak	oahppoássje	oahppoášši	2	0	1	0
++opplæringssak	oahppoássje	oahppoášši	5	0	1	0
 
 likestillingssak	dásseárvoássje	dásseárvoášši	0	0	1	0
 likestillingsspørsmål	dásseárvoássje	dásseárvoášši	5	0	1	0
 
-fiskerisak	guolástusássje	guolástusášši	1	0	3	0
++fiskerisak	guolástusássje	guolástusášši	1	0	3	0
 fiskerispørsmål	guolástusássje	guolástusášši	6	0	3	0
 
-delkapittel	oassekapihtal	oassekapihtal	0	0	0	0
-underkapittel	oassekapihtal	oassekapihtal	3	0	0	0
++delkapittel	oassekapihtal	oassekapihtal	0	0	0	0
++underkapittel	oassekapihtal	oassekapihtal	3	0	0	0
 
 boring	båhkån	bohkan	1	0	9	0
 utvinning	båhkån	bohkan	48	0	9	0
@@ -133,8 +135,8 @@ tilleggspunkt	lassetjuokkes	lassičuokkis	2	0	1	0
 langtidsettervirkning	guhkesájggevájkkudus	guhkesáiggeváikkuhus	0	0	0	0
 langtidsvirkning	guhkesájggevájkkudus	guhkesáiggeváikkuhus	0	0	0	0
 
-strukturmeldning	strukturdiedádus	strukturdieđáhus	0	0	0	0
-strukturmelding	strukturdiedádus	strukturdieđáhus	1	0	0	0
++strukturmeldning	strukturdiedádus	strukturdieđáhus	0	0	0	0
++strukturmelding	strukturdiedádus	strukturdieđáhus	1	0	0	0
 
 faktainformasjon	duohtadiedut	duohtadieđut	0	0	1	0
 fakta	duohtadiedut	duohtadieđut	7	0	1	0
