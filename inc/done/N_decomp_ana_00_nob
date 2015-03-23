@@ -1,3 +1,4 @@
+#+ if unmarked
 # uakseptable kandidater er markert med @ til linje 258, derfra er akseptable kandidater markert med + (mer effektivt)
 
 grafikkverksted	grafihkkadivudahka	grafihkkabádji	0	0	0	0
@@ -256,6 +257,8 @@ arbeidsgiverstrategi	barggovaddestrategiddja	bargoaddistrategiija	0	0	0	0
 reiselivsstrategi	mannoæládusstrategiddja	mátkeeallinstrategiija/mátkeealáhusstrategiija	3	0	0	0
 @reiselivsstrategi	mannoæládusstrategija	mátkeeallinstrategiija/mátkeealáhusstrategiija	3	0	0	0
 @reiselivsstrategi	mannoæládusájggomus	mátkeeallinstrategiija/mátkeealáhusstrategiija	3	0	0	0
+
+#@ if unmarked
 
 +fiskeribiologi	guollimbiologiddja	guolástanbiologiija	0	0	0	0
 +fiskeribiologi	guolástusbiologiddja	guolástanbiologiija	0	0	0	0
