@@ -1,46 +1,48 @@
+# + = ok
+
 helsearbeid	varresvuohtabarggo	dearvvasvuođabargu/dearvvašvuođabargu	9	1	0	1
 helsearbeid	varresbarggo	dearvvasvuođabargu/dearvvašvuođabargu	9	0	0	1
 
-veiledningsarbeid	bagádusbarggo	oaivadanbargu/bagadallanbargu	1	0	0	0
++veiledningsarbeid	bagádusbarggo	oaivadanbargu/bagadallanbargu	1	0	0	0
 veiledningsarbeid	bagádusbálkká	oaivadanbargu/bagadallanbargu	1	0	0	0
 
-motivasjonsarbeid	arvusmahttembarggo	movttiidahttinbargu	1	0	0	0
++motivasjonsarbeid	arvusmahttembarggo	movttiidahttinbargu	1	0	0	0
 motivasjonsarbeid	arvusmahttembálkká	movttiidahttinbargu	1	0	0	0
 
 beiteforhold	guohtomvijor	guohtundilli/guohtundilálašvuohta	19	0	0	1
 beiteforhold	guohtomvidjur	guohtundilli/guohtundilálašvuohta	19	0	0	1
 
-bruksrettsforhold	adnemriektádille	geavahanvuoigatvuođadilli	0	0	0	0
++bruksrettsforhold	adnemriektádille	geavahanvuoigatvuođadilli	0	0	0	0
 bruksrettsforhold	adnemriektávijor	geavahanvuoigatvuođadilli	0	0	0	0
 bruksrettsforhold	adnemriektávidjur	geavahanvuoigatvuođadilli	0	0	0	0
 
-idrettsforbund	valástallamsiebrre	falástallanlihttu/faláštallanlihttu	8	2	0	0
++idrettsforbund	valástallamsiebrre	falástallanlihttu/faláštallanlihttu	8	2	0	0
 idrettsforbund	valástallamlihtto	falástallanlihttu/faláštallanlihttu	8	3	0	0
 
-veiledningstilbud	bagádusfálaldahka	rávvenfálaldat	0	0	0	0
++veiledningstilbud	bagádusfálaldahka	rávvenfálaldat	0	0	0	0
 veiledningstilbud	bagádusfállo	rávvenfálaldat	0	0	0	0
 
-avistilbud	avijssafálaldahka	aviisafálaldat	2	0	1	0
++avistilbud	avijssafálaldahka	aviisafálaldat	2	0	1	0
 avistilbud	avijssafállo	aviisafálaldat	2	0	1	0
 
-avisside	avijssabielle	aviisasiidu/áviisasiidu	2	0	0	1
++avisside	avijssabielle	aviisasiidu/áviisasiidu	2	0	0	1
 avisside	avijssahiertik	aviisasiidu/áviisasiidu	2	0	0	0
 avisside	avijssadoares	aviisasiidu/áviisasiidu	2	0	0	0
 
 inspirasjonskilde	arvvadahttemája	oaivadusgáldu	1	0	0	0
 inspirasjonskilde	arvusmahttemája	oaivadusgáldu	1	0	0	0
 inspirasjonskilde	arvvadahttemgálldo	oaivadusgáldu	1	0	0	0
-inspirasjonskilde	arvusmahttemgálldo	oaivadusgáldu	1	0	0	0
++inspirasjonskilde	arvusmahttemgálldo	oaivadusgáldu	1	0	0	0
 
 avtaleperiode	barggosjiehtadusgávdda	šiehtadanáigodat/šiehtadusáigodat	2	0	0	0
 avtaleperiode	barggosjiehtadusmuddo	šiehtadanáigodat/šiehtadusáigodat	2	0	0	0
 
-fellesperiode	aktisasjgávdda	oktasašáigodat	0	0	0	0
++fellesperiode	aktisasjgávdda	oktasašáigodat	0	0	0	0
 fellesperiode	aktisasjájgge	oktasašáigodat	0	0	0	0
 fellesperiode	aktisasjuddo	oktasašáigodat	0	0	0	0
 fellesperiode	aktisasjmuddo	oktasašáigodat	0	0	0	0
 
-delområde	oasseguovllo	oassesuorgi	6	0	0	1
++delområde	oasseguovllo	oassesuorgi	6	0	0	1
 delområde	oasseguovllot	oassesuorgi	6	0	0	1
 
 innsatsområde	barggogádde	vuoruhansuorgi/ulbmilsuorgi/rahčamušsuorgi/bijussuorgi/nannensuorgi/áŋgiruššansuorgi	64	0	0	0
@@ -55,7 +57,7 @@ oppvekstområde	bajássjaddamvieradahka	ahtanuššanguovlu	1	0	0	0
 oppvekstområde	bajássjaddamgádde	ahtanuššanguovlu	1	0	0	0
 oppvekstområde	bajássjaddamsuorgge	ahtanuššanguovlu	1	0	0	0
 oppvekstområde	bajássjaddambájkke	ahtanuššanguovlu	1	0	0	0
-oppvekstområde	bajássjaddamguovllo	ahtanuššanguovlu	1	0	0	0
++oppvekstområde	bajássjaddamguovllo	ahtanuššanguovlu	1	0	0	0
 oppvekstområde	bajássjaddamháldadimguovllo	ahtanuššanguovlu	1	0	0	0
 oppvekstområde	bajássjaddamsuodjalimguovllo	ahtanuššanguovlu	1	0	0	0
 oppvekstområde	bajássjaddamgáddet	ahtanuššanguovlu	1	0	0	0
@@ -66,14 +68,14 @@ reallinje	almmagádde	reálasuorgi	0	0	0	0
 reallinje	almmasáhtso	reálasuorgi	0	0	0	0
 
 samarbeidslinje	aktisasjlinnja	ovttasbargolinjá	0	0	0	0
-samarbeidslinje	aktisasjbarggolinnja	ovttasbargolinjá	0	0	0	0
++samarbeidslinje	aktisasjbarggolinnja	ovttasbargolinjá	0	0	0	0
 samarbeidslinje	aktisasjgádde	ovttasbargolinjá	0	0	0	0
 samarbeidslinje	aktisasjbarggogádde	ovttasbargolinjá	0	0	0	0
 samarbeidslinje	aktisasjsáhtso	ovttasbargolinjá	0	0	0	0
 samarbeidslinje	aktisasjbarggosáhtso	ovttasbargolinjá	0	0	0	0
 samarbeidslinje	aktisasjbarggogáddet	ovttasbargolinjá	0	0	0	0
 
-forlagsbransje	almmudahkasuorgge	lágádussuorgi	6	0	0	0
++forlagsbransje	almmudahkasuorgge	lágádussuorgi	6	0	0	0
 forlagsbransje	almmudahkaæládussuorgge	lágádussuorgi	6	0	0	0
 
 yrkesfiske	barggoguollebuvta	fidnomearrabivdi	4	0	0	0
@@ -85,7 +87,7 @@ yrkesfiske	barggoguollár	fidnomearrabivdi	4	0	0	0
 fellesfiske	aktisasjguollebuvta	oktasašbivdu/oktasašguolásteapmi	0	0	0	0
 fellesfiske	aktisasjguolle	oktasašbivdu/oktasašguolásteapmi	0	0	0	0
 fellesfiske	aktisasjguollebiebmadibme	oktasašbivdu/oktasašguolásteapmi	0	0	0	0
-fellesfiske	aktisasjguollim	oktasašbivdu/oktasašguolásteapmi	0	0	0	0
++fellesfiske	aktisasjguollim	oktasašbivdu/oktasašguolásteapmi	0	0	0	0
 fellesfiske	aktisasjguollár	oktasašbivdu/oktasašguolásteapmi	0	0	0	0
 
 forlagsavtale	almmudahkalihtudibme	lágádusšiehtadus	0	0	0	0
@@ -95,7 +97,7 @@ forlagsavtale	almmudahkalihttot	lágádusšiehtadus	0	0	0	0
 
 fellesskole	aktisasjoahppa	oktasašskuvla	1	0	1	0
 fellesskole	aktisasjskåvllågirjje	oktasašskuvla	1	0	1	0
-fellesskole	aktisasjskåvllå	oktasašskuvla	1	0	1	0
++fellesskole	aktisasjskåvllå	oktasašskuvla	1	0	1	0
 
 forhåndsstemme	bahágiehtajiedna	ovddalgihtiijietna	40	0	2	0
 forhåndsstemme	bahápáhperjiedna	ovddalgihtiijietna	40	0	2	0
@@ -112,53 +114,52 @@ forhåndsstemme	bahátjårmmåjienastit	ovddalgihtiijietna	40	0	2	0
 
 analysegruppe	analyjssagádtse	guorahallanjoavku	22	0	3	0
 analysegruppe	analyjssajuohko	guorahallanjoavku	22	0	3	1
-analysegruppe	analyjssajuogos	guorahallanjoavku	22	1	3	2
++analysegruppe	analyjssajuogos	guorahallanjoavku	22	1	3	2
 
 innsatsvare	barggoduostun	bijusgálvu	0	0	0	0
 innsatsvare	barggogálvvo	bijusgálvu	0	0	0	0
 
-fellesstyre	aktisasjstivrra	oktasašstivra	0	0	0	0
++fellesstyre	aktisasjstivrra	oktasašstivra	0	0	0	0
 fellesstyre	aktisasjjådediddje	oktasašstivra	0	0	0	0
 fellesstyre	aktisasjårro	oktasašstivra	0	0	0	0
 fellesstyre	aktisasjráddidus	oktasašstivra	0	0	0	0
 fellesstyre	aktisasjårrot	oktasašstivra	0	0	0	0
 
 yrkesdeltakelse	barggooassálasste	fidnooassálastin	0	0	0	0
-yrkesdeltakelse	barggooassálasstem	fidnooassálastin	0	0	0	0
++yrkesdeltakelse	barggooassálasstem	fidnooassálastin	0	0	0	0
 yrkesdeltakelse	barggooassálasstet	fidnooassálastin	0	0	0	0
 
-forundersøkelse	álggoguoradallam	álgoiskan	2	1	0	0
++forundersøkelse	álggoguoradallam	álgoiskan	2	1	0	0
 forundersøkelse	baháguoradallam	álgoiskan	2	0	0	0
 forundersøkelse	baháguorrat	álgoiskan	2	0	0	0
 
 felleskapsfølelse	aktisasjdoajmmadåbddo	oktavuođadovdu	0	0	1	0
 felleskapsfølelse	aktisasjskáhppadåbddo	oktavuođadovdu	0	0	1	0
 felleskapsfølelse	aktisasjhávsskudallamdåbddo	oktavuođadovdu	0	0	1	0
-
-fellesskapsfølelse	aktisasjvuohtadåbddo	oktiigullevašvuođadovdu/searvevuođadovdu	4	0	0	0
++fellesskapsfølelse	aktisasjvuohtadåbddo	oktiigullevašvuođadovdu/searvevuođadovdu	4	0	0	0
 fellesskapsfølelse	aktisasjdåbddo	oktiigullevašvuođadovdu/searvevuođadovdu	4	0	0	0
 
 fellesbestemmelse	aktisasjmierredibme	oktasašnjuolggadus/oktasašmearrádus	1	0	0	0
-fellesbestemmelse	aktisasjmærrádus	oktasašnjuolggadus/oktasašmearrádus	1	0	0	0
++fellesbestemmelse	aktisasjmærrádus	oktasašnjuolggadus/oktasašmearrádus	1	0	0	0
 
 samarbeidskonferanse	aktisasjkonferánssa	ovttasbargokonferánsa	0	0	0	0
-samarbeidskonferanse	aktisasjbarggokonferánssa	ovttasbargokonferánsa	0	0	0	0
++samarbeidskonferanse	aktisasjbarggokonferánssa	ovttasbargokonferánsa	0	0	0	0
 samarbeidskonferanse	aktisasjbarggoságastallam	ovttasbargokonferánsa	0	0	0	0
 samarbeidskonferanse	aktisasjságastit	ovttasbargokonferánsa	0	0	0	0
 samarbeidskonferanse	aktisasjbarggoságastit	ovttasbargokonferánsa	0	0	0	0
 
-sameklasse	sámeklássa	sámeluohkká	1	1	4	0
++sameklasse	sámeklássa	sámeluohkká	1	1	4	0
 sameklasse	sámeskåvllå	sámeluohkká	1	23	4	0
 
-yrkesklasse	barggoklássa	ámmátjoavku	0	0	0	0
++yrkesklasse	barggoklássa	ámmátjoavku	0	0	0	0
 yrkesklasse	barggolássa	ámmátjoavku	0	0	0	0
 yrkesklasse	barggogierdde	ámmátjoavku	0	0	0	0
 
 brukerinteresse	barggeberustibme	geavaheaddjiberoštus/geavaheaddjiberoštupmi	5	0	0	0
-brukerinteresse	addneberustibme	geavaheaddjiberoštus/geavaheaddjiberoštupmi	5	0	0	0
++brukerinteresse	addneberustibme	geavaheaddjiberoštus/geavaheaddjiberoštupmi	5	0	0	0
 
 samejente	sábmenæjttso	sámenieiddaš	1	0	0	1
-samejente	sámenæjttso	sámenieiddaš	1	4	0	1
++samejente	sámenæjttso	sámenieiddaš	1	4	0	1
 
 veiledertjeneste	bagádallevirgge	bagadusbálvalus	2	0	0	0
 veiledertjeneste	bagádalledievnno	bagadusbálvalus	2	0	0	0
@@ -166,23 +167,23 @@ veiledertjeneste	bagádalledievnastus	bagadusbálvalus	2	0	0	0
 veiledertjeneste	bagádalleámmát	bagadusbálvalus	2	0	0	0
 
 fellestjeneste	aktisasjvirgge	oktasašbálvalus	1	0	0	0
-fellestjeneste	aktisasjdievnno	oktasašbálvalus	1	0	0	0
++fellestjeneste	aktisasjdievnno	oktasašbálvalus	1	0	0	0
 fellestjeneste	aktisasjdievnastus	oktasašbálvalus	1	0	0	0
 fellestjeneste	aktisasjámmát	oktasašbálvalus	1	0	0	0
 
 veiledningstjeneste	bagádusvirgge	bagadallanbálvalus/oaivadusbálvalus/oaivadanbálvalus/bagadallanfálaldat	8	0	0	0
-veiledningstjeneste	bagádusdievnno	bagadallanbálvalus/oaivadusbálvalus/oaivadanbálvalus/bagadallanfálaldat	8	0	0	0
++veiledningstjeneste	bagádusdievnno	bagadallanbálvalus/oaivadusbálvalus/oaivadanbálvalus/bagadallanfálaldat	8	0	0	0
 veiledningstjeneste	bagádusdievnastus	bagadallanbálvalus/oaivadusbálvalus/oaivadanbálvalus/bagadallanfálaldat	8	0	0	0
 veiledningstjeneste	bagádusámmát	bagadallanbálvalus/oaivadusbálvalus/oaivadanbálvalus/bagadallanfálaldat	8	0	0	0
 
-forlagsstøtte	almmudahkadoarjja	lágádusdoarjja/girjelágádusdoarjja	13	0	0	0
++forlagsstøtte	almmudahkadoarjja	lágádusdoarjja/girjelágádusdoarjja	13	0	0	0
 forlagsstøtte	almmudahkatsagge	lágádusdoarjja/girjelágádusdoarjja	13	0	0	0
 forlagsstøtte	almmudahkagiergge	lágádusdoarjja/girjelágádusdoarjja	13	0	0	0
 
 kretsmøte	aktavuohtadigge	biirrečoahkkin	0	0	0	0
 kretsmøte	aktavuohtatjåhkanibme	biirrečoahkkin	0	0	0	0
 
-fellesoppgave	aktisasjdoajmma	oktasašdoaibma	0	0	2	0
++fellesoppgave	aktisasjdoajmma	oktasašdoaibma	0	0	2	0
 fellesoppgave	aktisasjbarggo	oktasašdoaibma	0	538	2	0
 fellesoppgave	aktisasjtjálos	oktasašdoaibma	0	0	2	0
 fellesoppgave	aktisasjdiedádus	oktasašdoaibma	0	0	2	0
@@ -193,23 +194,23 @@ realfag	almmafáhkaåhpadiddje	reálafága	14	0	6	0
 realfag	almmafáhkaåhpadus	reálafága	14	0	6	0
 
 fellesforslag	aktisasjoajvvadibme	oktasašárvalus	11	0	1	0
-fellesforslag	aktisasjoajvvadus	oktasašárvalus	11	0	1	0
++fellesforslag	aktisasjoajvvadus	oktasašárvalus	11	0	1	0
 fellesforslag	aktisasjárvvalus	oktasašárvalus	11	0	1	0
 
 fellesanlegg	aktisasjrustik	searverusttet	1	0	0	0
-fellesanlegg	aktisasjásadus	searverusttet	1	0	0	0
++fellesanlegg	aktisasjásadus	searverusttet	1	0	0	0
 fellesanlegg	aktisasjbiebmadimásadus	searverusttet	1	0	0	0
 
-avisinnlegg	avijssatjála	áviisačálus	2	1	0	0
++avisinnlegg	avijssatjála	áviisačálus	2	1	0	0
 avisinnlegg	avijssavuorro	áviisačálus	2	0	0	0
 
 avissalg	avijssaoasse	áviisajohtu	0	0	0	0
-avissalg	avijssavuobddem	áviisajohtu	0	0	0	0
++avissalg	avijssavuobddem	áviisajohtu	0	0	0	0
 avissalg	avijssaoases	áviisajohtu	0	0	0	0
 avissalg	avijssavuobddemus	áviisajohtu	0	0	0	0
 avissalg	avijssavuobddet	áviisajohtu	0	0	0	0
 
-personvalg	persåvnnåjienastibme	oktagasaidválljen/personválga	0	1	0	0
++personvalg	persåvnnåjienastibme	oktagasaidválljen/personválga	0	1	0	0
 personvalg	persåvnnåjienastit	oktagasaidválljen/personválga	0	1	0	0
 
 yrkesvalg	barggodiggeválgga	fidnoválljen	3	0	0	0
@@ -218,7 +219,7 @@ yrkesvalg	barggojiednat	fidnoválljen	3	0	0	0
 yrkesvalg	barggojienastit	fidnoválljen	3	0	0	0
 
 ekspertutvalg	ássjediehttejuohko	áššedovdilávdegoddi	8	0	5	1
-ekspertutvalg	ássjediehttenammadus	áššedovdilávdegoddi	8	0	5	10
++ekspertutvalg	ássjediehttenammadus	áššedovdilávdegoddi	8	0	5	10
 
 forsang	bahálávlla	ovdalávlu	0	0	0	0
 forsang	bahálávla	ovdalávlu	0	0	0	0
@@ -227,7 +228,7 @@ forsang	bahálávllo	ovdalávlu	0	0	0	0
 forsang	bahálávludis	ovdalávlu	0	0	0	0
 forsang	bahálávllot	ovdalávlu	0	0	0	0
 
-fellesskapshandling	aktisasjvuohtadoajmma	searvedoaibma	0	0	2	0
++fellesskapshandling	aktisasjvuohtadoajmma	searvedoaibma	0	0	2	0
 fellesskapshandling	aktisasjdoajmma	searvedoaibma	0	0	2	0
 fellesskapshandling	aktisasjvuohtadahko	searvedoaibma	0	0	2	0
 fellesskapshandling	aktisasjdahko	searvedoaibma	0	0	2	0
@@ -242,15 +243,15 @@ arbeidsmarkedsutvikling	barggomárnánåvddånibme	bargomárkanovdáneapmi/bargo
 arbeidsmarkedsutvikling	barggomárnánåvddånahttem	bargomárkanovdáneapmi/bargomárkanovddideapmi	2	0	0	0
 arbeidsmarkedsutvikling	barggomárnánåvddånahttet	bargomárkanovdáneapmi/bargomárkanovddideapmi	2	0	0	0
 
-arbeidsplassutvikling	barggosadjeåvddånibme	bargosadjeovddideapmi/bargosadjeovdáneapmi	1	0	0	0
++arbeidsplassutvikling	barggosadjeåvddånibme	bargosadjeovddideapmi/bargosadjeovdáneapmi	1	0	0	0
 arbeidsplassutvikling	barggosadjeåvddånahttem	bargosadjeovddideapmi/bargosadjeovdáneapmi	1	0	0	0
 arbeidsplassutvikling	barggosadjeåvddånahttet	bargosadjeovddideapmi/bargosadjeovdáneapmi	1	0	0	0
 
-produktutvikling	buvtaåvddånahttem	buvttaovdánahttin/buvttagárgen/buvttagárgideapmi	34	1	0	1
++produktutvikling	buvtaåvddånahttem	buvttaovdánahttin/buvttagárgen/buvttagárgideapmi	34	1	0	1
 produktutvikling	buvtaåvddånahttet	buvttaovdánahttin/buvttagárgen/buvttagárgideapmi	34	0	0	1
 
 samarbeidsordning	aktisasjnjuolgadus	ovttasbargoortnet	1	0	0	0
-samarbeidsordning	aktisasjbarggonjuolgadus	ovttasbargoortnet	1	0	0	0
++samarbeidsordning	aktisasjbarggonjuolgadus	ovttasbargoortnet	1	0	0	0
 
 fritidsordning	asstoájggenjuolgadus	astoáiggeortnet	1	0	2	0
 fritidsordning	asstonjuolgadus	astoáiggeortnet	1	0	2	0
@@ -260,10 +261,10 @@ driftsbevilgning	barggoruhtta	doaibmajuolludeapmi/jođihanjuolludeapmi	3	0	0	0
 driftsbevilgning	barggoruhtajuollodibme	doaibmajuolludeapmi/jođihanjuolludeapmi	3	0	0	0
 driftsbevilgning	barggojuollodibme	doaibmajuolludeapmi/jođihanjuolludeapmi	3	0	0	0
 
-realøkning	almmalassánibme	duohtalassáneapmi	0	0	0	0
++realøkning	almmalassánibme	duohtalassáneapmi	0	0	0	0
 realøkning	almmalasádus	duohtalassáneapmi	0	0	0	0
 
-litteraturlesning	girjálasjvuohtalåhkåm	girjjálašvuođalohkan	0	0	0	1
++litteraturlesning	girjálasjvuohtalåhkåm	girjjálašvuođalohkan	0	0	0	1
 litteraturlesning	girjjelåhkåm	girjjálašvuođalohkan	0	0	0	1
 litteraturlesning	girjálasjlåhkåm	girjjálašvuođalohkan	0	0	0	1
 litteraturlesning	girjálasjvuohtalåhkåt	girjjálašvuođalohkan	0	0	0	1
@@ -271,10 +272,10 @@ litteraturlesning	girjjelåhkåt	girjjálašvuođalohkan	0	0	0	1
 litteraturlesning	girjálasjlåhkåt	girjjálašvuođalohkan	0	0	0	1
 
 samarbeidsløsning	aktisasjtjoavdos	ovttasbargočoavddus/ovttasbargančoavddus	1	0	0	0
-samarbeidsløsning	aktisasjbarggotjoavdos	ovttasbargočoavddus/ovttasbargančoavddus	1	0	0	0
++samarbeidsløsning	aktisasjbarggotjoavdos	ovttasbargočoavddus/ovttasbargančoavddus	1	0	0	0
 samarbeidsløsning	aktisasjbarggotjoavddet	ovttasbargočoavddus/ovttasbargančoavddus	1	0	0	0
 
-fellesskapsløsning	aktisasjvuohtatjoavdos	searvevuođačoavddus	0	0	0	0
++fellesskapsløsning	aktisasjvuohtatjoavdos	searvevuođačoavddus	0	0	0	0
 fellesskapsløsning	aktisasjtjoavdos	searvevuođačoavddus	0	0	0	0
 fellesskapsløsning	aktisasjvuohtatjoavddet	searvevuođačoavddus	0	0	0	0
 
@@ -282,10 +283,10 @@ yrkesretning	barggosuorgge	fidnogeaidnu	0	11	0	0
 yrkesretning	barggoguovllo	fidnogeaidnu	0	0	0	0
 yrkesretning	barggoguovllot	fidnogeaidnu	0	0	0	0
 
-velferdsforvaltning	álkkádusháldadibme	čálgohálddašeapmi	2	2	1	0
++velferdsforvaltning	álkkádusháldadibme	čálgohálddašeapmi	2	2	1	0
 velferdsforvaltning	álkkádusháldadus	čálgohálddašeapmi	2	1	1	0
 
-fellesforvaltning	aktisasjháldadibme	oktasašhálddašanortnet	0	0	0	0
++fellesforvaltning	aktisasjháldadibme	oktasašhálddašanortnet	0	0	0	0
 fellesforvaltning	aktisasjháldadus	oktasašhálddašanortnet	0	0	0	0
 
 ledererfaring	bagádalleåtsådallam	jođihanvásáhus/jođihanhárjáneapmi	2	0	0	0
@@ -300,7 +301,7 @@ arbeidsmarkedsopplæring	barggomárnánoahppat	bargomárkanoahpahus	0	0	0	0
 oppgaveoverføring	barggosirddem	doaibmasirdin	1	0	0	0
 oppgaveoverføring	barggosirddet	doaibmasirdin	1	0	0	0
 
-fritidskjøring	asstoájggevuodjem	astoáiggevuodjin	1	0	0	0
++fritidskjøring	asstoájggevuodjem	astoáiggevuodjin	1	0	0	0
 fritidskjøring	asstovuodjem	astoáiggevuodjin	1	0	0	0
 
 toppsesong	allegávdda	bárisáigodat	0	0	0	0
@@ -308,12 +309,12 @@ toppsesong	alleájgge	bárisáigodat	0	0	0	0
 
 fellesverdi	aktisasjhadde	oktasašárvu	0	0	0	0
 fellesverdi	aktisasjmierre	oktasašárvu	0	0	0	0
-fellesverdi	aktisasjárvvo	oktasašárvu	0	0	0	0
++fellesverdi	aktisasjárvvo	oktasašárvu	0	0	0	0
 
-realøkonomi	almmaruhta	reálaekonomiija	0	0	0	0
++realøkonomi	almmaruhta	reálaekonomiija	0	0	0	0
 realøkonomi	almmaruhtta	reálaekonomiija	0	0	0	0
 
-kirkeforlik	girkkosåbadibme	girkosoahpan	0	0	0	3
++kirkeforlik	girkkosåbadibme	girkosoahpan	0	0	0	3
 kirkeforlik	girkkosåhpat	girkosoahpan	0	0	0	3
 
 fellestrekk	aktisasjgæsádahka	oktasašdovdomearka/oktasašoassi/oktasašsárggus	4	0	0	0
@@ -342,13 +343,13 @@ bruksspråk	adnotsoabbme	geavahusgiella	4	0	0	0
 bruksspråk	barggogiellalávggo	geavahusgiella	4	0	0	0
 bruksspråk	adnogiellalávggo	geavahusgiella	4	0	0	0
 
-tiltaksdel	doajmmaoasse	doaibmabidjooassi	2	1	0	0
++tiltaksdel	doajmmaoasse	doaibmabidjooassi	2	1	0	0
 tiltaksdel	doajmmaguovllo	doaibmabidjooassi	2	4	0	0
 
-helsepersonell	varresvuohtabargge	dearvvasvuođabargi	45	0	0	1
++helsepersonell	varresvuohtabargge	dearvvasvuođabargi	45	0	0	1
 helsepersonell	varresbargge	dearvvasvuođabargi	45	0	0	1
 
-fritidsformål	asstoájggeulmme	asttuáiggeulbmil/asttuáiggedoaibma	2	0	0	0
++fritidsformål	asstoájggeulmme	asttuáiggeulbmil/asttuáiggedoaibma	2	0	0	0
 fritidsformål	asstoulmme	asttuáiggeulbmil/asttuáiggedoaibma	2	0	0	0
 fritidsformål	asstoájggeájggomus	asttuáiggeulbmil/asttuáiggedoaibma	2	0	0	0
 fritidsformål	asstoájggomus	asttuáiggeulbmil/asttuáiggedoaibma	2	0	0	0
@@ -357,22 +358,22 @@ fritidsformål	asstoájggot	asttuáiggeulbmil/asttuáiggedoaibma	2	0	0	0
 
 arbeidsgruppemedlem	barggojuogosájrra	bargojoavkolahttu	0	0	0	0
 arbeidsgruppemedlem	barggojuogosguojmme	bargojoavkolahttu	0	0	0	0
-arbeidsgruppemedlem	barggojuogossebrulasj	bargojoavkolahttu	0	0	0	0
++arbeidsgruppemedlem	barggojuogossebrulasj	bargojoavkolahttu	0	0	0	0
 arbeidsgruppemedlem	barggojuogosájras	bargojoavkolahttu	0	0	0	0
 
 høyesterettsdom	alemusriektáskihpudahka	alimusriekteduopmu	3	0	2	0
 høyesterettsdom	alemusriektáoajvve	alimusriekteduopmu	3	0	2	0
-høyesterettsdom	alemusriektáduobbmo	alimusriekteduopmu	3	0	2	0
++høyesterettsdom	alemusriektáduobbmo	alimusriekteduopmu	3	0	2	0
 høyesterettsdom	alemusriektáduobmár	alimusriekteduopmu	3	0	2	0
 
-fellesrom	aktisasjladnja	oktasašlatnja	0	0	1	0
++fellesrom	aktisasjladnja	oktasašlatnja	0	0	1	0
 fellesrom	aktisasjbasse	oktasašlatnja	0	0	1	0
 fellesrom	aktisasjvuobman	oktasašlatnja	0	0	1	0
 
-arbeidslivssentrum	barggoiellemguovdda	bargoeallinguovddáš	0	0	0	0
++arbeidslivssentrum	barggoiellemguovdda	bargoeallinguovddáš	0	0	0	0
 arbeidslivssentrum	barggoguovdda	bargoeallinguovddáš	0	0	0	0
 
-oppvekstplan	bajássjaddampládna	bajásšaddanplána	0	0	1	0
++oppvekstplan	bajássjaddampládna	bajásšaddanplána	0	0	1	0
 oppvekstplan	bajássjaddamdásse	bajásšaddanplána	0	0	1	0
 
 sysselmann	barggooajvve	áššeolmmái	2	0	0	0
@@ -382,7 +383,7 @@ sysselmann	barggogáhttár	áššeolmmái	2	0	0	0
 fortrinn	bahátsiehkke	ovdamunni	59	0	57	0
 fortrinn	bahádásse	ovdamunni	59	0	57	0
 
-fellesadministrasjon	aktisasjháldadibme	oktasašhálddahus	1	0	0	0
++fellesadministrasjon	aktisasjháldadibme	oktasašhálddahus	1	0	0	0
 fellesadministrasjon	aktisasjháldadus	oktasašhálddahus	1	0	0	0
 
 kulturtradisjon	kultuvrraárbbe	kulturvierru/kulturárbevierru	5	3	0	0
@@ -391,24 +392,24 @@ kulturtradisjon	kultuvrravuohke	kulturvierru/kulturárbevierru	5	1	0	0
 samarbeidsproduksjon	aktisasjbuvta	ovttasbargobuvttadeapmi	0	0	0	0
 samarbeidsproduksjon	aktisasjbarggobuvta	ovttasbargobuvttadeapmi	0	0	0	0
 samarbeidsproduksjon	aktisasjbuvtadibme	ovttasbargobuvttadeapmi	0	0	0	0
-samarbeidsproduksjon	aktisasjbarggobuvtadibme	ovttasbargobuvttadeapmi	0	0	0	0
++samarbeidsproduksjon	aktisasjbarggobuvtadibme	ovttasbargobuvttadeapmi	0	0	0	0
 
 kunnskapsproduksjon	máhtudahkabuvta	máhtolašvuođabuvttadeapmi/máhttobuvttadeapmi	6	0	0	1
-kunnskapsproduksjon	máhtudahkabuvtadibme	máhtolašvuođabuvttadeapmi/máhttobuvttadeapmi	6	1	0	1
++kunnskapsproduksjon	máhtudahkabuvtadibme	máhtolašvuođabuvttadeapmi/máhttobuvttadeapmi	6	1	0	1
 
 høyproduksjon	allakbuvta	suoidnešaddadeapmi	0	0	0	0
 høyproduksjon	alukbuvta	suoidnešaddadeapmi	0	0	0	0
 høyproduksjon	allakbuvtadibme	suoidnešaddadeapmi	0	0	0	0
 høyproduksjon	alukbuvtadibme	suoidnešaddadeapmi	0	0	0	0
 
-driftsselskap	doajmmasiebrre	jođihanfitnodat	1	4	0	0
++driftsselskap	doajmmasiebrre	jođihanfitnodat	1	4	0	0
 driftsselskap	barggosiebrre	jođihanfitnodat	1	0	0	0
 
 veiledningsansvar	bagádusdåjmadibme	bagadanovddasvástádus/bagadallanovddasvástádus	2	0	0	0
 veiledningsansvar	bagádusvásstádus	bagadanovddasvástádus/bagadallanovddasvástádus	2	0	0	0
 veiledningsansvar	bagádusdoajmmat	bagadanovddasvástádus/bagadallanovddasvástádus	2	0	0	0
 
-oppvekstleder	bajássjaddamjådediddje	bajásšaddanjođiheaddji	0	0	0	0
++oppvekstleder	bajássjaddamjådediddje	bajásšaddanjođiheaddji	0	0	0	0
 oppvekstleder	bajássjaddambagádalle	bajásšaddanjođiheaddji	0	0	0	0
 oppvekstleder	bajássjaddamoajvve	bajásšaddanjođiheaddji	0	0	0	0
 oppvekstleder	bajássjaddamnjunnjusj	bajásšaddanjođiheaddji	0	0	0	0
@@ -417,9 +418,9 @@ høyesterettsdommer	alemusriektáskihpudahka	alimusriekteduopmár	3	0	0	0
 høyesterettsdommer	alemusriektáviehkke	alimusriekteduopmár	3	0	0	0
 høyesterettsdommer	alemusriektáoajvve	alimusriekteduopmár	3	0	0	0
 høyesterettsdommer	alemusriektáduobbmo	alimusriekteduopmár	3	0	0	0
-høyesterettsdommer	alemusriektáduobmár	alimusriekteduopmár	3	0	0	0
++høyesterettsdommer	alemusriektáduobmár	alimusriekteduopmár	3	0	0	0
 
-kulturbærer	kultuvrraguodde	kulturcaggi	32	10	0	1
++kulturbærer	kultuvrraguodde	kulturcaggi	32	10	0	1
 kulturbærer	kultuvrraguoddet	kulturcaggi	32	0	0	1
 
 kretsskolelærer	aktavuohtaoahppaoahppa	biireoahpaheaddji	0	0	0	0
@@ -450,23 +451,23 @@ kretsskolelærer	aktavuohtaskåvllåoahppot	biireoahpaheaddji	0	0	0	0
 kretsmester	aktavuohtatjiehppe	biiremeašttir	0	0	0	0
 kretsmester	aktavuohtahoajddár	biiremeašttir	0	0	0	0
 
-adresseregister	adræssaregistar	adreassaregisttar	0	0	0	0
++adresseregister	adræssaregistar	adreassaregisttar	0	0	0	0
 adresseregister	adræssalågos	adreassaregisttar	0	0	0	0
 
 avismønster	avijssaskánnda	aviisaminsttar	0	0	0	0
 avismønster	avijssavuohke	aviisaminsttar	0	0	0	0
 
 bruksmønster	adnoskánnda	geavaheaddjiminsttar	0	0	0	0
-bruksmønster	adnovuohke	geavaheaddjiminsttar	0	0	0	0
++bruksmønster	adnovuohke	geavaheaddjiminsttar	0	0	0	0
 
 felleskontor	aktisasjdåjmadahka	oktasaškantuvra	0	0	0	0
-felleskontor	aktisasjkontåvrrå	oktasaškantuvra	0	0	0	0
++felleskontor	aktisasjkontåvrrå	oktasaškantuvra	0	0	0	0
 
 skitur	bajkkakloahkka	čuoiganmátki	0	0	1	0
 skitur	bajkkavuodo	čuoiganmátki	0	0	1	0
 skitur	bajkkaálggo	čuoiganmátki	0	0	1	0
 
-bruksstruktur	adnostruktuvrra	geavahusráhkadus/doallogeavahus/geavaheaddjestruktuvra	10	0	0	0
++bruksstruktur	adnostruktuvrra	geavahusráhkadus/doallogeavahus/geavaheaddjestruktuvra	10	0	0	0
 bruksstruktur	æládusstruktuvrra	geavahusráhkadus/doallogeavahus/geavaheaddjestruktuvra	10	1	0	0
 bruksstruktur	barggohábme	geavahusráhkadus/doallogeavahus/geavaheaddjestruktuvra	10	0	0	0
 bruksstruktur	adnohábme	geavahusráhkadus/doallogeavahus/geavaheaddjestruktuvra	10	0	0	0
@@ -474,27 +475,27 @@ bruksstruktur	adnohábme	geavahusráhkadus/doallogeavahus/geavaheaddjestruktuvra
 kretsstruktur	aktavuohtastruktuvrra	biirehámádat	0	0	0	0
 kretsstruktur	aktavuohtahábme	biirehámádat	0	0	0	0
 
-felleskultur	aktisasjkultuvrra	oktasaškultuvra	1	0	0	0
++felleskultur	aktisasjkultuvrra	oktasaškultuvra	1	0	0	0
 felleskultur	aktisasjsuvres	oktasaškultuvra	1	0	0	0
 felleskultur	aktisasjsláhppá	oktasaškultuvra	1	0	0	0
 
 brukerutstyr	barggevædtsak	geavaheaddjidávvir	1	0	0	0
-brukerutstyr	addnevædtsak	geavaheaddjidávvir	1	0	0	0
++brukerutstyr	addnevædtsak	geavaheaddjidávvir	1	0	0	0
 
-litteraturpris	girjálasjvuohtaguddnebálkká	girjjálašvuođabálkkašupmi	2	0	1	2
++litteraturpris	girjálasjvuohtaguddnebálkká	girjjálašvuođabálkkašupmi	2	0	1	2
 litteraturpris	girjjeguddnebálkká	girjjálašvuođabálkkašupmi	2	0	1	2
 litteraturpris	girjálasjguddnebálkká	girjjálašvuođabálkkašupmi	2	0	1	2
 
 arkitekturpris	arkitektuvrrahadde	arkitekturbálkkašupmi	1	0	0	0
 arkitekturpris	arkitektuvrrabálkká	arkitekturbálkkašupmi	1	0	0	0
-arkitekturpris	arkitektuvrraguddnebálkká	arkitekturbálkkašupmi	1	0	0	0
++arkitekturpris	arkitektuvrraguddnebálkká	arkitekturbálkkašupmi	1	0	0	0
 
 menneskerettspris	almasjrievtesvuohtahadde	olmmošvuoigatvuođabálkkašupmi	0	0	0	0
 menneskerettspris	almasjrievtesvuohtabálkká	olmmošvuoigatvuođabálkkašupmi	0	0	0	0
-menneskerettspris	almasjrievtesvuohtaguddnebálkká	olmmošvuoigatvuođabálkkašupmi	0	0	0	0
++menneskerettspris	almasjrievtesvuohtaguddnebálkká	olmmošvuoigatvuođabálkkašupmi	0	0	0	0
 
 Sametinget	sábmedigge	?????	10560	0	0	231
-Sametinget	sámedigge	?????	10560	85	0	231
++Sametinget	Sámedigge	?????	10560	85	0	231
 Sametinget	sábmeálmmuk	?????	10560	0	0	2
 Sametinget	sámeálmmuk	?????	10560	4	0	2
 
@@ -502,70 +503,70 @@ forkjærlighet	bahágieresvuohta	váibmilvuohta	0	0	0	0
 forkjærlighet	bahágieres	váibmilvuohta	0	0	0	0
 
 samarbeidsmulighet	aktisasjmáhttelisvuohta	ovttasbarganvejolašvuohta	1	0	0	0
-samarbeidsmulighet	aktisasjbarggomáhttelisvuohta	ovttasbarganvejolašvuohta	1	0	0	0
++samarbeidsmulighet	aktisasjbarggomáhttelisvuohta	ovttasbarganvejolašvuohta	1	0	0	0
 samarbeidsmulighet	aktisasjmáhttelis	ovttasbarganvejolašvuohta	1	0	0	0
 samarbeidsmulighet	aktisasjbarggomáhttelis	ovttasbarganvejolašvuohta	1	0	0	0
 
-fritidsmulighet	asstoájggemáhttelisvuohta	astoáiggevejolašvuohta	0	0	0	0
++fritidsmulighet	asstoájggemáhttelisvuohta	astoáiggevejolašvuohta	0	0	0	0
 fritidsmulighet	asstomáhttelisvuohta	astoáiggevejolašvuohta	0	0	0	0
 fritidsmulighet	asstoájggemáhttelis	astoáiggevejolašvuohta	0	0	0	0
 fritidsmulighet	asstomáhttelis	astoáiggevejolašvuohta	0	0	0	0
 
-veiledningsaktivitet	bagádusdoajmma	bagadallandoaibma	0	0	1	0
++veiledningsaktivitet	bagádusdoajmma	bagadallandoaibma	0	0	1	0
 veiledningsaktivitet	bagádusdåjmadibme	bagadallandoaibma	0	0	1	0
 
-fellesutgift	aktisasjgållo	oktasašgollu	2	0	1	0
++fellesutgift	aktisasjgållo	oktasašgollu	2	0	1	0
 fellesutgift	aktisasjmákso	oktasašgollu	2	0	1	0
 fellesutgift	aktisasjmávsos	oktasašgollu	2	0	1	0
 
-fellesdrift	aktisasjdoajmma	searvedoallu	0	0	0	0
++fellesdrift	aktisasjdoajmma	searvedoallu	0	0	0	0
 fellesdrift	aktisasjásadusdoajmma	searvedoallu	0	0	0	0
 fellesdrift	aktisasjdoajmmaruhta	searvedoallu	0	0	0	0
 fellesdrift	aktisasjdåjmadibme	searvedoallu	0	0	0	0
 fellesdrift	aktisasjbarggo	searvedoallu	0	538	0	0
 fellesdrift	aktisasjdoajmmat	searvedoallu	0	0	0	0
 
-forlagsdrift	almmudahkadoajmma	lágádusdoaibma/girjelágádusdoaibma	12	0	0	0
++forlagsdrift	almmudahkadoajmma	lágádusdoaibma/girjelágádusdoaibma	12	0	0	0
 forlagsdrift	almmudahkaásadusdoajmma	lágádusdoaibma/girjelágádusdoaibma	12	0	0	0
 forlagsdrift	almmudahkadoajmmaruhta	lágádusdoaibma/girjelágádusdoaibma	12	0	0	0
 forlagsdrift	almmudahkadåjmadibme	lágádusdoaibma/girjelágádusdoaibma	12	0	0	0
 forlagsdrift	almmudahkabarggo	lágádusdoaibma/girjelágádusdoaibma	12	0	0	0
 forlagsdrift	almmudahkadoajmmat	lágádusdoaibma/girjelágádusdoaibma	12	0	0	0
 
-arbeidsinntekt	barggoboahto	bargosisaboahtu/bargodienas	3	0	0	0
++arbeidsinntekt	barggoboahto	bargosisaboahtu/bargodienas	3	0	0	0
 arbeidsinntekt	barggosisboahto	bargosisaboahtu/bargodienas	3	0	0	0
 arbeidsinntekt	barggobálkká	bargosisaboahtu/bargodienas	3	0	0	0
 
-automatinntekt	automáhttaboahto	automáhtasisaboahtu	0	0	0	0
++automatinntekt	automáhttaboahto	automáhtasisaboahtu	0	0	0	0
 automatinntekt	automáhttasisboahto	automáhtasisaboahtu	0	0	0	0
 automatinntekt	automáhttabálkká	automáhtasisaboahtu	0	0	0	0
 
 samarbeidsplikt	aktisasjvælggogisvuohta	ovttasbargogeatnegasvuohta	1	0	0	0
-samarbeidsplikt	aktisasjbarggovælggogisvuohta	ovttasbargogeatnegasvuohta	1	0	0	0
++samarbeidsplikt	aktisasjbarggovælggogisvuohta	ovttasbargogeatnegasvuohta	1	0	0	0
 samarbeidsplikt	aktisasjvælggo	ovttasbargogeatnegasvuohta	1	0	0	0
 samarbeidsplikt	aktisasjbarggovælggo	ovttasbargogeatnegasvuohta	1	0	0	0
 
-veiledningsplikt	bagádusvælggogisvuohta	bagadangeatnegasvuohta/bagadallangeatnegasvuohta/oaivadangeatnegasvuohta	3	0	0	0
++veiledningsplikt	bagádusvælggogisvuohta	bagadangeatnegasvuohta/bagadallangeatnegasvuohta/oaivadangeatnegasvuohta	3	0	0	0
 veiledningsplikt	bagádusvælggo	bagadangeatnegasvuohta/bagadallangeatnegasvuohta/oaivadangeatnegasvuohta	3	0	0	0
 
 brukerrepresentant	barggeájrra	geavaheaddjiovddasteaddji	0	0	0	0
 brukerrepresentant	addneájrra	geavaheaddjiovddasteaddji	0	0	0	0
-brukerrepresentant	barggeájras	geavaheaddjiovddasteaddji	0	0	0	0
++brukerrepresentant	barggeájras	geavaheaddjiovddasteaddji	0	0	0	0
 brukerrepresentant	addneájras	geavaheaddjiovddasteaddji	0	0	0	0
 
 avtaletekst	barggosjiehtadustjála	šiehtadusteaksta	3	0	1	0
-avtaletekst	barggosjiehtadustæksta	šiehtadusteaksta	3	0	1	0
++avtaletekst	barggosjiehtadustæksta	šiehtadusteaksta	3	0	1	0
 
-realvekst	almmalassánibme	duohtaboađus/duohtalassáneapmi	9	0	0	0
++realvekst	almmalassánibme	duohtaboađus/duohtalassáneapmi	9	0	0	0
 realvekst	almmarásse	duohtaboađus/duohtalassáneapmi	9	0	0	0
 realvekst	almmasjaddo	duohtaboađus/duohtalassáneapmi	9	0	0	0
 realvekst	almmarássat	duohtaboađus/duohtalassáneapmi	9	0	0	0
 
-samfunnsdebatt	sebrudahkaságastallam	servvodatságastallan/servodatdigaštallan/servodatságastallan	5	0	0	1
++samfunnsdebatt	sebrudahkaságastallam	servvodatságastallan/servodatdigaštallan/servodatságastallan	5	0	0	1
 samfunnsdebatt	sebrudahkaságastit	servvodatságastallan/servodatdigaštallan/servodatságastallan	5	0	0	1
 
 brukernett	barggenæhtta	geavaheaddjifierpmádat	0	0	0	0
-brukernett	addnenæhtta	geavaheaddjifierpmádat	0	0	0	0
++brukernett	addnenæhtta	geavaheaddjifierpmádat	0	0	0	0
 
 nytterett	adnorievtesvuohta	ávkkástallanvuoigatvuohta	0	0	1	0
 nytterett	adnodigge	ávkkástallanvuoigatvuohta	0	0	1	0
@@ -575,7 +576,7 @@ nytterett	adnorievtes	ávkkástallanvuoigatvuohta	0	0	1	0
 nytterett	adnooassálasstet	ávkkástallanvuoigatvuohta	0	0	1	0
 nytterett	adnoriektá	ávkkástallanvuoigatvuohta	0	1	1	0
 
-instruksjonsrett	bagádusrievtesvuohta	bagadanriekti	0	0	0	0
++instruksjonsrett	bagádusrievtesvuohta	bagadanriekti	0	0	0	0
 instruksjonsrett	bagádusdigge	bagadanriekti	0	0	0	0
 instruksjonsrett	bagádusoassálasste	bagadanriekti	0	0	0	0
 instruksjonsrett	bagádusoassálasstem	bagadanriekti	0	0	0	0
@@ -598,7 +599,7 @@ toppelev	alleoahppe	násteoahppi	0	0	0	0
 toppelev	alleskåvllåoahppe	násteoahppi	0	0	0	0
 toppelev	alleoahppat	násteoahppi	0	0	0	0
 
-menneskeliv	almasjhægga	olbmoheagga	2	0	0	0
++menneskeliv	almasjhægga	olbmoheagga	2	0	0	0
 menneskeliv	almasjielle	olbmoheagga	2	0	0	0
 menneskeliv	almasjiellem	olbmoheagga	2	0	0	0
 menneskeliv	almasjviessom	olbmoheagga	2	0	0	0
