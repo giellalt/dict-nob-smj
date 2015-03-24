@@ -85,7 +85,7 @@ tjenestefelle	virggeguojmme	bálvalussuorgi	0	4	1	0
 
 spesialskole	sierraskåvllå	erenoamášskuvla	7	6	1	0
 
-yrkeshøyskole	barggoallaskåvllå	fidnoallaskuvla	0	0	0	0
+@yrkeshøyskole	barggoallaskåvllå	fidnoallaskuvla	0	0	0	0
 
 kystsame	merrasáme	riddosápmi	1	18	1	0
 
@@ -111,7 +111,7 @@ flertallsstyre	ieneplåhkoráddidus	eanetlohkostivren/eanetlohkostivra	0	1	0	0
 
 fargelære	bájnnooahppa	ivdneoahppu	0	2	0	0
 
-fjellrase	várreulmusj	várrenálli	0	1	0	0
+@fjellrase	várreulmusj	várrenálli	0	1	0	0
 
 prosjektledelse	prosjæktajådedibme	prošeaktajođiheapmi/prošeaktanjunuš	4	0	0	1
 
@@ -137,9 +137,9 @@ urfolkskompetanse	álggoálmmukmáhtudahka	eamiálbmotgelbbolašvuohta/álgoálb
 
 tekstkompetanse	tækstamáhtudahka	teakstagelbbolašvuohta	1	0	0	1
 
-spesialklasse	sierraskåvllå	erenoamášklássa	6	6	0	0
+@spesialklasse	sierraskåvllå	erenoamášklássa	6	6	0	0
 
-internatklasse	internáhttaskåvllå	internáhttaluohkká	0	1	0	0
+@internatklasse	internáhttaskåvllå	internáhttaluohkká	0	1	0	0
 
 næringsinteresse	æládusberustibme	ealáhusberoštupmi/ealáhusberoštus	8	0	0	1
 
@@ -477,7 +477,7 @@ næringsaktør	æládusoassálasste	ealáhusoasálaš	7	2	0	0
 
 @skoledirektør	skåvllådirektørra	skuvladirektevra	28	1	20	0
 
-politidirektør	politiddjadirekterra	politiijadirektevra	1	0	0	3
+politidirektør	politidirekterra	politiijadirektevra	1	0	0	3
 
 @utdanningsdirektør	åhpadusdirektørra	oahpahusdirektevra/oahppodirektevra	4	1	0	0
 
