@@ -1,3 +1,5 @@
+# + = ok
+
 abonnement	abunnemeanta	abonnemeanta	17	0	1	0
 abonnement	diŋŋgujupme	diŋgojupmi	17	0	3	0
 +abonnement	diŋŋgom
@@ -15,20 +17,20 @@ adopsjon	aduptjuvnna	adopšuvdna	22	0	3	0
 +adopsjon	adopsjåvnnå
 
 aggresjon	suhtto	suhttu	0	11	15	0
-+aggresjon	vassjás miella
+aggresjon	vassjás miella
 +aggresjon	vassjásvuohta
 
 aksjekapital	oasuskapitála	oasuskapitála	3	0	3	0
 +aksjekapital	oasosruhta
 +aksjekapital	oasoskapitálla
-+aksjekapital	oasosruhtaåbmudahka
+aksjekapital	oasosruhtaåbmudahka
 
 aksjeselskap	oasusfitnodat	oasusfitnodat	26	0	6	0
 aksjeselskap	oasusovttastupme	oasusovttastupmi	26	0	0	0
 +aksjeselskap	oasosvidnudahka
 
 aktivitet	budáldeapme	buđaldeapmi	340	0	2	0
-+aktivitet	dåjmadibme
+aktivitet	dåjmadibme
 +aktivitet	doajmma
 
 akvarell	akvarealla	akvarealla	0	0	1	0
@@ -48,7 +50,7 @@ alkoholmisbruk	jugesjvuohta	jugešvuohta	0	0	14	0
 +alkoholmisbruk	juhkalisvuohta
 
 analyse	análysa	analysa	89	0	32	0
-+analyse	guoradallam
+analyse	guoradallam
 +analyse	analyjssa
 
 andel	oassemearre	oassemearri	323	0	0	0
@@ -57,10 +59,10 @@ andel	særvvanoasse	searvanoassi	323	0	0	0
 
 anskaffelse	háhkan	háhkan	27	0	56	0
 anskaffelse	háhkandoajmma	háhkandoaibma	27	0	0	0
-+anskaffelse	ásadibme
+anskaffelse	ásadibme
 +anskaffelse	åttjulvis
 +anskaffelse	háhkuhibme
-+anskaffelse	ásadus
+anskaffelse	ásadus
 
 ansvarsområde	åvdåsvástádusguovlu	ovddasvástádusguovlu	55	0	0	0
 ansvarsområde	åvdåsvástádussuorge	ovddasvástádussuorgi	55	0	10	0
@@ -85,15 +87,15 @@ arbeidsfelt	barggusuorge	bargosuorgi	10	0	12	0
 
 arbeidsform	bargguvuohke	bargovuohki	15	0	66	0
 +arbeidsform	barggovuohke
-+arbeidsform	barggamvuohke
+arbeidsform	barggamvuohke
 
 arbeidsgiveransvar	barggoaddiovddasvástádus	bargoaddiovddasvástádus	4	0	1	0
 +arbeidsgiveransvar	barggovaddevásstádus
 
 arbeidsinnsats	barggoáŋgirussjan	bargoáŋgiruššan	9	0	0	0
-+arbeidsinnsats	(barggo)rahtjamus
-+arbeidsinnsats	barggo
-+arbeidsinnsats	(barggo)ratjástibme
++arbeidsinnsats	barggorahtjamus
+arbeidsinnsats	barggo
+arbeidsinnsats	(barggo)ratjástibme
 
 arbeidsinstruks	barggunjuolggadus	bargonjuolggadus	0	0	2	0
 +arbeidsinstruks	barggonjuolgadus
@@ -106,12 +108,12 @@ arbeidskrav	barggugájbádus	bargogáibádus	0	0	0	0
 
 arbeidsmetode	barggumetoda	bargometoda	5	0	0	0
 +arbeidsmetode	barggovuohke
-+arbeidsmetode	barggamvuohke
+arbeidsmetode	barggamvuohke
 
 arbeidsmåte	barggumálle	bargomálle	11	0	3	0
 arbeidsmåte	bargguvuohke	bargovuohki	11	0	66	0
 +arbeidsmåte	barggovuohke
-+arbeidsmåte	barggamvuohke
+arbeidsmåte	barggamvuohke
 
 arbeidsmøte	barggutjoahkken	bargočoahkkin	5	0	2	0
 +arbeidsmøte	barggotjåhkanibme
@@ -120,7 +122,7 @@ arbeidsplass	barggansadje	bargansadji	107	0	0	0
 +arbeidsplass	barggosadje
 
 arbeidsredskap	barggureajdu	bargoreaidu	1	0	3	0
-+arbeidsredskap	barggovædtsaga
++arbeidsredskap	barggovædtsak
 
 arbeidssøker	barggoohttse	bargoohcci	2	0	3	0
 +arbeidssøker	barggoåhttse
@@ -150,10 +152,10 @@ aspekt	asspeakta	aspeakta	16	0	6	0
 +aspekt	aspækta
 
 assimilasjon	assemilasjuvnna	assimilašuvdna	3	0	5	0
-+assimilasjon	mastadis
++assimilasjon	assimilasjåvnnå
 
 assimilering	åktijsuddadeapme	oktiisuddadeapmi	6	0	0	0
-+assimilering	mastadibme
++assimilering	assimilasjåvnnå
 
 assistentstilling	assesteantavirge	assisteantavirgi	0	0	0	0
 +assistentstilling	viehkkevirgge
@@ -182,7 +184,7 @@ avløp	duolvvatjáhtse	duolvačáhci	5	0	5	0
 
 avsnitt	tselkaoasse	cealkkaoassi	187	0	2	0
 +avsnitt	tækstaoasse	teakstaoassi	187	23	28	1
-+avsnitt	oasse
+avsnitt	oasse
 
 avstemningsmåte	jienastanvuohke	jienastanvuohki	1	0	1	0
 +avstemningsmåte	jienastimvuohke
@@ -192,7 +194,7 @@ barndomstid	mánnávuodaájge	mánnávuođaáigi	0	0	0	0
 
 barnedåp	risstejattjat	ristejaččat	0	0	0	0
 +barnedåp	mánnágástadibme
-+barnedåp	mánnágástadus
+barnedåp	mánnágástadus
 
 barnekonvensjon	mánájdkonvensjuvnna	mánáidkonvenšuvdna	22	0	11	0
 +barnekonvensjon	mánájkonvensjåvnnå
@@ -216,7 +218,7 @@ basiskunnskap	vuoddumáhttu	vuođđomáhttu	2	0	2	0
 
 befolkningstall	vehkadatlohku	veahkadatlohku	4	0	1	0
 +befolkningstall	ulmusjlåhko
-+befolkningstall	viesátlåhko
+befolkningstall	viesátlåhko
 
 befolkningstetthet	ålmusjvallje	olmmošvallji	1	0	1	0
 +befolkningstetthet	viesátsuohkadis
@@ -225,7 +227,7 @@ befolkningsutvikling	vehkadatovdáneapme	veahkadatovdáneapmi	18	0	2	0
 befolkningsutvikling	álmmutovddideapme	álbmotovddideapmi	18	0	0	0
 befolkningsutvikling	álmmutovdáneapme	álbmotovdáneapmi	18	0	0	0
 +befolkningsutvikling	álmmukåvddånibme
-+befolkningsutvikling	viesátåvddånibme
+befolkningsutvikling	viesátåvddånibme
 
 begynnerkurs	álggooahppu	álgooahppu	2	0	5	0
 begynnerkurs	álggukursa	álgokursa	2	0	4	0
@@ -237,7 +239,7 @@ begynneropplæring	álggooahppu	álgooahppu	26	0	5	0
 +begynneropplæring	álggoåhpadus
 
 bensinavgift	bennsendivat	bensindivat	0	0	0	0
-+bensinavgift	bensijnnadivut-
++bensinavgift	bensijnnadivut
 
 beregningsgrunnlag	merusjtallanvuoddu	meroštallanvuođđu	5	0	1	0
 +beregningsgrunnlag	merustallamvuodo
@@ -259,7 +261,7 @@ betalingsevne	máksennáktsa	máksinnákca	0	0	1	0
 
 bevilgning	juolludus	juolludus	286	0	72	0
 +bevilgning	juollodibme
-+bevilgning	ruhtajuollodibme
+bevilgning	ruhtajuollodibme
 
 bibelhistorie	bijbbalhistorjá	biibalhistorjá	4	0	0	0
 +bibelhistorie	rámáthiståvrrå
@@ -274,7 +276,7 @@ bibelvers	bijbalvearsa	biibbalvearsa	0	0	0	0
 +bibelvers	rámátværssa
 
 bibliotekar	girjjerádjobarge	girjerádjobargi	2	0	0	0
-+bibliotekar	bibliotekárra
+bibliotekar	bibliotekárra
 +bibliotekar	girjjevuorkkár
 
 biinntekt	lassesisaboahtu	lassesisaboahtu	1	0	0	0
@@ -301,7 +303,7 @@ blodsukker	såhkårhivvodat	sohkarhivvodat	0	0	0	0
 +blodsukker	varrasåhkår
 
 blodtrykk	varradeaddu	varradeaddu	1	0	2	0
-+blodtrykk	varraviesoj
+blodtrykk	varraviesoj
 +blodtrykk	varradæddo
 
 blodåre	varrasuotna	varrasuotna	0	0	3	0
@@ -349,15 +351,15 @@ brukerundersøkelse	gevaheddjijdiskus	geavaheddjiidiskkus	11	0	0	0
 
 bruksområde	gevahansuorge	geavahansuorgi	22	0	0	0
 bruksområde	gevahusguovlu	geavahusguovlu	22	0	0	0
-+bruksområde	adnosuorgge
-+bruksområde	adnemsuorgge
+bruksområde	adnosuorgge
++bruksområde	adnemguovllo
 
 bygdefolk	giliolmosj	giliolmmoš	14	0	7	0
 +bygdefolk	bájke ulmutja
-+bygdefolk	bájke årro
+bygdefolk	bájke årro
 
 bygdemål	gilegiella	giligiella	0	0	0	0
-+bygdemål	bájke giella el. giellasuorgge
++bygdemål	bájke giella
 
 byggetrinn	huksendásse	huksendássi	6	0	0	0
 byggetrinn	huksentseahkke	huksenceahkki	6	0	0	0
@@ -373,7 +375,7 @@ bøyningslære	såjåhanoahppa	sojahanoahppa	0	0	0	0
 +bøyningslære	såjådimoahppa
 
 dagligliv	árggaeallen	árgaeallin	7	0	0	0
-+dagligliv	bæjválasjvuohta
+dagligliv	bæjválasjvuohta
 +dagligliv	árggaiellem
 
 debattinnlegg	debáhttatjálus	debáhttačálus	1	0	0	0
@@ -408,7 +410,7 @@ design	málle	málle	28	101	106	0
 
 didaktikk	didáktihkka	didaktihkka	1	0	0	0
 +didaktikk	didaktihkka
-+didaktikk	åhpadimoahppo
+didaktikk	åhpadimoahppo
 
 dimensjon	dimentjuvnna	dimenšuvdna	48	0	18	0
 dimensjon	oalle	oalli	48	199	67	0
@@ -434,7 +436,7 @@ distriktspolitikk	boajtubealpolitihkka	boaittobealpolitihkka	10	0	0	0
 domsavsigelse	duobmutsealken	duopmocealkin	0	0	0	0
 domsavsigelse	duobmutsealkka	duopmocealkka	0	0	0	0
 +domsavsigelse	duobbmotjielggim
-+domsavsigelse	duobbmosárnnom
+domsavsigelse	duobbmosárnnom
 
 driftsfinansiering	jådehanruhtadeapme	jođihanruhtadeapmi	12	0	0	0
 +driftsfinansiering	doajmmaruhtadibme
@@ -471,7 +473,7 @@ e-postadresse	e-poasstatjujudus	e-poastačujuhus	4	0	1	0
 
 egenart	iesjláhke	iešláhki	24	0	3	0
 egenart	iessjvoohta	iešvuohta	24	0	51	0
-+egenart	ærádis
+egenart	ærádis
 +egenart	sierralágásjvuohta
 
 egenerklæring	iesjdiedádus	iešdieđáhus	3	0	2	0
@@ -481,7 +483,7 @@ eiendomsrett	åbmudatriekte	opmodatriekti	66	0	0	0
 eiendomsrett	æjgádanriekte	eaiggádanriekti	66	0	0	0
 eiendomsrett	æjgádussjanriekte	eaiggáduššanriekti	66	0	3	0
 eiendomsrett	æjgátriekte	eaiggátriekti	66	0	0	0
-+eiendomsrett	æjggo
+eiendomsrett	æjggo
 +eiendomsrett	æjggumriektá
 
 eksamensresultat	eksámenboadus	eksámenboađus	0	0	0	0
@@ -540,7 +542,7 @@ enerett	åktuvuojgatvuohta	oktovuoigatvuohta	11	0	7	0
 +enerett	akturievtesvuohta
 
 energikilde	energijjagáldu	energiijagáldu	8	0	1	0
-+energikilde	energijagálldo
+energikilde	energijagálldo
 +energikilde	fábmogálldo
 
 engelsk	æŋŋgalsgiella	eaŋgalsgiella	59	0	4	0
@@ -565,7 +567,7 @@ entreprenørskap	æláhushutkkus	ealáhushutkkus	42	0	0	0
 +entreprenørskap	viddnodoajmma
 
 essay	essejja	esseija	0	0	4	0
-+essay	essaya
+essay	essaya
 
 etablering	tseggen	ceggen	403	0	45	0
 etablering	ásáheapme	ásaheapmi	403	0	167	0
@@ -576,7 +578,7 @@ etasje	láhttegearde	láhttegeardi	10	0	0	0
 +etasje	etássja
 
 etnisitet	ednalasjvuohta	etnalašvuohta	49	0	0	0
-+etnisitet	etnisitehtta
++etnisitet	etnisitiehtta
 +etnisitet	tjerdalasjvuohta
 
 etnografi	ednugrafijja	etnografiija	3	0	2	0
@@ -592,7 +594,7 @@ etterforskning	dutkkalmasat	dutkkalmasat	1	0	0	0
 
 ettermiddag	iehketbeajve	eahketbeaivi	8	0	1	0
 +ettermiddag	iehketbiejvve
-+ettermiddag	iehkedisbiejvve
+ettermiddag	iehkedisbiejvve
 
 etterutdanning	lasseoahppu	lasseoahppu	20	0	9	0
 etterutdanning	lassioahpadus	lassioahpahus	20	0	1	0
@@ -650,7 +652,7 @@ fellesliste	åktåsasjlista	oktasašlista	3	0	0	0
 feltarbeid	gieddebarge	gieddebargi	12	0	1	0
 feltarbeid	gieddebargu	gieddebargu	12	0	5	0
 +feltarbeid	diehtotjoahkkim
-+feltarbeid	ålggobarggo
+feltarbeid	ålggobarggo
 
 fengselsvesen	giddagaslágádus	giddagaslágádus	2	0	0	0
 fengselsvesen	giddagasásadus	giddagasásahus	2	0	0	0
@@ -704,7 +706,7 @@ fiskebåt	guollefanas	guollefanas	16	0	7	0
 
 fiskefartøy	guolástanfanas	guolástanfanas	16	0	2	0
 fiskefartøy	guolástusfanas	guolástusfanas	16	0	1	0
-+fiskefartøy	guollárvanntsa
+fiskefartøy	guollárvanntsa
 +fiskefartøy	guollimvanntsa
 
 fiskeforedling	guollemuohkadeapme	guollemuohkadeapmi	2	0	0	0
@@ -721,7 +723,7 @@ fiskekort	oaggunlohpe	oaggunlohpi	10	0	0	0
 
 fiskelever	guolevuojvvas	guolevuoivvas	0	0	0	0
 fiskelever	mulljo	mullju	0	3	0	0
-+fiskelever	guolelirvve rv el. lirvve
++fiskelever	guolelirvve
 
 fiskemottak	guollevuostájválde	guollevuostáiváldi	11	0	1	0
 fiskemottak	guollevuostájválden	guollevuostáiváldin	11	0	4	0
@@ -760,19 +762,20 @@ fiskeutstyr	guolástusávnas	guolástusávnnas	0	0	0	0
 +fiskeutstyr	guollimvædtsak
 
 fiskevann	guolletjáhtse	guollečáhci	9	0	1	0
-+fiskevann	jávrre vr el. guollejávrre
++fiskevann	guollejávrre
 
 fjellvandring	miehttsevánddardeapme	meahccevánddardeapmi	0	0	0	0
 +fjellvandring	várrevádtsem
 
 fjerdedel	njæljjátoasse	njealjátoassi	7	0	1	0
 +fjerdedel	næljátoasse
-+fjerdedel	neljadis
+fjerdedel	neljadis
 
 fjernundervisning	gájdusoahpadus	gáiddusoahpahus	65	0	27	0
 fjernundervisning	gájdusoahpaheapme	gáiddusoahpaheapmi	65	0	1	0
 fjernundervisning	gájdusoahppu	gáiddusoahppu	65	0	3	0
 +fjernundervisning	guhkásåhpadibme
++fjernundervisning	gájdosåhpadibme
 
 fjordbefolkning	vuodnaálmmot	vuotnaálbmot	4	0	1	0
 +fjordbefolkning	vuodnaårro
@@ -789,18 +792,18 @@ fly	girddemasjijnna	girdimašiidna	44	0	1	0
 
 flyplass	girddegiedde	girdigieddi	12	0	0	0
 flyplass	girddentjillju	girdinšillju	12	0	1	0
-+flyplass	girdádahka
+flyplass	girdádahka
 +flyplass	girddesalljo
 
 flyselskap	girddefitnodat	girdifitnodat	0	0	2	0
 +flyselskap	girddevidnudahka
 
 flyttegodtgjørelse	fárrenbuhtadus	fárrenbuhtadus	0	0	0	0
-+flyttegodtgjørelse	jåhtemmávsálvis el. ~mávsulvis
++flyttegodtgjørelse	jåhtemmávsálvis
 
 folkebibliotek	álmmutgirjerádju	álbmotgirjerádju	13	0	3	0
 folkebibliotek	álmmutgirjerájus	álbmotgirjerájus	13	0	3	0
-+folkebibliotek	álmmukbibliotehkka
+folkebibliotek	álmmukbibliotehkka
 +folkebibliotek	álmmukgirjjevuorkká
 
 folkeeventyr	álmmutmájnas	álbmotmáinnas	0	0	0	0
@@ -818,7 +821,7 @@ folkekirke	álmmutgirku	álbmotgirku	2	0	0	0
 folkemedisin	álmmutdálkkas	álbmotdálkkas	5	0	0	0
 folkemedisin	álmmutmedisijnna	álbmotmedisiidna	5	0	0	0
 +folkemedisin	álmmukdálkudbme
-+folkemedisin	dálkudibme
+folkemedisin	dálkudibme
 
 folkeregister	álmmutregistar	álbmotregisttar	11	0	8	0
 +folkeregister	álmmuklåhko
@@ -858,10 +861,10 @@ foreldreråd	vánhenrádde	vánhenráđđi	5	0	0	0
 
 forfatter	fágágirjetjálle	fágagirječálli	56	0	1	0
 +forfatter	girjjetjálle
-+forfatter	tjálle
+forfatter	tjálle
 
 forfølgelse	doarrádallan	doarrádallan	2	0	0	0
-+forfølgelse	doalvodus
+forfølgelse	doalvodus
 +forfølgelse	doarrádallam
 
 forhåndsstemmegivning	åvddågihtijjienasteapme	ovdagihtiijienasteapmi	16	0	0	0
@@ -893,7 +896,7 @@ forside	åvddåsijdu	ovdasiidu	10	0	4	0
 
 forskningsresultat	dutkanboadus	dutkanboađus	6	0	9	0
 +forskningsresultat	dutkamboados
-+forskningsresultat	guoradallamboados
+forskningsresultat	guoradallamboados
 
 forslagsrett	evtuhanválde	evttohanváldi	21	0	0	0
 +forslagsrett	oajvvadimrievtesvuohta
@@ -1003,7 +1006,7 @@ friluftsliv	ålggunastineallen	olgunastineallin	41	0	0	0
 
 fritid	astoájge	asttuáigi	53	0	9	0
 +fritid	asstoájgge
-+fritid	assto
+fritid	assto
 
 +fritidsaktivitet	asstoájggedoajmma	astoáiggedoaibma	3	7	5	0
 fritidsaktivitet	lusstoájggedoajmma	lustoáiggedoaibma	3	0	0	0
@@ -1107,7 +1110,7 @@ grenselos	rádjaofelasj	rádjaofelaš	10	0	1	0
 
 grenseområde	rádjeguovlu	rádjeguovlu	13	0	9	0
 +grenseområde	rádjáguovllo
-+grenseområde	rádjáduobddak
+grenseområde	rádjáduobddak
 
 grensestasjon	rádjestasjuvnna	rádjestašuvdna	1	0	0	0
 +grensestasjon	rádjástasjåvnnå
@@ -1207,16 +1210,16 @@ hedersplass	guddnesadje	gudnesadji	0	0	0	0
 +hedersplass	gudnesadje
 
 heimkunnskap	ruovtudoallofága	ruovttudoallofága	2	0	0	0
-+heimkunnskap	sijddadoajmmaoahppa
+heimkunnskap	sijddadoajmmaoahppa
 +heimkunnskap	sijddadoajmma
 
 helleristning	báktegovus	báktegovus	6	0	0	0
 helleristning	báktegovva	báktegovva	6	0	1	0
 helleristning	báktesárgun	báktesárgun	6	0	2	0
 +helleristning	báktegåvvå
-+helleristning	~sfelt baktesárggomdajvva
+helleristning	~sfelt baktesárggomdajvva
 +helleristning	báktesárggom
-+helleristning	báktegåvvådajvva
+helleristning	báktegåvvådajvva
 
 helselære	dervasjvuodaoahppu	dearvvašvuođaoahppu	1	0	0	0
 +helselære	varresvuodaoahppa
@@ -1252,8 +1255,8 @@ hermetegn	ajstunmearka	aisttonmearka	0	0	1	0
 +hermetegn	gærddádimmærkka
 
 +hjell	jielle	jielli	2	150	13	0
-+hjell	hiesek
-+hjell	hiessek
+hjell	hiesek
+hjell	hiessek
 
 hjelpemiddel	viehkkereajdu	veahkkereaidu	35	0	0	0
 +hjelpemiddel	viehkkenævvo
@@ -1305,7 +1308,7 @@ hovedintensjon	válldoájgumusj	váldoáigumuš	0	0	1	0
 hovedmål	oajvveulmmel	oaiveulbmil	99	0	2	0
 hovedmål	válldumihttomearre	váldomihttomearri	99	0	16	0
 hovedmål	válldumihttu	váldomihttu	99	0	17	0
-+hovedmål	oajvvemåhkke
+hovedmål	oajvvemåhkke
 +hovedmål	oajvveulmme
 
 hovedmålsetting	válldujuksanmearre	váldojuksanmearri	13	0	0	0
@@ -1358,7 +1361,7 @@ høreapparat	gullanapparáhtta	gullanapparáhtta	0	0	0	0
 
 høringsfrist	guláskuddanájgemearre	gulaskuddanáigemearri	60	0	9	0
 høringsfrist	tsielkkenájgemearre	cealkináigemearri	60	0	0	0
-+høringsfrist	guláskuddama ájggemierre
++høringsfrist	guláskuddamájggemierre
 
 høringsinstans	guláskuddanásadus	gulaskuddanásahus	30	0	8	0
 +høringsinstans	guláskudde
@@ -1450,7 +1453,7 @@ innovasjon	åddåhutkan	ođđahutkan	106	0	5	0
 innsatsvilje	áŋŋgervuohta	áŋgirvuohta	0	0	8	0
 +innsatsvilje	barggoártta
 +innsatsvilje	ratjástimártta
-+innsatsvilje	barggomiella
+innsatsvilje	barggomiella
 
 innskrenkning	gártjádus	gáržžádus	11	0	3	0
 +innskrenkning	gártjodus
@@ -1529,7 +1532,7 @@ kalenderår	kaleanddarjahke	kaleanddarjahki	11	0	1	0
 +kalenderår	rijmmojahke
 
 kamera	gåvvenapparáhtta	govvenapparáhtta	0	0	2	0
-+kamera	kámera
+kamera	kámera
 
 kapasitet	doajmmannáktsa	doaibmannákca	103	0	6	0
 +kapasitet	máhtukvuohta
@@ -1538,8 +1541,8 @@ kapell	kapealla	kapealla	13	0	15	0
 +kapell	kapælla
 
 katalog	katáloga	kataloga	3	0	4	0
-katalog	katálåvggå	kataloga	3	0	4	0
-+katalog	kataloga
++katalog	katalåvggå	kataloga	3	0	4	0
+katalog	kataloga
 
 katekisme	katekismus	katekismus	6	1	4	1
 +katekisme	katekissma
@@ -1548,7 +1551,7 @@ kildebruk	gálldugeavaheapme	gáldogeavaheapmi	1	0	0	0
 +kildebruk	gálldoadno
 
 kilo	gilo	gilo	32	0	8	0
-+kilo	kilo
++kilo	tjillu
 
 kirkehistorie	girkkuhistorjá	girkohistorjá	19	0	6	0
 +kirkehistorie	girkkohiståvrrå
@@ -1605,7 +1608,7 @@ knutepunkt	guovdásjsadje	guovddášsadji	21	0	0	0
 
 kobling	åktijtjatnan	oktiičatnan	12	0	1	0
 +kobling	sjåpkadibme
-+kobling	sjåptjadibme
+kobling	sjåptjadibme
 +kobling	tjanástahka
 
 kolon	duppaltjuokkes	duppalčuokkis	0	0	2	0
@@ -1650,7 +1653,7 @@ kompetansekrav	gelbulasjvuodagájbádus	gelbbolašvuođagáibádus	8	0	3	0
 kompetansemål	gelbulasjvuodamihttomearre	gelbbolašvuođamihttomearri	17	0	3	0
 kompetansemål	gelbulasjvuodamihttu	gelbbolašvuođamihttu	17	0	4	0
 kompetansemål	máhttoulmmel	máhttoulbmil	17	0	0	0
-+kompetansemål	máhtudakmihtto
++kompetansemål	máhtudakmihttomierre
 
 komponent	kåmmpuneanta	komponeanta	12	0	0	0
 +komponent	oasse
@@ -1726,7 +1729,7 @@ krigsminne	soahtemujtu	soahtemuitu	0	0	0	0
 kriminalitet	krimenalitehta	kriminalitehta	14	0	1	0
 kriminalitet	rihkulasjvuohta	rihkolašvuohta	14	0	1	0
 +kriminalitet	vierredahko
-+kriminalitet	kriminalitehtta
++kriminalitet	kriminalitiehtta
 
 kringkasting	ájmmumedia	áibmomedia	11	0	6	0
 +kringkasting	sáddim
@@ -1920,9 +1923,9 @@ livsvilkår	ielleneaktu	eallineaktu	8	0	9	0
 +livsvilkår	viessomdille
 
 logg	låggå	logga	3	0	2	0
-+logg	biejvvegirjje
+logg	biejvvegirjje
 +logg	loagga
-+logg	giehtagirjje
+logg	giehtagirjje
 
 lokalavis	bájkálasjávijsa	báikkálašáviisa	16	0	0	0
 lokalavis	lagásavijsa	lagasaviisa	16	0	0	0
@@ -1934,8 +1937,8 @@ lokalbefolkning	bájkálasjolmosj	báikkálašolmmoš	47	0	0	0
 +lokalbefolkning	bájkkásasj årro
 +lokalbefolkning	bájke årro
 
-lokalmiljø	bájkálasjbiras	báikkálašbiras	13	0	0	0
-+lokalmiljø	lagosbirás
++lokalmiljø	bájkálasj biras	báikkálašbiras	13	0	0	0
+lokalmiljø	lagosbirás
 
 lokalsamfunn	bájkkegodde	báikegoddi	189	0	76	0
 +lokalsamfunn	bájkálasj sebrudahka
@@ -1959,8 +1962,8 @@ lunsj	biejvveborramusj	beaiveborramuš	19	0	0	0
 lunsj	biejvveborran	beaiveborran	19	0	1	0
 lunsj	lunsja	lunša	19	0	3	0
 +lunsj	biejvvebiebbmo
-+lunsj	svarkka
-+lunsj	bårådibme
+lunsj	svarkka
++luns	bårådibme
 
 lydopptak	bádden	bádden	0	0	18	0
 +lydopptak	jiednabáddim
@@ -2082,7 +2085,7 @@ medbestemmelse	mielvvájkkudus	mielváikkuhus	29	0	1	0
 
 medlemsland	miellahttorijka	miellahttoriika	11	0	2	0
 +medlemsland	sebrulasjrijkka
-+medlemsland	rijka ma li sebrulattja
+medlemsland	rijka ma li sebrulattja
 
 medlemstall	miellahttolohku	miellahttolohku	3	0	2	0
 +medlemstall	sebrulasjlåhko
@@ -2102,8 +2105,8 @@ melkeprodukt	mielkkebuvtta	mielkebuvtta	0	0	0	0
 +melkeprodukt	mielkkebuvta
 
 melsekk	jáffut	jáffut	0	0	4	0
-+melsekk	jáffovuossa ss (f''f
-+melsekk	s's)
++melsekk	jáffovuossa
+melsekk	s's)
 
 menighetshus	siervvegoddeviessu	searvegoddeviessu	0	0	4	0
 +menighetshus	biednadåhpe
@@ -2125,13 +2128,13 @@ merarbeid	lijggebargu	liigebargu	10	0	4	0
 
 merd	mierdde	meardi	0	0	3	0
 +merd	guollebiebmadahka
-+merd	biebmadahka
+merd	biebmadahka
 
 metodikk	metudihkka	metodihkka	10	0	3	0
 +metodikk	åhpadimvuohke
 
 milepæl	ålådus	olahus	13	0	40	0
-+milepæl	mærkkabiejvve
+milepæl	mærkkabiejvve
 +milepæl	ájnas dáhpádus
 +milepæl	mihttomierre
 +milepæl	mærkkaássje
@@ -2159,7 +2162,7 @@ minnemynt	mujttuminta	muitominta	0	0	0	0
 +minnemynt	mujttobiednik
 
 minnesmerke	mujttubádtse	muitobázzi	2	0	3	0
-+minnesmerke	mujttogiergge
+minnesmerke	mujttogiergge
 +minnesmerke	mujttomærkka
 
 minoritetsspråk	minuritehtagiella	minoritehtagiella	41	0	0	0
@@ -2299,7 +2302,7 @@ notat	nåtåhta	notáhta	36	0	16	0
 +notat	tjála
 
 nyanseforskjell	nyánnsaerodus	nyánsaerohus	0	0	0	0
-+nyanseforskjell	vehi sieradus
+nyanseforskjell	vehi sieradus
 
 nyhetsmelding	ådåsdiedádus	ođasdieđáhus	0	0	0	0
 nyhetsmelding	ådåsdiehtu	ođasdiehtu	0	0	0	0
@@ -2317,7 +2320,7 @@ nyskapning	åddåráhkadeapme	ođđaráhkadeapmi	8	0	0	0
 
 nytenking	åddåbuvttadeapme	ođđabuvttadeapmi	2	0	1	0
 nytenking	åddåárvalus	ođđaárvalus	2	0	0	0
-+nytenking	ådåsis ájádallat
+nytenking	ådåsis ájádallat
 +nytenking	ådå ájádus
 
 nytteverdi	ávkkeárvu	ávkeárvu	7	0	0	0
@@ -2338,7 +2341,7 @@ næringsinntekt	æláhusdienas	ealáhusdienas	5	0	2	0
 
 næringsliv	æláhuseallen	ealáhuseallin	286	0	36	0
 +næringsliv	æládusiellem
-+næringsliv	æládus
+næringsliv	æládus
 
 næringsmiddel	bårråmusjávnas	borramušávnnas	8	0	0	0
 næringsmiddel	æláhusruhta	ealáhusruhta	8	0	0	0
@@ -2364,7 +2367,7 @@ næringsvei	æláhusgeajnnu	ealáhusgeaidnu	10	0	1	0
 +næringsvei	æládustjærdda
 
 nærradio	lagasjrádio	lagašrádio	1	0	0	0
-+nærradio	lagosrádio
+nærradio	lagosrádio
 
 nødløsning	hiehtetjoavddus	heahtečoavddus	2	0	3	0
 +nødløsning	hiehtetjoavdos
@@ -2458,7 +2461,7 @@ oppslagsverk	diehtubuvttus	diehtobuvttus	3	0	0	0
 oppslagsverk	diehtugirje	diehtogirji	3	0	1	0
 oppslagsverk	åhtsånbájke	ohcanbáiki	3	0	0	0
 oppslagsverk	åhtsångirje	ohcangirji	3	0	0	0
-+oppslagsverk	diehtogálldo
+oppslagsverk	diehtogálldo
 +oppslagsverk	diehtogirjje
 
 oppsummering	åktijgeassu	oktiigeassu	31	0	8	0
@@ -2466,7 +2469,7 @@ oppsummering	åktijgeassu	oktiigeassu	31	0	8	0
 +oppsummering	tjoahkkájgiessem
 
 opptakskrav	sisábeassangájbádus	sisabeassangáibádus	1	0	0	0
-+opptakskrav	(oahppuj)bessamgájbbádus
++opptakskrav	sisbessamgájbbádus
 
 opptaksprøve	sisábeassangeahttjaleapme	sisabeassangeahččaleapmi	0	0	0	0
 opptaksprøve	sisáváldingeahttjaleapme	sisaváldingeahččaleapmi	0	0	2	0
@@ -2481,7 +2484,7 @@ oppvekstmiljø	bajástjaddanbiras	bajásšaddanbiras	6	0	4	0
 oppvekstvilkår	bajástjaddandille	bajásšaddandilli	40	0	5	0
 oppvekstvilkår	bajástjaddaneaktu	bajásšaddaneaktu	40	0	7	0
 +oppvekstvilkår	bajássjaddamdille
-+oppvekstvilkår	sjaddamdille
+oppvekstvilkår	sjaddamdille
 
 ordavledning	suorgádus	suorggádus	0	0	17	0
 +ordavledning	báhkosuorgudibme
@@ -2497,7 +2500,7 @@ ordrikdom	sádneriggodat	sátneriggodat	0	0	2	0
 +ordrikdom	báhkoboanndudahka
 
 ordspråk	sádnevájas	sátnevájas	4	0	13	0
-+ordspråk	Salomos ~ Báhkovádjasa
+ordspråk	Salomos ~ Báhkovádjasa
 +ordspråk	báhkotsoabme
 +ordspråk	báhkovájes
 
@@ -2543,7 +2546,7 @@ ozonlag	åtsunagearde	ozonageardi	2	0	0	0
 +ozonlag	ozongierdde
 
 panel	panela	panela	6	0	9	0
-+panel	panella
++panel	paniella
 
 paneldebatt	lávddedigasjtallan	lávdedigaštallan	4	0	0	0
 +paneldebatt	aktisasjságastallam
@@ -2557,11 +2560,11 @@ papirutgave	báberversjuvnna	báberveršuvdna	14	0	0	0
 
 parentes	dávggeruohtu	dávgeruohtu	3	0	0	0
 parentes	ruohto	ruohtu	3	0	8	0
-+parentes	parantessa
++parentes	parantiessa
 
 +park	párkka	párka	12	4	4	0
 +park	álmmuksalljo
-+park	salljo
+park	salljo
 
 parkeringsplass	bisánansadje	bisánansadji	4	0	3	0
 parkeringsplass	parkkerensadje	parkerensadji	4	0	0	0
@@ -2588,7 +2591,7 @@ pasientombud	buhttsijdájttardeaddje	buhcciidáittardeaddji	3	0	0	0
 +pasientombud	pasientajoahttse
 
 pengegave	ruhtaattus	ruhtaattus	0	0	0	0
-+pengegave	ruhtavadda
+pengegave	ruhtavadda
 
 pengeseddel	ruhtaseattal	ruhtaseattal	0	0	0	0
 +pengeseddel	ruhta
@@ -2597,7 +2600,7 @@ pensum	låhkånmearreplána	lohkanmearreplána	8	0	0	0
 +pensum	pensum
 
 permisjon	bargguluopmu	bargoluopmu	129	0	0	0
-+permisjon	(virgge)loahpe
+permisjon	(virgge)loahpe
 +permisjon	permisjåvnnå
 
 personnummer	hegganummer	heagganummir	3	0	0	0
@@ -2619,7 +2622,7 @@ pilar	gierggejuolge	geađgejuolgi	1	1	9	0
 
 pilot	piluhta	pilohta	24	0	2	0
 +pilot	girddevuoddje
-+pilot	hálediddje
+pilot	hálediddje
 
 planarbeid	plánábargamusj	plánabargamuš	29	0	0	0
 +planarbeid	pládnabarggo
@@ -2659,7 +2662,7 @@ premiss	premessa	premissa	65	0	3	0
 +premiss	premissa
 
 prestegjeld	báhpagielda	báhpagielda	5	0	0	0
-+prestegjeld	giellda
+prestegjeld	giellda
 
 prestestilling	báhpavirge	báhpavirgi	1	0	1	0
 +prestestilling	báhppaámmát
@@ -2673,7 +2676,7 @@ prisstigning	haddelassáneapme	haddelassáneapmi	24	0	1	0
 +prisstigning	haddelasádus
 
 privatperson	priváhtaolmosj	priváhtaolmmoš	10	0	2	0
-+privatperson	ájnegasj
+privatperson	ájnegasj
 
 privatskole	priváhtaskuvla	priváhtaskuvla	8	0	4	0
 +privatskole	priváhtaskåvllå
@@ -2745,15 +2748,15 @@ pyramide	pyrámida	pyramida	0	0	2	0
 +pyramide	piramijdda
 
 påmeldingsfrist	diedehanájge	dieđihanáigi	4	0	8	0
-+påmeldingsfrist	diededime ájggemierre el. diededimájggemierre
++påmeldingsfrist	diededimájggemierre
 
 påpekning	tsujgudeapme	cuiggodeapmi	1	0	13	0
 +påpekning	tsuojggidus
 +påpekning	tsuojgodibme
-+påpekning	tsuojgudis
+påpekning	tsuojgudis
 
-radioprogram	rádioprográmma	rádioprográmma	1	5	2	0
-+radioprogram	radioprogram
++radioprogram	radioprográmma	rádioprográmma	1	5	2	0
+radioprogram	radioprogram
 
 rammebetingelse	ravddaeaktu	ravdaeaktu	79	0	0	0
 +rammebetingelse	ålgoldisækto
@@ -2813,8 +2816,8 @@ regnskog	arvvemeahttse	arvemeahcci	3	0	0	0
 
 reinbeiteområde	boatsuguohtunguovlu	boazoguohtunguovlu	103	0	6	0
 reinbeiteområde	guohtunguovlu	guohtunguovlu	103	0	13	0
-+reinbeiteområde	(ællo)guohtomednam
-+reinbeiteområde	(ællo)guohtomguovllo
++reinbeiteområde	ælloguohtomednam
+reinbeiteområde	(ællo)guohtomguovllo
 
 reindriftsutøvelse	boatsudoallobargu	boazodoallobargu	3	0	1	0
 +reindriftsutøvelse	ællobarggo
@@ -2855,7 +2858,7 @@ reisestøtte	mátkedoarjja	mátkedoarjja	2	0	1	0
 
 religion	åskuldat	oskkoldat	47	0	8	0
 +religion	åssko
-+religion	religijåvnnå
+religion	religijåvnnå
 
 religionsvitenskap	relegiovnnadieda	religiovdnadieđa	2	0	0	0
 religionsvitenskap	åskuldatdieda	oskkoldatdieđa	2	0	0	0
@@ -3121,7 +3124,7 @@ sentralbank	guovdásjbáŋku	guovddášbáŋku	1	0	1	0
 
 sentralbord	telefovnnaguovddásj	telefovdnaguovddáš	10	0	0	0
 +sentralbord	telefåvnnåguovdásj
-+sentralbord	resepsjåvnnå
+sentralbord	resepsjåvnnå
 
 sentralisering	guovdusjteapme	guovddušteapmi	18	0	0	0
 +sentralisering	guovdustibme
@@ -3185,7 +3188,7 @@ skatteklasse	verruluohkká	vearroluohkká	0	0	0	0
 
 skattekommune	verrugielda	vearrogielda	1	0	0	0
 skattekommune	verrusuohkan	vearrosuohkan	1	0	0	0
-+skattekommune	værro(máksem)suohkan
++skattekommune	værromáksemsuohkan
 
 skattelette	verrugeahpedeapme	vearrogeahpedeapmi	6	0	0	0
 skattelette	verrugeahpedus	vearrogeahpedus	6	0	1	0
@@ -3270,7 +3273,7 @@ skriftlighet	tjálálasjvuohta	čálalašvuohta	1	0	0	0
 skriftserie	tjálárájdu	čálaráidu	2	0	0	0
 +skriftserie	tjálarájddo
 
-+skriftspråk	girjjegiella	girjegiella	20	5	9	0
+skriftspråk	girjjegiella	girjegiella	20	5	9	0
 skriftspråk	tjálágiella	čálagiella	20	0	0	0
 +skriftspråk	tjállemgiella
 
@@ -3314,14 +3317,14 @@ slit	rahtjan	rahčan	3	0	42	0
 +slit	rahtjam
 
 sluttord	loahppasátne	loahppasátni	0	0	2	0
-+sluttord	hiejttembáhko
+sluttord	hiejttembáhko
 +sluttord	loahppabáhko
 
 sluttvurdering	loahppaárvvosjtallan	loahppaárvvoštallan	2	0	2	0
 +sluttvurdering	loahppaárvustallam
 
 smaksopplevelse	májsstuvásádus	máistovásáhus	0	0	0	0
-+smaksopplevelse	muossádus
+smaksopplevelse	muossádus
 +smaksopplevelse	muossádibme
 
 småbarnsforelder	smávvamánnáolmosj	smávvamánnáolmmoš	1	0	0	0
@@ -3339,13 +3342,13 @@ sommervikar	giessebarge	geassebargi	0	0	2	0
 sorg	måråsjdille	morašdilli	11	0	0	0
 sorg	måråsjtanájge	moraštanáigi	11	0	0	0
 +sorg	surggo
-+sorg	vádja
+sorg	vádja
 
 sosialdepartement	Såsiáladepartemeanta	Sosiáladepartemeanta	7	0	0	0
-+sosialdepartement	sosiáldepartemænnta
++sosialdepartement	sosialdepartemænnta
 
 sosialtjeneste	såsiálafálaldat	sosiálafálaldat	115	0	4	0
-+sosialtjeneste	sosiáldievnastus
++sosialtjeneste	sosialdievnastus
 
 sosiolekt	såsioleakta	sosioleakta	0	0	0	0
 +sosiolekt	sosiolækta
@@ -3378,7 +3381,7 @@ språkavdeling	giellaossodat	giellaossodat	42	0	21	0
 
 språkbad	giellalávgun	giellalávgun	27	0	16	0
 +språkbad	giellalávggom
-+språkbad	giellalávggo
+språkbad	giellalávggo
 
 språkbarriere	giellahehttedus	giellahehttehus	0	0	0	0
 språkbarriere	giellaoahtse	giellaoahci	0	0	0	0
@@ -3418,7 +3421,7 @@ språkområde	giellaguovlu	giellaguovlu	31	0	12	0
 språkopplæring	giellaoahpadus	giellaoahpahus	80	0	18	0
 språkopplæring	giellaoahpahallan	giellaoahpahallan	80	0	0	0
 språkopplæring	giellaoahpaheapme	giellaoahpaheapmi	80	0	4	0
-+språkopplæring	giellaåhpadus
+språkopplæring	giellaåhpadus
 +språkopplæring	giellaåhpadibme
 
 språkplan	giellaplána	giellaplána	12	0	5	0
@@ -3452,11 +3455,11 @@ språkutvikling	giellaovdánahtten	giellaovdánahttin	55	0	3	0
 
 spørreskjema	jeraldatskovve	jearaldatskovvi	11	0	0	0
 +spørreskjema	gatjálvissjiebmá
-+spørreskjema	sjiebmá gatjálvisáj
+spørreskjema	sjiebmá gatjálvisáj
 
 spørsmålsrunde	gatjáldatvuorru	gažaldatvuorru	0	0	0	0
 +spørsmålsrunde	gatjádallamvuorro
-+spørsmålsrunde	gatjádallambåddå
+spørsmålsrunde	gatjádallambåddå
 
 standpunktvurdering	åppålasjárvosátne	oppalašárvosátni	2	0	1	0
 +standpunktvurdering	åbbålasj árvustallam
@@ -3523,7 +3526,7 @@ strandlinje	merragáttelinnjá	mearragáttelinnjá	1	0	0	0
 +strandlinje	nuorregádde
 
 stress	doabman	doapman	11	0	2	0
-+stress	ratjáldahka
+stress	ratjáldahka
 +stress	diertjestibme
 +stress	diertjeguddam
 
@@ -3570,7 +3573,7 @@ studietilbud	oahppufálaldat	oahppofálaldat	36	0	35	0
 
 styreform	hálldenvuohke	háldenvuohki	0	0	0	0
 +styreform	stivrrimvuohke
-+styreform	ráddidushábme
+styreform	ráddidushábme
 +styreform	ráddimvuohke
 
 styremedlem	stivramiellahttu	stivrramiellahttu	76	0	0	0
@@ -3592,7 +3595,7 @@ substans	substánsa	substánsa	1	0	0	0
 
 suffiks	suffeksa	suffiksa	0	0	8	0
 +suffiks	suffiksa
-+suffiks	suorgudisgætjos
+suffiks	suorgudisgætjos
 
 supplement	devda	deavdda	21	0	5	0
 +supplement	lasádus
@@ -3609,10 +3612,10 @@ sykehus	buhttsijdviessu	buhcciidviessu	76	0	2	0
 sykemelding	buohttsediedádus	buohccedieđáhus	0	0	0	0
 sykemelding	buotsalmasvuodadiedádus	buozalmasvuođadieđáhus	0	0	0	0
 +sykemelding	skihppendiededibme
-+sykemelding	skihppen tjáledibme
+sykemelding	skihppen tjáledibme
 
 sykepleie	buotsalmasvuodadiksju	buozalmasvuođadikšu	6	0	0	0
-+sykepleie	skihppijsujtto jt el. sujtto
++sykepleie	skihppijsujtto
 
 symbol	symmbula	symbola	14	0	30	0
 +symbol	gåvåstahka
@@ -3621,7 +3624,7 @@ symbol	symmbula	symbola	14	0	30	0
 synliggjøring	tjalmustahtten	čalmmustahttin	61	0	12	0
 +synliggjøring	tjalmostahttem
 +synliggjøring	ilmodibme
-+synliggjøring	almodibme
+synliggjøring	almodibme
 
 synspunkt	oajnnuguoddu	oaidnoguoddu	55	0	0	0
 +synspunkt	vuojnno
@@ -3633,8 +3636,8 @@ synsvinkel	oajnnenvuohke	oaidninvuohki	7	0	1	0
 
 system	tjårggåtvuohta	čorgatvuohta	125	0	1	0
 +system	vuogádahka
-+system	systebma
-+system	vuohke
++system	systiebma
+system	vuohke
 
 særtiltak	erenoamásjdoajmma	erenoamášdoaibma	12	0	0	0
 særtiltak	sierradoajmmabidju	sierradoaibmabidju	12	0	1	0
@@ -3649,7 +3652,7 @@ søring	máttaolmosj	máttaolmmoš	2	0	0	0
 +søring	oarjjelij
 
 talemål	hubmangiella	hupmangiella	1	0	4	0
-+talemål	njálmálasj giella
+talemål	njálmálasj giella
 +talemål	hållamgiella
 
 talerett	hubmanvuojgatvuohta	hupmanvuoigatvuohta	4	0	0	0
@@ -3664,7 +3667,7 @@ talespråk	hállangiella	hállangiella	4	0	3	0
 +talespråk	hållamgiella
 
 tankegang	jurdahanmálle	jurddahanmálle	4	0	0	0
-+tankegang	ájádus
+tankegang	ájádus
 +tankegang	ájádusvuohke
 
 tannbørste	bádnegusta	bátnegusta	0	0	0	0
@@ -3700,7 +3703,7 @@ telegraf	telegráfa	telegráfa	4	0	1	0
 +telegraf	telegráffa
 
 teolog	teoluga	teologa	1	0	4	0
-+teolog	teologa
+teolog	teologa
 
 terminologi	termenologijja	terminologiija	87	0	41	0
 +terminologi	terminologiddja
@@ -3754,8 +3757,8 @@ tips	tsavggeleapme	cavgileapmi	15	0	8	0
 tjenestemann	bálvvalusolmosj	bálvalusolmmoš	17	0	0	0
 +tjenestemann	virgálasj
 +tjenestemann	ámmátulmusj
-+tjenestemann	virggeålmåj
-+tjenestemann	virggeulmusj
+tjenestemann	virggeålmåj
+tjenestemann	virggeulmusj
 
 tjenestereise	barggumátke	bargomátki	5	0	2	0
 tjenestereise	virggemátke	virgemátki	5	0	0	0
@@ -3786,7 +3789,7 @@ transportmiddel	fievredangaskaoapme	fievrridangaskaoapmi	6	0	0	0
 transportmiddel	fievredanreajdu	fievrridanreaidu	6	0	0	0
 transportmiddel	fievredanráhkadus	fievrridanráhkadus	6	0	0	0
 +transportmiddel	fievrro	fievru	6	17	25	0
-+transportmiddel	sáhtto
+transportmiddel	sáhtto
 
 tredjedel	goalmadas	goalmmadas	12	0	1	0
 +tredjedel	gålmadis
@@ -3882,7 +3885,7 @@ ungdomstrinn	nuorajddásse	nuoraiddássi	14	0	2	0
 union	uniovnna	uniovdna	11	0	14	0
 union	åvtåstat	ovttastat	11	0	0	0
 +union	aktidus
-+union	unijåvnnå
+union	unijåvnnå
 
 urfolkskunnskap	álggoálmmotdiehtu	álgoálbmotdiehtu	3	0	1	0
 urfolkskunnskap	álggoálmmotmáhttu	álgoálbmotmáhttu	3	0	3	0
@@ -3997,8 +4000,8 @@ valgregel	válgganjuolggadus	válganjuolggadus	9	0	6	0
 +valgregel	jienastimnjuolgadus
 
 valuta	ruhtaovttadat	ruhtaovttadat	3	0	0	0
-valuta	valuhtta	valuhtta	3	0	1	0
-+valuta	valuhta
++valuta	valuhtta	valuhtta	3	0	1	0
+valuta	valuhta
 
 vandelsattest	mennudusduodasjtus	meannudusduođaštus	0	0	0	0
 +vandelsattest	vájaldimduodastus
@@ -4032,7 +4035,7 @@ velferdssamfunn	tjálgguservodat	čálgoservodat	4	0	0	0
 +velferdssamfunn	álkkádussebrudahka
 
 verdigrunnlag	árvvuvuoddu	árvovuođđu	15	0	5	0
-+verdigrunnlag	árvvo
+verdigrunnlag	árvvo
 +verdigrunnlag	árvvovuodo
 
 verdiskapning	árvvoovddideapme	árvoovddideapmi	48	0	0	0
@@ -4093,7 +4096,7 @@ vintermåned	dálvvemánnu	dálvemánnu	0	0	0	0
 
 visdom	jiermálasjvuohta	jierpmálašvuohta	2	0	2	0
 +visdom	vijsesvuohta	viissisvuohta	2	61	1	2
-+visdom	vijssudahka
+visdom	vijssudahka
 
 visepresident	sadjásasjpresideanta	sadjásašpresideanta	82	0	1	0
 +visepresident	sadjásasj presidænnta
@@ -4135,7 +4138,7 @@ yrkeskompetanse	ámmátgelbbolasjvuohta	ámmátgelbbolašvuohta	2	0	0	0
 yrkesliv	fiddnoeallen	fidnoeallin	5	0	0	0
 yrkesliv	ámmáteallen	ámmáteallin	5	0	0	0
 +yrkesliv	barggoiellem
-+yrkesliv	barggo
+yrkesliv	barggo
 
 yrkesopplæring	fiddnooahpadus	fidnooahpahus	23	0	4	0
 yrkesopplæring	ámmátoahpadus	ámmátoahpahus	23	0	0	0
@@ -4202,7 +4205,7 @@ ytterkant	sågge	soggi	1	3	31	0
 +økonomiforvaltning	ruhtaháldadibme
 
 øreflipp	bielljelasta	bealljelasta	0	0	0	0
-+øreflipp	bielljegætjásj
+øreflipp	bielljegætjásj
 +øreflipp	bielljegiehtje
 
 østsamisk	nuorttasámegiella	nuortasámegiella	76	142	3	0
