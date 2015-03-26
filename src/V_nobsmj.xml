@@ -5,7 +5,7 @@
       <l pos="V" src="fad">skjule</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjiehkat</t>
       </tg>
     </mg>
@@ -15,7 +15,7 @@
       <l pos="V" src="fad">utlåne</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">luojkkat</t>
       </tg>
     </mg>
@@ -25,7 +25,7 @@
       <l pos="V" src="fad">felle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjuollat</t>
       </tg>
     </mg>
@@ -35,7 +35,7 @@
       <l pos="V" src="fad">hugge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjuollat</t>
       </tg>
     </mg>
@@ -45,7 +45,7 @@
       <l pos="V" src="fad">orde</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">hállat</t>
       </tg>
     </mg>
@@ -55,7 +55,7 @@
       <l pos="V" src="fad">knyte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjadnat</t>
       </tg>
     </mg>
@@ -65,7 +65,7 @@
       <l pos="V" src="fad">hugge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjuohppat</t>
       </tg>
     </mg>
@@ -75,7 +75,7 @@
       <l pos="V" src="fad">sakse</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjuohppat</t>
       </tg>
     </mg>
@@ -85,7 +85,7 @@
       <l pos="V" src="fad">rundvaske</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bassat</t>
       </tg>
     </mg>
@@ -95,7 +95,7 @@
       <l pos="V" src="fad">oversende</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sáddit</t>
       </tg>
     </mg>
@@ -105,7 +105,7 @@
       <l pos="V" src="fad">avgrense</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ráddjit</t>
       </tg>
     </mg>
@@ -115,7 +115,7 @@
       <l pos="V" src="fad">lovfeste</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">nannit</t>
       </tg>
     </mg>
@@ -125,7 +125,7 @@
       <l pos="V" src="fad">assosiere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">assosierit</t>
       </tg>
     </mg>
@@ -135,7 +135,7 @@
       <l pos="V" src="fad">veilede</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bagádit</t>
       </tg>
     </mg>
@@ -145,7 +145,7 @@
       <l pos="V" src="fad">makte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">nagádit</t>
       </tg>
     </mg>
@@ -155,7 +155,7 @@
       <l pos="V" src="fad">skjule</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjiegadit</t>
       </tg>
     </mg>
@@ -165,7 +165,7 @@
       <l pos="V" src="fad">utrede</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjielgadit</t>
       </tg>
     </mg>
@@ -175,7 +175,7 @@
       <l pos="V" src="fad">avklare</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjielgadit</t>
       </tg>
     </mg>
@@ -185,7 +185,7 @@
       <l pos="V" src="fad">kle av seg</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">nuoladit</t>
       </tg>
     </mg>
@@ -195,7 +195,7 @@
       <l pos="V" src="fad">lunsje</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bårådit</t>
       </tg>
     </mg>
@@ -205,7 +205,7 @@
       <l pos="V" src="fad">delfinansiere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">oasseruhtadit</t>
       </tg>
     </mg>
@@ -215,7 +215,7 @@
       <l pos="V" src="fad">møte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dejvadit</t>
       </tg>
     </mg>
@@ -225,7 +225,7 @@
       <l pos="V" src="fad">prolongere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">guhkedit</t>
       </tg>
     </mg>
@@ -235,7 +235,7 @@
       <l pos="V" src="fad">forkynne</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sárnnedit</t>
       </tg>
     </mg>
@@ -245,7 +245,7 @@
       <l pos="V" src="fad">bedre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">buoredit</t>
       </tg>
     </mg>
@@ -255,7 +255,7 @@
       <l pos="V" src="fad">fastsette</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">mierredit</t>
       </tg>
     </mg>
@@ -265,7 +265,7 @@
       <l pos="V" src="fad">likestille</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dássedit</t>
       </tg>
     </mg>
@@ -275,7 +275,7 @@
       <l pos="V" src="fad">delta</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sæbrrat</t>
       </tg>
     </mg>
@@ -285,7 +285,7 @@
       <l pos="V" src="fad">gråte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ganjáldit</t>
       </tg>
     </mg>
@@ -295,7 +295,7 @@
       <l pos="V" src="fad">rive</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gajkudit</t>
       </tg>
     </mg>
@@ -305,7 +305,7 @@
       <l pos="V" src="fad">forvalte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">háldadit</t>
       </tg>
     </mg>
@@ -315,7 +315,7 @@
       <l pos="V" src="fad">iverksette</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">álgadit</t>
       </tg>
     </mg>
@@ -325,7 +325,7 @@
       <l pos="V" src="fad">snike</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">njágadit</t>
       </tg>
     </mg>
@@ -335,7 +335,7 @@
       <l pos="V" src="fad">sleppe</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">besadit</t>
       </tg>
     </mg>
@@ -345,7 +345,7 @@
       <l pos="V" src="fad">hemme</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gåtsadit</t>
       </tg>
     </mg>
@@ -355,7 +355,7 @@
       <l pos="V" src="fad">bidra</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">viehkedit</t>
       </tg>
     </mg>
@@ -365,7 +365,7 @@
       <l pos="V" src="fad">smelle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bávkedit</t>
       </tg>
     </mg>
@@ -375,7 +375,7 @@
       <l pos="V" src="fad">eksplodere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bávkedit</t>
       </tg>
     </mg>
@@ -385,7 +385,7 @@
       <l pos="V" src="fad">overbevise</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">jáhkedit</t>
       </tg>
     </mg>
@@ -395,7 +395,7 @@
       <l pos="V" src="fad">røske</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gajkedit</t>
       </tg>
     </mg>
@@ -405,7 +405,7 @@
       <l pos="V" src="fad">livnære</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ieledit</t>
       </tg>
     </mg>
@@ -415,7 +415,7 @@
       <l pos="V" src="fad">oppleve</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vásedit</t>
       </tg>
     </mg>
@@ -425,7 +425,7 @@
       <l pos="V" src="fad">nedlegge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">hiejtedit</t>
       </tg>
     </mg>
@@ -435,7 +435,7 @@
       <l pos="V" src="fad">oppgi</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">diededit</t>
       </tg>
     </mg>
@@ -445,7 +445,7 @@
       <l pos="V" src="fad">tilkjenne</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">miededit</t>
       </tg>
     </mg>
@@ -455,7 +455,7 @@
       <l pos="V" src="fad">føre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">jådedit</t>
       </tg>
     </mg>
@@ -465,7 +465,7 @@
       <l pos="V" src="fad">lede</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">jådedit</t>
       </tg>
     </mg>
@@ -475,7 +475,7 @@
       <l pos="V" src="fad">drepe</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gåddålit</t>
       </tg>
     </mg>
@@ -485,7 +485,7 @@
       <l pos="V" src="fad">påklage</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">guoddalit</t>
       </tg>
     </mg>
@@ -495,7 +495,7 @@
       <l pos="V" src="fad">sprenge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bávkkalit</t>
       </tg>
     </mg>
@@ -505,7 +505,7 @@
       <l pos="V" src="fad">dukke</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">buoktjalit</t>
       </tg>
     </mg>
@@ -515,7 +515,7 @@
       <l pos="V" src="fad">tilsidesette</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">duvddelit</t>
       </tg>
     </mg>
@@ -525,7 +525,7 @@
       <l pos="V" src="fad">nærme seg</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">lahkanit</t>
       </tg>
     </mg>
@@ -535,7 +535,7 @@
       <l pos="V" src="fad">separere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sieradit</t>
       </tg>
     </mg>
@@ -545,7 +545,7 @@
       <l pos="V" src="fad">svekke</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">hedjunit</t>
       </tg>
     </mg>
@@ -555,7 +555,7 @@
       <l pos="V" src="fad">nærme seg</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">lahknit</t>
       </tg>
     </mg>
@@ -565,7 +565,7 @@
       <l pos="V" src="fad">forsinke</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">maŋŋunit</t>
       </tg>
     </mg>
@@ -575,7 +575,7 @@
       <l pos="V" src="fad">forverre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">værránit</t>
       </tg>
     </mg>
@@ -585,7 +585,7 @@
       <l pos="V" src="fad">ferdigstilles</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gárvvánit</t>
       </tg>
     </mg>
@@ -595,7 +595,7 @@
       <l pos="V" src="fad">bli ferdigstilt</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gárvvánit</t>
       </tg>
     </mg>
@@ -605,7 +605,7 @@
       <l pos="V" src="fad">løses</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjoavddásit</t>
       </tg>
     </mg>
@@ -615,7 +615,7 @@
       <l pos="V" src="fad">fordele</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">juogestit</t>
       </tg>
     </mg>
@@ -625,7 +625,7 @@
       <l pos="V" src="fad">viske</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sihkastit</t>
       </tg>
     </mg>
@@ -635,7 +635,7 @@
       <l pos="V" src="fad">slette</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sihkastit</t>
       </tg>
     </mg>
@@ -645,7 +645,7 @@
       <l pos="V" src="fad">høre litt</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gulástit</t>
       </tg>
     </mg>
@@ -655,7 +655,7 @@
       <l pos="V" src="fad">stemme</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">jienastit</t>
       </tg>
     </mg>
@@ -665,7 +665,7 @@
       <l pos="V" src="fad">revidere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dárkestit</t>
       </tg>
     </mg>
@@ -675,7 +675,7 @@
       <l pos="V" src="fad">lyve</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gielestit</t>
       </tg>
     </mg>
@@ -685,7 +685,7 @@
       <l pos="V" src="fad">frikjøpe</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">lånestit</t>
       </tg>
     </mg>
@@ -695,7 +695,7 @@
       <l pos="V" src="fad">rusle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">váttsatjit</t>
       </tg>
     </mg>
@@ -705,7 +705,7 @@
       <l pos="V" src="fad">forvalte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">háldadit</t>
       </tg>
     </mg>
@@ -715,7 +715,7 @@
       <l pos="V" src="fad">forkaste</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">hilggot</t>
       </tg>
     </mg>
@@ -725,7 +725,7 @@
       <l pos="V" src="fad">sløyfe</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sihkkut</t>
       </tg>
     </mg>
@@ -735,7 +735,7 @@
       <l pos="V" src="fad">slette</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sihkkut</t>
       </tg>
     </mg>
@@ -745,7 +745,7 @@
       <l pos="V" src="fad">lagre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuorkkit</t>
       </tg>
     </mg>
@@ -755,7 +755,7 @@
       <l pos="V" src="fad">sømme</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">goarrot</t>
       </tg>
     </mg>
@@ -765,7 +765,7 @@
       <l pos="V" src="fad">rullere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">målssut</t>
       </tg>
     </mg>
@@ -775,7 +775,7 @@
       <l pos="V" src="fad">møte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">duosstot</t>
       </tg>
     </mg>
@@ -785,7 +785,7 @@
       <l pos="V" src="fad">kjøre avsted</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuoddját</t>
       </tg>
     </mg>
@@ -795,7 +795,7 @@
       <l pos="V" src="fad">aktivisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dåjmadahttet</t>
       </tg>
     </mg>
@@ -805,7 +805,7 @@
       <l pos="V" src="fad">anke</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">guoddalit</t>
       </tg>
     </mg>
@@ -815,7 +815,7 @@
       <l pos="V" src="fad">arkivere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuorkkit</t>
       </tg>
     </mg>
@@ -825,7 +825,7 @@
       <l pos="V" src="fad">avkorte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">oanedit</t>
       </tg>
     </mg>
@@ -835,7 +835,7 @@
       <l pos="V" src="fad">befare</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gehtjadit</t>
       </tg>
     </mg>
@@ -845,7 +845,7 @@
       <l pos="V" src="fad">budsjettere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">budsjettierit</t>
       </tg>
     </mg>
@@ -855,7 +855,7 @@
       <l pos="V" src="fad">digitalisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">digitalisierit</t>
       </tg>
     </mg>
@@ -865,7 +865,7 @@
       <l pos="V" src="fad">etterlyse</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">åtsådit</t>
       </tg>
     </mg>
@@ -875,7 +875,7 @@
       <l pos="V" src="fad">evaluere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">árvustallat</t>
       </tg>
     </mg>
@@ -885,7 +885,7 @@
       <l pos="V" src="fad">fokusere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjalmostit</t>
       </tg>
     </mg>
@@ -895,7 +895,7 @@
       <l pos="V" src="fad">frigi</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">luojttet</t>
       </tg>
     </mg>
@@ -905,7 +905,7 @@
       <l pos="V" src="fad">hegne</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">oaggit</t>
       </tg>
     </mg>
@@ -915,7 +915,7 @@
       <l pos="V" src="fad">implementere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">implementierit</t>
       </tg>
     </mg>
@@ -925,7 +925,7 @@
       <l pos="V" src="fad">initiere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">álgadit</t>
       </tg>
     </mg>
@@ -935,7 +935,7 @@
       <l pos="V" src="fad">integrere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">avtastahttet</t>
       </tg>
     </mg>
@@ -945,7 +945,7 @@
       <l pos="V" src="fad">introdusere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">oahpásmuhttet</t>
       </tg>
     </mg>
@@ -955,7 +955,7 @@
       <l pos="V" src="fad">knytte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">buduk</t>
       </tg>
     </mg>
@@ -965,7 +965,7 @@
       <l pos="V" src="fad">konkludere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjoahkkájgiesset s*</t>
       </tg>
     </mg>
@@ -975,7 +975,7 @@
       <l pos="V" src="fad">konstatere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">konstatierit</t>
         <t pos="V">gávnadit</t>
       </tg>
@@ -986,7 +986,7 @@
       <l pos="V" src="fad">konsultere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">rádádallat</t>
       </tg>
     </mg>
@@ -996,7 +996,7 @@
       <l pos="V" src="fad">kuppe</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">fámujn rievvot</t>
       </tg>
     </mg>
@@ -1006,7 +1006,7 @@
       <l pos="V" src="fad">legalisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">legalisierit</t>
       </tg>
     </mg>
@@ -1016,7 +1016,7 @@
       <l pos="V" src="fad">levne</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">guodet</t>
       </tg>
     </mg>
@@ -1026,7 +1026,7 @@
       <l pos="V" src="fad">makulere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dåssjidit</t>
       </tg>
     </mg>
@@ -1036,7 +1036,7 @@
       <l pos="V" src="fad">medføre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">buktet</t>
       </tg>
     </mg>
@@ -1046,7 +1046,7 @@
       <l pos="V" src="fad">oppgradere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ådåsmahttet</t>
       </tg>
     </mg>
@@ -1056,7 +1056,7 @@
       <l pos="V" src="fad">overholde</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">anodit</t>
       </tg>
     </mg>
@@ -1066,7 +1066,7 @@
       <l pos="V" src="fad">overkomme</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">rijbadit</t>
       </tg>
     </mg>
@@ -1076,7 +1076,7 @@
       <l pos="V" src="fad">overskygge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">siegestit</t>
       </tg>
     </mg>
@@ -1086,7 +1086,7 @@
       <l pos="V" src="fad">overvåke</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">váksjudit</t>
       </tg>
     </mg>
@@ -1096,7 +1096,7 @@
       <l pos="V" src="fad">poste</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">poasstit</t>
       </tg>
     </mg>
@@ -1106,7 +1106,7 @@
       <l pos="V" src="fad">protokollere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjállet bievddegirjjáj</t>
       </tg>
     </mg>
@@ -1116,7 +1116,7 @@
       <l pos="V" src="fad">rapportere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">diededit</t>
       </tg>
     </mg>
@@ -1126,7 +1126,7 @@
       <l pos="V" src="fad">ratifisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ratifisierit</t>
       </tg>
     </mg>
@@ -1136,7 +1136,7 @@
       <l pos="V" src="fad">realisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">jåhtuj biedjat</t>
       </tg>
     </mg>
@@ -1146,7 +1146,7 @@
       <l pos="V" src="fad">refse</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">nuktalit</t>
       </tg>
     </mg>
@@ -1156,7 +1156,7 @@
       <l pos="V" src="fad">restaurere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">åbddit</t>
       </tg>
     </mg>
@@ -1166,7 +1166,7 @@
       <l pos="V" src="fad">revitalisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ælládahttet</t>
       </tg>
     </mg>
@@ -1176,7 +1176,7 @@
       <l pos="V" src="fad">sensurere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sensurierit</t>
       </tg>
     </mg>
@@ -1186,7 +1186,7 @@
       <l pos="V" src="fad">signere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuolláj tjállet</t>
       </tg>
     </mg>
@@ -1196,7 +1196,7 @@
       <l pos="V" src="fad">skissere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">hábmedit</t>
       </tg>
     </mg>
@@ -1206,7 +1206,7 @@
       <l pos="V" src="fad">skåne</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">árjjot</t>
       </tg>
     </mg>
@@ -1216,7 +1216,7 @@
       <l pos="V" src="fad">sluttføre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">låhpadit</t>
       </tg>
     </mg>
@@ -1226,7 +1226,7 @@
       <l pos="V" src="fad">snekre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">snihkkut</t>
       </tg>
     </mg>
@@ -1236,7 +1236,7 @@
       <l pos="V" src="fad">spekulere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">árvvádallat</t>
       </tg>
     </mg>
@@ -1246,7 +1246,7 @@
       <l pos="V" src="fad">spesifisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjielggit el. dárkkelappot/snivábut tjielggit</t>
         <t pos="V">spesifisierit</t>
       </tg>
@@ -1257,7 +1257,7 @@
       <l pos="V" src="fad">stemple</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">stiempeldit</t>
       </tg>
     </mg>
@@ -1267,7 +1267,7 @@
       <l pos="V" src="fad">symbolisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gåvåstahttet</t>
       </tg>
     </mg>
@@ -1277,7 +1277,7 @@
       <l pos="V" src="fad">tematisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tematisierit</t>
       </tg>
     </mg>
@@ -1287,7 +1287,7 @@
       <l pos="V" src="fad">tilrå</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">oajvvadit</t>
       </tg>
     </mg>
@@ -1297,7 +1297,7 @@
       <l pos="V" src="fad">torturere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bijnedit</t>
       </tg>
     </mg>
@@ -1307,7 +1307,7 @@
       <l pos="V" src="fad">tørre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">duosstat</t>
       </tg>
     </mg>
@@ -1317,7 +1317,7 @@
       <l pos="V" src="fad">utprøve</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gæhttjaladdat</t>
       </tg>
     </mg>
@@ -1327,7 +1327,7 @@
       <l pos="V" src="fad">utsmykke</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">hiervvit</t>
       </tg>
     </mg>
@@ -1337,7 +1337,7 @@
       <l pos="V" src="fad">vedvare</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bissot</t>
         <t pos="V">vihpat</t>
       </tg>
@@ -1348,7 +1348,7 @@
       <l pos="V" src="fad">verdsette</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">árvvon adnet</t>
       </tg>
     </mg>
@@ -1358,7 +1358,7 @@
       <l pos="V" src="fad">videreføre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">joarkket</t>
       </tg>
     </mg>
@@ -1368,7 +1368,7 @@
       <l pos="V" src="fad">votere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">jienastit</t>
       </tg>
     </mg>
@@ -1378,7 +1378,7 @@
       <l pos="V" src="fad">anskaffe</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">háhkuhit</t>
       </tg>
     </mg>
@@ -1388,7 +1388,7 @@
       <l pos="V" src="fad">avholde</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ásadit</t>
       </tg>
     </mg>
@@ -1398,7 +1398,7 @@
       <l pos="V" src="fad">bosette</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">årrut</t>
       </tg>
     </mg>
@@ -1408,7 +1408,7 @@
       <l pos="V" src="fad">foregå</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dáhpáduvvat</t>
       </tg>
     </mg>
@@ -1418,7 +1418,7 @@
       <l pos="V" src="fad">gradere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gradierit</t>
       </tg>
     </mg>
@@ -1428,7 +1428,7 @@
       <l pos="V" src="fad">konsolidere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">konsolidierit</t>
       </tg>
     </mg>
@@ -1438,7 +1438,7 @@
       <l pos="V" src="fad">reagere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">reagierit</t>
       </tg>
     </mg>
@@ -1448,7 +1448,7 @@
       <l pos="V" src="fad">privilegere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">privilegierit</t>
       </tg>
     </mg>
@@ -1458,7 +1458,7 @@
       <l pos="V" src="fad">redigere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">redigierit</t>
       </tg>
     </mg>
@@ -1468,7 +1468,7 @@
       <l pos="V" src="fad">assimilere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">assimilierit</t>
       </tg>
     </mg>
@@ -1478,7 +1478,7 @@
       <l pos="V" src="fad">uniformere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">uniformierit</t>
       </tg>
     </mg>
@@ -1488,7 +1488,7 @@
       <l pos="V" src="fad">eksaminere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">eksaminierit</t>
       </tg>
     </mg>
@@ -1498,7 +1498,7 @@
       <l pos="V" src="fad">indoktrinere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">indoktrinierit</t>
       </tg>
     </mg>
@@ -1508,7 +1508,7 @@
       <l pos="V" src="fad">internere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">internierit</t>
       </tg>
     </mg>
@@ -1518,7 +1518,7 @@
       <l pos="V" src="fad">aksjonere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">aksjunierit</t>
       </tg>
     </mg>
@@ -1528,7 +1528,7 @@
       <l pos="V" src="fad">pensjonere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">pensjunierit</t>
       </tg>
     </mg>
@@ -1538,7 +1538,7 @@
       <l pos="V" src="fad">fakturere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">fakturierit</t>
       </tg>
     </mg>
@@ -1548,7 +1548,7 @@
       <l pos="V" src="fad">kodifisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">kodifisierit</t>
       </tg>
     </mg>
@@ -1558,7 +1558,7 @@
       <l pos="V" src="fad">kvalifisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">kvalifisierit</t>
       </tg>
     </mg>
@@ -1568,7 +1568,7 @@
       <l pos="V" src="fad">notifisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">notifisierit</t>
       </tg>
     </mg>
@@ -1578,7 +1578,7 @@
       <l pos="V" src="fad">spesialisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">spesialisierit</t>
       </tg>
     </mg>
@@ -1588,7 +1588,7 @@
       <l pos="V" src="fad">kommersialisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">kommersialisierit</t>
       </tg>
     </mg>
@@ -1598,7 +1598,7 @@
       <l pos="V" src="fad">optimalisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">optimalisierit</t>
       </tg>
     </mg>
@@ -1608,7 +1608,7 @@
       <l pos="V" src="fad">operasjonalisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">operasjonalisierit</t>
       </tg>
     </mg>
@@ -1618,7 +1618,7 @@
       <l pos="V" src="fad">institusjonalisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">institusjonalisierit</t>
       </tg>
     </mg>
@@ -1628,7 +1628,7 @@
       <l pos="V" src="fad">moralisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">moralisierit</t>
       </tg>
     </mg>
@@ -1638,7 +1638,7 @@
       <l pos="V" src="fad">mobilisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">mobilisierit</t>
       </tg>
     </mg>
@@ -1648,7 +1648,7 @@
       <l pos="V" src="fad">sivilisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sivilisierit</t>
       </tg>
     </mg>
@@ -1658,7 +1658,7 @@
       <l pos="V" src="fad">anonymisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">anonymisierit</t>
       </tg>
     </mg>
@@ -1668,7 +1668,7 @@
       <l pos="V" src="fad">harmonisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">harmonisierit</t>
       </tg>
     </mg>
@@ -1678,7 +1678,7 @@
       <l pos="V" src="fad">kategorisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">kategorisierit</t>
       </tg>
     </mg>
@@ -1688,7 +1688,7 @@
       <l pos="V" src="fad">problematisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">problematisierit</t>
       </tg>
     </mg>
@@ -1698,7 +1698,7 @@
       <l pos="V" src="fad">privatisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">privatisierit</t>
       </tg>
     </mg>
@@ -1708,7 +1708,7 @@
       <l pos="V" src="fad">alfabetisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">alfabetisierit</t>
       </tg>
     </mg>
@@ -1718,7 +1718,7 @@
       <l pos="V" src="fad">praktisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">praktisierit</t>
       </tg>
     </mg>
@@ -1728,7 +1728,7 @@
       <l pos="V" src="fad">effektivisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">effektivisierit</t>
       </tg>
     </mg>
@@ -1738,7 +1738,7 @@
       <l pos="V" src="fad">filetere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">filetierit</t>
       </tg>
     </mg>
@@ -1748,7 +1748,7 @@
       <l pos="V" src="fad">akkreditere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">akkreditierit</t>
       </tg>
     </mg>
@@ -1758,7 +1758,7 @@
       <l pos="V" src="fad">prosjektere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">projektierit</t>
       </tg>
     </mg>
@@ -1768,7 +1768,7 @@
       <l pos="V" src="fad">prosjektere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">prosjektierit</t>
       </tg>
     </mg>
@@ -1778,7 +1778,7 @@
       <l pos="V" src="fad">reflektere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">reflektierit</t>
       </tg>
     </mg>
@@ -1788,7 +1788,7 @@
       <l pos="V" src="fad">dokumentere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dokumentierit</t>
       </tg>
     </mg>
@@ -1798,7 +1798,7 @@
       <l pos="V" src="fad">adoptere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">adoptierit</t>
       </tg>
     </mg>
@@ -1808,7 +1808,7 @@
       <l pos="V" src="fad">insistere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">insistierit</t>
       </tg>
     </mg>
@@ -1818,7 +1818,7 @@
       <l pos="V" src="fad">rekonstruere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">rekonstruierit</t>
       </tg>
     </mg>
@@ -1828,7 +1828,7 @@
       <l pos="V" src="fad">konstituere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">konstituierit</t>
       </tg>
     </mg>
@@ -1838,7 +1838,7 @@
       <l pos="V" src="fad">intensivere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">intensivierit</t>
       </tg>
     </mg>
@@ -1848,7 +1848,7 @@
       <l pos="V" src="fad">kjenne</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dåbddåt</t>
       </tg>
     </mg>
@@ -1858,7 +1858,7 @@
       <l pos="V" src="fad">utarbeide</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dahkat</t>
       </tg>
     </mg>
@@ -1868,7 +1868,7 @@
       <l pos="V" src="fad">forklare</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjielggit</t>
       </tg>
     </mg>
@@ -1878,7 +1878,7 @@
       <l pos="V" src="fad">gjenspeile</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gåvvidit</t>
       </tg>
     </mg>
@@ -1888,7 +1888,7 @@
       <l pos="V" src="fad">portrettere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gåvvidit</t>
       </tg>
     </mg>
@@ -1898,7 +1898,7 @@
       <l pos="V" src="fad">følge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjuovvot</t>
       </tg>
     </mg>
@@ -1908,7 +1908,7 @@
       <l pos="V" src="fad">begripe</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dádjadit</t>
       </tg>
     </mg>
@@ -1918,7 +1918,7 @@
       <l pos="V" src="fad">overføre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sirddet</t>
       </tg>
     </mg>
@@ -1928,7 +1928,7 @@
       <l pos="V" src="fad">omdisponere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sirddet</t>
       </tg>
     </mg>
@@ -1938,7 +1938,7 @@
       <l pos="V" src="fad">trygge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">oadjodit</t>
       </tg>
     </mg>
@@ -1948,7 +1948,7 @@
       <l pos="V" src="fad">delegere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">fábmodit</t>
       </tg>
     </mg>
@@ -1958,7 +1958,7 @@
       <l pos="V" src="fad">lette</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">giehpedit</t>
       </tg>
     </mg>
@@ -1968,7 +1968,7 @@
       <l pos="V" src="fad">utdype</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjiegŋodit</t>
       </tg>
     </mg>
@@ -1978,7 +1978,7 @@
       <l pos="V" src="fad">konstituere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuododit</t>
       </tg>
     </mg>
@@ -1988,7 +1988,7 @@
       <l pos="V" src="fad">oppfylle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dievddet</t>
       </tg>
     </mg>
@@ -1998,7 +1998,7 @@
       <l pos="V" src="fad">omsette</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuobddet</t>
       </tg>
     </mg>
@@ -2008,7 +2008,7 @@
       <l pos="V" src="fad">utøve</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dåjmadit</t>
       </tg>
     </mg>
@@ -2018,7 +2018,7 @@
       <l pos="V" src="fad">skolere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">åhpadit</t>
       </tg>
     </mg>
@@ -2028,7 +2028,7 @@
       <l pos="V" src="fad">opplære</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">åhpadit</t>
       </tg>
     </mg>
@@ -2038,7 +2038,7 @@
       <l pos="V" src="fad">trene</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">hárjjidallat</t>
       </tg>
     </mg>
@@ -2048,7 +2048,7 @@
       <l pos="V" src="fad">opptre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuosedit</t>
       </tg>
     </mg>
@@ -2058,7 +2058,7 @@
       <l pos="V" src="fad">anerkjenne</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dåhkkidit</t>
       </tg>
     </mg>
@@ -2068,7 +2068,7 @@
       <l pos="V" src="fad">fullføre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ållidit</t>
       </tg>
     </mg>
@@ -2078,7 +2078,7 @@
       <l pos="V" src="fad">bygge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tsieggidit</t>
       </tg>
     </mg>
@@ -2088,7 +2088,7 @@
       <l pos="V" src="fad">formulere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">hábmedit</t>
       </tg>
     </mg>
@@ -2098,7 +2098,7 @@
       <l pos="V" src="fad">utveksle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">lånudit</t>
       </tg>
     </mg>
@@ -2108,7 +2108,7 @@
       <l pos="V" src="fad">sy</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">goarrot</t>
       </tg>
     </mg>
@@ -2118,7 +2118,7 @@
       <l pos="V" src="fad">vektlegge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dættodit</t>
       </tg>
     </mg>
@@ -2128,7 +2128,7 @@
       <l pos="V" src="fad">understreke</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dættodit</t>
       </tg>
     </mg>
@@ -2138,7 +2138,7 @@
       <l pos="V" src="fad">identifisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dåbddåt</t>
       </tg>
     </mg>
@@ -2148,7 +2148,7 @@
       <l pos="V" src="fad">nedfelle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">javllat</t>
       </tg>
     </mg>
@@ -2158,7 +2158,7 @@
       <l pos="V" src="fad">fastslå</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">javllat</t>
       </tg>
     </mg>
@@ -2168,7 +2168,7 @@
       <l pos="V" src="fad">protokollføre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjállet</t>
       </tg>
     </mg>
@@ -2178,7 +2178,7 @@
       <l pos="V" src="fad">følge etter</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjuovvolit</t>
       </tg>
     </mg>
@@ -2188,7 +2188,7 @@
       <l pos="V" src="fad">følge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjuovvolit</t>
       </tg>
     </mg>
@@ -2198,7 +2198,7 @@
       <l pos="V" src="fad">øyne</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuojnnet</t>
       </tg>
     </mg>
@@ -2208,7 +2208,7 @@
       <l pos="V" src="fad">prege</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bájnnet</t>
       </tg>
     </mg>
@@ -2218,7 +2218,7 @@
       <l pos="V" src="fad">anse</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">adnet</t>
       </tg>
     </mg>
@@ -2228,7 +2228,7 @@
       <l pos="V" src="fad">murre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">njimmurit</t>
       </tg>
     </mg>
@@ -2238,7 +2238,7 @@
       <l pos="V" src="fad">utbetale</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">mákset</t>
       </tg>
     </mg>
@@ -2248,7 +2248,7 @@
       <l pos="V" src="fad">møte frem</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">boahtet</t>
       </tg>
     </mg>
@@ -2258,7 +2258,7 @@
       <l pos="V" src="fad">overlate</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">luojttet</t>
       </tg>
     </mg>
@@ -2268,7 +2268,7 @@
       <l pos="V" src="fad">fordømme</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">lájttet</t>
       </tg>
     </mg>
@@ -2278,7 +2278,7 @@
       <l pos="V" src="fad">overlevere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">buktet</t>
       </tg>
     </mg>
@@ -2288,7 +2288,7 @@
       <l pos="V" src="fad">fullføre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ållistit</t>
       </tg>
     </mg>
@@ -2298,7 +2298,7 @@
       <l pos="V" src="fad">komplettere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ållistit</t>
       </tg>
     </mg>
@@ -2308,7 +2308,7 @@
       <l pos="V" src="fad">utfylle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ållistit</t>
       </tg>
     </mg>
@@ -2318,7 +2318,7 @@
       <l pos="V" src="fad">supplere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ållistit</t>
       </tg>
     </mg>
@@ -2328,7 +2328,7 @@
       <l pos="V" src="fad">svikte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">biehttet</t>
       </tg>
     </mg>
@@ -2338,7 +2338,7 @@
       <l pos="V" src="fad">modernisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ådåsmahttet</t>
       </tg>
     </mg>
@@ -2348,7 +2348,7 @@
       <l pos="V" src="fad">omgi</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">birástahttet</t>
       </tg>
     </mg>
@@ -2358,7 +2358,7 @@
       <l pos="V" src="fad">jamføre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">buohtastahttet</t>
       </tg>
     </mg>
@@ -2368,7 +2368,7 @@
       <l pos="V" src="fad">innarbeide</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sajájduhttet</t>
       </tg>
     </mg>
@@ -2378,7 +2378,7 @@
       <l pos="V" src="fad">forankre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sajájduhttet</t>
       </tg>
     </mg>
@@ -2388,7 +2388,7 @@
       <l pos="V" src="fad">skade</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vahágahttet</t>
       </tg>
     </mg>
@@ -2398,7 +2398,7 @@
       <l pos="V" src="fad">dokumentere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">duodastahttet</t>
       </tg>
     </mg>
@@ -2408,7 +2408,7 @@
       <l pos="V" src="fad">tilrettelegge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">láhtjet</t>
       </tg>
     </mg>
@@ -2418,7 +2418,7 @@
       <l pos="V" src="fad">frarå</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">biehtodit</t>
       </tg>
     </mg>
@@ -2428,7 +2428,7 @@
       <l pos="V" src="fad">blogge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bloaggit</t>
       </tg>
     </mg>
@@ -2438,7 +2438,7 @@
       <l pos="V" src="fad">samsvare</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">hiehpat</t>
       </tg>
     </mg>
@@ -2448,7 +2448,7 @@
       <l pos="V" src="fad">øke</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">lasedit</t>
       </tg>
     </mg>
@@ -2458,7 +2458,7 @@
       <l pos="V" src="fad">skade</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vahágahttet</t>
       </tg>
     </mg>
@@ -2468,7 +2468,7 @@
       <l pos="V" src="fad">fortelle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">mujttalit</t>
       </tg>
     </mg>
@@ -2478,7 +2478,7 @@
       <l pos="V" src="fad">skjemmes</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">hehpanit</t>
       </tg>
     </mg>
@@ -2488,7 +2488,7 @@
       <l pos="V" src="fad">skilles</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ærránit</t>
       </tg>
     </mg>
@@ -2498,7 +2498,7 @@
       <l pos="V" src="fad">ramle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ravggat</t>
       </tg>
     </mg>
@@ -2508,7 +2508,7 @@
       <l pos="V" src="fad">kjøre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuodjet</t>
       </tg>
     </mg>
@@ -2518,7 +2518,7 @@
       <l pos="V" src="fad">behandle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">giehtadallat</t>
       </tg>
     </mg>
@@ -2528,7 +2528,7 @@
       <l pos="V" src="fad">joike</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">juojgastallat</t>
       </tg>
     </mg>
@@ -2538,7 +2538,7 @@
       <l pos="V" src="fad">tilegne</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">åmastit</t>
       </tg>
     </mg>
@@ -2548,7 +2548,7 @@
       <l pos="V" src="fad">våres</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bievllat</t>
       </tg>
     </mg>
@@ -2558,7 +2558,7 @@
       <l pos="V" src="fad">anstrenge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">rahtjat</t>
       </tg>
     </mg>
@@ -2568,7 +2568,7 @@
       <l pos="V" src="fad">runde</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">jårbbit</t>
       </tg>
     </mg>
@@ -2578,7 +2578,7 @@
       <l pos="V" src="fad">surfe</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">surffit</t>
       </tg>
     </mg>
@@ -2588,7 +2588,7 @@
       <l pos="V" src="fad">fragmentere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">háddjit</t>
       </tg>
     </mg>
@@ -2598,7 +2598,7 @@
       <l pos="V" src="fad">pakke</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">páhkkit</t>
       </tg>
     </mg>
@@ -2608,7 +2608,7 @@
       <l pos="V" src="fad">lakkere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">láhkkit</t>
       </tg>
     </mg>
@@ -2618,7 +2618,7 @@
       <l pos="V" src="fad">spille</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">spellat</t>
       </tg>
     </mg>
@@ -2628,7 +2628,7 @@
       <l pos="V" src="fad">sløye</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjoallit</t>
       </tg>
     </mg>
@@ -2638,7 +2638,7 @@
       <l pos="V" src="fad">transkribere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">transkribierit</t>
       </tg>
     </mg>
@@ -2648,7 +2648,7 @@
       <l pos="V" src="fad">gradere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gradierit</t>
       </tg>
     </mg>
@@ -2658,7 +2658,7 @@
       <l pos="V" src="fad">konsolidere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">konsolidierit</t>
       </tg>
     </mg>
@@ -2668,7 +2668,7 @@
       <l pos="V" src="fad">reagere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">reagierit</t>
       </tg>
     </mg>
@@ -2678,7 +2678,7 @@
       <l pos="V" src="fad">delegere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">delegierit</t>
       </tg>
     </mg>
@@ -2688,7 +2688,7 @@
       <l pos="V" src="fad">privilegere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">privilegierit</t>
       </tg>
     </mg>
@@ -2698,7 +2698,7 @@
       <l pos="V" src="fad">redigere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">redigierit</t>
       </tg>
     </mg>
@@ -2708,7 +2708,7 @@
       <l pos="V" src="fad">dirigere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dirigierit</t>
       </tg>
     </mg>
@@ -2718,7 +2718,7 @@
       <l pos="V" src="fad">profilere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">profilierit</t>
       </tg>
     </mg>
@@ -2728,7 +2728,7 @@
       <l pos="V" src="fad">assimilere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">assimilierit</t>
       </tg>
     </mg>
@@ -2738,7 +2738,7 @@
       <l pos="V" src="fad">installere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">installierit</t>
       </tg>
     </mg>
@@ -2748,7 +2748,7 @@
       <l pos="V" src="fad">kontrollere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">kontrollierit</t>
       </tg>
     </mg>
@@ -2758,7 +2758,7 @@
       <l pos="V" src="fad">isolere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">isolierit</t>
       </tg>
     </mg>
@@ -2768,7 +2768,7 @@
       <l pos="V" src="fad">regulere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">regulierit</t>
       </tg>
     </mg>
@@ -2778,7 +2778,7 @@
       <l pos="V" src="fad">konfirmere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">konfirmierit</t>
       </tg>
     </mg>
@@ -2788,7 +2788,7 @@
       <l pos="V" src="fad">uniformere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">uniformierit</t>
       </tg>
     </mg>
@@ -2798,7 +2798,7 @@
       <l pos="V" src="fad">koordinere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">koordinierit</t>
       </tg>
     </mg>
@@ -2808,7 +2808,7 @@
       <l pos="V" src="fad">definere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">definierit</t>
       </tg>
     </mg>
@@ -2818,7 +2818,7 @@
       <l pos="V" src="fad">eksaminere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">eksaminierit</t>
       </tg>
     </mg>
@@ -2828,7 +2828,7 @@
       <l pos="V" src="fad">indoktrinere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">indoktrinierit</t>
       </tg>
     </mg>
@@ -2838,7 +2838,7 @@
       <l pos="V" src="fad">internere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">internierit</t>
       </tg>
     </mg>
@@ -2848,7 +2848,7 @@
       <l pos="V" src="fad">aksjonere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">aksjonierit</t>
       </tg>
     </mg>
@@ -2858,7 +2858,7 @@
       <l pos="V" src="fad">pensjonere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">pensjonierit</t>
       </tg>
     </mg>
@@ -2868,7 +2868,7 @@
       <l pos="V" src="fad">demonstrere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">demonstrierit</t>
       </tg>
     </mg>
@@ -2878,7 +2878,7 @@
       <l pos="V" src="fad">illustrere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">illustrierit</t>
       </tg>
     </mg>
@@ -2888,7 +2888,7 @@
       <l pos="V" src="fad">fakturere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">fakturierit</t>
       </tg>
     </mg>
@@ -2898,7 +2898,7 @@
       <l pos="V" src="fad">strukturere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">strukturierit</t>
       </tg>
     </mg>
@@ -2908,7 +2908,7 @@
       <l pos="V" src="fad">kodifisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">kodifisierit</t>
       </tg>
     </mg>
@@ -2918,7 +2918,7 @@
       <l pos="V" src="fad">kvalifisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">kvalifisierit</t>
       </tg>
     </mg>
@@ -2928,7 +2928,7 @@
       <l pos="V" src="fad">notifisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">notifisierit</t>
       </tg>
     </mg>
@@ -2938,7 +2938,7 @@
       <l pos="V" src="fad">spesialisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">spesialisierit</t>
       </tg>
     </mg>
@@ -2948,7 +2948,7 @@
       <l pos="V" src="fad">kommersialisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">kommersialisierit</t>
       </tg>
     </mg>
@@ -2958,7 +2958,7 @@
       <l pos="V" src="fad">lokalisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">lokalisierit</t>
       </tg>
     </mg>
@@ -2968,7 +2968,7 @@
       <l pos="V" src="fad">optimalisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">optimalisierit</t>
       </tg>
     </mg>
@@ -2978,7 +2978,7 @@
       <l pos="V" src="fad">formalisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">formalisierit</t>
       </tg>
     </mg>
@@ -2988,7 +2988,7 @@
       <l pos="V" src="fad">kanalisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">kanalisierit</t>
       </tg>
     </mg>
@@ -2998,7 +2998,7 @@
       <l pos="V" src="fad">operasjonalisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">operasjonalisierit</t>
       </tg>
     </mg>
@@ -3008,7 +3008,7 @@
       <l pos="V" src="fad">institusjonalisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">institusjonalisierit</t>
       </tg>
     </mg>
@@ -3018,7 +3018,7 @@
       <l pos="V" src="fad">moralisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">moralisierit</t>
       </tg>
     </mg>
@@ -3028,7 +3028,7 @@
       <l pos="V" src="fad">mobilisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">mobilisierit</t>
       </tg>
     </mg>
@@ -3038,7 +3038,7 @@
       <l pos="V" src="fad">sivilisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sivilisierit</t>
       </tg>
     </mg>
@@ -3048,7 +3048,7 @@
       <l pos="V" src="fad">anonymisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">anonymisierit</t>
       </tg>
     </mg>
@@ -3058,7 +3058,7 @@
       <l pos="V" src="fad">kolonisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">kolonisierit</t>
       </tg>
     </mg>
@@ -3068,7 +3068,7 @@
       <l pos="V" src="fad">harmonisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">harmonisierit</t>
       </tg>
     </mg>
@@ -3078,7 +3078,7 @@
       <l pos="V" src="fad">kategorisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">kategorisierit</t>
       </tg>
     </mg>
@@ -3088,7 +3088,7 @@
       <l pos="V" src="fad">problematisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">problematisierit</t>
       </tg>
     </mg>
@@ -3098,7 +3098,7 @@
       <l pos="V" src="fad">systematisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">systematisierit</t>
       </tg>
     </mg>
@@ -3108,7 +3108,7 @@
       <l pos="V" src="fad">privatisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">privatisierit</t>
       </tg>
     </mg>
@@ -3118,7 +3118,7 @@
       <l pos="V" src="fad">alfabetisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">alfabetisierit</t>
       </tg>
     </mg>
@@ -3128,7 +3128,7 @@
       <l pos="V" src="fad">konkretisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">konkretisierit</t>
       </tg>
     </mg>
@@ -3138,7 +3138,7 @@
       <l pos="V" src="fad">praktisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">praktisierit</t>
       </tg>
     </mg>
@@ -3148,7 +3148,7 @@
       <l pos="V" src="fad">effektivisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">effektivisierit</t>
       </tg>
     </mg>
@@ -3158,7 +3158,7 @@
       <l pos="V" src="fad">filetere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">filetierit</t>
       </tg>
     </mg>
@@ -3168,7 +3168,7 @@
       <l pos="V" src="fad">akkreditere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">akkreditierit</t>
       </tg>
     </mg>
@@ -3178,7 +3178,7 @@
       <l pos="V" src="fad">hospitere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">hospitierit</t>
       </tg>
     </mg>
@@ -3188,7 +3188,7 @@
       <l pos="V" src="fad">prioritere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">prioritierit</t>
       </tg>
     </mg>
@@ -3198,7 +3198,7 @@
       <l pos="V" src="fad">prosjektere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">projektierit</t>
       </tg>
     </mg>
@@ -3208,7 +3208,7 @@
       <l pos="V" src="fad">prosjektere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">prosjektierit</t>
       </tg>
     </mg>
@@ -3218,7 +3218,7 @@
       <l pos="V" src="fad">reflektere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">reflektierit</t>
       </tg>
     </mg>
@@ -3228,7 +3228,7 @@
       <l pos="V" src="fad">dokumentere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dokumentierit</t>
       </tg>
     </mg>
@@ -3238,7 +3238,7 @@
       <l pos="V" src="fad">adoptere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">adoptierit</t>
       </tg>
     </mg>
@@ -3248,7 +3248,7 @@
       <l pos="V" src="fad">arrestere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">arrestierit</t>
       </tg>
     </mg>
@@ -3258,7 +3258,7 @@
       <l pos="V" src="fad">investere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">investierit</t>
       </tg>
     </mg>
@@ -3268,7 +3268,7 @@
       <l pos="V" src="fad">insistere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">insistierit</t>
       </tg>
     </mg>
@@ -3278,7 +3278,7 @@
       <l pos="V" src="fad">rekonstruere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">rekonstruierit</t>
       </tg>
     </mg>
@@ -3288,7 +3288,7 @@
       <l pos="V" src="fad">konstituere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">konstituierit</t>
       </tg>
     </mg>
@@ -3298,7 +3298,7 @@
       <l pos="V" src="fad">intensivere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">intensivierit</t>
       </tg>
     </mg>
@@ -3308,7 +3308,7 @@
       <l pos="V" src="fad">konservere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">konservierit</t>
       </tg>
     </mg>
@@ -3318,7 +3318,7 @@
       <l pos="V" src="fad">stride</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">rijddat</t>
       </tg>
     </mg>
@@ -3328,7 +3328,7 @@
       <l pos="V" src="fad">oppjustere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bajedit</t>
       </tg>
     </mg>
@@ -3338,7 +3338,7 @@
       <l pos="V" src="fad">inngå avtale</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">lihtudit</t>
       </tg>
     </mg>
@@ -3348,7 +3348,7 @@
       <l pos="V" src="fad">overføre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sirddet</t>
       </tg>
     </mg>
@@ -3358,7 +3358,7 @@
       <l pos="V" src="fad">omdisponere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sirddet</t>
       </tg>
     </mg>
@@ -3368,7 +3368,7 @@
       <l pos="V" src="fad">oppfylle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dievddet</t>
       </tg>
     </mg>
@@ -3378,7 +3378,7 @@
       <l pos="V" src="fad">tilsette</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">virgádit</t>
       </tg>
     </mg>
@@ -3388,7 +3388,7 @@
       <l pos="V" src="fad">utveksle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">lånudit</t>
       </tg>
     </mg>
@@ -3398,7 +3398,7 @@
       <l pos="V" src="fad">protokollføre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjállit bievddegirjjáj</t>
       </tg>
     </mg>
@@ -3408,7 +3408,7 @@
       <l pos="V" src="fad">prege</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bájnnit</t>
       </tg>
     </mg>
@@ -3418,7 +3418,7 @@
       <l pos="V" src="fad">anse</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">adnet</t>
       </tg>
     </mg>
@@ -3428,7 +3428,7 @@
       <l pos="V" src="fad">murre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">nimmurit</t>
       </tg>
     </mg>
@@ -3438,7 +3438,7 @@
       <l pos="V" src="fad">utbetale</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">mákset</t>
       </tg>
     </mg>
@@ -3448,7 +3448,7 @@
       <l pos="V" src="fad">overlate</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">luojttet</t>
       </tg>
     </mg>
@@ -3458,7 +3458,7 @@
       <l pos="V" src="fad">fordømme</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">lájttet</t>
       </tg>
     </mg>
@@ -3468,7 +3468,7 @@
       <l pos="V" src="fad">overlevere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">buktet</t>
       </tg>
     </mg>
@@ -3478,7 +3478,7 @@
       <l pos="V" src="fad">overnatte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">idjadit</t>
       </tg>
     </mg>
@@ -3488,7 +3488,7 @@
       <l pos="V" src="fad">konkretisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjielgastuhttet</t>
       </tg>
     </mg>
@@ -3498,7 +3498,7 @@
       <l pos="V" src="fad">frede</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ráfájduhttet</t>
       </tg>
     </mg>
@@ -3508,7 +3508,7 @@
       <l pos="V" src="fad">reise seg</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjuottjánit</t>
       </tg>
     </mg>
@@ -3518,7 +3518,7 @@
       <l pos="V" src="fad">svikte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">biehttit</t>
       </tg>
     </mg>
@@ -3528,7 +3528,7 @@
       <l pos="V" src="fad">modernisere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ådåsmahttet</t>
       </tg>
     </mg>
@@ -3538,7 +3538,7 @@
       <l pos="V" src="fad">omgi</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">birástahttet</t>
       </tg>
     </mg>
@@ -3548,7 +3548,7 @@
       <l pos="V" src="fad">jamføre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">buohtastahttet</t>
       </tg>
     </mg>
@@ -3558,7 +3558,7 @@
       <l pos="V" src="fad">innarbeide</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sajájduhttet</t>
       </tg>
     </mg>
@@ -3568,7 +3568,7 @@
       <l pos="V" src="fad">forankre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sajájduhttet</t>
       </tg>
     </mg>
@@ -3578,7 +3578,7 @@
       <l pos="V" src="fad">skade</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vahágahttet</t>
       </tg>
     </mg>
@@ -3588,7 +3588,7 @@
       <l pos="V" src="fad">tilrettelegge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">láhtjet dilev</t>
       </tg>
     </mg>
@@ -3598,7 +3598,7 @@
       <l pos="V" src="fad">erte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">hárddet</t>
       </tg>
     </mg>
@@ -3608,7 +3608,7 @@
       <l pos="V" src="fad">drepes</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gåddut</t>
       </tg>
     </mg>
@@ -3618,7 +3618,7 @@
       <l pos="V" src="fad">bli drept</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gåddut</t>
       </tg>
     </mg>
@@ -3628,7 +3628,7 @@
       <l pos="V" src="fad">gro</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">savvet</t>
       </tg>
     </mg>
@@ -3638,7 +3638,7 @@
       <l pos="V" src="fad">lande</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sæjvvot</t>
       </tg>
     </mg>
@@ -3648,7 +3648,7 @@
       <l pos="V" src="fad">tilsette</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">virggáj bidjat</t>
       </tg>
     </mg>
@@ -3658,7 +3658,7 @@
       <l pos="V" src="fad">anskaffe</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">háhkuhit</t>
       </tg>
     </mg>
@@ -3668,7 +3668,7 @@
       <l pos="V" src="fad">mekle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">såbadallat</t>
       </tg>
     </mg>
@@ -3678,7 +3678,7 @@
       <l pos="V" src="fad">lære</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">oahppat</t>
       </tg>
     </mg>
@@ -3688,7 +3688,7 @@
       <l pos="V" src="fad">undersøke</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">guoradallat</t>
       </tg>
     </mg>
@@ -3698,7 +3698,7 @@
       <l pos="V" src="fad">skylde</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sivádahttet</t>
       </tg>
     </mg>
@@ -3708,7 +3708,7 @@
       <l pos="V" src="fad">domfelle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">duobbmidallat</t>
       </tg>
     </mg>
@@ -3718,7 +3718,7 @@
       <l pos="V" src="fad">omgås</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sæbrástallat</t>
       </tg>
     </mg>
@@ -3728,7 +3728,7 @@
       <l pos="V" src="fad">overkjøre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">duolmmot</t>
       </tg>
     </mg>
@@ -3738,7 +3738,7 @@
       <l pos="V" src="fad">trå</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">duolmmot</t>
       </tg>
     </mg>
@@ -3748,7 +3748,7 @@
       <l pos="V" src="fad">bli fornorsket</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dárojduvvat</t>
       </tg>
     </mg>
@@ -3758,7 +3758,7 @@
       <l pos="V" src="fad">styrkes</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">nanostuvvat</t>
       </tg>
     </mg>
@@ -3768,7 +3768,7 @@
       <l pos="V" src="fad">forenes</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">aktiduvvat</t>
       </tg>
     </mg>
@@ -3778,7 +3778,7 @@
       <l pos="V" src="fad">drepes</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sårmmiduvvat</t>
       </tg>
     </mg>
@@ -3788,7 +3788,7 @@
       <l pos="V" src="fad">bli drept</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sårmmiduvvat</t>
       </tg>
     </mg>
@@ -3798,7 +3798,7 @@
       <l pos="V" src="fad">neglisjere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">badjelgæhttjat</t>
       </tg>
     </mg>
@@ -3808,7 +3808,7 @@
       <l pos="V" src="fad">blogge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bloaggit</t>
       </tg>
     </mg>
@@ -3818,7 +3818,7 @@
       <l pos="V" src="fad">domfelle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">duobbmit</t>
       </tg>
     </mg>
@@ -3828,7 +3828,7 @@
       <l pos="V" src="fad">mene</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">miejnnit</t>
       </tg>
     </mg>
@@ -3838,7 +3838,7 @@
       <l pos="V" src="fad">klappe</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">spiedtjit</t>
       </tg>
     </mg>
@@ -3848,7 +3848,7 @@
       <l pos="V" src="fad">kjenne</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dåbddåt</t>
       </tg>
     </mg>
@@ -3858,7 +3858,7 @@
       <l pos="V" src="fad">forklare</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjielggit</t>
       </tg>
     </mg>
@@ -3868,7 +3868,7 @@
       <l pos="V" src="fad">berømme</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">rámmpot</t>
       </tg>
     </mg>
@@ -3878,7 +3878,7 @@
       <l pos="V" src="fad">gjenspeile</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gåvvit</t>
       </tg>
     </mg>
@@ -3888,7 +3888,7 @@
       <l pos="V" src="fad">portrettere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gåvvit</t>
       </tg>
     </mg>
@@ -3898,7 +3898,7 @@
       <l pos="V" src="fad">bekjempe</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuosteldit</t>
       </tg>
     </mg>
@@ -3908,7 +3908,7 @@
       <l pos="V" src="fad">motta</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuosstájválddet</t>
       </tg>
     </mg>
@@ -3918,7 +3918,7 @@
       <l pos="V" src="fad">minske</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">unnedit</t>
       </tg>
     </mg>
@@ -3928,7 +3928,7 @@
       <l pos="V" src="fad">øke</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">stuoredit</t>
       </tg>
     </mg>
@@ -3938,7 +3938,7 @@
       <l pos="V" src="fad">utdype</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjiegŋodit</t>
       </tg>
     </mg>
@@ -3948,7 +3948,7 @@
       <l pos="V" src="fad">konstituere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuododit</t>
       </tg>
     </mg>
@@ -3958,7 +3958,7 @@
       <l pos="V" src="fad">snevre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">gártjedit</t>
       </tg>
     </mg>
@@ -3968,7 +3968,7 @@
       <l pos="V" src="fad">omsette</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuobddet</t>
       </tg>
     </mg>
@@ -3978,7 +3978,7 @@
       <l pos="V" src="fad">skolere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">åhpadit</t>
       </tg>
     </mg>
@@ -3988,7 +3988,7 @@
       <l pos="V" src="fad">opplære</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">åhpadit</t>
       </tg>
     </mg>
@@ -3998,7 +3998,7 @@
       <l pos="V" src="fad">mistenke</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sivádit</t>
       </tg>
     </mg>
@@ -4008,7 +4008,7 @@
       <l pos="V" src="fad">trene</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">hárjjidallat</t>
       </tg>
     </mg>
@@ -4018,7 +4018,7 @@
       <l pos="V" src="fad">fullføre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ållidit</t>
       </tg>
     </mg>
@@ -4028,7 +4028,7 @@
       <l pos="V" src="fad">sy</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">goarrot</t>
       </tg>
     </mg>
@@ -4038,7 +4038,7 @@
       <l pos="V" src="fad">vektlegge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dættodit</t>
       </tg>
     </mg>
@@ -4048,7 +4048,7 @@
       <l pos="V" src="fad">understreke</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dættodit</t>
       </tg>
     </mg>
@@ -4058,7 +4058,7 @@
       <l pos="V" src="fad">foreslå</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">ævtodit</t>
       </tg>
     </mg>
@@ -4068,7 +4068,7 @@
       <l pos="V" src="fad">premiere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bálkkit</t>
       </tg>
     </mg>
@@ -4078,7 +4078,7 @@
       <l pos="V" src="fad">følge etter</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjuovvolit</t>
       </tg>
     </mg>
@@ -4088,7 +4088,7 @@
       <l pos="V" src="fad">følge</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjuovvolit</t>
       </tg>
     </mg>
@@ -4098,7 +4098,7 @@
       <l pos="V" src="fad">øyne</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuojnnet</t>
       </tg>
     </mg>
@@ -4108,7 +4108,7 @@
       <l pos="V" src="fad">oppdra</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">bajásgiesset</t>
       </tg>
     </mg>
@@ -4118,7 +4118,7 @@
       <l pos="V" src="fad">møte frem</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">boahtet</t>
       </tg>
     </mg>
@@ -4128,7 +4128,7 @@
       <l pos="V" src="fad">bekjempe</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuosstálasstet</t>
       </tg>
     </mg>
@@ -4138,7 +4138,7 @@
       <l pos="V" src="fad">gå i mot</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">vuosstálasstet</t>
       </tg>
     </mg>
@@ -4148,7 +4148,7 @@
       <l pos="V" src="fad">framheve</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dættodit</t>
       </tg>
     </mg>
@@ -4158,7 +4158,7 @@
       <l pos="V" src="fad">understreke</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dættodit</t>
       </tg>
     </mg>
@@ -4168,7 +4168,7 @@
       <l pos="V" src="fad">hedre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">guddnit</t>
       </tg>
     </mg>
@@ -4178,7 +4178,7 @@
       <l pos="V" src="fad">øke</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">lasedit</t>
       </tg>
     </mg>
@@ -4188,7 +4188,7 @@
       <l pos="V" src="fad">synliggjøre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjalmostahttet</t>
       </tg>
     </mg>
@@ -4198,7 +4198,7 @@
       <l pos="V" src="fad">dokumentere</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">duodastit</t>
       </tg>
     </mg>
@@ -4208,7 +4208,7 @@
       <l pos="V" src="fad">samle</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjoagget</t>
       </tg>
     </mg>
@@ -4218,7 +4218,7 @@
       <l pos="V" src="fad">berømme</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">rámmpot</t>
       </tg>
     </mg>
@@ -4228,7 +4228,7 @@
       <l pos="V" src="fad">flytte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">sirddet</t>
       </tg>
     </mg>
@@ -4238,7 +4238,7 @@
       <l pos="V" src="fad">gjenkjenne</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">dåbddåt</t>
       </tg>
     </mg>
@@ -4248,7 +4248,7 @@
       <l pos="V" src="fad">lyse</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="V">tjuovggat</t>
       </tg>
     </mg>

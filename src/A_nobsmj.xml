@@ -5,7 +5,7 @@
       <l pos="A" src="fad">ideell</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">ideálla</t>
       </tg>
     </mg>
@@ -15,7 +15,7 @@
       <l pos="A" src="fad">fast</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">fássta</t>
       </tg>
     </mg>
@@ -25,7 +25,7 @@
       <l pos="A" src="fad">treg</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">njoahtse</t>
       </tg>
     </mg>
@@ -35,7 +35,7 @@
       <l pos="A" src="fad">sped</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">siegge</t>
       </tg>
     </mg>
@@ -45,7 +45,7 @@
       <l pos="A" src="fad">doven</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">lájkke</t>
       </tg>
     </mg>
@@ -55,7 +55,7 @@
       <l pos="A" src="fad">velfungerende</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">doajmme</t>
       </tg>
     </mg>
@@ -65,7 +65,7 @@
       <l pos="A" src="fad">bærekraftig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">guoddel</t>
       </tg>
     </mg>
@@ -75,7 +75,7 @@
       <l pos="A" src="fad">arbeidsom</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">bargál</t>
       </tg>
     </mg>
@@ -85,7 +85,7 @@
       <l pos="A" src="fad">søvnig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">vájbas</t>
       </tg>
     </mg>
@@ -95,7 +95,7 @@
       <l pos="A" src="fad">sirkulær</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">jårbås</t>
       </tg>
     </mg>
@@ -105,7 +105,7 @@
       <l pos="A" src="fad">rund</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">jårbås</t>
       </tg>
     </mg>
@@ -115,7 +115,7 @@
       <l pos="A" src="fad">opphetet</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">báhkas</t>
       </tg>
     </mg>
@@ -125,7 +125,7 @@
       <l pos="A" src="fad">ydmyk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">njuoras</t>
       </tg>
     </mg>
@@ -135,7 +135,7 @@
       <l pos="A" src="fad">moro</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">suohtas</t>
       </tg>
     </mg>
@@ -145,7 +145,7 @@
       <l pos="A" src="fad">sjenerøs</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">árvas</t>
       </tg>
     </mg>
@@ -155,7 +155,7 @@
       <l pos="A" src="fad">omfattende</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">vijdes</t>
       </tg>
     </mg>
@@ -165,7 +165,7 @@
       <l pos="A" src="fad">direkte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">njuolgga</t>
       </tg>
     </mg>
@@ -175,7 +175,7 @@
       <l pos="A" src="fad">mye</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">ållo</t>
       </tg>
     </mg>
@@ -185,7 +185,7 @@
       <l pos="A" src="fad">mange</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">ållo</t>
       </tg>
     </mg>
@@ -195,7 +195,7 @@
       <l pos="A" src="fad">ond</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">bahá</t>
       </tg>
     </mg>
@@ -205,7 +205,7 @@
       <l pos="A" src="fad">grammatisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">grammáhtalasj</t>
       </tg>
     </mg>
@@ -215,7 +215,7 @@
       <l pos="A" src="fad">journalistisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">journalistalasj</t>
       </tg>
     </mg>
@@ -225,7 +225,7 @@
       <l pos="A" src="fad">lingvistisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">gielladiedalasj</t>
       </tg>
     </mg>
@@ -235,7 +235,7 @@
       <l pos="A" src="fad">finsk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">suobmelasj</t>
       </tg>
     </mg>
@@ -245,7 +245,7 @@
       <l pos="A" src="fad">ordinær</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dábálasj</t>
       </tg>
     </mg>
@@ -255,7 +255,7 @@
       <l pos="A" src="fad">allmenn</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dábálasj</t>
       </tg>
     </mg>
@@ -265,7 +265,7 @@
       <l pos="A" src="fad">treårig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">gålmåjahkásasj</t>
       </tg>
     </mg>
@@ -275,7 +275,7 @@
       <l pos="A" src="fad">eksisterende</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dálásj</t>
       </tg>
     </mg>
@@ -285,7 +285,7 @@
       <l pos="A" src="fad">abstrakt</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">abstrákta</t>
       </tg>
     </mg>
@@ -295,7 +295,7 @@
       <l pos="A" src="fad">akademisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">akademalasj</t>
       </tg>
     </mg>
@@ -305,7 +305,7 @@
       <l pos="A" src="fad">arkeologisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">arkeolåvgålasj</t>
       </tg>
     </mg>
@@ -315,7 +315,7 @@
       <l pos="A" src="fad">didaktisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">didavtalasj</t>
       </tg>
     </mg>
@@ -325,7 +325,7 @@
       <l pos="A" src="fad">ekstern</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">ålgoldis</t>
       </tg>
     </mg>
@@ -335,7 +335,7 @@
       <l pos="A" src="fad">enerådende</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">akturádálasj</t>
       </tg>
     </mg>
@@ -345,7 +345,7 @@
       <l pos="A" src="fad">flerårig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">moattejahkásasj</t>
       </tg>
     </mg>
@@ -355,7 +355,7 @@
       <l pos="A" src="fad">formell</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">formálla</t>
       </tg>
     </mg>
@@ -365,7 +365,7 @@
       <l pos="A" src="fad">fornybar</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">ådåsmahtte</t>
       </tg>
     </mg>
@@ -375,7 +375,7 @@
       <l pos="A" src="fad">fremtidsrettet</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">boahtteájggásasj</t>
       </tg>
     </mg>
@@ -385,7 +385,7 @@
       <l pos="A" src="fad">funksjonell</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dåjmalasj</t>
       </tg>
     </mg>
@@ -395,7 +395,7 @@
       <l pos="A" src="fad">geografisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">geográfalasj</t>
       </tg>
     </mg>
@@ -405,7 +405,7 @@
       <l pos="A" src="fad">geologisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">geolåvgålasj</t>
       </tg>
     </mg>
@@ -415,7 +415,7 @@
       <l pos="A" src="fad">hensiktsmessig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">ávkálasj</t>
       </tg>
     </mg>
@@ -425,7 +425,7 @@
       <l pos="A" src="fad">interkommunal</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">suohkanijgasskasasj</t>
       </tg>
     </mg>
@@ -435,7 +435,7 @@
       <l pos="A" src="fad">kollektiv</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">aktisasj</t>
       </tg>
     </mg>
@@ -445,7 +445,7 @@
       <l pos="A" src="fad">landsdekkende</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">rijkavijddásasj</t>
       </tg>
     </mg>
@@ -455,7 +455,7 @@
       <l pos="A" src="fad">landsomfattende</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">rijkavijddásasj</t>
       </tg>
     </mg>
@@ -465,7 +465,7 @@
       <l pos="A" src="fad">mekanisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">mekánalasj</t>
       </tg>
     </mg>
@@ -475,7 +475,7 @@
       <l pos="A" src="fad">mellomstatlig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">rijkajgasskasasj</t>
       </tg>
     </mg>
@@ -485,7 +485,7 @@
       <l pos="A" src="fad">minimal</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">minimálla</t>
       </tg>
     </mg>
@@ -495,7 +495,7 @@
       <l pos="A" src="fad">parlamentarisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">parlamentáralasj</t>
       </tg>
     </mg>
@@ -505,7 +505,7 @@
       <l pos="A" src="fad">prinsipiell</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">prinsihpalasj</t>
       </tg>
     </mg>
@@ -515,7 +515,7 @@
       <l pos="A" src="fad">privat</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">priváhta</t>
       </tg>
     </mg>
@@ -525,7 +525,7 @@
       <l pos="A" src="fad">produktiv</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">produktijvalasj</t>
       </tg>
     </mg>
@@ -535,7 +535,7 @@
       <l pos="A" src="fad">retorisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">retorihkalasj</t>
       </tg>
     </mg>
@@ -545,7 +545,7 @@
       <l pos="A" src="fad">rosa</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">guovggisruoppsat</t>
       </tg>
     </mg>
@@ -555,7 +555,7 @@
       <l pos="A" src="fad">skjønnlitterær</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">tjáppagirjálasj</t>
       </tg>
     </mg>
@@ -565,7 +565,7 @@
       <l pos="A" src="fad">smittsom</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dæhppulis</t>
       </tg>
     </mg>
@@ -575,7 +575,7 @@
       <l pos="A" src="fad">sosiokulturell</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">sosiokultuvralasj</t>
       </tg>
     </mg>
@@ -585,7 +585,7 @@
       <l pos="A" src="fad">statistisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">statistihkalasj</t>
       </tg>
     </mg>
@@ -595,7 +595,7 @@
       <l pos="A" src="fad">strukturell</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">struktuvralasj</t>
       </tg>
     </mg>
@@ -605,7 +605,7 @@
       <l pos="A" src="fad">syntetisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">syntehtalasj</t>
       </tg>
     </mg>
@@ -615,7 +615,7 @@
       <l pos="A" src="fad">tapper</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">gierddis</t>
       </tg>
     </mg>
@@ -625,7 +625,7 @@
       <l pos="A" src="fad">teknisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">teknihkalasj</t>
       </tg>
     </mg>
@@ -635,7 +635,7 @@
       <l pos="A" src="fad">teologisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">teolåvgålasj</t>
       </tg>
     </mg>
@@ -645,7 +645,7 @@
       <l pos="A" src="fad">ufullstendig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">iehpedievalasj</t>
       </tg>
     </mg>
@@ -655,7 +655,7 @@
       <l pos="A" src="fad">unaturlig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">iehpeluondulasj</t>
       </tg>
     </mg>
@@ -665,7 +665,7 @@
       <l pos="A" src="fad">universell</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">gájkkásasj</t>
       </tg>
     </mg>
@@ -675,7 +675,7 @@
       <l pos="A" src="fad">visuell</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">visuálla</t>
       </tg>
     </mg>
@@ -685,7 +685,7 @@
       <l pos="A" src="fad">mer</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">ienep</t>
       </tg>
     </mg>
@@ -695,7 +695,7 @@
       <l pos="A" src="fad">enig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">avtamielalasj</t>
       </tg>
     </mg>
@@ -705,7 +705,7 @@
       <l pos="A" src="fad">tilfreds</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dudálasj</t>
       </tg>
     </mg>
@@ -715,7 +715,7 @@
       <l pos="A" src="fad">sist</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">maŋemus</t>
       </tg>
     </mg>
@@ -725,7 +725,7 @@
       <l pos="A" src="fad">særlig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">sierralágásj</t>
       </tg>
     </mg>
@@ -735,7 +735,7 @@
       <l pos="A" src="fad">ekstensiv</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">ekstensijva</t>
       </tg>
     </mg>
@@ -745,7 +745,7 @@
       <l pos="A" src="fad">alternativ</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">alternatijva</t>
       </tg>
     </mg>
@@ -755,7 +755,7 @@
       <l pos="A" src="fad">innovativ</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">innovatijva</t>
       </tg>
     </mg>
@@ -765,7 +765,7 @@
       <l pos="A" src="fad">deduktiv</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">deduktijva</t>
       </tg>
     </mg>
@@ -775,7 +775,7 @@
       <l pos="A" src="fad">mer</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">ienep</t>
       </tg>
     </mg>
@@ -785,7 +785,7 @@
       <l pos="A" src="fad">samisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">sámegiella</t>
       </tg>
     </mg>
@@ -795,7 +795,7 @@
       <l pos="A" src="fad">samisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">sáme</t>
       </tg>
     </mg>
@@ -805,7 +805,7 @@
       <l pos="A" src="fad">real</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">reálla</t>
       </tg>
     </mg>
@@ -815,7 +815,7 @@
       <l pos="A" src="fad">reell</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">reálla</t>
       </tg>
     </mg>
@@ -825,7 +825,7 @@
       <l pos="A" src="fad">uformell</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">iehpeformálla</t>
       </tg>
     </mg>
@@ -835,7 +835,7 @@
       <l pos="A" src="fad">unormal</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">iehpenormálla</t>
       </tg>
     </mg>
@@ -845,7 +845,7 @@
       <l pos="A" src="fad">regional</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">regionálla</t>
       </tg>
     </mg>
@@ -855,7 +855,7 @@
       <l pos="A" src="fad">liberal</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">liberálla</t>
       </tg>
     </mg>
@@ -865,7 +865,7 @@
       <l pos="A" src="fad">nøytral</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">neutrálla</t>
       </tg>
     </mg>
@@ -875,7 +875,7 @@
       <l pos="A" src="fad">audiovisuell</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">audiovisuálla</t>
       </tg>
     </mg>
@@ -885,7 +885,7 @@
       <l pos="A" src="fad">relevant</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">relevánnta</t>
       </tg>
     </mg>
@@ -895,7 +895,7 @@
       <l pos="A" src="fad">eksklusiv</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">eksklusijva</t>
       </tg>
     </mg>
@@ -905,7 +905,7 @@
       <l pos="A" src="fad">kumulativ</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">kumulatijva</t>
       </tg>
     </mg>
@@ -915,7 +915,7 @@
       <l pos="A" src="fad">representativ</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">representatijva</t>
       </tg>
     </mg>
@@ -925,7 +925,7 @@
       <l pos="A" src="fad">subjektiv</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">subjektijva</t>
       </tg>
     </mg>
@@ -935,7 +935,7 @@
       <l pos="A" src="fad">kort</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">oadne</t>
       </tg>
     </mg>
@@ -945,7 +945,7 @@
       <l pos="A" src="fad">intelligent</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">jiermmá</t>
       </tg>
     </mg>
@@ -955,7 +955,7 @@
       <l pos="A" src="fad">oppegående</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">jiermmá</t>
       </tg>
     </mg>
@@ -965,7 +965,7 @@
       <l pos="A" src="fad">effektiv</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">doajmmel</t>
       </tg>
     </mg>
@@ -975,7 +975,7 @@
       <l pos="A" src="fad">funksjonssikker</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">doajmmel</t>
       </tg>
     </mg>
@@ -985,7 +985,7 @@
       <l pos="A" src="fad">krevende</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">gájbbedahkes</t>
       </tg>
     </mg>
@@ -995,7 +995,7 @@
       <l pos="A" src="fad">uviss</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">iehpevisses</t>
       </tg>
     </mg>
@@ -1005,7 +1005,7 @@
       <l pos="A" src="fad">usikker</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">iehpevisses</t>
       </tg>
     </mg>
@@ -1015,7 +1015,7 @@
       <l pos="A" src="fad">fremste</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">åvdemus</t>
       </tg>
     </mg>
@@ -1025,7 +1025,7 @@
       <l pos="A" src="fad">deilig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">njálgge</t>
       </tg>
     </mg>
@@ -1035,7 +1035,7 @@
       <l pos="A" src="fad">flerspråklig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">moattegielak</t>
       </tg>
     </mg>
@@ -1045,7 +1045,7 @@
       <l pos="A" src="fad">trespråklig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">gålmågielak</t>
       </tg>
     </mg>
@@ -1055,7 +1055,7 @@
       <l pos="A" src="fad">enspråklig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">avtagielak</t>
       </tg>
     </mg>
@@ -1065,7 +1065,7 @@
       <l pos="A" src="fad">samiskspråklig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">sámegielak</t>
       </tg>
     </mg>
@@ -1075,7 +1075,7 @@
       <l pos="A" src="fad">mangeartet</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">moattesuorak</t>
       </tg>
     </mg>
@@ -1085,7 +1085,7 @@
       <l pos="A" src="fad">fremre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">åvdep</t>
       </tg>
     </mg>
@@ -1095,7 +1095,7 @@
       <l pos="A" src="fad">overordnet</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">bajep</t>
       </tg>
     </mg>
@@ -1105,7 +1105,7 @@
       <l pos="A" src="fad">djerv</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">jállo</t>
       </tg>
     </mg>
@@ -1115,7 +1115,7 @@
       <l pos="A" src="fad">elektronisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">elektråvnålasj</t>
       </tg>
     </mg>
@@ -1125,7 +1125,7 @@
       <l pos="A" src="fad">genetisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">genetihkalasj</t>
       </tg>
     </mg>
@@ -1135,7 +1135,7 @@
       <l pos="A" src="fad">likestillingspolitisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dássáduspolitihkalasj</t>
       </tg>
     </mg>
@@ -1145,7 +1145,7 @@
       <l pos="A" src="fad">flerspråklig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">moattegielalasj</t>
       </tg>
     </mg>
@@ -1155,7 +1155,7 @@
       <l pos="A" src="fad">enspråklig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">åvtågielalasj</t>
       </tg>
     </mg>
@@ -1165,7 +1165,7 @@
       <l pos="A" src="fad">enig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">avtamielalasj</t>
       </tg>
     </mg>
@@ -1175,7 +1175,7 @@
       <l pos="A" src="fad">finansiell</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">rudálasj</t>
       </tg>
     </mg>
@@ -1185,7 +1185,7 @@
       <l pos="A" src="fad">utradisjonell</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">iehpedábálasj</t>
       </tg>
     </mg>
@@ -1195,7 +1195,7 @@
       <l pos="A" src="fad">uvanlig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">iehpedábálasj</t>
       </tg>
     </mg>
@@ -1205,7 +1205,7 @@
       <l pos="A" src="fad">harmonisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">ráfálasj</t>
       </tg>
     </mg>
@@ -1215,7 +1215,7 @@
       <l pos="A" src="fad">litterær</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">girjálasj</t>
       </tg>
     </mg>
@@ -1225,7 +1225,7 @@
       <l pos="A" src="fad">toårig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">guovtejahkásasj</t>
       </tg>
     </mg>
@@ -1235,7 +1235,7 @@
       <l pos="A" src="fad">analog</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">análåvggå</t>
       </tg>
     </mg>
@@ -1245,7 +1245,7 @@
       <l pos="A" src="fad">føderal</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">føderálla</t>
       </tg>
     </mg>
@@ -1255,7 +1255,7 @@
       <l pos="A" src="fad">bilateral</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">bilaterálla</t>
       </tg>
     </mg>
@@ -1265,7 +1265,7 @@
       <l pos="A" src="fad">heterogen</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">heterogedna</t>
       </tg>
     </mg>
@@ -1275,7 +1275,7 @@
       <l pos="A" src="fad">framvoksende</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">sjaddel</t>
       </tg>
     </mg>
@@ -1285,7 +1285,7 @@
       <l pos="A" src="fad">langsiktig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">guhkesájggásasj</t>
       </tg>
     </mg>
@@ -1295,7 +1295,7 @@
       <l pos="A" src="fad">tilsvarende</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">vásstediddje</t>
       </tg>
     </mg>
@@ -1305,7 +1305,7 @@
       <l pos="A" src="fad">representativ</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">åvdåstiddje</t>
       </tg>
     </mg>
@@ -1315,7 +1315,7 @@
       <l pos="A" src="fad">hjerteskjærende</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">vájmobávtjagahtte</t>
       </tg>
     </mg>
@@ -1325,7 +1325,7 @@
       <l pos="A" src="fad">anvendbar</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">anedahtte</t>
       </tg>
     </mg>
@@ -1335,7 +1335,7 @@
       <l pos="A" src="fad">anvendelig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">anedahtte</t>
       </tg>
     </mg>
@@ -1345,7 +1345,7 @@
       <l pos="A" src="fad">sentral</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">guovddelis</t>
       </tg>
     </mg>
@@ -1355,7 +1355,7 @@
       <l pos="A" src="fad">forskjellig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">ietjálágásj</t>
       </tg>
     </mg>
@@ -1365,7 +1365,7 @@
       <l pos="A" src="fad">uavklart</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">iehpetjielgas</t>
       </tg>
     </mg>
@@ -1375,7 +1375,7 @@
       <l pos="A" src="fad">var</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">várrogis</t>
       </tg>
     </mg>
@@ -1385,7 +1385,7 @@
       <l pos="A" src="fad">ensom</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">aktugasj</t>
       </tg>
     </mg>
@@ -1395,7 +1395,7 @@
       <l pos="A" src="fad">første</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">vuostasj</t>
       </tg>
     </mg>
@@ -1405,7 +1405,7 @@
       <l pos="A" src="fad">mangeartet</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">moatteslájak</t>
       </tg>
     </mg>
@@ -1415,7 +1415,7 @@
       <l pos="A" src="fad">mangeartet</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">moattebelak</t>
       </tg>
     </mg>
@@ -1425,7 +1425,7 @@
       <l pos="A" src="fad">kvensktalende</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">kvenagielak</t>
       </tg>
     </mg>
@@ -1435,7 +1435,7 @@
       <l pos="A" src="fad">firespråklig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">nieljegielak</t>
       </tg>
     </mg>
@@ -1445,7 +1445,7 @@
       <l pos="A" src="fad">norsktalende</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dárogielak</t>
       </tg>
     </mg>
@@ -1455,7 +1455,7 @@
       <l pos="A" src="fad">norsk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dárogielak</t>
       </tg>
     </mg>
@@ -1465,7 +1465,7 @@
       <l pos="A" src="fad">nynorsk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">åddådárogielak</t>
       </tg>
     </mg>
@@ -1475,7 +1475,7 @@
       <l pos="A" src="fad">positiv</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">miehtemielak</t>
       </tg>
     </mg>
@@ -1485,7 +1485,7 @@
       <l pos="A" src="fad">flerkulturell</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">moattekultuvrak</t>
       </tg>
     </mg>
@@ -1495,7 +1495,7 @@
       <l pos="A" src="fad">trekulturell</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">gålmåkultuvrak</t>
       </tg>
     </mg>
@@ -1505,7 +1505,7 @@
       <l pos="A" src="fad">tidlig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">árrat</t>
       </tg>
     </mg>
@@ -1515,7 +1515,7 @@
       <l pos="A" src="fad">femte</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">vidát</t>
       </tg>
     </mg>
@@ -1525,7 +1525,7 @@
       <l pos="A" src="fad">mer</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">ienep</t>
       </tg>
     </mg>
@@ -1535,7 +1535,7 @@
       <l pos="A" src="fad">trist</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">ahket</t>
       </tg>
     </mg>
@@ -1545,7 +1545,7 @@
       <l pos="A" src="fad">ytre</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">ålgop</t>
       </tg>
     </mg>
@@ -1555,7 +1555,7 @@
       <l pos="A" src="fad">ensartet</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">avtalágasj</t>
       </tg>
     </mg>
@@ -1565,7 +1565,7 @@
       <l pos="A" src="fad">fleretnisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">moattetjerdalasj</t>
       </tg>
     </mg>
@@ -1575,7 +1575,7 @@
       <l pos="A" src="fad">praktisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">praktihkalasj</t>
       </tg>
     </mg>
@@ -1585,7 +1585,7 @@
       <l pos="A" src="fad">innenlandsk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">sisrijkalasj</t>
       </tg>
     </mg>
@@ -1595,7 +1595,7 @@
       <l pos="A" src="fad">norsk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dárogielalasj</t>
       </tg>
     </mg>
@@ -1605,7 +1605,7 @@
       <l pos="A" src="fad">driftsmessig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dåjmalasj</t>
       </tg>
     </mg>
@@ -1615,7 +1615,7 @@
       <l pos="A" src="fad">handlekraftig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dåjmalasj</t>
       </tg>
     </mg>
@@ -1625,7 +1625,7 @@
       <l pos="A" src="fad">nasjonal</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">nasjåvnålasj</t>
       </tg>
     </mg>
@@ -1635,7 +1635,7 @@
       <l pos="A" src="fad">arktisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">árktalasj</t>
       </tg>
     </mg>
@@ -1645,7 +1645,7 @@
       <l pos="A" src="fad">subarktisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">subárktalasj</t>
       </tg>
     </mg>
@@ -1655,7 +1655,7 @@
       <l pos="A" src="fad">humanistisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">humanistalasj</t>
       </tg>
     </mg>
@@ -1665,7 +1665,7 @@
       <l pos="A" src="fad">samisk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">sábmelasj</t>
       </tg>
     </mg>
@@ -1675,7 +1675,7 @@
       <l pos="A" src="fad">regional</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">guovlulasj</t>
       </tg>
     </mg>
@@ -1685,7 +1685,7 @@
       <l pos="A" src="fad">norsk</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dárulasj</t>
       </tg>
     </mg>
@@ -1695,7 +1695,7 @@
       <l pos="A" src="fad">midlertidig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">gasskabåddåsasj</t>
       </tg>
     </mg>
@@ -1705,7 +1705,7 @@
       <l pos="A" src="fad">foreløpig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">gasskabåddåsasj</t>
       </tg>
     </mg>
@@ -1715,7 +1715,7 @@
       <l pos="A" src="fad">midlertidig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">båddåsasj</t>
       </tg>
     </mg>
@@ -1725,7 +1725,7 @@
       <l pos="A" src="fad">likeverdig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dássásasj</t>
       </tg>
     </mg>
@@ -1735,7 +1735,7 @@
       <l pos="A" src="fad">likeverdig</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dássásasj</t>
       </tg>
     </mg>
@@ -1745,7 +1745,7 @@
       <l pos="A" src="fad">aktiv</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">dåjmalasj</t>
       </tg>
     </mg>
@@ -1755,7 +1755,7 @@
       <l pos="A" src="fad">primær</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">åvdemus</t>
       </tg>
     </mg>
@@ -1765,7 +1765,7 @@
       <l pos="A" src="fad">overordnet</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">bajemus</t>
       </tg>
     </mg>
@@ -1775,7 +1775,7 @@
       <l pos="A" src="fad">sist</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="smj">
         <t pos="A">maŋemus</t>
       </tg>
     </mg>
