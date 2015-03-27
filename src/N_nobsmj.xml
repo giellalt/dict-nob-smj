@@ -31310,7 +31310,2520 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vindpark</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bieggapárkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">faktaark</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">faktaárkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">panel</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">paniella</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">villmarkspanel</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">miehttsepaniella</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kvinnepanel</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">nissunpaniella</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">privatbil</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">priváhtabijlla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kvinneprofil</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">nissunprofijlla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">strukturprofil</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">strukturprofijlla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">miljøprofil</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">birásprofijlla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">eksil</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">eksijlla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">missil</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">missijlla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sikkerhetsventil</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">sihkkarvuodaventijlla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tekstil</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tekstijlla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utmarksareal</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">miehttseareálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">TV-kanal</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">TV-kanálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">nødsignal</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">hiehtesignálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">postjournal</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">poasstajournálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fondskapital</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">foanndakapitálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">egenkapital</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oamekapitálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">aksjekapital</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oasoskapitálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">litteraturfestival</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">girjálasjvuohtafestiválla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">knutepunktfestival</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guovdásjfestiválla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">veiplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">væddjapládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">musedjapládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">rijkapládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fylkapládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giellapládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">andrespråksplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">nubbengiellapládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">generalplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">generálapládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rammeplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">rámmapládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">læreplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oahppopládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ressursplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">resurssapládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kursplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">kurssapládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">prosjektplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">prosjæktapládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">myrplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">jieggepládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tidsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ájggepládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">langtidsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guhkesájggepládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">studieplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">studiepládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">årsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">jahkepládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">pensum</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">pensum</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sektorplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oassepládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landsdelsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">rijkaoassepládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesdelplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fylkaoassepládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kommunedelplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">suohkanoassepládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forvaltningsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">háldadimpládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kommuneplanlegging</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">suohkanplánim</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kommuneplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">suohkanpládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">verneplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">suodjalampládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fremdriftsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånimpládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">framdriftsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånimpládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fremdriftsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånimpládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">verneplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gáhttimpládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">studieplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">låhkåmpládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">samarbeidsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">aktisasjbarggopládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kommuneplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">suohkanpládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tiltaksplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doajmmapládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bruksplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">addnempládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">læreplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oahppopládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">etterutdanningsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">lasseoahppopládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">likestillingsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dássáduspládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">samferdselsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">jåhtåluspládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">framdriftsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånimládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">skoleplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">skåvllåpládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">aksjonsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">aksjåvnnåpládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sommersiidastyre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giessesijddastivrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">siidastyre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">sijdastivrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">riksvalgstyre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">rijkaválggastivrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesvalgstyre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fylkaválggastivrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesstyre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fylkastivrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">lensstyre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">lenastivrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utmarksstyre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">miehttsestivrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sentralstyre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guovdásjstivrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">stemmestyre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">jienastamstivrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fiskestyre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guolástusstivrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">muvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">arkitektur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">arkitektuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsstruktur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">musedjastruktuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mediestruktur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">mediastruktuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fiberinfrastruktur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fiberinfrastruktuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">departementsstruktur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">departemænntastruktuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">nettstruktur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">næhttastruktuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">aldersstruktur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ahkestruktuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">senterstruktur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guovdásjstruktuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sysselsettingsstruktur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">barggostruktuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">samarbeidsstruktur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">aktisasjbarggostruktuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landbruksstruktur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggostruktuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordbruksstruktur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggostruktuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sykehusstruktur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">skihppijviessostruktuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forsvarsstruktur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">suodjalusstruktuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettskultur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektákultuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">postkontor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">poasstakontåvrrå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">distriktskontor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bájkálasj kontåvrrå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonskontor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">diehtujuohkkimkontåvrrå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dekar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dekárra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kommuneseminar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">suohkanseminárra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsseminar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">musedjaseminárra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkseminar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giellaseminárra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">filmseminar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">filmmaseminárra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">styreseminar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">stivrraseminárra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">startseminar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álggemseminárra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fiskeriseminar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guolástusseminárra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">honorar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bálkká</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">riksarkivar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">rijkaarkivárra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sårbarhetsanalyse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">rasjesvuohtaanalyjssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">funksjonsanalyse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doajmmaanalyjssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">behovsanalyse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dárbboanalyjssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">innholdsanalyse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">sisadnoanalyjssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kostnadsanalyse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gålloanalyjssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">likestillingsanalyse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dássádusanalyjssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">resursbalanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">resurssabalánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kartreferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">kárttareferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kommunekonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">suohkankonferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettssikkerhetskonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektásihkarvuodakonferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumskonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">musedjakonferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landskonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">rijkkakonferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkkonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giellakonferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mineralkonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">minerállakonferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">filmkonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">filmmakonferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ungdomskonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">nuorajdkonferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">årskonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">jahkekonferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">samekonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">sámekonferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">parlamentarikerkonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">parlamentáralasj konferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kommunekonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">suohkankonferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">likestillingskonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dássádusferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">parlamentarikerkonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">parlamentarihkkárkonferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">substans</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">substánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">relevans</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">relevánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">snekkerkurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">snihkkárkurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">innføringskurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álggukurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sikkerhetskurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">sihkarvuodakurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">feltkurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gieddekurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">duodjikurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duodjekurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">årskurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">jahkekurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sommerkurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giessekurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fjellkurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">miehttsekurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">innføringskurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álggemkurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">etterutdanningskurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">lasseoahppokurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">begynnerkurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álggokurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">temakurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fáddákurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språktemakurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giellafáddákurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forkurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddåkurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vindressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bieggaresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giellaresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">arealressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">areálaresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mineralressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">minerálaresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">driftsressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doajmmaresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fjordressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuodnaresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">genressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">genaresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">læringsressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oahpporesurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">petroleumsressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gássaresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">nettressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">næhttaresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">personalressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">barggeresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bærressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">muorjjeresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fiskeressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guolleresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggsressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">lasseresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utmarksressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">miehttseresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">miljøressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">birásresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kriminalitet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">kriminalitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">originalitet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">originalitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">krigsforbrytelse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">soahtekriminalitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">miljøkriminalitet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">biráskriminalitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">nationalitet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">nationalitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">nettkapasitet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">næhttakapasitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">overkapasitet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">lijggekapasitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">produksjonskapasitet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">buvtaduskapasitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landsdelsuniversitet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guovlouniversitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">radioaktivitet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">radioaktivitiehtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støtteobjekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doarjjaobjækta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ekstramandat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">lassemandáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggsmandat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">lassemandáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utjevningsmandat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dássemandáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">referat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">referáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sitat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">sitáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bakgrunnsnotat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duogásjnotáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">nasjonalstat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">nasjonalstáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettsstat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektástáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">riksarkiv</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">rijkaarkijvva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">statsarkiv</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">stáhtaarkijvva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">passiv</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">passijvva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">regulativ</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">regulatijvva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">generasjonsperspektiv</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">buolvvaperspektijvva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">livsfaseperspektiv</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ahkeoasseperspektijvva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">likestillingsperspektiv</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dássádusperspektijvva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">direktiv</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">direktijvva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rammedirektiv</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">rámmadirektijvva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rådsdirektiv</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">rádedirektijvva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mellomstilling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gasskavirgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkstilling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giellavirgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">prestestilling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">báhpavirgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">stipendiatstillling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">stipendiáhttavirgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">assistentstilling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">assestænntavirgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">deltidsstilling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bielleájggevirgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">engasjementsstilling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gasskaájggásasj virgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">drømmejobb</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gållevirgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">delstilling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oassevirgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sommerjobb</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giessevirgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">undervisningsstilling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åhpadimvirgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunstfelt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dájddasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunnskapssektor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">máhtulasjvuodasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">litteraturområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">girjálasjvuodasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sikkerhetssektor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">sihkkarvuodasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">musedjasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumssektor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">musedjasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">omsorgssektor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">huksimsuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reallinje</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">reálasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mineralbransje</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">minerálasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mineralsektor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">minerálasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rammeområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">rámmasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">finanssektor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">finánsasuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">gymnaslinje</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gymnassuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">saksområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ássjesuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">saksfelt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ássjesuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">arealsaksfelt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">areálaássjesuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">delområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oassesuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettsområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektásuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fokusområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guovdásjsuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">omsorgssektor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">huksimsuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bruksområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">addnesuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forvaltningsområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">háldadussuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">idrettsgren</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">valástallamsuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">studieretning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">låhkåmsuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">biblioteksektor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">girjjevuorkkásuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">snekkerlinje</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">snihkkársuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ansvarsområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvdåsvástádussuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">omsorgssektor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">huksimsuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forsvarsgren</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">suodjalussuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forsvarssektor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">suodjalussuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">samferdselssektor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">jåhtålussuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fiskerisektor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guolástussuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">samfunnsområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">sebrudaksuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kystområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">merragáddesuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">arbeidsfelt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">barggosuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">studieretning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oahpposuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumssektor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkásuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ressursarena</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">resurssaariedná</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">identitetsarena</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">identitiehttaariedná</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">læringsarena</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oahppoariedná</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunnskapsarena</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">máhttoariedná</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">riksrett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">rijkariektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkrettighet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giellariektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tingsrett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">diggeriektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">samerett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">sámeriektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">urett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">iehperiektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">selvbestemmelse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">iessjmierredamriektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">eiendomsrett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æjggumriektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forvaltningsrett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">háldadimriektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">stemmerett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">jienastimriektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">råderett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ráddimriektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fiskerettighet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guolástusriektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">miljørett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">birásriektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">eiendomsrett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åbmudakriektá</t>
+        <t pos="N">æjggumriektá</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
+detaljplan ::: dárkkelispládna
+bebyggelsesplan ::: gilepládna
 livsfaseperspektiv ::: ahkeoasseperspektijva
 risikomiddel ::: risskaruhta
 rubrikk ::: rubrehkka
