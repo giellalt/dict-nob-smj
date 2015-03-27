@@ -376,8 +376,8 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="N">ekonomiddjaplána</t>
-        <t pos="N">ekonomijaplána</t>
+        <t pos="N">ekonomiddjapládna</t>
+        <t pos="N">ekonomijapládna</t>
       </tg>
     </mg>
   </e>
@@ -387,7 +387,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="N">fylkkaoasseplána</t>
+        <t pos="N">fylkkaoassepládna</t>
       </tg>
     </mg>
   </e>
@@ -397,7 +397,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="N">fállostruktuvra</t>
+        <t pos="N">fállostruktuvrra</t>
       </tg>
     </mg>
   </e>
@@ -407,7 +407,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="N">fálaldakstruktuvra</t>
+        <t pos="N">fálaldakstruktuvrra</t>
       </tg>
     </mg>
   </e>
@@ -7334,7 +7334,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="N">oasseplána</t>
+        <t pos="N">oassepládna</t>
       </tg>
     </mg>
   </e>
@@ -7424,7 +7424,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="N">gássaresursa</t>
+        <t pos="N">gássaresurssa</t>
       </tg>
     </mg>
   </e>
@@ -11996,7 +11996,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="N">fáddásuorge</t>
+        <t pos="N">fáddásuorgge</t>
       </tg>
     </mg>
   </e>
@@ -12006,7 +12006,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="N">fáddásuorge</t>
+        <t pos="N">fáddásuorgge</t>
       </tg>
     </mg>
   </e>
@@ -31405,7 +31405,7 @@ samarbeidsområde	aktisasjbarggoguovllot	ovttasbargoguovlu	3	0	0	0
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="N">gasskaárka</t>
+        <t pos="N">gasskaárkka</t>
       </tg>
     </mg>
   </e>
