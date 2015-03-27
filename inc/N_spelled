@@ -1,7 +1,7 @@
 
 vindpark	bieggapárkka
 
-faktaark	fáktáárkka
+faktaark	faktaárkka
 
 panel	paniella
 
@@ -37,15 +37,15 @@ fondskapital	foanndakapitálla
 
 egenkapital	oamekapitálla
 
-aksjekapital	oasuskapitálla
+aksjekapital	oasoskapitálla
 
-litteraturfestival	girjálasjvuodafestiválla
+litteraturfestival	girjálasjvuohtafestiválla
 
 knutepunktfestival	guovdásjfestiválla
 
-veiplan	luoddapládna
+veiplan	væddjapládna
 
-museumsplan	museapládna
+museumsplan	musedjapládna
 
 landsplan	rijkapládna
 
@@ -53,19 +53,19 @@ fylkesplan	fylkapládna
 
 språkplan	giellapládna
 
-andrespråksplan	nubbegiellapládna
+andrespråksplan	nubbengiellapládna
 
 generalplan	generálapládna
 
-rammeplan	rábmapládna
+rammeplan	rámmapládna
 
-læreplan	oahppapládna
+læreplan	oahppopládna
 
-ressursplan	resursapládna
+ressursplan	resurssapládna
 
 kursplan	kurssapládna
 
-prosjektplan	pråsjeaktapládna
+prosjektplan	prosjæktapládna
 
 myrplan	jieggepládna
 
@@ -77,9 +77,9 @@ studieplan	studiepládna
 
 årsplan	jahkepládna
 
-bebyggelsesplan	gilepládna
+@bebyggelsesplan	gilepládna
 
-pensum	låhkånmearrepládna
+pensum	pensum
 
 sektorplan	oassepládna
 
@@ -87,45 +87,45 @@ landsdelsplan	rijkaoassepládna
 
 fylkesdelplan	fylkaoassepládna
 
-kommunedelplan	buorggooassepládna
+kommunedelplan	suohkanoassepládna
 
-forvaltningsplan	háldatjanpládna
+forvaltningsplan	háldadimpládna
 
-kommuneplanlegging	suohkanpládna
+kommuneplanlegging	suohkanplánim
 
 kommuneplan	suohkanpládna
 
-verneplan	suodjalanpládna
+verneplan	suodjalampládna
 
-fremdriftsplan	åvdusmannanpládna
+fremdriftsplan	åvddånimpládna
 
-framdriftsplan	åvddånanpládna
+framdriftsplan	åvddånimpládna
 
-fremdriftsplan	åvddånanpládna
+fremdriftsplan	åvddånimpládna
 
-verneplan	gáhttenpládna
+verneplan	gáhttimpládna
 
-studieplan	låhkånpládna
+studieplan	låhkåmpládna
 
 samarbeidsplan	aktisasjbarggopládna
 
-kommuneplan	buorggopládna
+kommuneplan	suohkanpládna
 
-tiltaksplan	doajmmabidjopládna
+tiltaksplan	doajmmapládna
 
-bruksplan	doallopládna
+bruksplan	addnempládna
 
 læreplan	oahppopládna
 
 etterutdanningsplan	lasseoahppopládna
 
-likestillingsplan	dásseárvopládna
+likestillingsplan	dássáduspládna
 
-detaljplan	dárkkelispládna
+@detaljplan	dárkkelispládna
 
 samferdselsplan	jåhtåluspládna
 
-framdriftsplan	jåhtupládna
+framdriftsplan	åvddånimládna
 
 skoleplan	skåvllåpládna
 
@@ -135,11 +135,11 @@ sommersiidastyre	giessesijddastivrra
 
 siidastyre	sijdastivrra
 
-riksvalgstyre	rijkaválgastivrra
+riksvalgstyre	rijkaválggastivrra
 
-fylkesvalgstyre	fylkaválgastivrra
+fylkesvalgstyre	fylkaválggastivrra
 
-fylkesstyre	lenastivrra
+fylkesstyre	fylkastivrra
 
 lensstyre	lenastivrra
 
@@ -147,15 +147,15 @@ utmarksstyre	miehttsestivrra
 
 sentralstyre	guovdásjstivrra
 
-stemmestyre	jienastanstivrra
+stemmestyre	jienastamstivrra
 
 fiskestyre	guolástusstivrra
 
-mur	viessumuvrra
+mur	muvrra
 
-arkitektur	arkketektuvrra
+arkitektur	arkitektuvrra
 
-museumsstruktur	museastruktuvrra
+museumsstruktur	musedjastruktuvrra
 
 mediestruktur	mediastruktuvrra
 
@@ -173,69 +173,69 @@ sysselsettingsstruktur	barggostruktuvrra
 
 samarbeidsstruktur	aktisasjbarggostruktuvrra
 
-landbruksstruktur	ednamdoallostruktuvrra
+landbruksstruktur	ednambarggostruktuvrra
 
-jordbruksstruktur	ednamdoallostruktuvrra
+jordbruksstruktur	ednambarggostruktuvrra
 
-sykehusstruktur	buohttseviessostruktuvrra
+sykehusstruktur	skihppijviessostruktuvrra
 
 forsvarsstruktur	suodjalusstruktuvrra
 
-rettskultur	riektekultuvrra
+rettskultur	riektákultuvrra
 
-postkontor	poasstakantuvrra
+postkontor	poasstakontåvrrå
 
-distriktskontor	bájkálasjkantuvrra
+distriktskontor	bájkálasj kontåvrrå
 
-informasjonskontor	diehtujuohkinkantuvrra
+informasjonskontor	diehtujuohkkimkontåvrrå
 
 dekar	dekárra
 
-kommuneseminar	gieldaseminárra
+kommuneseminar	suohkanseminárra
 
-museumsseminar	museaseminárra
+museumsseminar	musedjaseminárra
 
 språkseminar	giellaseminárra
 
 filmseminar	filmmaseminárra
 
-styreseminar	stivraseminárra
+styreseminar	stivrraseminárra
 
-startseminar	álggenseminárra
+startseminar	álggemseminárra
 
 fiskeriseminar	guolástusseminárra
 
-honorar	hånurárra
+honorar	bálkká
 
-riksarkivar	Rijkaarkivárra
+riksarkivar	rijkaarkivárra
 
-sårbarhetsanalyse	rasjesvuodaanalyjssa
+sårbarhetsanalyse	rasjesvuohtaanalyjssa
 
 funksjonsanalyse	doajmmaanalyjssa
 
 behovsanalyse	dárbboanalyjssa
 
-innholdsanalyse	sisdoalloanalyjssa
+innholdsanalyse	sisadnoanalyjssa
 
 kostnadsanalyse	gålloanalyjssa
 
-likestillingsanalyse	dásseárvoanalyjssa
+likestillingsanalyse	dássádusanalyjssa
 
-resursbalanse	resursabalánssa
+resursbalanse	resurssabalánssa
 
 kartreferanse	kárttareferánssa
 
-kommunekonferanse	gieldakonferánssa
+kommunekonferanse	suohkankonferánssa
 
-rettssikkerhetskonferanse	riektesihkarvuodakonferánssa
+rettssikkerhetskonferanse	riektásihkarvuodakonferánssa
 
-museumskonferanse	museakonferánssa
+museumskonferanse	musedjakonferánssa
 
-landskonferanse	rijkakonferánssa
+landskonferanse	rijkkakonferánssa
 
 språkkonferanse	giellakonferánssa
 
-mineralkonferanse	minerálakonferánssa
+mineralkonferanse	minerállakonferánssa
 
 filmkonferanse	filmmakonferánssa
 
@@ -245,11 +245,11 @@ ungdomskonferanse	nuorajdkonferánssa
 
 samekonferanse	sámekonferánssa
 
-parlamentarikerkonferanse	parlamentáralasjkonferánssa
+parlamentarikerkonferanse	parlamentáralasj konferánssa
 
 kommunekonferanse	suohkankonferánssa
 
-likestillingskonferanse	dásseárvokonferánssa
+likestillingskonferanse	dássádusferánssa
 
 parlamentarikerkonferanse	parlamentarihkkárkonferánssa
 
@@ -257,9 +257,9 @@ substans	substánssa
 
 relevans	relevánssa
 
-snekkerkurs	snihkkárgurssa
+snekkerkurs	snihkkárkurssa
 
-innføringskurs	álggugurssa
+innføringskurs	álggukurssa
 
 sikkerhetskurs	sihkarvuodakurssa
 
@@ -273,11 +273,11 @@ sommerkurs	giessekurssa
 
 fjellkurs	miehttsekurssa
 
-innføringskurs	álggenkurssa
+innføringskurs	álggemkurssa
 
 etterutdanningskurs	lasseoahppokurssa
 
-begynnerkurs	álggukurssa
+begynnerkurs	álggokurssa
 
 temakurs	fáddákurssa
 
@@ -299,7 +299,7 @@ fjordressurs	vuodnaresurssa
 
 genressurs	genaresurssa
 
-læringsressurs	oahpparesurssa
+læringsressurs	oahpporesurssa
 
 petroleumsressurs	gássaresurssa
 
@@ -317,9 +317,9 @@ utmarksressurs	miehttseresurssa
 
 miljøressurs	birásresurssa
 
-kriminalitet	krimenalitiehtta
+kriminalitet	kriminalitiehtta
 
-originalitet	åreginalitiehtta
+originalitet	originalitiehtta
 
 krigsforbrytelse	soahtekriminalitiehtta
 
@@ -335,9 +335,9 @@ produksjonskapasitet	buvtaduskapasitiehtta
 
 landsdelsuniversitet	guovlouniversitiehtta
 
-radioaktivitet	rádioaktivitiehtta
+radioaktivitet	radioaktivitiehtta
 
-støtteobjekt	doarjjaáhtta
+støtteobjekt	doarjjaobjækta
 
 ekstramandat	lassemandáhtta
 
@@ -351,9 +351,9 @@ sitat	sitáhtta
 
 bakgrunnsnotat	duogásjnotáhtta
 
-nasjonalstat	nationálastáhtta
+nasjonalstat	nasjonalstáhtta
 
-rettsstat	riektestáhtta
+rettsstat	riektástáhtta
 
 riksarkiv	rijkaarkijvva
 
@@ -367,13 +367,13 @@ generasjonsperspektiv	buolvvaperspektijvva
 
 livsfaseperspektiv	ahkeoasseperspektijvva
 
-likestillingsperspektiv	dásseperspektijvva
+likestillingsperspektiv	dássádusperspektijvva
 
 direktiv	direktijvva
 
-rammedirektiv	rábmadirektijvva
+rammedirektiv	rámmadirektijvva
 
-rådsdirektiv	ráddedirektijvva
+rådsdirektiv	rádedirektijvva
 
 mellomstilling	gasskavirgge
 
@@ -381,13 +381,13 @@ språkstilling	giellavirgge
 
 prestestilling	báhpavirgge
 
-stipendiatstillling	stipendiáhtavirgge
+stipendiatstillling	stipendiáhttavirgge
 
-assistentstilling	assesteantavirgge
+assistentstilling	assestænntavirgge
 
-deltidsstilling	oasseájggevirgge
+deltidsstilling	bielleájggevirgge
 
-engasjementsstilling	mierreájgevirgge
+engasjementsstilling	gasskaájggásasj virgge
 
 drømmejobb	gållevirgge
 
@@ -395,9 +395,9 @@ delstilling	oassevirgge
 
 sommerjobb	giessevirgge
 
-undervisningsstilling	oahpahusvirgge
+undervisningsstilling	åhpadimvirgge
 
-kunstfelt	dájdasuorgge
+kunstfelt	dájddasuorgge
 
 kunnskapssektor	máhtulasjvuodasuorgge
 
@@ -405,11 +405,11 @@ litteraturområde	girjálasjvuodasuorgge
 
 sikkerhetssektor	sihkkarvuodasuorgge
 
-museumsområde	museasuorgge
+museumsområde	musedjasuorgge
 
-museumssektor	museasuorgge
+museumssektor	musedjasuorgge
 
-omsorgssektor	fuollasuorgge
+omsorgssektor	huksimsuorgge
 
 reallinje	reálasuorgge
 
@@ -421,7 +421,7 @@ rammeområde	rámmasuorgge
 
 finanssektor	finánsasuorgge
 
-gymnaslinje	gymnásasuorgge
+gymnaslinje	gymnassuorgge
 
 saksområde	ássjesuorgge
 
@@ -431,27 +431,27 @@ arealsaksfelt	areálaássjesuorgge
 
 delområde	oassesuorgge
 
-rettsområde	riektesuorgge
+rettsområde	riektásuorgge
 
 fokusområde	guovdásjsuorgge
 
-omsorgssektor	fuolahansuorgge
+omsorgssektor	huksimsuorgge
 
-bruksområde	gevahansuorgge
+bruksområde	addnesuorgge
 
-forvaltningsområde	háldatjansuorgge
+forvaltningsområde	háldadussuorgge
 
-idrettsgren	valásjtallansuorgge
+idrettsgren	valástallamsuorgge
 
-studieretning	låhkånsuorgge
+studieretning	låhkåmsuorgge
 
-biblioteksektor	girjjerádjosuorgge
+biblioteksektor	girjjevuorkkásuorgge
 
 snekkerlinje	snihkkársuorgge
 
 ansvarsområde	åvdåsvástádussuorgge
 
-omsorgssektor	fuolahussuorgge
+omsorgssektor	huksimsuorgge
 
 forsvarsgren	suodjalussuorgge
 
@@ -461,19 +461,19 @@ samferdselssektor	jåhtålussuorgge
 
 fiskerisektor	guolástussuorgge
 
-samfunnsområde	servvudatsuorgge
+samfunnsområde	sebrudaksuorgge
 
-kystområde	riddusuorgge
+kystområde	merragáddesuorgge
 
-arbeidsfelt	barggusuorgge
+arbeidsfelt	barggosuorgge
 
-studieretning	oahppusuorgge
+studieretning	oahpposuorgge
 
-museumssektor	dávvervuorkásuorgge
+museumssektor	dávvervuorkkásuorgge
 
-ressursarena	resursaariedná
+ressursarena	resurssaariedná
 
-identitetsarena	identitehtaariedná
+identitetsarena	identitiehttaariedná
 
 læringsarena	oahppoariedná
 
@@ -489,20 +489,19 @@ samerett	sámeriektá
 
 urett	iehperiektá
 
-selvbestemmelse	iessjmearridanriektá
+selvbestemmelse	iessjmierredamriektá
 
-eiendomsrett	æjgádanriektá
-eiendomsrett	æjgádussjanriektá
+eiendomsrett	æjggumriektá
 
-forvaltningsrett	háldatjanriektá
+forvaltningsrett	háldadimriektá
 
-stemmerett	jienastanriektá
+stemmerett	jienastimriektá
 
-råderett	ráddenriektá
+råderett	ráddimriektá
 
 fiskerettighet	guolástusriektá
 
 miljørett	birásriektá
 
-eiendomsrett	åbmudatriektá
-eiendomsrett	æjgátriektá
+eiendomsrett	åbmudakriektá
+eiendomsrett	æjggumriektá
