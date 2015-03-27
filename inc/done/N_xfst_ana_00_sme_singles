@@ -1,3 +1,4 @@
+#+ if unmarked
 # virka som det meste var bra, så begynte å markere de dårlige kandidatene (@). ved linje 350 innså jeg at det heller så ut til å være omvendt, så derfra er de gode kandidatene (+) markert
 
 dr.philos.	dr.philos.	dr.philos.	0	0	0	0
@@ -350,6 +351,7 @@ vedtaksorgan	mærrádusorgána	mearrádusorgána	6	0	1	0
 
 @styreseminar	stivraseminára	stivrraseminára	1	0	0	0
 
+#@ if unmarked
 # herfra og ned er alt utenom + ikke fullt så gode kandidater
 
 fiskeriseminar	guolástusseminára	guolástusseminára	0	0	0	0
