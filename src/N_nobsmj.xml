@@ -33821,7 +33821,235 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilsynsaktivitet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gæhttjodoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad"/>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilsynsoppdrag</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gæhttjodoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sentralbygg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guovdásjviesso</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsarbeid</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkábarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">konferansedeltaker</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">konferánssaoassálasste</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sedvanerettighet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">árbbedáhperiektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">nordøst</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">nuorttalulle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">planleggingsvirksomhet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">plánimbarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">internettside</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">næhttabielle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilsynsvirksomhet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gæhttjodoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">hovedårsak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oajvvesivva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsforbund</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkásiebrre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utdanningsmiljø</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oahppobirás</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tannbehandling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bádnesujtto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumslag</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkásiebrre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">arealrettighet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednamriektá</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
+rettsregel ::: duollatjállemnjuolgadus
+næringsbehov ::: biebbmodárbbo
+samisktime ::: sámebielle
+museumstjeneste ::: dávvervuorkkábarggo
+teknologibygg ::: teknologijaviesso
+satsingsfelt ::: doajmmabájkke
+samfunnsaktivitet ::: sebrudakbarggo
+spesialrom ::: sierrasadje
+kirkeminister ::: girkkoministar
+verdenstopp ::: væráltnásste
+friluftsperspektiv ::: ålggobielle
+sameskole ::: sámeskåvllåstivrra
+rettighetsbilde ::: rievtesvuohtadádjadus
+stedsnavntjeneste ::: bájkkenammaláhka
+aktivitetstilbud ::: barggofálaldahka
+samisklærer ::: sámeåhpadus
+salgslag ::: oassesiebrre
+scenekunstner ::: siednadájda
+tilsynsoppgave ::: gæhttjodoajmma
+tjenesteoppdrag ::: láhkabarggo
+stedsnavnstjeneste ::: bájkkenammaláhka
+prisvirkemiddel ::: haddedoarjja
+helsesituasjon ::: varresvuohtavijor
+taleteknologi ::: giellateknologiddja
+områdeforvaltning ::: birásháldadibme
+toppidrettsarbeid ::: njunnjusjbarggo
+scenekunst ::: siednadájda
+reindriftstjeneste ::: ællosujttoláhka
+reindriftstjeneste ::: boatsojbarggo
+urfolksforhold ::: álggovijor
+sentralforbund ::: rijkkalihtto
+barnevernsarbeid ::: mánnádoajmma
+urfolksforskning ::: álggoálmmukdutke
+skoletjeneste ::: skåvllåláhka
+hytteområde ::: goahtebirás
+forskningsenhet ::: guoradallamguovdásj
+få ::: unnán
+hovedtjeneste ::: oajvvebarggo
+fotballforbund ::: rijkkalihtto
+språktjeneste ::: giellabarggo
+opplæringsstilling ::: oahppoárvvo
+ministerkomite ::: ministarjuogos
+talesituasjon ::: giellavijor
+reindriftssamisk ::: ællosáme
+reindriftssamisk ::: boatsojsáme
+kulturområde ::: kultuvrraduobddák
+fiskefelt ::: bivddoguovllo
+fiskefelt ::: guollárbájkke
+utdanningsområde ::: oahppobirás
+bibliotektjeneste ::: girjjevuorkkábarggo
+kommunehus ::: suohkanstivrrahuonaj
+arbeidsminister ::: barggoministar
+varehandel ::: gálvvooasestiddje
+fiskebruk ::: guolástusæládus
+stipendmottaker ::: doarjjavuosstájvállde
+bibliotekvirksomhet ::: girjjevuorkkábarggo
+fritidshus ::: asstoåroj
+rettsbilde ::: rievtesvuohtadádjadus
 detaljplan ::: dárkkelispládna
 bebyggelsesplan ::: gilepládna
 livsfaseperspektiv ::: ahkeoasseperspektijva
