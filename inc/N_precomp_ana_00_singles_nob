@@ -1,0 +1,344 @@
+
+tidsskjema	biellesjiebmá	áigeplána/áigeskovádat	0	0	0	0
+
+kontaktskjema	aktijvuohtasjiebmá	gulahallanskovvi	0	0	0	0
+
+samfunnsarena	aktisasjvuohtaariedná	servodatarena	1	0	0	0
+
+reisekostnad	mannogållo	mátkkoštangollu	4	1	0	0
+
+plansamarbeid	barggopládnaaktisasjbarggo	plánaovttasbargu	2	0	0	0
+
+regionrådssamarbeid	guovlloráde	guovlluráđđeovttasbargu	1	3	0	0
+
+oljevernarbeid	ulljosuodjalus	oljogáhttenbargu	0	1	0	0
+
+språkutviklingsarbeid	giellabarggo	giellaovdánahttinbargu	4	9	0	0
+
+utredningsarbeid	guoradallambarggo	guorahallanbargu/čielggadusbargu/čielggadanbargu	20	0	0	1
+
+verdensarvarbeid	væráltárbbe	máilmmiárbebargu	0	16	0	0
+
+minimumsstandard	ahkestandárdda	vuollerádjedássi/unnimusdássi/unnimusstandárda	4	0	0	0
+
+grunnskoletilbud	vuodoåhpadusfálaldahka	vuođđoskuvlafálaldat	1	1	0	0
+
+grunnopplæringstilbud	vuodoåhpadusfálaldahka	vuođđooahppofálaldat	0	1	0	0
+
+elevombud	oahppeoahttse	ohppiidáittardeaddji/oahppiáittardeaddji	1	1	0	0
+
+departementsråd	departemænntaráde	departemeantaráđđi	12	1	1	0
+
+samfunnsservice	aktisasjvuodadievnastus	servodatbálvalus	1	0	0	0
+
+fosterskade	biebbmovahágahttem	ohkevahát/ohkevihki	0	0	0	0
+
+matvarekjede	biebbmohærvva	biebmogálvogoallus	0	0	0	0
+
+matproduksjonskjede	biebbmobuvtadushærvva	biebmobuvttadangoallus	0	0	0	0
+
+matkjede	biebbmohærvva	biebmogoallus	1	0	0	0
+
+tidsbilde	biellegåvvå	áigegovva	0	0	0	0
+
+avtaleperiode	barggosjiehtadusájgge	šiehtadanáigodat/šiehtadusáigodat	2	0	0	0
+
+sommerbeiteområde	giesseguohtomednam	geasseguohtonguovlu/geasseguohtoneana	6	1	0	0
+
+prioriteringsområde	vuorodimguovllo	vuoruhansuorgi/prioriterensuorgi	0	2	0	0
+
+saltvannsområde	sálltetjáhtje	sáltečáhceguovlu	0	1	0	0
+
+verdensarvområde	væráltárbbe	máilmmiárbeguovlu	1	16	0	0
+
+planretningslinje	barggopládnanjuolgadus	plánanjuolggadus	3	0	0	0
+
+saltvannfiske	sálltetjáhtje	sáltečáhcebivdu	0	1	0	0
+
+saltvannsfiske	sálltetjáhtje	sáltečáhcebivdu/sáltečáhceguolástus/mearraguolásteapmi	6	1	0	0
+
+tidsskille	biellejuogádis	áigeearru	2	0	0	0
+
+alkoholvane	alkohåvllådáhpe	alkoholavierru	0	0	0	0
+
+plantype	barggopládnatjærdda	plánašládja	2	0	0	0
+
+kretssamevalgstyre	aktavuohtasámejienastimstivrra	kreatsasámeválgastivra	3	0	1	0
+
+orddatabase	biehkkedáhtábássa	sátnediehtovuođđu	5	0	0	0
+
+virksomhetsoverdragelse	bargosirddem	doaibmasirdin	1	0	0	0
+
+felleskapsfølelse	aktisasjskáhppa	oktavuođadovdu	0	0	1	0
+
+planbestemmelse	barggopládnamærrádus	plánamearrádus	9	0	1	0
+
+brukeropplevelse	barggevásádus	geavahanvásihus	0	0	0	0
+
+barnehagekonferanse	mánájgárddekonferánssa	mánáidgárdekonferánsa	6	1	3	0
+
+pressekonferanse	præssakonferánssa	preassakonferánsa	18	1	7	0
+
+bibliotekkonferanse	bibliotehkkakonferánssa	girjerájuskonferánsa	2	0	0	0
+
+partskonferanse	biellekonferánssa	osolaškonferánsa	0	0	0	0
+
+kontaktkonferanse	aktijvuohtakonferánssa	gulahallankonferánsa	0	0	0	0
+
+adjunktkompetanse	adjuŋŋktamáhtto	adjunktagelbbolašvuohta	0	0	0	0
+
+partigrense	belludahkarádjá	bellodatrádji	0	0	0	0
+
+arealgrense	areállarádjá	areálarádji	0	0	0	0
+
+driftsgrense	barggorádjá	boazodoallorádji	0	0	0	0
+
+arealinteresse	areállaberustibme	areálaberoštus/areálaberoštupmi	4	0	0	0
+
+planinteresse	barggopládnaberustibme	plánaberoštus	0	0	0	0
+
+årsskifte	jahkemålssusibme	jahkemolsun	9	1	5	0
+
+fellesbeite	aktisasjguohtom	oktasašguohtun/oktasašorohat	4	0	0	0
+
+ekspertkomite	ássjedåbddejuogos	áššedovdilávdegoddi	1	5	5	0
+
+pengemarkedsrente	biednikmárnán	ruhtamárkanreantu	0	0	0	0
+
+minimumskvote	ahkekvåvttå	uhcimusearri	2	0	0	0
+
+enhetskvote	avtadahkakvåvttå	ovttadatearri	1	0	1	0
+
+stedsnavntjeneste	bájkkenammadievnastus	báikenammabálvalus/báikenammanevvohat	2	1	0	0
+
+veiledertjeneste	bagádallevarresvuodadievnastus	bagadusbálvalus	1	0	0	0
+
+arbeidsfortjeneste	barggotjænssta	bargodienas	23	0	8	0
+
+stedsnavnstjeneste	bájkkenammadievnastus	báikenammabálvalus	0	1	1	0
+
+verdensarvliste	væráltárbbe	máilmmiárbelistu	7	16	1	1
+
+kretsmøte	aktavuodadigge	biirrečoahkkin	0	0	0	0
+
+formingsoppgave	giehtabarggo	duddjonbargu	0	2	0	0
+
+arealforvaltningsoppgave	areállaháldadimdoajmma	areálahálddašanbargu	0	0	0	0
+
+sekretariatsoppgave	dåjmadahkabarggo	čállingoddebargu	1	0	0	1
+
+lokallag	bájkkejuogos	báikkálašsearvi	14	1	2	0
+
+arealgrunnlag	areállavuodo	areálavuođđu	7	0	2	0
+
+plangrunnlag	barggopládnavuodo	plánavuođđu	3	0	0	0
+
+sidevassdrag	bielletjáhtje	oalgejohka	0	0	6	0
+
+teknologibygg	teknologiddjaviesso	teknologiijavisti	0	0	0	1
+
+planomgang	barggopládnavuorro	plánavuorru	0	0	0	0
+
+språksammenheng	giellaaktijvuohta	giellaoktavuohta	0	3	0	1
+
+opplæringssammenheng	åhpadusaktijvuohta	oahpahusoktavuohta	1	0	0	1
+
+arealmelding	areálladiedádus	areáladieđáhus	5	0	1	0
+
+familieplanlegging	berajplánim	bearašplánen	0	0	0	0
+
+språkplanlegging	giellaplánim	giellaplánen	5	1	1	10
+
+arealplanlegging	areállaplánim	areálaplánen	15	0	4	0
+
+miljøplanlegging	barggobirásplánim	birasplánen	0	0	0	0
+
+overtidsbetaling	badjelájggemákso	badjeláiggemáksu	0	0	0	0
+
+plansaksbehandling	barggopládnaássjegiehtadallam	plánaáššemeannudeapmi	0	0	0	0
+
+planframstilling	barggopládnaåvddånbuktem	plánačilgehus	0	0	0	0
+
+adopsjonsbevilling	adopsjåvnnåloahpe	adopšuvdnadohkkeheapmi	0	0	0	0
+
+språkleirsamling	giellabiessetjåhkanibme	giellačoagganeapmi	0	0	0	1
+
+aldersspredning	ahkegæjvvanibme	ahkeviidodat	0	0	0	0
+
+skolefritidsordning	skåvllåasstoájggeårnik	skuvlaastoáiggeortnet/skuvlafriddjaortnet	10	0	0	1
+
+sameforening	sábmesiebrre	sámesearvi	15	0	32	2
+
+planløsning	barggopládnatjoavdos	plánačoavddus	0	0	0	0
+
+realavkastning	almmabuvtadus	reálavuoitu/duohtavuoitu	1	0	0	0
+
+hovedutfordring	oajvvehásstalus	váldohástalus	15	0	7	3
+
+miljøregistrering	barggobirástjáledibme	birasregistreren	0	0	0	0
+
+språkoverføring	giellasirddem	giellafievrrideapmi/giellasirdin	3	1	0	0
+
+riksvei	rijkarahte	riikkageaidnu/riikkaluodda	4	2	0	0
+
+ferskfiskstrategi	varásguolle	varasguollestrategiija	0	1	0	0
+
+reinslakteri	boatsojnjuovadahka	boazonjuovahat	4	2	7	0
+
+arealkategori	areállakategoriddja	areálašládja	0	0	0	0
+
+alderskategori	ahkekategoriddja	ahkedássi	0	0	0	0
+
+plansak	barggopládnaássje	plánaášši	8	0	3	0
+
+arealplansak	areállapládnaássje	areálaplánaášši	0	0	0	0
+
+planvedtak	barggopládnamærrádus	plánamearrádus	4	0	1	0
+
+læremiddelpedagogikk	oahpponævvopedagogihkka	oahpponeavvopedagogihkka	11	4	3	0
+
+språkopplæringspolitikk	giellapolitijkka	giellaoahpahuspolitihkka	0	1	0	0
+
+ressursbank	resurssabáŋŋka	resursabáŋku	0	1	0	0
+
+reindriftssamisk	boatsojsábme	boazodoallosápmelaš	12	3	0	0
+
+allmenningsbruk	aktisasjmiehttseadnem	oktasašgeavaheapmi	0	0	0	0
+
+musikkfestival	musihkkafestiválla	musihkkafestivála	16	3	33	0
+
+avisartikkel	avijssaartihkal	aviisaartihkal	4	0	0	0
+
+arkivnøkkel	arkijvvatjåvda	arkiivačoavdda	0	0	1	0
+
+polarsirkel	nuorttagievlle	poláragierdu	1	10	0	0
+
+tidstabell	bielletabælla	áigetabealla	0	0	0	0
+
+hovedspørsmål	oajvvegatjálvis	váldogažaldat	3	1	2	1
+
+kostholdsspørsmål	biebbmogatjálvis	biebmodoallogažaldat	0	0	0	0
+
+opplæringsspørsmål	oahppogatjálvis	oahpahusgažaldat	5	0	1	1
+
+ambulanseteam	ambulánssajuogos	ambulánsadoaibmagoddi	0	0	0	0
+
+ordretteprogram	biehkkedivvomprográmma	sátnedivvunprográmma	0	0	0	0
+
+ernæringsprogram	biebbmoprográmma	biebmanprográmma	0	0	0	0
+
+samfunnsmedisin	aktisasjvuohtadálkas	servodatmedisiidna	3	0	0	0
+
+planadministrasjon	barggopládnaháldadibme	plánahálddahus	0	0	0	0
+
+arealsituasjon	areálladille	eanadilálašvuohta/areáladilli	5	0	0	0
+
+menneskerettskommisjon	almasjrievtesvuohtakommisjåvnnå	olmmošvuoigatvuođakommišuvdna	0	0	1	0
+
+planseksjon	barggopládnaåssudahka	plánasekšuvdna	0	0	0	0
+
+støttepunktfunksjon	gierggeájgge	doarjjabáikedoaibma	0	7	0	0
+
+lokalradio	lagosradio	báikerádio	0	3	0	0
+
+arbeidsseminar	barggoseminárra	bargoseminára	3	0	1	0
+
+myndighetsansvar	oajvveåvdåsvásstádus	eiseváldegeatnegasvuohta	0	8	0	0
+
+planveileder	barggopládnabagádalle	plánaveahkki	15	0	5	0
+
+planlegger	barggopládnadieres	plánejeaddji	26	0	8	0
+
+sametingspolitiker	sámedikkepolitihkkár	sámediggepolitihkar	0	2	4	0
+
+prisvinner	bálkkávuojtte	vuoiti	4	1	194	0
+
+leksehjelper	sijddabarggoviehkke	leaksoveahkki	0	1	1	0
+
+kretsskolelærer	aktavuohtaskåvllå	biireoahpaheaddji	0	0	0	0
+
+utredningssenter	guoradallamguovdásj	čielggadanguovddáš/guorahallanguovddáš	6	2	0	1
+
+forskningssenter	guoradallamguovdásj	dutkanguovddáš	4	2	6	0
+
+minimumsfaktor	ahkefaktåvrrå	unnimusmearri	1	0	1	0
+
+innsatsfaktor	barggofaktåvrrå	bijusfáktor/áŋgiruššanfáktor	3	0	0	0
+
+legekontor	dåktårkontåvrrå	doavtterkantuvra/doaktárkantuvra	5	13	0	2
+
+plankontor	barggopládnakontåvrrå	plánakantuvra/plánenkantuvra	0	0	0	0
+
+kretsstruktur	aktavuodastruktuvrra	biirehámádat	0	0	0	0
+
+partisekretær	belludahkatjálle	bellodatčálli	0	0	0	0
+
+bibliotekkurs	bibliotehkkakurssa	girjerájuskursa	0	0	0	0
+
+bibliotekressurs	bibliotehkkaresurssa	girjerájusresursa	0	0	0	0
+
+personellressurs	barggeressurssa	olmmošnákca	1	0	0	0
+
+lærerressurs	åhpadiddjeresurssa	oahpaheaddjeresursa	0	0	0	1
+
+praksisplass	hárjjidallamsadje	bargohárjehallansadji/hárjehallisadji	1	2	0	0
+
+brukerfokus	addneguovdásj	geavaheaddjifokus	0	0	0	0
+
+partiapparat	belludahkaapparáhtta	bellodatapparáhtta	0	0	0	0
+
+forsvarsmyndighet	suodjalimoajvve	suodjaluseiseváldi	0	1	0	0
+
+eierrettighet	æjgátriektá	oamastanvuoigatvuohta/eaiggátvuoigatvuohta	3	2	0	0
+
+arealenhet	areállaavtadahka	areálaovttadat	4	0	0	0
+
+arealavgift	areálladivut	viidodatdivat	0	0	0	0
+
+hovedprosjekt	oajvveprosjækta	váldoprošeakta	5	1	3	1
+
+sideprosjekt	bielleprosjækta	oalgeprošeakta	0	0	0	0
+
+veiplanprosjekt	rahteprosjækta	geaidnoplánaprošeakta	0	1	0	0
+
+arealkonflikt	areállarijddo	areálavuostálasvuohta/areálariidu	1	0	0	0
+
+fiskefelt	guollimdajvva	guolástansadji	3	1	0	0
+
+planinstrument	barggopládnanævvo	plánareaidu	0	0	0	0
+
+plankart	barggopládnakártta	plánakárta	2	0	0	0
+
+samegutt	sámebárnne	sámegánda	1	1	2	0
+
+høyslått	allaskåvllåsládjo	ládju	0	0	17	0
+
+kirkeliv	girkkoiellem	girkoeallin	32	4	17	13
+
+planinitiativ	barggopládnadåjmalasjvuohta	plánaálgga	0	0	0	0
+
+bibliotekbehov	bibliotehkkadárbbo	girjerádjodárbu	0	0	0	0
+
+arealbehov	areálladárbbo	areáladárbu	8	0	1	0
+
+planbehov	barggopládnadárbbo	plánadárbu	0	0	0	0
+
+samfunnsbehov	aktisasjvuohtadárbbo	servodatdárbu	1	0	0	0
+
+pengespillov	biednikjuoksa	ruhtaspealloláhka	0	0	0	0
+
+bygningslov	tsiekkadusláhka	huksenláhka	104	0	47	2
+
+kulturarv	kultuvrraárbbe	kulturárbi	68	3	44	2
+
+driftskjøretøy	barggovuoján	doaibmafievru	0	0	0	0
+
+planverktøy	barggopládnavædtsak	plánagaskaoapmi	0	0	0	0
+
+korrekturverktøy	korrektuvrravædtsak	čállindárkkistanreaidu/korrekturreaidu/riektačállinreaidu	3	0	0	1
+
+partinivå	belludahkadásse	bellodatdássi	0	0	0	0
+
+ekspertkomité	ássjedåbddejuogos	áššedovdilávdegoddi	6	5	5	0
+
+skaresnø	assudakmuohta	cuoŋomuohta	1	0	0	0

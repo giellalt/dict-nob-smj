@@ -1,0 +1,757 @@
+
+samfunnstema	aktisasjvuohtaássje	servodatfáddá	0	0	0	0
+samfunnstema	aktisasjvuohtatebmá	servodatfáddá	0	0	0	0
+
+tospråklighetstilskudd	guovtegielakvuodadoarjja	guovttegielalašvuođadoarjja/guovttegielatvuođadoarjja	46	1	0	0
+tospråklighetstilskudd	guovtegielakvuohtadoarjja	guovttegielalašvuođadoarjja/guovttegielatvuođadoarjja	46	1	0	7
+
+distriktstilskudd	guovllodoarjja	guovlludoarjja	6	0	0	0
+distriktstilskudd	guovlodoarjja	guovlludoarjja	6	0	0	0
+
+trearbeid	muorabarggo	muorrabargu	0	0	0	0
+trearbeid	muorrabarggo	muorrabargu	0	0	0	0
+
+vegarbeid	luoddabarggo	luoddabargu	0	0	0	0
+vegarbeid	luottabarggo	luoddabargu	0	0	0	0
+vegarbeid	gæjnnobarggo	geaidnobargu	0	0	4	0
+
+språkarbeid	gieladoajmma	gielladoaibma	57	0	17	0
+språkarbeid	gielabarggo	giellabargu	57	0	29	0
+språkarbeid	giellabarggo	giellabargu	57	9	29	0
+
+industrisamarbeid	industriddjaaktisasjbarggo	industriijaovttasbargu	0	0	0	0
+industrisamarbeid	industrijaaktisasjbarggo	industriijaovttasbargu	0	0	0	0
+
+maskinsamarbeid	masjijnaaktisasjbarggo	mašiidnaovttasbargu	0	0	0	0
+maskinsamarbeid	masjijnnaaktisasjbarggo	mašiidnaovttasbargu	0	0	0	0
+
+kultursamarbeid	kultuvrraaktisasjbarggo	kulturovttasbargu	7	0	3	0
+kultursamarbeid	kultuvraaktisasjbarggo	kulturovttasbargu	7	0	3	0
+
+ungdomssamarbeid	nuoraaktisasjbarggo	nuoraidovttasbargu	1	0	0	0
+ungdomssamarbeid	nuorraaktisasjbarggo	nuoraidovttasbargu	1	0	0	0
+
+kulturarbeid	kultuvrrabarggo	kulturbargu	8	0	11	0
+kulturarbeid	kultuvrabarggo	kulturbargu	8	0	11	0
+
+ungdomsarbeid	nuoradoajmma	nuoraiddoaibma	4	0	2	0
+ungdomsarbeid	nuorradoajmma	nuoraiddoaibma	4	0	2	0
+ungdomsarbeid	nuorabarggo	nuoraidbargu	4	0	5	0
+ungdomsarbeid	nuorrabarggo	nuoraidbargu	4	0	5	0
+
+vertsland	isedarijkka	isitriika	0	0	0	0
+vertsland	doalorijkka	doalloriika	0	0	0	0
+vertsland	doallorijkka	doalloriika	0	0	0	0
+vertsland	isetrijkka	isitriika	0	0	0	0
+
+filmfond	filmafoannda	filbmafoanda	10	0	8	0
+filmfond	filmmafoannda	filbmafoanda	10	0	8	0
+
+kulturfond	kultuvrrafoannda	kulturfoanda	95	0	45	0
+kulturfond	kultuvrafoannda	kulturfoanda	95	0	45	0
+kulturfond	kulturfoannda	kulturfoanda	95	0	45	0
+
+reindriftsfond	boatsojbarggofoannda	boazodoallofoanda	12	0	3	0
+reindriftsfond	boatsojbargofoannda	boazodoallofoanda	12	0	3	0
+
+industriforbund	industriddjalihtto	industriijalihttu	0	0	0	0
+industriforbund	industrijalihtto	industriijalihttu	0	0	0	0
+
+tilleggsjord	laseednam	lassieana	2	0	1	0
+tilleggsjord	lasseednam	lassieana	2	0	1	0
+
+utmarksgode	miehtseboanndudahka	meahcceriggodat	3	0	7	0
+utmarksgode	miehttseboanndudahka	meahcceriggodat	3	0	7	0
+utmarksgode	miehtseboanndudak	meahcceriggodat	3	0	7	0
+utmarksgode	miehttseboanndudak	meahcceriggodat	3	0	7	0
+
+fangstmetode	bivddovuohke	bivdovuohki	1	0	7	0
+fangstmetode	bivdovuohke	bivdovuohki	1	0	7	0
+
+naturområde	luonndoguovllo	luondduguovlu	5	0	3	0
+naturområde	luondoguovllo	luondduguovlu	5	0	3	0
+
+kulturområde	kultuvrrasuorgge	kultursuorgi	9	0	11	0
+kulturområde	kultuvrasuorgge	kultursuorgi	9	0	11	0
+
+utmarksområde	miehtseguovllo	meahcceguovlu	6	0	13	0
+utmarksområde	miehttseguovllo	meahcceguovlu	6	0	13	0
+
+ungdomsområde	nuorasuorgge	nuoraidsuorgi	0	0	0	0
+ungdomsområde	nuorrasuorgge	nuoraidsuorgi	0	0	0	0
+
+reindriftsområde	boatsojbarggoguovllo	boazodoalloguovlu	23	0	41	0
+reindriftsområde	boatsojbargoguovllo	boazodoalloguovlu	23	0	41	0
+
+dyretragedie	ielletragediddja	elliidtragediija	0	0	0	0
+dyretragedie	ielletragedija	elliidtragediija	0	0	0	0
+
+kvalitetsnisje	kvalitiehtavejulasjvuohta	kvalitehtavejolašvuohta	0	0	0	0
+kvalitetsnisje	kvalitehtavejulasjvuohta	kvalitehtavejolašvuohta	0	0	0	0
+kvalitetsnisje	kvalitiehttavejulasjvuohta	kvalitehtavejolašvuohta	0	0	0	0
+kvalitetsnisje	kvalitæhttavejulasjvuohta	kvalitehtavejolašvuohta	0	0	0	0
+kvalitetsnisje	kvalitiehtasuorgge	kvalitehtasuorgi	0	0	0	0
+kvalitetsnisje	kvalitehtasuorgge	kvalitehtasuorgi	0	0	0	0
+kvalitetsnisje	kvalitiehttasuorgge	kvalitehtasuorgi	0	0	0	0
+kvalitetsnisje	kvalitæhttasuorgge	kvalitehtasuorgi	0	0	0	0
+
+oppdrettsbransje	biebmadimesuorgge	guollebiebmansuorgi	0	0	0	0
+oppdrettsbransje	biebmadimsuorgge	guollebiebmansuorgi	0	0	0	0
+
+rike	rijkka	riika	52	1410	1218	0
+rike	stáhtta	riika/váldegoddi	52	429	0	0
+
+nakke	niehkke	niehkki	3	0	0	0
+nakke	nisske	niski	3	8	8	0
+
+kulturavtale	kultuvrrasjiehtadus	kulturšiehtadus	0	0	0	0
+kulturavtale	kultuvrasjiehtadus	kulturšiehtadus	0	0	0	0
+
+forlagsavtale	almmudahkasjiehtadibme	lágádusšiehtadus	0	0	0	0
+forlagsavtale	almmudaksjiehtadibme	lágádusšiehtadus	0	0	0	0
+
+reindriftsavtale	boatsojbarggosjiehtadus	boazodoallošiehtadus	116	0	59	0
+reindriftsavtale	boatsojbargosjiehtadus	boazodoallošiehtadus	116	0	59	0
+
+samfunnsrolle	aktisasjvuodaroalla	servodatrolla	0	0	0	0
+samfunnsrolle	aktisasjvuohtaroalla	servodatrolla	0	0	0	0
+
+sørsame	máttasábme	máttasápmelaš	24	0	6	0
+sørsame	lullesábme	lullisápmelaš	24	0	7	0
+
+forvaltningsregime	háldadusstivrra	hálddašanstivra	5	0	1	0
+forvaltningsregime	háldadusvuohke	hálddašanvuohki	5	0	3	0
+
+torvgamme	darfegoahte	darfegoahti	2	0	4	0
+torvgamme	lavnjegoahte	lavdnjegoahti	2	0	4	0
+
+bygdeturisme	gileturissma	gilliturisma	5	0	0	0
+bygdeturisme	gilleturissma	gilliturisma	5	0	0	0
+
+fisketurisme	guolleturissma	guolleturisma	5	0	0	0
+fisketurisme	guoleturissma	guolleturisma	5	0	0	0
+fisketurisme	bivdoturissma	bivdoturisma	5	0	0	0
+fisketurisme	guolástusturissma	guolástusturisma	5	0	0	0
+
+masseturisme	juohkusaturissma	joavkoturisma	0	0	0	0
+masseturisme	juogosturissma	joavkoturisma	0	0	0	0
+
+naturturisme	luonndoturissma	luondduturisma	0	0	0	0
+naturturisme	luondoturissma	luondduturisma	0	0	0	0
+
+kulturturisme	kultuvrraturissma	kulturturisma	0	0	0	0
+kulturturisme	kultuvraturissma	kulturturisma	0	0	0	0
+
+distriktskommune	guovllosuohkan	guovllusuohkan	2	0	0	0
+distriktskommune	guovlosuohkan	guovllusuohkan	2	0	0	0
+
+interessegruppe	berustimejuogos	beroštupmejoavku	3	0	0	0
+interessegruppe	berustimjuogos	beroštupmejoavku	3	0	0	0
+
+kulturbarriere	kultuvrratsagge	kulturcaggi	0	0	0	0
+kulturbarriere	kultuvratsagge	kulturcaggi	0	0	0	0
+
+områdestyre	guovllostivrra	guovllustivra	85	0	70	0
+områdestyre	guovlostivrra	guovllustivra	85	0	70	0
+
+gruppestyre	juohkusastivrra	joavkostivra	0	0	0	0
+gruppestyre	juogosstivrra	joavkostivra	0	0	0	0
+
+språkstyre	gielastivrra	giellastivra	63	0	27	0
+språkstyre	giellastivrra	giellastivra	63	1	27	0
+
+reindriftsstyre	boatsojbarggostivrra	boazodoallostivra	82	0	61	0
+reindriftsstyre	boatsojbargostivrra	boazodoallostivra	82	0	61	0
+
+maskinlære	masjijnaoahppa	mášenoahppu	0	0	0	0
+maskinlære	masjijnnaoahppa	mášenoahppu	0	0	0	0
+
+ernæringslære	biebmooahppa	biebmooahppu	0	0	0	0
+ernæringslære	biebbmooahppo	biebmooahppu	0	0	0	0
+ernæringslære	biebmooahppo	biebmooahppu	0	0	0	0
+
+kostholdsundersøkelse	biebbmoguoradallam	biebmodoalloguorahallan	0	0	0	0
+kostholdsundersøkelse	biebmoguoradallam	biebmodoalloguorahallan	0	0	0	0
+
+tilleggsbestemmelse	lasenjuolgadus	lassenjuolggadus	0	0	0	0
+tilleggsbestemmelse	lassenjuolgadus	lassenjuolggadus	0	0	0	0
+
+pikeværelse	niejddaladnja	nieidalatnja	0	0	0	0
+pikeværelse	niejdaladnja	nieidalatnja	0	0	0	0
+
+fisketillatelse	guolleloahpe	guollelohpi	1	0	0	0
+fisketillatelse	guoleloahpe	guollelohpi	1	0	0	0
+
+oppdrettstillatelse	biebmadimemiededibme	guollebiebmanlohpi	0	0	0	0
+oppdrettstillatelse	biebmadimmiededibme	guollebiebmanlohpi	0	0	0	0
+
+kulturutøvelse	kultuvradoajmma	kulturdoaibman	33	0	0	0
+kulturutøvelse	kultuvrrabarggo	kulturbargu	33	0	11	0
+kulturutøvelse	kultuvrabarggo	kulturbargu	33	0	11	0
+kulturutøvelse	kultuvrraadno	kulturgeavaheapmi	33	0	0	0
+kulturutøvelse	kultuvraadno	kulturgeavaheapmi	33	0	0	0
+
+industriinteresse	industriddjaberustibme	industriijaberoštupmi	0	0	0	0
+industriinteresse	industrijaberustibme	industriijaberoštupmi	0	0	0	0
+
+kulturkomite	kultuvrranammadus	kulturlávdegoddi	0	0	30	0
+kulturkomite	kultuvranammadus	kulturlávdegoddi	0	0	30	0
+
+plante	sjaddo	šaddu	39	168	110	0
+plante	miehtsesjaddo	meahccešaddu	39	0	0	0
+plante	miehttsesjaddo	meahccešaddu	39	0	0	0
+
+bokliste	girjjelissto	girjelistu	0	0	0	0
+bokliste	girjelissto	girjelistu	0	0	0	0
+
+medlemsliste	lahtolissto	lahttolistu	4	0	0	0
+medlemsliste	lahttolissto	lahttolistu	4	0	0	0
+
+nytte	ávkke	ávki	406	261	333	0
+nytte	gávnne	gávdni	406	53	7	0
+nytte	máhtto	áhpu	406	243	51	0
+
+kulturstøtte	kultuvrradoarjja	kulturdoarjja	1	0	6	0
+kulturstøtte	kultuvradoarjja	kulturdoarjja	1	0	6	0
+
+hurtigrute	merraguovllorukto	riddorukto	5	0	0	0
+hurtigrute	merraguovlorukto	riddorukto	5	0	0	0
+
+myte	myhta	myhta	4	0	12	0
+myte	gáddo	gáddu	4	3	5	0
+
+kystflåte	merraguovllovanntsa	riddofanas	7	0	3	0
+kystflåte	merraguovlovanntsa	riddofanas	7	0	3	0
+
+innspillsmøte	javllamustjoahkke	cealkámuščoahkkin	0	0	0	0
+innspillsmøte	javllamustjåhkanibme	cealkámuščoahkkin	0	0	0	0
+
+nominasjonsmøte	nominasjåvnnåtjoahkke	nominašunčoahkkin	0	0	2	0
+nominasjonsmøte	nominasjåvnnåtjåhkanibme	nominašuvdnačoahkkin	0	0	3	0
+
+konsultasjonsmøte	konsultasjåvnnåtjoahkke	konsultašuvdnačoahkkin	24	0	7	0
+konsultasjonsmøte	konsultasjåvnnåtjåhkanibme	konsultašuvdnačoahkkin	24	0	7	0
+
+komitémøte	nammadustjoahkke	lávdegoddečoahkkin	16	0	8	0
+komitémøte	nammadustjåhkanibme	lávdegoddečoahkkin	16	0	8	0
+
+internettutgave	internæhttahábme	interneahttahápmi	0	0	0	0
+internettutgave	internæhttaversjåvnnå	interneahttaveršuvdna	0	0	0	0
+
+løyve	doajmmaloahpe	doaibmalohpi/lohpi	11	2	0	0
+løyve	konsesjåvnnå	doaibmalohpi	11	27	7	0
+
+orienteringsfag	birrasaoahppa	birasoahppu	2	0	1	0
+orienteringsfag	birásoahppa	birasoahppu	2	0	1	0
+
+reindriftsfag	boatsojbarggofága	boazodoallofága	6	0	10	0
+reindriftsfag	boatsojbarggofáhka	boazodoallofága	6	0	10	0
+
+bygdelag	gilesiebrre	gilisearvi	16	0	36	0
+bygdelag	gillesiebrre	gilisearvi	16	0	36	0
+
+ressursgrunnlag	ressurssavuodo	resursavuođđu	25	1	6	0
+ressursgrunnlag	boanndudakvuodo	riggodatvuođđu	25	0	0	0
+
+tilleggsforslag	lijggeoajvvadus	liigeevttohus	22	0	0	0
+tilleggsforslag	lijgeoajvvadus	liigeevttohus	22	0	0	0
+tilleggsforslag	laseoajvvadus	lassievttohus	22	0	3	0
+tilleggsforslag	lasseoajvvadus	lassievttohus	22	0	3	0
+tilleggsforslag	lasseárvvalus	lassiárvalus	22	0	2	0
+
+pålegg	suvlle	suvli	64	1	0	0
+pålegg	bajusj	bajuš	64	4	0	0
+
+bygg	bivgge	bivgi	144	0	0	0
+bygg	huksen	huksen	144	0	317	0
+
+kulturbygg	kultuvrravisste	kulturvisti	38	0	4	0
+kulturbygg	kultuvravisste	kulturvisti	38	0	4	0
+kulturbygg	kultuvrraviesso	kulturviessu	38	0	78	0
+kulturbygg	kultuvraviesso	kulturviessu	38	0	78	0
+
+sommerbolig	gieseviesso	geasseviessu	0	0	1	0
+sommerbolig	giesseviesso	geasseviessu	0	0	1	0
+
+fylkesutvalg	fylkkanammadus	fylkkalávdegoddi	4	0	6	0
+fylkesutvalg	fylkanammadus	fylkkalávdegoddi	4	0	6	0
+
+ungdomsutvalg	nuoranammadus	nuoraidlávdegoddi	5	0	15	0
+ungdomsutvalg	nuorranammadus	nuoraidlávdegoddi	5	0	15	0
+
+fang	salla	salla	12	2	18	0
+fang	asske	aski	12	22	6	0
+
+kalvetilgang	miesesjaddo	miessešaddu	4	0	2	0
+kalvetilgang	miessesjaddo	miessešaddu	4	0	2	0
+
+teltstang	goademuorra	goahtemuorra	2	0	0	0
+teltstang	goahtemuorra	goahtemuorra	2	0	0	0
+teltstang	lávvomuorra	lávvomuorra	2	0	1	0
+
+samfunnssammenheng	aktisasjvuodagasskavuohta	servodatoktavuohta	2	0	0	0
+samfunnssammenheng	aktisasjvuohtagasskavuohta	servodatoktavuohta	2	0	0	0
+samfunnssammenheng	aktisasjvuodaaktijvuohta	servodatoktavuohta	2	0	0	0
+samfunnssammenheng	aktisasjvuohtaaktijvuohta	servodatoktavuohta	2	0	0	0
+
+kommunedelplanlegging	gielldaoasse	gielddaoasseplánen	0	0	0	0
+kommunedelplanlegging	buorggooasse	gielddaoasseplánen	0	0	0	0
+
+fisketilvirking	guollebuvtadus	guollebuvttadus	0	0	0	0
+fisketilvirking	guolebuvtadus	guollebuvttadus	0	0	0	0
+
+regioninndeling	guovllojuohko	guovlojuohku	1	0	0	0
+regioninndeling	guovlojuohko	guovlojuohku	1	0	0	0
+
+terminologiutvikling	terminologiddjaåvddånibme	terminologiijaovdánahttin/terminologiijaráhkadeapmi/terminologiijaovddideapmi	13	0	0	2
+terminologiutvikling	terminologiddjaåvddånahttem	terminologiijaovdánahttin/terminologiijaráhkadeapmi/terminologiijaovddideapmi	13	0	0	2
+
+komitéinnstilling	nammadusoajvvadus	lávdegoddeevttohus	1	0	0	0
+komitéinnstilling	nammadusárvvalus	lávdegoddeárvalus	1	0	0	0
+
+bibliotekutredning	bibliotehkkaguoradallam	girjerádjočielggadeapmi	0	0	0	0
+bibliotekutredning	bibliotehkkaguoradus	girjerádjočielggadeapmi	0	0	0	0
+
+kulturutredning	kultuvratjielgadus	kulturčielggadus	0	0	0	0
+kulturutredning	kultuvrratjielggidus	kulturčielggadeapmi	0	0	0	0
+kulturutredning	kultuvratjielggidus	kulturčielggadeapmi	0	0	0	0
+
+tilleggsutredning	lasetjielgadus	lassičielggadus	1	0	0	0
+tilleggsutredning	lassetjielgadus	lassičielggadus	1	0	0	0
+
+fritidsordning	asstoájggeårnik	astoáiggeortnet	1	0	2	0
+fritidsordning	asstoårnik	astoáiggeortnet	1	0	2	0
+fritidsordning	asstoájggeásadus	astoáiggeortnet	1	0	2	0
+fritidsordning	asstoásadus	astoáiggeortnet	1	0	2	0
+
+kulturforening	kultuvrrasiebrre	kultursearvi	0	0	1	0
+kulturforening	kultuvrasiebrre	kultursearvi	0	0	1	0
+
+medlemsforening	lahtosiebrre	lahttosearvi	1	0	0	0
+medlemsforening	lahttosiebrre	lahttosearvi	1	0	0	0
+
+vegstrekning	luoddagasska	luoddagaska	0	0	0	0
+vegstrekning	luottagasska	luoddagaska	0	0	0	0
+
+utmarksstrekning	miehtsegasska	meahccegaska	2	0	0	0
+utmarksstrekning	miehttsegasska	meahccegaska	2	0	0	0
+
+samfunnsforskning	aktisasjvuohtaåtsådibme	servodatdutkan	5	0	3	0
+samfunnsforskning	aktisasjvuodaguoradallam	servodatdutkan	5	0	3	0
+samfunnsforskning	aktisasjvuohtaguoradallam	servodatdutkan	5	0	3	0
+
+høyere utdanning	oahppa	allaoahppu	0	2355	2	0
+høyere utdanning	åhpadus	allaoahppu	0	1277	2	0
+
+fiskeforvaltning	guolleháldadus	guollehálddašeapmi	3	0	1	0
+fiskeforvaltning	guolástusháldadus	guolástushálddahus	3	0	1	0
+
+samfunnsgeografi	aktisasjvuodageografiddja	servodatgeografiija	0	0	0	0
+samfunnsgeografi	aktisasjvuodageografijja	servodatgeografiija	0	0	0	0
+
+fagterminologi	fágaterminologiddja	fágatearbma	6	0	2	0
+fagterminologi	fáhkaterminologiddja	fágaterminologiija/fágatearbma	6	2	0	2
+
+kommuneøkonomi	gielldaekonomiddja	gielddaekonomiija	8	0	1	0
+kommuneøkonomi	buorggoekonomiddja	gielddaekonomiija	8	0	1	0
+kommuneøkonomi	gieldaruhtadille	gielddaruhtadilli	8	0	0	0
+kommuneøkonomi	gielldaruhtadille	gielddaruhtadilli	8	0	0	0
+kommuneøkonomi	buorgoruhtadille	gielddaruhtadilli	8	0	0	0
+
+samfunnsøkonomi	aktisasjvuohtaekonomiddja	servodatekonomiija	2	0	0	0
+samfunnsøkonomi	aktisasjvuodaruhtadille	servodatekonomiija	2	0	0	0
+samfunnsøkonomi	aktisasjvuohtaruhtadille	servodatekonomiija	2	0	0	0
+
+fiskeindustri	guolleindustriddja	guolleindustriija	8	0	3	0
+fiskeindustri	guolástusindustriddja	guolleindustriija	8	0	3	1
+
+ungdomstiltak	nuoradoajmma	nuoraiddoaibma	5	0	2	0
+ungdomstiltak	nuorradoajmma	nuoraiddoaibma	5	0	2	0
+
+kvalitetstiltak	kvalitiehtadoajmma	kvaliteahttadoaibma	0	0	0	0
+kvalitetstiltak	kvalitehtadoajmma	kvaliteahttadoaibma	0	0	0	0
+kvalitetstiltak	kvalitiehttadoajmma	kvaliteahttadoaibma	0	0	0	0
+
+forvaltningsskikk	háldadusdáhpe	hálddašandáhpi	4	0	0	0
+forvaltningsskikk	háldadusvierro	hálddašanvierru	4	0	1	0
+
+oppgavefordelingsproblematikk	barggojuogoproblematihkka	bargguidjuogadanváttisvuohta	0	0	0	0
+oppgavefordelingsproblematikk	barggojuogoproblematijkka	bargguidjuogadanváttisvuohta	0	0	0	0
+oppgavefordelingsproblematikk	barggojuohkoproblematijkka	bargguidjuogadanváttisvuohta	0	0	0	0
+
+nordområdepolitikk	davepolitihkka	davviguovllupolitihkka	32	0	1	0
+nordområdepolitikk	nuorttaguovllopolitihkka	davviguovlluidpolitihkka/davviguovlopolitihkka/davviguovllupolitihkka	32	2	0	2
+nordområdepolitikk	davveguovlopolitihkka	davviguovlopolitihkka	32	0	7	0
+nordområdepolitikk	davepolitijkka	davviguovllupolitihkka	32	0	1	0
+nordområdepolitikk	davvepolitijkka	davviguovllupolitihkka	32	0	1	0
+
+familiepolitikk	berrahapolitihkka	bearašpolitihkka	1	0	1	0
+familiepolitikk	berajpolitihkka	bearašpolitihkka	1	0	1	0
+familiepolitikk	berrahapolitijkka	bearašpolitihkka	1	0	1	0
+familiepolitikk	berajpolitijkka	bearašpolitihkka	1	0	1	0
+
+kirkepolitikk	girkkopolitihkka	girkopolitihkka	0	0	1	0
+kirkepolitikk	girkkopolitijkka	girkopolitihkka	0	0	1	0
+
+kolonipolitikk	koloniddjapolitihkka	koloniijapolitihkka	0	0	0	0
+kolonipolitikk	kolonijapolitihkka	koloniijapolitihkka	0	0	0	0
+
+industripolitikk	industriddjapolitihkka	industriijapolitihkka	0	0	0	0
+industripolitikk	industrijapolitihkka	industriijapolitihkka	0	0	0	0
+
+regionalpolitikk	guovlopolitihkka	guovlopolitihkka	24	0	3	0
+regionalpolitikk	guovllopolitijkka	guovlopolitihkka	24	0	3	0
+regionalpolitikk	guovlopolitijkka	guovlopolitihkka	24	0	3	0
+
+personalpolitikk	barggepolitihkka	bargiidpolitihkka	8	0	4	0
+personalpolitikk	barggepolitijkka	bargiidpolitihkka	8	0	4	0
+
+kulturpolitikk	kultuvrrapolitihkka	kulturpolitihkka	32	0	25	0
+kulturpolitikk	kultuvrapolitihkka	kulturpolitihkka	32	0	25	0
+kulturpolitikk	kultuvrrapolitijkka	kulturpolitihkka	32	0	25	0
+kulturpolitikk	kultuvrapolitijkka	kulturpolitihkka	32	0	25	0
+
+ungdomspolitikk	nuorapolitihkka	nuoraidpolitihkka	10	0	18	0
+ungdomspolitikk	nuorrapolitihkka	nuoraidpolitihkka	10	0	18	0
+ungdomspolitikk	nuorapolitijkka	nuoraidpolitihkka	10	0	18	0
+ungdomspolitikk	nuorrapolitijkka	nuoraidpolitihkka	10	0	18	0
+
+informasjonspolitikk	diehtojuohkemapolitihkka	diehtojuohkinpolitihkka	1	0	0	0
+informasjonspolitikk	diehtojuohkempolitihkka	diehtojuohkinpolitihkka	1	0	0	0
+informasjonspolitikk	diehtojuohkemapolitijkka	diehtojuohkinpolitihkka	1	0	0	0
+informasjonspolitikk	diehtojuohkempolitijkka	diehtojuohkinpolitihkka	1	0	0	0
+
+reindriftspolitikk	boatsojbarggopolitihkka	boazodoallopolitihkka	37	0	23	0
+reindriftspolitikk	ællobarggopolitihkka	boazodoallopolitihkka	37	1	23	0
+reindriftspolitikk	boatsojbargopolitihkka	boazodoallopolitihkka	37	0	23	0
+reindriftspolitikk	boatsojbarggopolitijkka	boazodoallopolitihkka	37	0	23	0
+reindriftspolitikk	boatsojbargopolitijkka	boazodoallopolitihkka	37	0	23	0
+
+kystpolitikk	merraguovllopolitihkka	riddopolitihkka	1	0	0	0
+kystpolitikk	merraguovlopolitihkka	riddopolitihkka	1	0	0	0
+kystpolitikk	merraguovllopolitijkka	riddopolitihkka	1	0	0	0
+kystpolitikk	merraguovlopolitijkka	riddopolitihkka	1	0	0	0
+
+miljøpolitikk	birrasapolitihkka	biraspolitihkka	11	0	5	0
+miljøpolitikk	biráspolitihkka	biraspolitihkka	11	3	5	0
+miljøpolitikk	birrasapolitijkka	biraspolitihkka	11	0	5	0
+
+fangstatistikk	bivdostatistihkka	bivdostatistihkka	0	0	1	0
+fangstatistikk	bivddostatistijkka	bivdostatistihkka	0	0	1	0
+fangstatistikk	bivdostatistijkka	bivdostatistihkka	0	0	1	0
+
+blokk	gierddeviesso	geardeviessu	4	0	0	0
+blokk	gierdeviesso	geardeviessu	4	0	0	0
+
+søskenflokk	oappásj	oappážat	1	13	8	0
+søskenflokk	oabbá	oappážat	1	141	8	0
+
+matematikkverk	matematihkagirjje	matematihkkagirji	6	0	2	0
+matematikkverk	matematijkagirjje	matematihkkagirji	6	0	2	0
+matematikkverk	matematihkkagirjje	matematihkkagirji	6	0	2	0
+matematikkverk	matematijkkagirjje	matematihkkagirji	6	0	2	0
+
+villmarksfisk	miehtseguollebivddo	meahcceguollebivdu	0	0	0	0
+villmarksfisk	miehttseguollebivddo	meahcceguollebivdu	0	0	0	0
+
+melkebruk	mielkkedoallo	mielkedoallu	1	0	0	0
+melkebruk	mielkedoallo	mielkedoallu	1	0	0	0
+
+utmarksbruk	miehtseadno	meahccegeavaheapmi	50	0	9	0
+utmarksbruk	miehttseadno	meahccegeavaheapmi	50	0	9	0
+
+gruppemiddel	juohkusaruhta	joavkoruhta	1	0	0	0
+gruppemiddel	juogosruhta	joavkoruhta	1	0	0	0
+
+kulturmiddel	kultuvrraruhta	kulturruhta	0	0	4	0
+kulturmiddel	kultuvraruhta	kulturruhta	0	0	4	0
+
+kollektivandel	kollektijvaoasse	kollektiivaoassi	0	0	0	0
+kollektivandel	kollektijvvaoasse	kollektiivaoassi	0	0	0	0
+
+kulturformål	kultuvrraulmme	kulturulbmil	39	0	7	0
+kulturformål	kultuvraulmme	kulturulbmil	39	0	7	0
+
+kystformål	merraguovlloulmme	riddoulbmil	0	0	0	0
+kystformål	merraguovloulmme	riddoulbmil	0	0	0	0
+
+samfunnssystem	aktisasjvuohtavuogádahka	servodatvuogádat/servodatsystema	0	0	0	0
+samfunnssystem	aktisasjvuodasystiebma	servodatvuogádat/servodatsystema	0	0	0	0
+samfunnssystem	aktisasjvuohtasystiebma	servodatvuogádat/servodatsystema	0	0	0	0
+samfunnssystem	aktisasjvuodavuohke	servodatvuogádat/servodatsystema	0	0	0	0
+samfunnssystem	aktisasjvuohtavuohke	servodatvuogádat/servodatsystema	0	0	0	0
+
+fritidseiendom	asstoájggeæjggo	astoáiggeopmodat	5	0	0	0
+fritidseiendom	asstoæjggo	astoáiggeopmodat	5	0	0	0
+
+melkerom	mielkkeladnja	mielkelatnja	0	0	0	0
+melkerom	mielkeladnja	mielkelatnja	0	0	0	0
+
+kvalitetskriterium	kvalitæhttakriteria	kvalitehtakriteria	0	0	0	0
+kvalitetskriterium	kvalitæhttaækto	kvalitehtaeaktu	0	0	0	0
+
+samarbeidsforum	aktisasjbarggoságastallamsadje	ovttasbargoforum/ovttasbargobáiki	8	0	0	0
+samarbeidsforum	aktisasjbarggosadje	ovttasbargoforum/ovttasbargobáiki	8	0	0	0
+samarbeidsforum	aktisasjbargosadje	ovttasbargoforum/ovttasbargobáiki	8	0	0	0
+
+samordningsforum	aktidimesadje	ovttastahttinforum	0	0	0	0
+samordningsforum	aktidimsadje	ovttastahttinforum	0	0	0	0
+
+reinsogn	boatsojsuohkan	boazosuohkan	1	0	4	0
+reinsogn	boahttsusuohkan	boazosuohkan	1	0	4	0
+reinsogn	guovllo	guovlu	1	1134	1886	0
+
+rein	hiergge	heargi	3714	64	183	0
+rein	boatsoj	geahččoboazu	3714	479	2	0
+
+reinskinn	duollje	duollji	8	12	18	0
+reinskinn	boatsojduollje	bohccoduollji	8	0	0	0
+reinskinn	boahttsuduollje	bohccoduollji	8	0	0	0
+reinskinn	boatsojnáhkke	bohcconáhkki	8	0	1	0
+
+kommunesamfunn	gieldasebrudahka	gielddaservodat	0	0	0	0
+kommunesamfunn	gielldasebrudahka	gielddaservodat	0	0	0	0
+kommunesamfunn	buorgosebrudahka	gielddaservodat	0	0	0	0
+kommunesamfunn	gieldasebrudak	gielddaservodat	0	0	0	0
+kommunesamfunn	gielldasebrudak	gielddaservodat	0	0	0	0
+kommunesamfunn	buorggosebrudak	gielddaservodat	0	0	0	0
+kommunesamfunn	buorgosebrudak	gielddaservodat	0	0	0	0
+
+kystsamfunn	merraguovllosebrudahka	riddoservodat	4	0	1	0
+kystsamfunn	merraguovlosebrudahka	riddoservodat	4	0	1	0
+kystsamfunn	merraguovllosebrudak	riddoservodat	4	0	1	0
+kystsamfunn	merraguovlosebrudak	riddoservodat	4	0	1	0
+
+kriseinformasjon	hiedediehto	heahtediehtu	1	0	1	0
+kriseinformasjon	hiehtediehto	heahtediehtu	1	0	1	0
+
+samfunnsinformasjon	aktisasjvuodadiehtojuohkem	servodatdiehtu/servodatinformašuvdna	0	0	0	0
+samfunnsinformasjon	aktisasjvuohtadiehtojuohkem	servodatdiehtu/servodatinformašuvdna	0	0	0	0
+
+kontaktinformasjon	aktijvuodadiehtojuohkem	oktavuođadiehtu	37	0	0	0
+kontaktinformasjon	aktijvuohtadiehtojuohkem	oktavuođadiehtu	37	0	0	0
+
+kulturorganisasjon	kultuvrraorganisasjåvnnå	kulturorganisašuvdna	23	0	16	0
+kulturorganisasjon	kulturorganisasjåvnnå	kulturorganisašuvdna	23	0	16	0
+
+laksekonsesjon	luosaloahpe	luossalohpi	1	0	0	0
+laksekonsesjon	luossaloahpe	luossalohpi	1	0	0	0
+
+kulturtradisjon	kultuvrraárbbedáhpe	kulturárbevierru	5	0	2	0
+kulturtradisjon	kultuvrravierro	kulturvierru	5	0	0	0
+
+disposisjon	hálldoadno	háldogeavaheapmi	103	0	0	0
+disposisjon	disposisjåvnnå	háldogeavaheapmi	103	2	0	0
+
+kalveproduksjon	miesesjaddo	miessešaddu	0	0	2	0
+kalveproduksjon	miessesjaddo	miessešaddu	0	0	2	0
+
+bokproduksjon	girjjebuvtadus	girjebuvttadus	15	0	1	0
+bokproduksjon	girjebuvtadus	girjebuvttadus	15	0	1	0
+
+reinkalvproduksjon	miesesjaddo	miessešaddu	0	0	2	0
+reinkalvproduksjon	miessesjaddo	miessešaddu	0	0	2	0
+
+kulturperson	kultuvrraulmusj	kulturolmmoš	0	0	0	0
+kulturperson	kultuvraulmusj	kulturolmmoš	0	0	0	0
+
+familievern	berrahasuodjalibme	bearašsuodjalus	8	0	4	0
+familievern	berajsuodjalibme	bearašsuodjalus	8	0	4	0
+familievern	berrahasuodjalus	bearašsuodjalus	8	0	4	0
+familievern	berajsuodjalus	bearašsuodjalus	8	0	4	0
+
+arealvern	areállasuodjalibme	areálagáhttenbargu/areálasuodjalus/areálasuodjaleapmi	15	0	0	0
+arealvern	areállasuodjalus	areálagáhttenbargu/areálasuodjalus/areálasuodjaleapmi	15	0	0	0
+
+ungdomsvern	nuorasuodjalus	nuoraidsuodjalus	0	0	0	0
+ungdomsvern	nuorrasuodjalus	nuoraidsuodjalus	0	0	0	0
+
+ekstrahjelp	laseviehkke	lassiveahkki	1	0	0	0
+ekstrahjelp	lasseviehkke	lassiveahkki	1	0	0	0
+
+topp	giera	allaseahtu	37	29	0	0
+topp	tjåhkkå	allaseahtu	37	112	0	0
+
+kontaktregister	aktijvuodaregistar	oktavuođadiehtu	0	0	0	0
+kontaktregister	aktijvuohtaregistar	oktavuođadiehtu	0	0	0	0
+kontaktregister	aktijvuohtalågos	oktavuođadiehtu	0	0	0	0
+
+kulturspor	kultuvrraluodda	kulturluodda	4	0	0	0
+kulturspor	kultuvraluodda	kulturluodda	4	0	0	0
+
+kulturfaktor	kultuvrrabielle	kulturbealli	2	0	2	0
+kulturfaktor	kultuvrabielle	kulturbealli	2	0	2	0
+
+samfunnssektor	aktisasjvuodasuorgge	servodatsektor/servodatsuorgi	2	0	0	0
+samfunnssektor	aktisasjvuohtasuorgge	servodatsektor/servodatsuorgi	2	0	0	0
+
+kommunekontor	gielldakontåvrrå	gielddakantuvra	0	0	0	0
+kommunekontor	buorggokontåvrrå	gielddakantuvra	0	0	0	0
+
+infrastruktur	infrastruktuvrra	infrastruktuvra	112	30	31	0
+infrastruktur	vuodostruktuvrra	vuođđostruktuvra	112	15	5	0
+
+samfunnsstruktur	aktisasjvuodastruktuvrra	servodatstruktuvra	1	0	0	0
+samfunnsstruktur	aktisasjvuohtastruktuvrra	servodatstruktuvra	1	0	0	0
+samfunnsstruktur	sebrudakstruktuvrra	servodatstruktuvra	1	4	0	0
+samfunnsstruktur	aktisasjvuohtahábme	servodatstruktuvra	1	0	0	0
+
+budsjettstruktur	budjehtastruktuvrra	bušeahttastruktuvra	1	0	0	0
+budsjettstruktur	budsjehtastruktuvrra	bušeahttastruktuvra	1	0	0	0
+budsjettstruktur	budsjæhttastruktuvrra	bušeahttastruktuvra	1	0	0	0
+
+kystkultur	merragáddekultuvrra	riddokultuvra	7	0	1	1
+kystkultur	merraguovllokultuvrra	riddokultuvra	7	0	1	0
+kystkultur	merraguovlokultuvrra	riddokultuvra	7	0	1	0
+
+kulturgods	kultuvrraboanndudahka	kulturriggodat	0	0	0	0
+kulturgods	kultuvraboanndudahka	kulturriggodat	0	0	0	0
+kulturgods	kultuvrraboanndudak	kulturriggodat	0	0	0	0
+kulturgods	kultuvraboanndudak	kulturriggodat	0	0	0	0
+
+fiskepris	guollehadde	guollehaddi	0	0	0	0
+fiskepris	guolehadde	guollehaddi	0	0	0	0
+
+matvarepris	biebbmohievedibme	biebmogálvohaddi	1	0	0	0
+matvarepris	biebmohievedibme	biebmogálvohaddi	1	0	0	0
+matvarepris	biebbmogudnebálkká	biebmogálvohaddi	1	0	0	0
+
+kjøttpris	bierggohadde	biergohaddi	0	0	4	0
+kjøttpris	biergohadde	biergohaddi	0	0	4	0
+
+oppdrettslaks	biebbmoluossa	biebmoluossa	7	0	7	0
+oppdrettslaks	biebmoluossa	biebmoluossa	7	0	7	0
+
+kurs	gurssa	gursa	206	0	2	0
+kurs	kurssa	kursa	206	217	185	0
+
+kulturkurs	kultuvrrakurssa	kulturkursa	0	0	0	0
+kulturkurs	kultuvrakurssa	kulturkursa	0	0	0	0
+
+naturressurs	luonndoboanndudahka	luondduriggodat	101	0	47	0
+naturressurs	luondoboanndudahka	luondduriggodat	101	0	47	0
+naturressurs	luonndoresurssa	luondduresursa/luondduvalljodat/luondduriggodat	101	0	0	1
+naturressurs	luondoresurssa	luondduresursa	101	0	17	0
+naturressurs	luonndoressurssa	luondduresursa	101	0	17	0
+naturressurs	luondoressurssa	luondduresursa	101	0	17	0
+naturressurs	luonndoboanndudak	luondduriggodat	101	0	47	0
+naturressurs	luondoboanndudak	luondduriggodat	101	0	47	0
+
+kystressurs	merraguovlloresurssa	riddoresursa	0	0	0	0
+kystressurs	merraguovloresurssa	riddoresursa	0	0	0	0
+kystressurs	merraguovlloressurssa	riddoresursa	0	0	0	0
+kystressurs	merraguovloressurssa	riddoresursa	0	0	0	0
+
+grendehus	gileviesso	giliviessu	3	0	11	0
+grendehus	gilleviesso	giliviessu	3	0	11	0
+
+kommunehus	gieldaviesso	gielddaviessu	1	0	1	0
+kommunehus	gielldaviesso	gielddaviessu	1	0	1	0
+kommunehus	buorggoviesso	gielddaviessu	1	0	1	0
+kommunehus	buorgoviesso	gielddaviessu	1	0	1	0
+
+kulturhus	kultuvrraviesso	kulturviessu	104	0	78	0
+kulturhus	kultuvraviesso	kulturviessu	104	0	78	0
+
+ungdomshus	nuoraviesso	nuoraidviessu	0	0	2	0
+ungdomshus	nuorraviesso	nuoraidviessu	0	0	2	0
+
+samfunnsmandat	aktisasjvuohtamandáhtta	servodatváldi/servodatmandáhta	1	0	0	0
+samfunnsmandat	aktisasjvuohtagåhtjodus	servodatváldi/servodatmandáhta	1	0	0	0
+
+barnehagemyndighet	mánájgárddevállde	mánáidgárdeváldi	2	0	0	0
+barnehagemyndighet	mánájgárddefábmodus	mánáidgárdeeiseváldi	2	0	0	0
+
+forvaltningsmyndighet	háldadusvállde	hálddašanváldi	26	0	8	0
+forvaltningsmyndighet	háldadusfábmodus	hálddašaneiseváldi	26	0	8	0
+
+industrimulighet	industriddjavejulasjvuohta	industriijavejolašvuohta	0	0	0	0
+industrimulighet	industrijavejulasjvuohta	industriijavejolašvuohta	0	0	0	0
+
+landrettighet	ednamarievtesvuohta	eananvuoigatvuohta	15	0	0	0
+landrettighet	ednamrievtesvuohta	eananvuoigatvuohta	15	0	0	0
+
+utmarksrettighet	miehtserievtesvuohta	meahccevuoigatvuohta	0	0	0	0
+utmarksrettighet	miehttserievtesvuohta	meahccevuoigatvuohta	0	0	0	0
+
+bruksrettighet	anorievtesvuohta	geavahanvuoigatvuohta	18	0	30	0
+bruksrettighet	adnorievtesvuohta	geavahanvuoigatvuohta	18	0	30	0
+bruksrettighet	adnemrievtes	geavahanvuoigatvuohta/geavahanriekti	18	0	0	0
+bruksrettighet	adnoriektá	geavahanriekti	18	1	5	0
+
+matvaresikkerhet	biebbmovissesvuohta	biebmooadjebasvuohta	3	0	0	0
+matvaresikkerhet	biebmovissesvuohta	biebmooadjebasvuohta	3	0	0	0
+matvaresikkerhet	biebbmotjårggisvuohta	biebmooadjebasvuohta	3	0	0	0
+
+samfunnssikkerhet	aktisasjvuodavissesvuohta	servodatsihkarvuohta/servodatoadjebasvuohta	9	0	0	0
+samfunnssikkerhet	aktisasjvuohtavissesvuohta	servodatsihkarvuohta/servodatoadjebasvuohta	9	0	0	0
+samfunnssikkerhet	aktisasjvuohtatjårggisvuohta	servodatsihkarvuohta/servodatoadjebasvuohta	9	0	0	0
+
+oppdrettsaktivitet	biebmadimedoajmma	biebmandoaibma/guollebiebmandoaibma	1	0	0	0
+oppdrettsaktivitet	biebmadimdoajmma	biebmandoaibma/guollebiebmandoaibma	1	0	0	0
+
+kulturaspekt	kultuvrrabielle	kulturbealli	1	0	2	0
+kulturaspekt	kultuvrabielle	kulturbealli	1	0	2	0
+
+interessekonflikt	berustimerijddo	beroštupmeriidu	2	0	0	0
+interessekonflikt	berustimrijddo	beroštupmeriidu	2	0	0	0
+
+tilleggspunkt	lasetjuokkes	lassičuokkis	2	0	1	0
+tilleggspunkt	lasádustjuokkes	lasáhusčuokkis	2	0	0	0
+
+kulturfelt	kultuvrrasuorgge	kultursuorgi	6	0	11	0
+kulturfelt	kultuvrasuorgge	kultursuorgi	6	0	11	0
+
+vegkant	luoddarabdda	luoddaravda	0	0	0	0
+vegkant	luottarabdda	luoddaravda	0	0	0	0
+vegkant	gæjnnorabdda	geaidnoravda	0	0	2	0
+vegkant	luoddaguorra	luoddaguorra	0	0	5	0
+vegkant	luottaguorra	luoddaguorra	0	0	5	0
+vegkant	gæjnnoguorra	geaidnoguorra	0	0	6	0
+
+kulturarrangement	kultuvrrabarggo	kulturdoallu	9	0	9	0
+kulturarrangement	kultuvrabarggo	kulturdoallu	9	0	9	0
+kulturarrangement	kultuvrradoallo	kulturdoallu	9	0	9	0
+kulturarrangement	kultuvradoallo	kulturdoallu	9	0	9	0
+
+ungdomsarrangement	nuoradoallo	nuoraiddoalut	0	0	0	0
+ungdomsarrangement	nuorradoallo	nuoraiddoalut	0	0	0	0
+
+naturelement	luonndobielle	luonddubealli	0	0	0	0
+naturelement	luondobielle	luonddubealli	0	0	0	0
+
+kulturdepartement	kultuvrradepartemænnta	kulturdepartemeanta	63	0	31	0
+kulturdepartement	kulturdepartemænnta	kulturdepartemeanta	63	10	31	0
+
+samarbeidspart	aktisasjbarggobielle	ovttasbargoguoibmi	9	0	22	0
+samarbeidspart	aktisasjbargobielle	ovttasbargoguoibmi	9	0	22	0
+samarbeidspart	aktisasjbargoguojmme	ovttasbargoguoibmi	9	0	22	0
+
+kollektivkort	kollektijvagoartta	kollektiivagoarta	0	0	0	0
+kollektivkort	kollektijvvagoartta	kollektiivagoarta	0	0	0	0
+
+bifangst	lasebivddo	lassibivdu	6	0	0	0
+bifangst	lassebivddo	lassibivdu	6	0	0	0
+
+budsjettpost	budjehtapoassta	bušeahttapoasta	21	0	7	0
+budsjettpost	budsjehtapoassta	bušeahttapoasta	21	0	7	0
+
+samfunnskrav	aktisasjvuohtarávkalvis	servodatgáibádus	0	0	0	0
+samfunnskrav	aktisasjvuohtagájbbádus	servodatgáibádus	0	0	0	0
+
+kulturliv	kultuvrraielle	kultureallin	53	0	18	0
+kulturliv	kultuvraielle	kultureallin	53	0	18	0
+
+kulturperspektiv	kultuvrraperspektijvva	kulturperspektiiva	1	0	0	0
+kulturperspektiv	kultuvraperspektijvva	kulturperspektiiva	1	0	0	0
+
+samfunnsperspektiv	aktisasjvuodaperspektijvva	servodatoaidnu/servodatperspektiiva	4	0	0	0
+samfunnsperspektiv	aktisasjvuohtaperspektijvva	servodatoaidnu/servodatperspektiiva	4	0	0	0
+
+kvalitetsperspektiv	kvalitiehtaperspektijvva	kvalitehtaperspektiiva	0	0	0	0
+kvalitetsperspektiv	kvalitehtaperspektijvva	kvalitehtaperspektiiva	0	0	0	0
+kvalitetsperspektiv	kvalitiehttaperspektijvva	kvalitehtaperspektiiva	0	0	0	0
+kvalitetsperspektiv	kvalitæhttaperspektijvva	kvalitehtaperspektiiva	0	0	0	0
+
+veglov	luoddaláhka	luoddaláhka	0	0	0	0
+veglov	gæjnnoláhka	geaidnoláhka	0	0	1	0
