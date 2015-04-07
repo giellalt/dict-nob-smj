@@ -1,70 +1,70 @@
 
 utdanningspolitikk	oahppapolitihkka	oahppopolitihkka	27	0	1	0
-utdanningspolitikk	oahppapolitijkka	oahppopolitihkka	27	0	1	0
+@utdanningspolitikk	oahppapolitijkka	oahppopolitihkka	27	0	1	0
 
-prosjektnavn	projevtanamma	prošeaktanamma	0	0	0	0
+@prosjektnavn	projevtanamma	prošeaktanamma	0	0	0	0
 prosjektnavn	prosjevtanamma	prošeaktanamma	0	0	0	0
 
 læreressurs	oahpparesurssa	oahpporesursa	0	0	2	0
-læreressurs	oahpparessurssa	oahpporesursa	0	0	2	0
+@læreressurs	oahpparessurssa	oahpporesursa	0	0	2	0
 
-opplæringspenge	oahpparuhta	oahpporuhta	1	0	0	0
-opplæringspenger	oahpparuhta	oahpporuhta	1	0	0	0
+opplæringspenge	oahpporuhta	oahpporuhta	1	0	0	0
+opplæringspenger	oahpporuhta	oahpporuhta	1	0	0	0
 
 politidirektorat	politiddjadirektoráhtta	politiijadirektoráhtta	0	0	1	0
-politidirektorat	politijadirektoráhtta	politiijadirektoráhtta	0	0	1	0
+@politidirektorat	politijadirektoráhtta	politiijadirektoráhtta	0	0	1	0
 
-prosjektstilling	projevtavirgge	prošeaktavirgi	4	0	2	0
-prosjektstilling	prosjevtavirgge	prošeaktavirgi	4	0	2	0
+@prosjektstilling	projevtavirgge	prošeaktavirgi	4	0	2	0
+prosjektstilling	prosjæktavirgge	prošeaktavirgi	4	0	2	0
 
-produsentstilling	produsentavirgge	produseantavirgi	2	0	0	0
+@produsentstilling	produsentavirgge	produseantavirgi	2	0	0	0
 produsentstilling	produsænntavirgge	produseantavirgi	2	0	0	0
 
-politikkområde	politihkasuorgge	politihkkasuorgi	21	0	7	0
+@politikkområde	politihkasuorgge	politihkkasuorgi	21	0	7	0
 politikkområde	politihkkasuorgge	politihkkasuorgi	21	0	7	0
 
-prosjektområde	projevtasuorgge	prošeaktasuorgi	0	0	0	0
-prosjektområde	prosjevtasuorgge	prošeaktasuorgi	0	0	0	0
+@prosjektområde	projevtasuorgge	prošeaktasuorgi	0	0	0	0
+prosjektområde	prosjæktasuorgge	prošeaktasuorgi	0	0	0	0
 
-søkermasse	oahtsemierre	ohcciidmearri	26	0	0	0
-søkermasse	oahttsemierre	ohcciidmearri	26	0	0	0
+@søkermasse	oahtsemierre	ohcciidmearri	26	0	0	0
+@søkermasse	åhttsemierre	ohcciidmearri	26	0	0	0
 
-prinsippdel	prinsihpaoasse	prinsihppaoassi	2	0	1	0
+@prinsippdel	prinsihpaoasse	prinsihppaoassi	2	0	1	0
 prinsippdel	prinsihppaoasse	prinsihppaoassi	2	0	1	0
 
-nisjeproduksjon	oalggebuvtadus	oalgebuvttadus	1	0	0	0
-nisjeproduksjon	oalgebuvtadus	oalgebuvttadus	1	0	0	0
+@nisjeproduksjon	oalggebuvtadus	oalgebuvttadus	1	0	0	0
+@nisjeproduksjon	oalgebuvtadus	oalgebuvttadus	1	0	0	0
 
-prosjektforslag	projevtaoajvvadus	projeaktaevttohus	0	0	0	0
-prosjektforslag	prosjevtaoajvvadus	projeaktaevttohus	0	0	0	0
+@prosjektforslag	projevtaoajvvadus	projeaktaevttohus	0	0	0	0
+prosjektforslag	prosjæktaoajvvadus	projeaktaevttohus	0	0	0	0
 
 elevprestasjon	oahppeboahto	ohppiidboađus	0	0	0	0
-elevprestasjon	oahppeskierres	ohppiidboađus	0	0	0	0
+@elevprestasjon	oahppeskierres	ohppiidboađus	0	0	0	0
 
-delresultat	oaseboahto	oasseboađus	0	0	0	0
+@delresultat	oaseboahto	oasseboađus	0	0	0	0
 delresultat	oasseboahto	oasseboađus	0	0	0	0
-delresultat	oasseskierres	oasseboađus	0	0	0	0
+@delresultat	oasseskierres	oasseboađus	0	0	0	0
 
-læringsresultat	oahppaboahto	oahppoboađus	0	0	0	0
-læringsresultat	oahppaskierres	oahppoboađus	0	0	0	0
+læringsresultat	oahppoboahto	oahppoboađus	0	0	0	0
+@læringsresultat	oahppaskierres	oahppoboađus	0	0	0	0
 
 programtjeneste	prográmmafálaldak	prográmmafálaldat	0	0	2	0
 programtilbud	prográmmafálaldak	prográmmafálaldat	3	0	2	0
 
-sidegjøremål	oalggebarggo	oalgebargu	1	0	0	0
-sidegjøremål	oalgebarggo	oalgebargu	1	0	0	0
+@sidegjøremål	oalggebarggo	oalgebargu	1	0	0	0
+@sidegjøremål	oalgebarggo	oalgebargu	1	0	0	0
 
 prosjektsamarbeid	prosjæktaaktisasjbarggo	prošeaktaovttasbargu	5	0	1	0
-prosjektsamarbeid	projevtaaktisasjbarggo	prošeaktaovttasbargu	5	0	1	0
-prosjektsamarbeid	prosjevtaaktisasjbarggo	prošeaktaovttasbargu	5	0	1	0
+@prosjektsamarbeid	projevtaaktisasjbarggo	prošeaktaovttasbargu	5	0	1	0
+@prosjektsamarbeid	prosjevtaaktisasjbarggo	prošeaktaovttasbargu	5	0	1	0
 
-husdyrhald	oamedoallo	oapmedoallu	0	0	2	0
-gårdsbruk	oamedoallo	oapmedoallu	45	0	2	0
-husdyrhald	oabmedoallo	oapmedoallu	0	0	2	0
-gårdsbruk	oabmedoallo	oapmedoallu	45	0	2	0
+@husdyrhald	oamedoallo	oapmedoallu	0	0	2	0
+@gårdsbruk	oamedoallo	oapmedoallu	45	0	2	0
+@husdyrhald	oabmedoallo	oapmedoallu	0	0	2	0
+@gårdsbruk	oabmedoallo	oapmedoallu	45	0	2	0
 
 politidistrikt	politiddjaguovllo	politiijaguovlu	6	0	18	0
-politidistrikt	politijaguovllo	politiijaguovlu	6	0	18	0
+@politidistrikt	politijaguovllo	politiijaguovlu	6	0	18	0
 
-deltidsstudium	oaseoahppa	oasseoahppu	1	0	0	0
-deltidsstudium	oasseoahppa	oasseoahppu	1	0	0	0
+@deltidsstudium	oaseoahppa	oasseoahppu	1	0	0	0
+@deltidsstudium	oasseoahppa	oasseoahppu	1	0	0	0
