@@ -1,13 +1,14 @@
+# + = good
 
 scenekunst	lávddedájda	lávdedáidda	18	0	8	0
 
-kjernefag	guovdásjfáhka	guovddášfága	0	0	0	0
++kjernefag	guovdásjfáhka	guovddášfága	0	0	0	0
 
-kulturminnetypus	kulturmujttosládja	kulturmuitošládja	0	0	1	0
++kulturminnetypus	kulturmujttosládja	kulturmuitošládja	0	0	1	0
 
 forvaltningsbibliotek	háldadusbibliotehka	hálddašanbibliotehka	1	0	0	0
 
-kulturminnelov	kulturmujttoláhka	kulturmuitoláhka	33	0	21	0
++kulturminnelov	kulturmujttoláhka	kulturmuitoláhka	33	0	21	0
 
 kinnben	muohtotjåhkkå	muohtočohkka	0	0	0	0
 
@@ -17,11 +18,11 @@ kildinsamisk	gieldagiella	gielddasámegiella	2	0	3	0
 
 kunnskapsspråk	máhttosámegiella	máhttogiella	0	0	0	0
 
-fondsregion	foanndaregiåvnnå	foandaregiovdna	3	0	0	0
++fondsregion	foanndaregiåvnnå	foandaregiovdna	3	0	0	0
 
 likestillingsorganisasjon	dásseárvvoorganisasjåvnnå	dásseárvoorganisašuvdna	6	0	2	0
 
-kulturminneplan	kulturmujttopládna	kulturmuitoplána	3	0	2	0
++kulturminneplan	kulturmujttopládna	kulturmuitoplána	3	0	2	0
 
 likevektsprinsipp	dásseárvvoprinsihppa	dásseárvoprinsihppa	0	0	0	0
 
@@ -31,7 +32,7 @@ miljøegenskap	birrasaiesjvuohta	birasiešvuohta	0	0	0	0
 
 språkprosjektmiddel	giellaprosjæktaruhtta	giellaprošeaktaruhta	0	0	1	0
 
-navneobjekt	nammaobjækta	nammaobjeakta	0	0	0	0
++navneobjekt	nammaobjækta	nammaobjeakta	0	0	0	0
 
 likestillingsprosjekt	dásseárvvoprosjækta	dásseárvoprošeakta	0	0	0	0
 
@@ -39,69 +40,69 @@ nordområdeutvalg	davenammadus	davviguovlolávdegoddi	0	0	0	0
 
 likestillingsutvalg	dásseárvvonammadus	dásseárvolávdegoddi	1	0	3	0
 
-urgrav	iemehávdde	eamihávdi	3	0	1	0
++urgrav	iemehávdde	eamihávdi	3	0	1	0
 
-kulturminnelokalitet	kulturmujttobájkke	kulturmuitobáiki	2	0	1	0
++kulturminnelokalitet	kulturmujttobájkke	kulturmuitobáiki	2	0	1	0
 
-streifindivid	jåhtteielle	johttiealli	0	0	0	0
++streifindivid	jåhtteielle	johttiealli	0	0	0	0
 
 musikkutvikling	musijkkaåvddånahttem	musihkkaovddideapmi	3	0	0	0
 
-kvalitetsutvikling	kvalitæhttaåvddånahttem	kvalitehtaovddideapmi	16	0	2	0
++kvalitetsutvikling	kvalitæhttaåvddånahttem	kvalitehtaovddideapmi	16	0	2	0
 
-lederutvikling	jådediddjeåvddånahttem	jođiheaddjeovddideapmi	3	0	0	0
++lederutvikling	jådediddjeåvddånahttem	jođiheaddjeovddideapmi	3	0	0	0
 
-ledelsesutvikling	jådediddjeåvddånahttem	jođiheaddjiovddideapmi	2	0	0	0
++ledelsesutvikling	jådediddjeåvddånahttem	jođiheaddjiovddideapmi	2	0	0	0
 
 bygdeutvikling	gilleåvddånahttem	gilliovddideapmi	9	0	0	0
 
-regelverksutvikling	njuolgadusåvddånahttem	njuolggadusovddideapmi	0	0	0	0
++regelverksutvikling	njuolgadusåvddånahttem	njuolggadusovddideapmi	0	0	0	0
 
-kulturminneforståelse	kulturmujttodádjadus	kulturmuitoáddejupmi	0	0	0	0
++kulturminneforståelse	kulturmujttodádjadus	kulturmuitoáddejupmi	0	0	0	0
 
 fjellsame	duottarsáme	duottarsápmi	10	0	0	0
 
-konsultasjonsrett	konsultasjåvnnåriektá	konsultašuvdnariekti	5	0	0	0
++konsultasjonsrett	konsultasjåvnnåriektá	konsultašuvdnariekti	5	0	0	0
 
-urfolksrett	iemeálmmukriektá	eamiálbmotriekti	13	0	6	0
++urfolksrett	iemeálmmukriektá	eamiálbmotriekti	13	0	6	0
 
-kulturminneråd	kulturmujttorádde	kulturmuitoráđđi	90	0	29	0
++kulturminneråd	kulturmujttorádde	kulturmuitoráđđi	90	0	29	0
 
-mineralsak	minerállaássje	minerálaášši	1	0	1	0
++mineralsak	minerállaássje	minerálaášši	1	0	1	0
 
-kulturminnesak	kulturmujttoássje	kulturmuitoášši	0	0	0	0
++kulturminnesak	kulturmujttoássje	kulturmuitoášši	0	0	0	0
 kulturminnevernsak	kulturmujttoássje	kulturmuitoášši	0	0	0	0
-kulturminnespørsmål	kulturmujttoássje	kulturmuitoášši	0	0	0	0
++kulturminnespørsmål	kulturmujttoássje	kulturmuitoášši	0	0	0	0
 
 likestillingssak	dásseárvvoássje	dásseárvoášši	0	0	1	0
 likestillingsspørsmål	dásseárvvoássje	dásseárvoášši	8	0	1	0
 
 plenum	dievastjoahkke	dievasčoahkkin	600	0	255	0
 
-norskundervisning	dárogiellaåhpadus	dárogieloahpahus	3	0	2	0
-norskopplæring	dárogiellaåhpadus	dárogieloahpahus	3	0	2	0
++norskundervisning	dárogiellaåhpadus	dárogieloahpahus	3	0	2	0
++norskopplæring	dárogiellaåhpadus	dárogieloahpahus	3	0	2	0
 
-filmforestilling	filmmavuosádus	filbmačájáhus	0	0	1	0
++filmforestilling	filmmavuosádus	filbmačájáhus	0	0	1	0
 
 likestillingsutfordring	dásseárvvohásstalus	dásseárvohástalus	5	0	1	0
 
-konvensjonstekst	konvensjåvnnåtjálos	konvenšuvdnačálus	10	0	0	0
++konvensjonstekst	konvensjåvnnåtjálos	konvenšuvdnačálus	10	0	0	0
 
 konsultasjonsstatus	konsultasjåvnnåstáhtus	konsultašuvdnastáhtus	0	0	0	0
 
 likestillingsspørsmål	dásseárvvogatjálvis	dásseárvogažaldat	8	0	1	0
 
-konsultasjonsordning	konsultasjåvnnåårnik	konsultašuvdnaortnet	9	0	2	0
++konsultasjonsordning	konsultasjåvnnåårnik	konsultašuvdnaortnet	9	0	2	0
 
-forvaltningsordning	háldadusårnik	hálddašanortnet	36	0	17	0
++forvaltningsordning	háldadusårnik	hálddašanortnet	36	0	17	0
 
-områdeordning	guovlloårnik	guovloortnet	0	0	0	0
++områdeordning	guovlloårnik	guovloortnet	0	0	0	0
 
-vederlagsordning	máksoårnik	máksoortnet	0	0	0	0
++vederlagsordning	máksoårnik	máksoortnet	0	0	0	0
 
-kulturordning	kultuvrraårnik	kulturortnet	0	0	0	0
++kulturordning	kultuvrraårnik	kulturortnet	0	0	0	0
 
-kompensasjonsordning	buvtadusårnik	buvttadusortnet	3	0	0	0
++kompensasjonsordning	buvtadusårnik	buvttadusortnet	3	0	0	0
 
 kulturhusvirksomhet	kultuvrabarggo	kulturviessobargu	0	0	0	0
 
@@ -109,22 +110,22 @@ likestillingsteam	dásseárvvojuogos	dásseárvojoavku	0	0	0	0
 
 husholdning	bájkkebarggo	báikedoallu	19	0	5	0
 
-friområde	friddjaguovllo	friddjaguovlu	1	0	0	0
++friområde	friddjaguovllo	friddjaguovlu	1	0	0	0
 
-forskerutdannelse	dutkeoahppo	dutkiidoahppu	0	0	0	0
++forskerutdannelse	dutkeoahppo	dutkiidoahppu	0	0	0	0
 
-forskerutdanning	dutkeoahppo	dutkioahppu	2	0	0	0
++forskerutdanning	dutkeoahppo	dutkioahppu	2	0	0	0
 
 fagutvalg	fáhkaárbbedáhpe	fágaárbevierru	29	0	0	0
 
-urfolkskvinne	iemeálmmuknissun	eamiálbmotnisu	4	0	2	0
++urfolkskvinne	iemeálmmuknissun	eamiálbmotnisu	4	0	2	0
 
-realavkastning	duodavuojtto	duohtavuoitu	1	0	0	0
++realavkastning	duodavuojtto	duohtavuoitu	1	0	0	0
 
-språklikestilling	gielladásseárvvo	gielladásseárvu	0	0	0	0
++språklikestilling	gielladásseárvvo	gielladásseárvu	0	0	0	0
 
-kulturminneverdi	kulturmujttoárvvo	kulturmuitoárvu	0	0	0	0
++kulturminneverdi	kulturmujttoárvvo	kulturmuitoárvu	0	0	0	0
 
 likestillingssenter	dásseárvvoguovdásj	dásseárvoguovddáš	3	0	0	0
 
-fylkeskultursenter	fylkakultuvrra	fylkkakulturguovddáš	2	0	0	0
++fylkeskultursenter	fylkakultuvrra	fylkkakulturguovddáš	2	0	0	0
