@@ -1,18 +1,19 @@
+# + = good
 
 kulturhusfond	kultuvrrafoannda	kulturviessofoanda	1	0	0	0
 kulturhusfond	kultuvrafoannda	kulturviessofoanda	1	0	0	0
-kulturhusfond	kultuvrraviessofoannda	kulturviessofoanda	1	0	0	0
++kulturhusfond	kultuvrraviessofoannda	kulturviessofoanda	1	0	0	0
 
 metervare	biktasadiŋŋga	bivttasdiŋga	0	0	0	0
 metervare	bivtasdiŋŋga	bivttasdiŋga	0	0	0	0
 
 kulturminnepolitikk	kulturmujtopolitihkka	kulturmuitopolitihkka	4	0	1	0
-kulturminnepolitikk	kulturmujttopolitihkka	kulturmuitopolitihkka	4	0	1	0
++kulturminnepolitikk	kulturmujttopolitihkka	kulturmuitopolitihkka	4	0	1	0
 kulturminnepolitikk	kulturmujtopolitijkka	kulturmuitopolitihkka	4	0	1	0
 kulturminnepolitikk	kulturmujttopolitijkka	kulturmuitopolitihkka	4	0	1	0
 
 kulturhusdrift	kultuvradoajmma	kulturviessodoaibma	2	0	0	0
-kulturhusdrift	kultuvrraviessodoajmma	kulturviessodoaibma	2	0	0	0
++kulturhusdrift	kultuvrraviessodoajmma	kulturviessodoaibma	2	0	0	0
 
 kulturminnetiltak	kulturmujtodoajmma	kulturmuitodoaibma	5	0	1	0
 kulturminnetiltak	kulturmujttodoajmma	kulturmuitodoaibma	5	0	1	0
@@ -31,21 +32,21 @@ likevektsprinsipp	dásseárvvomálle	dásseárvomálle	0	0	0	0
 
 kulturhusutvalg	kultuvrranammadus	kulturviessolávdegoddi	0	0	0	0
 kulturhusutvalg	kultuvranammadus	kulturviessolávdegoddi	0	0	0	0
-kulturhusutvalg	kultuvrraviessonammadus	kulturviessolávdegoddi	0	0	0	0
++kulturhusutvalg	kultuvrraviessonammadus	kulturviessolávdegoddi	0	0	0	0
 
-industriutvikling	industriddjaåvddånahttem	industriijaovddideapmi	1	0	0	0
++industriutvikling	industriddjaåvddånahttem	industriijaovddideapmi	1	0	0	0
 industriutvikling	industrijaåvddånahttem	industriijaovddideapmi	1	0	0	0
 
-mineralutvikling	minerállaåvddånahttem	minerálaovddideapmi	2	0	0	0
++mineralutvikling	minerállaåvddånahttem	minerálaovddideapmi	2	0	0	0
 mineralutvikling	minerálaåvddånahttem	minerálaovddideapmi	2	0	0	0
 
 kulturminneinteresse	kulturmujtoberustibme	kulturmuitoberoštupmi	2	0	1	0
-kulturminneinteresse	kulturmujttoberustibme	kulturmuitoberoštupmi	2	0	1	0
++kulturminneinteresse	kulturmujttoberustibme	kulturmuitoberoštupmi	2	0	1	0
 
 kulturhusdel	kultuvraoasse	kulturviessooassi	0	0	0	0
-kulturhusdel	kultuvrraviessooasse	kulturviessooassi	0	0	0	0
++kulturhusdel	kultuvrraviessooasse	kulturviessooassi	0	0	0	0
 
-distriktsrett	guovlloriektá	guovlluriekti	1	0	1	0
++distriktsrett	guovlloriektá	guovlluriekti	1	0	1	0
 distriktsrett	guovloriektá	guovlluriekti	1	0	1	0
 
 langtidsettervirkning	guhkkeájggevájkudus	guhkesáiggeváikkuhus	0	0	0	0
@@ -58,28 +59,28 @@ kulturminneressurs	kulturmujttoboanndudahka	kulturmuitoriggodat	0	0	0	0
 kulturminneressurs	kulturmujtoboanndudak	kulturmuitoriggodat	0	0	0	0
 kulturminneressurs	kulturmujttoboanndudak	kulturmuitoriggodat	0	0	0	0
 
-avstemmingsmåte	jienastusårnik	jienastanortnet	0	0	0	0
-avstemningsordning	jienastusårnik	jienastanortnet	0	0	0	0
++avstemmingsmåte	jienastusårnik	jienastanortnet	0	0	0	0
++avstemningsordning	jienastusårnik	jienastanortnet	0	0	0	0
 
 kulturminnearbeid	kulturmujtobarggo	kulturmuitobargu	3	0	2	0
-kulturminnearbeid	kulturmujttobarggo	kulturmuitobargu	3	0	2	0
++kulturminnearbeid	kulturmujttobarggo	kulturmuitobargu	3	0	2	0
 
 kulturminnesamarbeid	kulturmujtoaktisasjbarggo	kulturmuitoovttasbargu	1	0	0	0
-kulturminnesamarbeid	kulturmujttoaktisasjbarggo	kulturmuitoovttasbargu	1	0	0	0
++kulturminnesamarbeid	kulturmujttoaktisasjbarggo	kulturmuitoovttasbargu	1	0	0	0
 
 geitehold	gájttsadoallo	gáicadoallu	0	0	0	0
 geitbruk	gájttsadoallo	gáicadoallu	0	0	0	0
 
 norskundervisning	dárogiellaoahppa	dárogieloahppu	3	0	0	0
-norskundervisning	dárogiellaoahppo	dárogieloahppu	3	0	0	0
++norskundervisning	dárogiellaoahppo	dárogieloahppu	3	0	0	0
 
 nordområdeutdanning	daveoahppa	davviguovlooahppu	0	0	0	0
 nordområdeutdanning	daveoahppo	davviguovlooahppu	0	0	0	0
 
 kulturminnedata	kulturmujtodiehto	kulturmuitodiehtu	0	0	1	0
 kulturminneopplysning	kulturmujtodiehto	kulturmuitodiehtu	0	0	1	0
-kulturminnedata	kulturmujttodiehto	kulturmuitodiehtu	0	0	1	0
-kulturminneopplysning	kulturmujttodiehto	kulturmuitodiehtu	0	0	1	0
++kulturminnedata	kulturmujttodiehto	kulturmuitodiehtu	0	0	1	0
++kulturminneopplysning	kulturmujttodiehto	kulturmuitodiehtu	0	0	1	0
 
 sørsameliste	lullelissto	lullisámelistu	0	0	0	0
 sørsameliste	lulelissto	lullisámelistu	0	0	0	0
