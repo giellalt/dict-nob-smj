@@ -1,7 +1,8 @@
+# + = good
 
 miljøvernpolitikk	biráspolitihkka	birasgáhttenpolitihkka	0	3	0	0
 
-ordmellomrom	gasska	sátnegaska	0	1290	0	0
++mellomrom	gasska	sátnegaska	0	1290	0	0
 ordmellomrom	loabme	sátnegaska	0	7	0	0
 
 fagterm	fágaterminologija	fágatearbma	1	0	2	0
@@ -12,13 +13,13 @@ klang	nuohtta	šuokŋa	1	4	36	0
 skolegang	oahppa	skuvlejupmi	78	2355	22	0
 skolegang	åhpadus	skuvlejupmi	78	1277	22	0
 
-sennegras	suojnne	gámasuoidni	3	19	5	0
-sennagress	suojnne	gámasuoidni	3	19	5	0
++sennegras	suojnne	gámasuoidni	3	19	5	0
++sennagress	suojnne	gámasuoidni	3	19	5	0
 sennegras	bilggá	gámasuoidni	3	0	5	0
 sennagress	bilggá	gámasuoidni	3	0	5	0
 
 privilegium	ávkke	ovdamunni	1	261	56	0
-fortrinn	ávkke	ovdamunni	58	261	56	0
++fortrinn	ávkke	ovdamunni	58	261	56	0
 privilegium	gávnne	ovdamunni	1	53	56	0
 fortrinn	gávnne	ovdamunni	58	53	56	0
 privilegium	vuojtto	ovdamunni	1	72	56	0

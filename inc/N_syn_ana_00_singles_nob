@@ -1,53 +1,54 @@
+# @ = bad
 
-vevgrind	snjissjkom	njuikun	0	2	2	0
+grindvev	snjissjkom	njuikun	0	2	2	0
 
-selhud	nuorjonáhkke	njuorjjonáhkki	0	0	1	0
+selskinn	nuorjonáhkke	njuorjjonáhkki	0	0	1	0
 
 bosettingsområde	årromguovllo	ássanguovlu	55	21	62	3
 
 fødselspenge	riegadahttemruhta	riegádahttinruhtaeaktu	0	0	0	0
 
-brille	tjalmmeglása	čalbmeláset	0	0	3	0
+briller	tjalmmeglása	čalbmeláset	0	0	3	0
 
 handleevne	doajmmamáhtukvuohta	doaibmanákca	5	0	1	0
 
 innsatsevne	doajmmamáhtukvuohta	doaibmannákca	0	0	6	0
 
-hjørnestolpe	vuolos	čávgŋi	0	1	0	0
+@hjørnestolpe	vuolos	čávgŋi	0	1	0	0
 
-velvære	álkkádus	čálgu	3	30	24	0
+velferd	álkkádus	čálgu	3	30	24	0
 
-lettelse	binnedibme	geahpádus	4	13	4	0
+@lettelse	binnedibme	geahpádus	4	13	4	0
 
 medinnflytelse	oassálasstem	mielváikkuheapmi	7	70	1	0
 
-varemesse	mæsso	márkanastindoallu	0	22	0	0
+@varemesse	mæsso	márkanastindoallu	0	22	0	0
 
 etableringsmøte	vuododimtjåhkanibme	ásahančoahkkin	0	0	0	0
 
-tvangstrøye	jårbuk	čulku	0	11	0	0
+@tvangstrøye	jårbuk	čulku	0	11	0	0
 
-kvotegrunnlag	kvåvttå	earrevuođđu/sálašmearri	2	1	0	0
+@kvotegrunnlag	kvåvttå	earrevuođđu/sálašmearri	2	1	0	0
 
-reinslakt for salg	slákta	gávpeboazu	0	0	2	0
+@reinslakt for salg	slákta	gávpeboazu	0	0	2	0
 
 deltaking	oassálasstem	oasálastin	8	70	6	0
 
-opprensking	muorrodibme	buhtisteapmi	0	1	5	0
+@opprensking	muorrodibme	buhtisteapmi	0	1	5	0
 
 fornorsking	dárojduhttem	dáruiduhttin	47	6	99	0
 
-anbefaling	vágodibme	ráva/neava/rávven/ávžžuhus/neavva	48	2	0	0
+@anbefaling	vágodibme	ráva/neava/rávven/ávžžuhus/neavva	48	2	0	0
 
-elevtallsutvikling	oahppijlåhko	ohppiidlohku	2	7	14	0
+@elevtallsutvikling	oahppijlåhko	ohppiidlohku	2	7	14	0
 
 nedbrenning	buollem	boaldin	0	17	14	0
 
 kroppsøvning	lásjmudallam	lášmmohallan	0	16	17	0
 
-eksaminering	guláskuddam	gažadeapmi	0	18	9	0
+@eksaminering	guláskuddam	gažadeapmi	0	18	9	0
 
-organisering	årnik	organiseren/doaibmamálle/ortnet	278	120	0	0
+@organisering	årnik	organiseren/doaibmamálle/ortnet	278	120	0	0
 
 avgrensing	birástahka	ráddjen	11	32	28	0
 
@@ -55,37 +56,37 @@ rettskriving	duollatjállem	riektačállin	10	21	8	2
 
 kvensk språk	guojnagiella	kvenagiella	0	0	3	0
 
-utdanningsvitnemål	vihtanus	oahppoduođaštus	0	54	5	0
+@utdanningsvitnemål	vihtanus	oahppoduođaštus	0	54	5	0
 
-utmål	mihttim	mihtádus	8	3	4	0
+@utmål	mihttim	mihtádus	8	3	4	0
 
 folkesagn	båvva	cuvccas	0	17	6	0
 
 restriksjon	ráddjim	buvttaduscaggi/gáržžideapmi/gáržžidus	6	1	0	0
 
-pengelån	luojkkam	ruhtaloatna	0	7	0	0
+@pengelån	luojkkam	ruhtaloatna	0	7	0	0
 
-kamp mot hindringer	åvdedibme	rahčan	0	17	40	0
+@kamp mot hindringer	åvdedibme	rahčan	0	17	40	0
 
-utspørring i politiske saker	guláskuddam	gažadeapmi	0	18	9	0
+@utspørring i politiske saker	guláskuddam	gažadeapmi	0	18	9	0
 
-taler	sárnnediddje	sáhkadoalli/sárdnideaddji/sáhkaovddideaddji	116	160	0	0
+taler	hoalle	sáhkadoalli/sárdnideaddji/sáhkaovddideaddji	116	160	0	0
 
-genser	skirtto	báidi/buser	0	24	0	0
+skjorte	skirtto	báidi/buser	0	24	0	0
 
 avhør	guláskuddam	gažadeapmi	6	18	9	0
 
-uenighet	sieradibme	vuostemielalašvuohta/sierramielalašvuohta/guovtteoaivilvuohta	30	5	0	0
+@uenighet	sieradibme	vuostemielalašvuohta/sierramielalašvuohta/guovtteoaivilvuohta	30	5	0	0
 
-oppdrettsvirksomhet	biebmadibme	guollebiebman/biebmandoaibma/guollebiebmandoaibma	4	8	0	0
+oppdrettsvirksomhet	guollebiebmadibme	guollebiebman/biebmandoaibma/guollebiebmandoaibma	4	8	0	0
 
 tapperhet	måvtugisvuohta	duostilvuohta	0	2	7	0
 
-stivhet	tjårggisvuohta	stargatvuohta/stirdu	0	0	0	0
+@stivhet	tjårggisvuohta	stargatvuohta/stirdu	0	0	0	0
 
 pluralitet	moattelåhko	máŋggaidlohku	0	3	14	0
 
-bærende kraft	vuolos	čávgŋi	0	1	0	0
+@bærende kraft	vuolos	čávgŋi	0	1	0	0
 
 fiskefelt	guollimsadje	guolástansadji	3	1	0	0
 

@@ -1,12 +1,13 @@
+# + = good
 
 riksveg	rijkaluodda	riikkaluodda	12	0	0	0
 riksvei	rijkaluodda	riikkaluodda	4	0	0	0
 
 skogbruksareal	vuovddeareálla	vuovdeareála	0	0	0	0
-skogareal	vuovddeareálla	vuovdeareála	1	0	0	0
++skogareal	vuovddeareálla	vuovdeareála	1	0	0	0
 
 sametingsbygg	sámediggeviste	sámediggevisti	9	0	11	0
 sametingsbygning	sámediggeviste	sámediggevisti	9	0	11	0
 
 undertegning	vuollájtjállen	vuolláičállin	3	0	6	0
-underskriving	vuollájtjállen	vuolláičállin	3	0	6	0
++underskriving	vuollájtjállem	vuolláičállin	3	0	6	0
