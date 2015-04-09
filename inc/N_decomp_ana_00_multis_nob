@@ -1,7 +1,8 @@
+# + is good
 
 utredningstema	guoradallamássje	čielggadanfáddá	0	0	0	0
 utredningstema	guoradusássje	čielggadanfáddá	0	0	0	0
-utredningstema	guoradallamtebmá	čielggadanfáddá	0	0	0	0
++utredningstema	guoradallamtiebmá	čielggadanfáddá	0	0	0	0
 utredningstema	guoradustebmá	čielggadanfáddá	0	0	0	0
 
 forskningstema	guoradallamássje	dutkanfáddá	1	0	5	0
@@ -22,15 +23,15 @@ avviklingsstønad	hiejtedimruhtadoarjja	heaittihandoarjja	0	0	0	0
 
 tilretteleggingstilskudd	hiebadahttemadoarjja	láhčindoarjjaortnet	0	0	0	0
 tilretteleggingstilskudd	hiebadimedoarjja	láhčindoarjjaortnet	0	0	0	0
-tilretteleggingstilskudd	hiebadahttemdoarjja	láhčindoarjjaortnet	0	0	0	0
++tilretteleggingstilskudd	hiebadahttemdoarjja	láhčindoarjjaortnet	0	0	0	0
 tilretteleggingstilskudd	hiebadimdoarjja	láhčindoarjjaortnet	0	0	0	0
 
 konkurransemarked	gilpustallammárnán	gilvalanmárkan	0	0	0	0
 konkurransemarked	gilppommárnán	gilvalanmárkan	0	0	0	0
-konkurransemarked	gilposmárnán	gilvalanmárkan	0	0	0	0
++konkurransemarked	gilposmárnán	gilvalanmárkan	0	0	0	0
 
 produksjonsverksted	buvtadimedivudahka	buvttadanbádji	0	0	0	0
-produksjonsverksted	buvtadimdivudahka	buvttadanbádji	0	0	0	0
++produksjonsverksted	buvtadimdivudahka	buvttadanbádji	0	0	0	0
 produksjonsverksted	buvtadusdivudahka	buvttadanbádji	0	0	0	0
 produksjonsverksted	buvtadimedivudak	buvttadanbádji	0	0	0	0
 produksjonsverksted	buvtadimdivudak	buvttadanbádji	0	0	0	0
@@ -49,7 +50,7 @@ produksjonssted	buvtadimtjievtjastak	buvttadanbáiki	0	0	0	0
 produksjonssted	buvtadustjievtjastak	buvttadanbáiki	0	0	0	0
 
 forskningssamarbeid	guoradallamaaktisasjbarggo	dutkanovttasbargu	4	0	2	0
-forskningssamarbeid	guoradallamaktisasjbarggo	dutkanovttasbargu	4	0	2	0
++forskningssamarbeid	guoradallamaktisasjbarggo	dutkanovttasbargu	4	0	2	0
 
 transportavstand	fievrroguhkkudahka	geasehangaska	1	0	0	0
 transportavstand	fievroguhkkudahka	geasehangaska	1	0	0	0
@@ -64,7 +65,7 @@ forskningsfond	guoradallamfoannda	dutkanfoanda	12	0	4	0
 forskningsfond	guoradallamruhtavuorkká	dutkanfoanda	12	0	4	0
 
 produksjonsfond	buvtadimefoannda	buvttadanfoanda	0	0	0	0
-produksjonsfond	buvtadimfoannda	buvttadanfoanda	0	0	0	0
++produksjonsfond	buvtadimfoannda	buvttadanfoanda	0	0	0	0
 produksjonsfond	buvtadusfoannda	buvttadanfoanda	0	0	0	0
 produksjonsfond	buvtadusruhtavuorkká	buvttadanfoanda	0	0	0	0
 
@@ -76,10 +77,10 @@ beitehage	guohtomasjattadak	guohtongárdi	0	0	0	0
 beitehage	guohtomsjattadak	guohtongárdi	0	0	0	0
 
 reindriftsfamilie	boatsojdillefamillja	boazodoallobearaš	14	0	3	0
-reindriftsfamilie	boatsojbarggofamillja	boazodoallobearaš	14	0	3	0
++reindriftsfamilie	boatsojbarggofamillja	boazodoallobearaš	14	0	3	0
 reindriftsfamilie	boatsojbargofamillja	boazodoallobearaš	14	0	3	0
 reindriftsfamilie	boatsojsujtofamillja	boazodoallobearaš	14	0	3	0
-reindriftsfamilie	boatsojsujttofamillja	boazodoallobearaš	14	0	3	0
++reindriftsfamilie	boatsojsujttofamillja	boazodoallobearaš	14	0	3	0
 reindriftsfamilie	boatsojæládusfamillja	boazodoallobearaš	14	0	3	0
 reindriftsfamilie	boatsojdillegoahteulmutja	boazodoallobearaš	14	0	3	0
 reindriftsfamilie	boatsojbarggogoahteulmutja	boazodoallobearaš	14	0	3	0
@@ -98,33 +99,33 @@ reindriftsfamilie	boatsojsujtoberaj	boazodoallobearaš	14	0	3	0
 reindriftsfamilie	boatsojsujttoberaj	boazodoallobearaš	14	0	3	0
 reindriftsfamilie	boatsojæládusberaj	boazodoallobearaš	14	0	3	0
 
-vårfiske	gidáguolástibme	giđđabivdu	0	0	0	0
-vårfiske	gidáguollebivddo	giđđabivdu	0	0	0	0
++vårfiske	gidáguolástibme	giđđabivdu	0	0	0	0
++vårfiske	gidáguollebivddo	giđđabivdu	0	0	0	0
 vårfiske	gidáguolástus	giđđabivdu	0	0	0	0
 
-utredningsmateriale	guoradallammateriálla	čielggadusávnnas	2	0	0	0
++utredningsmateriale	guoradallammateriálla	čielggadusávnnas	2	0	0	0
 utredningsmateriale	guoradusmateriálla	čielggadusávnnas	2	0	0	0
 
-jordbruksavtale	ednambarggosjiehtadibme	eanadoallošiehtadus/eanandoallošiehtadus	17	0	0	0
++jordbruksavtale	ednambarggosjiehtadibme	eanadoallošiehtadus/eanandoallošiehtadus	17	0	0	0
 jordbruksavtale	ednambargosjiehtadibme	eanadoallošiehtadus/eanandoallošiehtadus	17	0	0	0
 
-partnerskapsavtale	guojmmevuodasjiehtadibme	searvevuođašiehtadus	3	0	0	0
++partnerskapsavtale	guojmmevuodasjiehtadibme	searvevuođašiehtadus	3	0	0	0
 partnerskapsavtale	guojmmevuohtasjiehtadibme	searvevuođašiehtadus	3	0	0	0
 
 budsjettavtale	budjehtasjiehtadibme	budjeahttašiehtadus	0	0	0	0
 budsjettavtale	budsjehtasjiehtadibme	budjeahttašiehtadus	0	0	0	0
-budsjettavtale	budsjæhttasjiehtadibme	budjeahttašiehtadus	0	0	0	0
++budsjettavtale	budsjæhttasjiehtadibme	budjeahttašiehtadus	0	0	0	0
 
-garantiramme	buvtaduodastusrámma	dáhkádusrápma	0	0	0	0
++garantiramme	buvtaduodastusrámma	dáhkádusrápma	0	0	0	0
 garantiramme	dahkoduodastusrámma	dáhkádusrápma	0	0	0	0
 garantiramme	buvtaduodastusbirám	dáhkádusrápma	0	0	0	0
 garantiramme	dahkoduodastusbirám	dáhkádusrápma	0	0	0	0
 
-inntektsramme	boahtorámma	sisaboahtorámma	1	0	0	0
++inntektsramme	boahtorámma	sisaboahtorámma	1	0	0	0
 inntektsramme	boahtobirám	sisaboahtorámma	1	0	0	0
 
 utredningsprosedyre	guoradallamavuohke	čielggadanbargovuohki	0	0	0	0
-utredningsprosedyre	guoradallamvuohke	čielggadanbargovuohki	0	0	0	0
++utredningsprosedyre	guoradallamvuohke	čielggadanbargovuohki	0	0	0	0
 utredningsprosedyre	guoradallamåvddånimvuohke	čielggadanbargovuohki	0	0	0	0
 utredningsprosedyre	guoradusåvddånimvuohke	čielggadanbargovuohki	0	0	0	0
 utredningsprosedyre	guoradallamabarggovuohke	čielggadanbargovuohki	0	0	0	0
@@ -144,28 +145,28 @@ kommuneundersøkelse	gieldaguoradallam	suohkanguorahallan	0	0	0	0
 kommuneundersøkelse	gielldaguoradallam	suohkanguorahallan	0	0	0	0
 
 beiteundersøkelse	guohtomaguoradallam	guohtoniskkadeapmi	1	0	0	0
-beiteundersøkelse	guohtomguoradallam	guohtoniskkadeapmi	1	0	0	0
++beiteundersøkelse	guohtomguoradallam	guohtoniskkadeapmi	1	0	0	0
 
 kunstnerundersøkelse	dájddáråtsådibme	dáiddáriskkadeapmi	0	0	0	0
-kunstnerundersøkelse	dájddárguoradallam	dáiddáriskkadeapmi	0	0	0	0
++kunstnerundersøkelse	dájddárguoradallam	dáiddáriskkadeapmi	0	0	0	0
 
 språkbruksundersøkelse	giellaadnoåtsådibme	giellageavahaniskan/giellageavahanguorahallan/giellageavahaniskkadeapmi	2	0	0	0
 språkbruksundersøkelse	giellaanoguoradallam	giellageavahaniskan/giellageavahanguorahallan/giellageavahaniskkadeapmi	2	0	0	0
-språkbruksundersøkelse	giellaadnoguoradallam	giellageavahaniskan/giellageavahanguorahallan/giellageavahaniskkadeapmi	2	0	0	0
++språkbruksundersøkelse	giellaadnoguoradallam	giellageavahaniskan/giellageavahanguorahallan/giellageavahaniskkadeapmi	2	0	0	0
 
 kunstkonkurranse	dájddagilpustallam	dáiddagilvu	0	0	0	0
 kunstkonkurranse	dájddagilppom	dáiddagilvu	0	0	0	0
-kunstkonkurranse	dájddagilpos	dáiddagilvu	0	0	0	0
++kunstkonkurranse	dájddagilpos	dáiddagilvu	0	0	0	0
 
 reindriftsklasse	boatsojdilleklássa	boazodoalloluohkká	0	0	0	0
-reindriftsklasse	boatsojbarggoklássa	boazodoalloluohkká	0	0	0	0
-reindriftsklasse	boatsojsujttoklássa	boazodoalloluohkká	0	0	0	0
++reindriftsklasse	boatsojbarggoklássa	boazodoalloluohkká	0	0	0	0
++reindriftsklasse	boatsojsujttoklássa	boazodoalloluohkká	0	0	0	0
 reindriftsklasse	boatsojæládusklássa	boazodoalloluohkká	0	0	0	0
 
 fiskekvote	guollebivddokvåvttå	guolleearri	3	0	6	0
 fiskekvote	guolástuskvåvttå	guolleearri	3	0	6	0
 
-fiskerikvote	guollimkvåvttå	guolleearri	0	0	6	0
++fiskerikvote	guollimkvåvttå	guolleearri	0	0	6	0
 fiskerikvote	guolástuskvåvttå	guolleearri	0	0	6	0
 
 styrkesjef	gievrrodimeoajvve	veahkahoavda	0	0	0	0
@@ -173,63 +174,63 @@ styrkesjef	gievrrodimoajvve	veahkahoavda	0	0	0	0
 
 reindriftsfradrag	boatsojdillegæsos	boazodoallogeasus	2	0	0	0
 reindriftsfradrag	boatsojbarggogæsos	boazodoallogeasus	2	0	0	0
-reindriftsfradrag	boatsojsujttogæsos	boazodoallogeasus	2	0	0	0
++reindriftsfradrag	boatsojsujttogæsos	boazodoallogeasus	2	0	0	0
 reindriftsfradrag	boatsojæládusgæsos	boazodoallogeasus	2	0	0	0
 
-utredningsoppdrag	guoradallamgåhtjodus	čielggadandoaibma	4	0	0	0
++utredningsoppdrag	guoradallamgåhtjodus	čielggadandoaibma	4	0	0	0
 utredningsoppdrag	guoradusgåhtjodus	čielggadandoaibma	4	0	0	0
 
 reindriftsanlegg	boatsojdilleásadus	boazodoallorusttet	2	0	0	0
 reindriftsanlegg	boatsojbarggoásadus	boazodoallorusttet	2	0	0	0
-reindriftsanlegg	boatsojsujttoásadus	boazodoallorusttet	2	0	0	0
++reindriftsanlegg	boatsojsujttoásadus	boazodoallorusttet	2	0	0	0
 reindriftsanlegg	boatsojæládusásadus	boazodoallorusttet	2	0	0	0
 
-landbruksbygg	ednambarggotsiekkadus	eanadoallovisti	1	0	0	0
++landbruksbygg	ednambarggotsiekkadus	eanadoallovisti	1	0	0	0
 landbruksbygg	ednambargotsiekkadus	eanadoallovisti	1	0	0	0
 
 reindriftsplanutvalg	boatsojdillepládnajuogos	boazodoalloplánalávdegoddi	1	0	0	0
 reindriftsplanutvalg	boatsojbarggopládnajuogos	boazodoalloplánalávdegoddi	1	0	0	0
-reindriftsplanutvalg	boatsojsujttopládnajuogos	boazodoalloplánalávdegoddi	1	0	0	0
++reindriftsplanutvalg	boatsojsujttopládnajuogos	boazodoalloplánalávdegoddi	1	0	0	0
 reindriftsplanutvalg	boatsojæláduspládnajuogos	boazodoalloplánalávdegoddi	1	0	0	0
 
 klimasammenheng	dálkádahkagasskavuohta	dálkkádatoktavuohta	1	0	0	0
-klimasammenheng	dálkádahkaaktijvuohta	dálkkádatoktavuohta	1	0	0	0
++klimasammenheng	dálkádahkaaktijvuohta	dálkkádatoktavuohta	1	0	0	0
 
 fiskerisammenheng	guollimagasskavuohta	guolástusoktavuohta	2	0	0	0
 fiskerisammenheng	guollimgasskavuohta	guolástusoktavuohta	2	0	0	0
 fiskerisammenheng	guolástusgasskavuohta	guolástusoktavuohta	2	0	0	0
 fiskerisammenheng	guollimaaktijvuohta	guolástusoktavuohta	2	0	0	0
-fiskerisammenheng	guollimaktijvuohta	guolástusoktavuohta	2	0	0	0
++fiskerisammenheng	guollimaktijvuohta	guolástusoktavuohta	2	0	0	0
 fiskerisammenheng	guolástusaktijvuohta	guolástusoktavuohta	2	0	0	0
 
 budsjettsammenheng	budjehtagasskavuohta	bušeahttaoktavuohta/budjeahttaoktavuohta	7	0	0	0
 budsjettsammenheng	budsjehtagasskavuohta	bušeahttaoktavuohta/budjeahttaoktavuohta	7	0	0	0
-budsjettsammenheng	budsjæhttagasskavuohta	bušeahttaoktavuohta/budjeahttaoktavuohta	7	0	0	0
++budsjettsammenheng	budsjæhttagasskavuohta	bušeahttaoktavuohta/budjeahttaoktavuohta	7	0	0	0
 budsjettsammenheng	budjehtaaktijvuohta	bušeahttaoktavuohta/budjeahttaoktavuohta	7	0	0	0
 budsjettsammenheng	budsjehtaaktijvuohta	bušeahttaoktavuohta/budjeahttaoktavuohta	7	0	0	0
 budsjettsammenheng	budsjæhttaaktijvuohta	bušeahttaoktavuohta/budjeahttaoktavuohta	7	0	0	0
 
 budsjettbehandling	budjehtagiehtadallam	budjeahttagieđahallan/bušeahttagieđahallan/bušeahttameannudeapmi	16	0	0	0
 budsjettbehandling	budsjehtagiehtadallam	budjeahttagieđahallan/bušeahttagieđahallan/bušeahttameannudeapmi	16	0	0	0
-budsjettbehandling	budsjæhttagiehtadallam	budjeahttagieđahallan/bušeahttagieđahallan/bušeahttameannudeapmi	16	0	0	0
++budsjettbehandling	budsjæhttagiehtadallam	budjeahttagieđahallan/bušeahttagieđahallan/bušeahttameannudeapmi	16	0	0	0
 
 fiskeriforhandling	guollimasjiehtadallam	guolástusšiehtadallan	0	0	0	0
 fiskeriforhandling	guollimsjiehtadallam	guolástusšiehtadallan	0	0	0	0
-fiskeriforhandling	guolástussjiehtadallam	guolástusšiehtadallan	0	0	0	0
++fiskeriforhandling	guolástussjiehtadallam	guolástusšiehtadallan	0	0	0	0
 
-jordbruksforhandling	ednambarggosjiehtadallam	eanandoallošiehtadallan/eanadoallošiehtadallan	17	0	0	0
++jordbruksforhandling	ednambarggosjiehtadallam	eanandoallošiehtadallan/eanadoallošiehtadallan	17	0	0	0
 jordbruksforhandling	ednambargosjiehtadallam	eanandoallošiehtadallan/eanadoallošiehtadallan	17	0	0	0
 
 reindriftsforhandling	boatsojdillesjiehtadallam	boazodoallošiehtadallan	20	0	11	0
 reindriftsforhandling	boatsojbarggosjiehtadallam	boazodoallošiehtadallan	20	0	11	0
 reindriftsforhandling	boatsojbargosjiehtadallam	boazodoallošiehtadallan	20	0	11	0
-reindriftsforhandling	boatsojsujtosjiehtadallam	boazodoallošiehtadallan	20	0	11	0
++reindriftsforhandling	boatsojsujtosjiehtadallam	boazodoallošiehtadallan	20	0	11	0
 reindriftsforhandling	boatsojsujttosjiehtadallam	boazodoallošiehtadallan	20	0	11	0
 reindriftsforhandling	boatsojæládussjiehtadallam	boazodoallošiehtadallan	20	0	11	0
 
 budsjettforhandling	budjehtasjiehtadallam	bušeahttaráđđádallan	3	0	0	0
 budsjettforhandling	budsjehtasjiehtadallam	bušeahttaráđđádallan	3	0	0	0
-budsjettforhandling	budsjæhttasjiehtadallam	bušeahttaráđđádallan	3	0	0	0
++budsjettforhandling	budsjæhttasjiehtadallam	bušeahttaráđđádallan	3	0	0	0
 
 myndighetshandling	fábmudahkadåmadibme	eiseváldegieđahallan	0	0	0	0
 myndighetshandling	fábmogisvuohtadåmadibme	eiseváldegieđahallan	0	0	0	0
@@ -239,11 +240,11 @@ rammefordeling	birámjuogadibme	rámmajuohkin	7	0	0	0
 rammefordeling	birámjuollodibme	rámmajuohkin	7	0	0	0
 rammefordeling	birámjuohko	rámmajuohkin	7	0	0	0
 
-reintallsfordeling	boatsojlåhkojuogadibme	boazolohkojuohkin/boazolohkojuogadeapmi	0	0	0	0
++reintallsfordeling	boatsojlåhkojuogadibme	boazolohkojuohkin/boazolohkojuogadeapmi	0	0	0	0
 reintallsfordeling	boatsojlåhkojuollodibme	boazolohkojuohkin/boazolohkojuogadeapmi	0	0	0	0
 reintallsfordeling	boatsojlåhkojuohko	boazolohkojuohkin/boazolohkojuogadeapmi	0	0	0	0
 
-myndighetsfordeling	fábmudahkajuogadibme	váldejuohkin	1	0	0	0
++myndighetsfordeling	fábmudahkajuogadibme	váldejuohkin	1	0	0	0
 myndighetsfordeling	fábmogisvuohtajuogadibme	váldejuohkin	1	0	0	0
 myndighetsfordeling	fábmudahkajuollodibme	váldejuohkin	1	0	0	0
 myndighetsfordeling	fábmogisvuohtajuollodibme	váldejuohkin	1	0	0	0
@@ -251,56 +252,56 @@ myndighetsfordeling	fábmodusjuollodibme	váldejuohkin	1	0	0	0
 myndighetsfordeling	fábmodusjuohko	váldejuohkin	1	0	0	0
 
 inntektsfordeling	boadojuogadibme	boahtojuogadeapmi	3	0	0	0
-inntektsfordeling	boahtojuogadibme	boahtojuogadeapmi	3	0	0	0
++inntektsfordeling	boahtojuogadibme	boahtojuogadeapmi	3	0	0	0
 inntektsfordeling	boadojuollodibme	boahtojuogadeapmi	3	0	0	0
 inntektsfordeling	boahtojuollodibme	boahtojuogadeapmi	3	0	0	0
 inntektsfordeling	boadojuohko	boahtojuogadeapmi	3	0	0	0
 
-økonomiavdeling	ekonomiddjaåssudahka	ruhtadoalloossodat/ekonomiijaossodat	4	0	0	0
++økonomiavdeling	ekonomiddjaåssudahka	ruhtadoalloossodat/ekonomiijaossodat	4	0	0	0
 økonomiavdeling	ekonomijaåssudahka	ruhtadoalloossodat/ekonomiijaossodat	4	0	0	0
 
-lederutvikling	dåjmadiddjeåvddånibme	hovdenovdáneapmi/jođiheaddjeovddideapmi	3	0	0	0
-lederutvikling	dåjmadiddjeåvddånahttem	hovdenovdáneapmi/jođiheaddjeovddideapmi	3	0	0	0
++lederutvikling	dåjmadiddjeåvddånibme	hovdenovdáneapmi/jođiheaddjeovddideapmi	3	0	0	0
++lederutvikling	dåjmadiddjeåvddånahttem	hovdenovdáneapmi/jođiheaddjeovddideapmi	3	0	0	0
 
-strukturutvikling	hábmeåvddånibme	strukturovddideapmi	0	0	0	0
-strukturutvikling	hábmeåvddånahttem	strukturovddideapmi	0	0	0	0
++strukturutvikling	hábmeåvddånibme	strukturovddideapmi	0	0	0	0
++strukturutvikling	hábmeåvddånahttem	strukturovddideapmi	0	0	0	0
 
-inntektsutvikling	boahtoåvddånibme	dienasovdáneapmi/sisaboahtoovdáneapmi	3	0	0	0
-inntektsutvikling	boahtoåvddånahttem	dienasovdáneapmi/sisaboahtoovdáneapmi	3	0	0	0
++inntektsutvikling	boahtoåvddånibme	dienasovdáneapmi/sisaboahtoovdáneapmi	3	0	0	0
++inntektsutvikling	boahtoåvddånahttem	dienasovdáneapmi/sisaboahtoovdáneapmi	3	0	0	0
 
 urfolksmedarbeiderstilling	iemeálmmukbargge	álgoálbmotbargivirgi	0	0	0	0
 urfolksmedarbeiderstilling	iemeálmmukbarggoguojmme	álgoálbmotbargivirgi	0	0	0	0
 
-forskerstilling	dutkeámmát	dutkanvirgi	1	0	0	0
++forskerstilling	dutkeámmát	dutkanvirgi	1	0	0	0
 forskerstilling	guoradalleámmát	dutkanvirgi	1	0	0	0
 
-maktutredning	fábmogisvuohtaguoradallam	váldečielggadus	0	0	0	0
++maktutredning	fábmogisvuohtaguoradallam	váldečielggadus	0	0	0	0
 maktutredning	fábmogisvuohtaguoradus	váldečielggadus	0	0	0	0
 
 klageordning	gujddimårnik	váidalusortnet/váidinortnet/váidalanortnet	3	0	0	0
 klageordning	gujdalvisårnik	váidalusortnet/váidinortnet/váidalanortnet	3	0	0	0
-klageordning	gujddimásadus	váidalusortnet/váidinortnet/váidalanortnet	3	0	0	0
++klageordning	gujddimásadus	váidalusortnet/váidinortnet/váidalanortnet	3	0	0	0
 klageordning	gujdalvisásadus	váidalusortnet/váidinortnet/váidalanortnet	3	0	0	0
 
-driftsstøtteordning	doajmmaruhtadoarjjaårnik	doaibmadoarjjaortnet	5	0	9	0
++driftsstøtteordning	doajmmaruhtadoarjjaårnik	doaibmadoarjjaortnet	5	0	9	0
 driftsstøtteordning	doajmmaruhtaårnik	doaibmadoarjjaortnet	5	0	9	0
 
 garantiordning	buvtaduodastusårnik	dáhkádusortnet	1	0	1	0
 garantiordning	dahkoduodastusårnik	dáhkádusortnet	1	0	1	0
-garantiordning	buvtaduodastusásadus	dáhkádusortnet	1	0	1	0
++garantiordning	buvtaduodastusásadus	dáhkádusortnet	1	0	1	0
 garantiordning	dahkoduodastusásadus	dáhkádusortnet	1	0	1	0
 
 strukturordning	hábmeårnik	strukturortnet	0	0	0	0
-strukturordning	hábmeásadus	strukturortnet	0	0	0	0
++strukturordning	hábmeásadus	strukturortnet	0	0	0	0
 
 høringsordning	guláskuddamårnik	gažadanortnet	0	0	0	0
-høringsordning	guláskuddamásadus	gažadanortnet	0	0	0	0
++høringsordning	guláskuddamásadus	gažadanortnet	0	0	0	0
 
 øvingsordning	hárjjidallamårnik	hárjehallanortnet	0	0	0	0
-øvingsordning	hárjjidallamásadus	hárjehallanortnet	0	0	0	0
++øvingsordning	hárjjidallamásadus	hárjehallanortnet	0	0	0	0
 
 revisjonsordning	dárkastusårnik	revišuvdnaortnet	0	0	0	0
-revisjonsordning	dárkastusásadus	revišuvdnaortnet	0	0	0	0
++revisjonsordning	dárkastusásadus	revišuvdnaortnet	0	0	0	0
 
 transportordning	fievrroårnik	fievrridanortnet	0	0	0	0
 transportordning	fievrroásadus	fievrridanortnet	0	0	0	0
@@ -315,7 +316,7 @@ forskningsbevilgning	guoradallamjuollodibme	dutkanjuolludeapmi	0	0	0	0
 
 restbevilgning	bátsudisruhtajuollodibme	loahppajuolludus	3	0	0	0
 restbevilgning	bátsevruhtajuollodibme	loahppajuolludus	3	0	0	0
-restbevilgning	bátsudisjuollodibme	loahppajuolludus	3	0	0	0
++restbevilgning	bátsudisjuollodibme	loahppajuolludus	3	0	0	0
 restbevilgning	bátsevjuollodibme	loahppajuolludus	3	0	0	0
 
 reinforskning	bánulåtsådibme	boazodutkan/boazodutkamuš	2	0	0	0
@@ -365,23 +366,23 @@ trekkopplysning	gessusatjuovggidus	geasusdieđáhus	0	0	1	0
 rammevurdering	birámárvustallam	rámmaárvvoštallan	0	0	0	0
 rammevurdering	birámárvustallamdájddo	rámmaárvvoštallan	0	0	0	0
 
-beitevurdering	guohtomárvustallam	guohtunárvvoštallan	0	0	0	0
++beitevurdering	guohtomárvustallam	guohtunárvvoštallan	0	0	0	0
 beitevurdering	guohtomárvustallamdájddo	guohtunárvvoštallan	0	0	0	0
 
-konsekvensvurdering	boadosárvustallam	váikkuhanárvvoštallan	1	0	0	0
++konsekvensvurdering	boadosárvustallam	váikkuhanárvvoštallan	1	0	0	0
 konsekvensvurdering	boadosárvustallamdájddo	váikkuhanárvvoštallan	1	0	0	0
 
 produksjonsetablering	buvtadusásadibme	produkšuvdnaásaheapmi	0	0	0	0
 produksjonsetablering	buvtadimevuododibme	produkšuvdnaásaheapmi	0	0	0	0
-produksjonsetablering	buvtadimvuododibme	produkšuvdnaásaheapmi	0	0	0	0
++produksjonsetablering	buvtadimvuododibme	produkšuvdnaásaheapmi	0	0	0	0
 produksjonsetablering	buvtadusvuododibme	produkšuvdnaásaheapmi	0	0	0	0
 
-fiskesesong	guollebivddogávdda	bivdoáigodat	2	0	1	0
-fiskesesong	guolástusgávdda	bivdoáigodat	2	0	1	0
-fiskesesong	guollebivddoájgge	bivdoáigodat	2	0	1	0
-fiskesesong	guolástusájgge	bivdoáigodat	2	0	1	0
++fiskesesong	guollebivddogávdda	bivdoáigodat	2	0	1	0
++fiskesesong	guolástusgávdda	bivdoáigodat	2	0	1	0
++fiskesesong	guollebivddoájgge	bivdoáigodat	2	0	1	0
++fiskesesong	guolástusájgge	bivdoáigodat	2	0	1	0
 
-konkurranseøkonomi	gilpustallamekonomiddja	gilvoekonomiija	0	0	0	0
++konkurranseøkonomi	gilpustallamekonomiddja	gilvoekonomiija	0	0	0	0
 konkurranseøkonomi	gilppomekonomiddja	gilvoekonomiija	0	0	0	0
 konkurranseøkonomi	gilposekonomiddja	gilvoekonomiija	0	0	0	0
 konkurranseøkonomi	gilpustallamaruhtadille	gilvoekonomiija	0	0	0	0
@@ -392,12 +393,12 @@ konkurranseøkonomi	gilppomruhtadille	gilvoekonomiija	0	0	0	0
 konkurranseøkonomi	gilposruhtadille	gilvoekonomiija	0	0	0	0
 
 skipstrafikk	háksajåhtulahka	fanastrafihkka/skiipajohtaleapmi/skiipajohtolat	2	0	0	0
-skipstrafikk	háksatrafihkka	fanastrafihkka/skiipajohtaleapmi/skiipajohtolat	2	0	0	0
++skipstrafikk	háksatrafihkka	fanastrafihkka/skiipajohtaleapmi/skiipajohtolat	2	0	0	0
 
-tospråklighetspedagogikk	guovtegielakvuodapedagogihkka	guovttegielatvuođapedagogihkka	2	0	0	0
++tospråklighetspedagogikk	guovtegielakvuodapedagogihkka	guovttegielatvuođapedagogihkka	2	0	0	0
 tospråklighetspedagogikk	guovtegielakvuodapedagogijkka	guovttegielatvuođapedagogihkka	2	0	0	0
 
-konkurransepolitikk	gilpustallamapolitihkka	gilvopolitihkka	4	0	0	0
++konkurransepolitikk	gilpustallamapolitihkka	gilvopolitihkka	4	0	0	0
 konkurransepolitikk	gilppomapolitihkka	gilvopolitihkka	4	0	0	0
 konkurransepolitikk	gilppusapolitihkka	gilvopolitihkka	4	0	0	0
 konkurransepolitikk	gilpustallampolitihkka	gilvopolitihkka	4	0	0	0
@@ -411,16 +412,16 @@ konkurransepolitikk	gilppompolitijkka	gilvopolitihkka	4	0	0	0
 konkurransepolitikk	gilpospolitijkka	gilvopolitihkka	4	0	0	0
 
 forskningspolitikk	guoradallamapolitihkka	dutkanpolitihkka	8	0	4	0
-forskningspolitikk	guoradallampolitihkka	dutkanpolitihkka	8	0	4	0
++forskningspolitikk	guoradallampolitihkka	dutkanpolitihkka	8	0	4	0
 forskningspolitikk	guoradallamapolitijkka	dutkanpolitihkka	8	0	4	0
 forskningspolitikk	guoradallampolitijkka	dutkanpolitihkka	8	0	4	0
 
-landbrukspolitikk	ednambarggopolitihkka	eanadoallopolitihkka/eanandoallopolitihkka/eanageavahanpolitihkka	31	0	0	0
++landbrukspolitikk	ednambarggopolitihkka	eanadoallopolitihkka/eanandoallopolitihkka/eanageavahanpolitihkka	31	0	0	0
 landbrukspolitikk	ednambargopolitihkka	eanadoallopolitihkka/eanandoallopolitihkka/eanageavahanpolitihkka	31	0	0	0
 landbrukspolitikk	ednambarggopolitijkka	eanadoallopolitihkka/eanandoallopolitihkka/eanageavahanpolitihkka	31	0	0	0
 landbrukspolitikk	ednambargopolitijkka	eanadoallopolitihkka/eanandoallopolitihkka/eanageavahanpolitihkka	31	0	0	0
 
-jordbrukspolitikk	ednambarggopolitihkka	eanadoallopolitihkka	10	0	16	0
++jordbrukspolitikk	ednambarggopolitihkka	eanadoallopolitihkka	10	0	16	0
 jordbrukspolitikk	ednambargopolitihkka	eanadoallopolitihkka	10	0	16	0
 jordbrukspolitikk	ednambarggopolitijkka	eanadoallopolitihkka	10	0	16	0
 jordbrukspolitikk	ednambargopolitijkka	eanadoallopolitihkka	10	0	16	0
@@ -440,7 +441,7 @@ rammeverk	birámdåjmadahka	rámmavuogádat/rámmaráhkkanus	16	0	0	0
 rammeverk	birámásadus	rámmavuogádat/rámmaráhkkanus	16	0	0	0
 
 arkivverk	ibnosdåjmadahka	arkiivadoaimmahat	3	0	1	0
-arkivverk	ibnosásadus	arkiivadoaimmahat	3	0	1	0
++arkivverk	ibnosásadus	arkiivadoaimmahat	3	0	1	0
 
 festsal	festaladnja	riepmolatnja/riepmosálla	0	0	0	0
 festsal	festahuonaj	riepmolatnja/riepmosálla	0	0	0	0
@@ -459,24 +460,24 @@ myndighetstildelingshjemmel	fábmodusjuollodibme	fápmoaddinláhkavuođđu	0	0	0
 festspill	festastoagos	feastaspeallu/musihkkariemut	1	0	0	0
 festspill	fæsstastoagos	feastaspeallu/musihkkariemut	1	0	0	0
 
-utredningsprogram	guoradallamprográmma	čielggadusprográmma/čielggadanprográmma	4	0	0	0
++utredningsprogram	guoradallamprográmma	čielggadusprográmma/čielggadanprográmma	4	0	0	0
 utredningsprogram	guoradusprográmma	čielggadusprográmma/čielggadanprográmma	4	0	0	0
 
 fylkesstyremedlem	fylkkastivrrasebrulasj	fylkkastivrralahttu	0	0	0	0
-fylkesstyremedlem	fylkastivrrasebrulasj	fylkkastivrralahttu	0	0	0	0
++fylkesstyremedlem	fylkastivrrasebrulasj	fylkkastivrralahttu	0	0	0	0
 
-beitesystem	guohtomvuogádahka	guohtunvuogádat	0	0	0	0
++beitesystem	guohtomvuogádahka	guohtunvuogádat	0	0	0	0
 beitesystem	guohtomasystiebma	guohtunvuogádat	0	0	0	0
 beitesystem	guohtomsystiebma	guohtunvuogádat	0	0	0	0
 beitesystem	guohtomavuohke	guohtunvuogádat	0	0	0	0
 beitesystem	guohtomvuohke	guohtunvuogádat	0	0	0	0
 
-energisystem	energiddjavuogádahka	energiijavuogádat	1	0	0	0
++energisystem	energiddjavuogádahka	energiijavuogádat	1	0	0	0
 energisystem	energiddjasystiebma	energiijavuogádat	1	0	0	0
 energisystem	energiddjavuohke	energiijavuogádat	1	0	0	0
 
 varslingssystem	diededimesystiebma	dieđihanvuogádat	1	0	0	0
-varslingssystem	diededimsystiebma	dieđihanvuogádat	1	0	0	0
++varslingssystem	diededimsystiebma	dieđihanvuogádat	1	0	0	0
 varslingssystem	diededimevuohke	dieđihanvuogádat	1	0	0	0
 varslingssystem	diededimvuohke	dieđihanvuogádat	1	0	0	0
 
@@ -486,12 +487,12 @@ forskningssystem	guoradallamsystiebma	dutkanvuogádat	2	0	0	0
 forskningssystem	guoradallamavuohke	dutkanvuogádat	2	0	0	0
 forskningssystem	guoradallamvuohke	dutkanvuogádat	2	0	0	0
 
-grunnforvaltningssystem	ednamháldadusvuogádahka	eanahálddašanvuogádat	0	0	0	0
++grunnforvaltningssystem	ednamháldadusvuogádahka	eanahálddašanvuogádat	0	0	0	0
 grunnforvaltningssystem	ednamháldadussystiebma	eanahálddašanvuogádat	0	0	0	0
 grunnforvaltningssystem	ednamháldadusvuohke	eanahálddašanvuogádat	0	0	0	0
 
 domstolssystem	diggevuogádahka	duopmostuollosystema	0	0	0	0
-domstolssystem	duobbmoståvllåvuogádahka	duopmostuollosystema	0	0	0	0
++domstolssystem	duobbmoståvllåvuogádahka	duopmostuollosystema	0	0	0	0
 domstolssystem	diggesystiebma	duopmostuollosystema	0	0	0	0
 domstolssystem	dikkesystiebma	duopmostuollosystema	0	0	0	0
 domstolssystem	duobbmoståvllåsystiebma	duopmostuollosystema	0	0	0	0
@@ -499,11 +500,11 @@ domstolssystem	diggevuohke	duopmostuollosystema	0	0	0	0
 domstolssystem	dikkevuohke	duopmostuollosystema	0	0	0	0
 domstolssystem	duobbmoståvllåvuohke	duopmostuollosystema	0	0	0	0
 
-konsesjonssystem	doajmmaloahpevuogádahka	konsešuvdnavuogádat	0	0	0	0
++konsesjonssystem	doajmmaloahpevuogádahka	konsešuvdnavuogádat	0	0	0	0
 konsesjonssystem	doajmmaloahpesystiebma	konsešuvdnavuogádat	0	0	0	0
 konsesjonssystem	doajmmaloahpevuohke	konsešuvdnavuogádat	0	0	0	0
 
-produksjonssystem	buvtadusvuogádahka	buvttadansystema/buvttadanvuogádat	0	0	0	0
++produksjonssystem	buvtadusvuogádahka	buvttadansystema/buvttadanvuogádat	0	0	0	0
 produksjonssystem	buvtadimesystiebma	buvttadansystema/buvttadanvuogádat	0	0	0	0
 produksjonssystem	buvtadimsystiebma	buvttadansystema/buvttadanvuogádat	0	0	0	0
 produksjonssystem	buvtadussystiebma	buvttadansystema/buvttadanvuogádat	0	0	0	0
@@ -512,8 +513,8 @@ produksjonssystem	buvtadimvuohke	buvttadansystema/buvttadanvuogádat	0	0	0	0
 produksjonssystem	buvtadusvuohke	buvttadansystema/buvttadanvuogádat	0	0	0	0
 
 reindriftssystem	boatsojdillevuogádahka	boazodoallovuogádat	0	0	0	0
-reindriftssystem	boatsojbarggovuogádahka	boazodoallovuogádat	0	0	0	0
-reindriftssystem	boatsojsujttovuogádahka	boazodoallovuogádat	0	0	0	0
++reindriftssystem	boatsojbarggovuogádahka	boazodoallovuogádat	0	0	0	0
++reindriftssystem	boatsojsujttovuogádahka	boazodoallovuogádat	0	0	0	0
 reindriftssystem	boatsojæládusvuogádahka	boazodoallovuogádat	0	0	0	0
 reindriftssystem	boatsojdillesystiebma	boazodoallovuogádat	0	0	0	0
 reindriftssystem	boatsojbarggosystiebma	boazodoallovuogádat	0	0	0	0
@@ -528,7 +529,7 @@ reindriftssystem	boatsojsujtovuohke	boazodoallovuogádat	0	0	0	0
 reindriftssystem	boatsojsujttovuohke	boazodoallovuogádat	0	0	0	0
 reindriftssystem	boatsojæládusvuohke	boazodoallovuogádat	0	0	0	0
 
-inntektssystem	boahtovuogádahka	dienasvuogádat/sisaboahtovuogádat	8	0	0	0
++inntektssystem	boahtovuogádahka	dienasvuogádat/sisaboahtovuogádat	8	0	0	0
 inntektssystem	boadosystiebma	dienasvuogádat/sisaboahtovuogádat	8	0	0	0
 inntektssystem	boahtosystiebma	dienasvuogádat/sisaboahtovuogádat	8	0	0	0
 inntektssystem	boadovuohke	dienasvuogádat/sisaboahtovuogádat	8	0	0	0
@@ -544,40 +545,40 @@ produksjonsvolum	buvtadimevuobman	buvttadanhivvodat	1	0	0	0
 produksjonsvolum	buvtadimvuobman	buvttadanhivvodat	1	0	0	0
 produksjonsvolum	buvtadusvuobman	buvttadanhivvodat	1	0	0	0
 
-klageorgan	gujddimorgádna	váiddaorgána/váidalanorgána	21	0	0	0
++klageorgan	gujddimorgádna	váiddaorgána/váidalanorgána	21	0	0	0
 klageorgan	gujdalvisorgádna	váiddaorgána/váidalanorgána	21	0	0	0
 
 myndighetsorgan	fábmudahkaorgádna	váldeorgána/eiseváldeorgána	3	0	0	0
 myndighetsorgan	fábmogisvuohtaorgádna	váldeorgána/eiseváldeorgána	3	0	0	0
 myndighetsorgan	fábmodusorgádna	váldeorgána/eiseváldeorgána	3	0	0	0
 
-polititjenestemann	bulkkevirggeulmusj	politiijavirgealmmái/politiijaalmmái	0	0	0	0
++polititjenestemann	bulkkevirggeulmusj	politiijavirgealmmái/politiijaalmmái	0	0	0	0
 polititjenestemann	bulkkeámmátulmusj	politiijavirgealmmái/politiijaalmmái	0	0	0	0
 polititjenestemann	bulkkevirggeålmåj	politiijavirgealmmái/politiijaalmmái	0	0	0	0
 polititjenestemann	bulkkeámmátålmåj	politiijavirgealmmái/politiijaalmmái	0	0	0	0
 
-jordbrukssamfunn	ednambarggoaktisasjvuohta	eanadoalloservodat	0	0	0	0
++jordbrukssamfunn	ednambarggoaktisasjvuohta	eanadoalloservodat	0	0	0	0
 jordbrukssamfunn	ednambargoaktisasjvuohta	eanadoalloservodat	0	0	0	0
 
 vitenskapssamfunn	diedaaktisasjvuohta	dieđalašvuođaservodat	0	0	0	0
 vitenskapssamfunn	diehtagaaktisasjvuohta	dieđalašvuođaservodat	0	0	0	0
 
-fisketradisjon	guollebivddoárbbedáhpe	bivdoárbevierru	0	0	0	0
-fisketradisjon	guolástusárbbedáhpe	bivdoárbevierru	0	0	0	0
++fisketradisjon	guollebivddoárbbedáhpe	bivdoárbevierru	0	0	0	0
++fisketradisjon	guolástusárbbedáhpe	bivdoárbevierru	0	0	0	0
 
 rammedefinisjon	birámtjielggidus	rámmačilgehus	0	0	0	0
 rammedefinisjon	birámdefinisjåvnnå	rámmačilgehus	0	0	0	0
 
-utredningsseksjon	guoradallamåssudahka	čielggadanjuogus/čielggadansekšuvdna	0	0	0	0
++utredningsseksjon	guoradallamåssudahka	čielggadanjuogus/čielggadansekšuvdna	0	0	0	0
 utredningsseksjon	guoradusåssudahka	čielggadanjuogus/čielggadansekšuvdna	0	0	0	0
 
-energiproduksjon	energiddjabuvtadibme	energiijabuvttadeapmi	4	0	0	0
++energiproduksjon	energiddjabuvtadibme	energiijabuvttadeapmi	4	0	0	0
 energiproduksjon	energiddjabuvtadus	energiijabuvttadeapmi	4	0	0	0
 
-kornproduksjon	gårnnebuvtadibme	gordnebuvttadeapmi	0	0	0	0
++kornproduksjon	gårnnebuvtadibme	gordnebuvttadeapmi	0	0	0	0
 kornproduksjon	gårnnebuvtadus	gordnebuvttadeapmi	0	0	0	0
 
-reinkjøttproduksjon	boahttsubiergobuvtadibme	bohccobiergobuvttadeapmi	0	0	0	0
++reinkjøttproduksjon	boahttsubiergobuvtadibme	bohccobiergobuvttadeapmi	0	0	0	0
 reinkjøttproduksjon	boahttsubierggobuvtadus	bohccobiergobuvttadeapmi	0	0	0	0
 reinkjøttproduksjon	boahttsubiergobuvtadus	bohccobiergobuvttadeapmi	0	0	0	0
 
@@ -585,40 +586,40 @@ konkurransehensyn	gilpustallamavieledus	gilvoberoštupmi/gilvodeasta	1	0	0	0
 konkurransehensyn	gilppomavieledus	gilvoberoštupmi/gilvodeasta	1	0	0	0
 konkurransehensyn	gilppusavieledus	gilvoberoštupmi/gilvodeasta	1	0	0	0
 konkurransehensyn	gilppomvieledus	gilvoberoštupmi/gilvodeasta	1	0	0	0
-konkurransehensyn	gilposvieledus	gilvoberoštupmi/gilvodeasta	1	0	0	0
++konkurransehensyn	gilposvieledus	gilvoberoštupmi/gilvodeasta	1	0	0	0
 
 fiskefellesskap	guollebivddosiebrrevuohta	guolástansearvevuohta	1	0	0	0
 fiskefellesskap	guollebivdosiebrrevuohta	guolástansearvevuohta	1	0	0	0
 fiskefellesskap	guolástussiebrrevuohta	guolástansearvevuohta	1	0	0	0
-fiskefellesskap	guollebivddoaktisasjvuohta	guolástansearvevuohta	1	0	0	0
++fiskefellesskap	guollebivddoaktisasjvuohta	guolástansearvevuohta	1	0	0	0
 fiskefellesskap	guollebivdoaktisasjvuohta	guolástansearvevuohta	1	0	0	0
 fiskefellesskap	guolástusaktisasjvuohta	guolástansearvevuohta	1	0	0	0
 
-konkurranseprinsipp	gilpustallamaprinsihppa	gilvvohallanprinsihppa	0	0	0	0
++konkurranseprinsipp	gilpustallamaprinsihppa	gilvvohallanprinsihppa	0	0	0	0
 konkurranseprinsipp	gilppomaprinsihppa	gilvvohallanprinsihppa	0	0	0	0
 konkurranseprinsipp	gilppusaprinsihppa	gilvvohallanprinsihppa	0	0	0	0
 konkurranseprinsipp	gilpustallamprinsihppa	gilvvohallanprinsihppa	0	0	0	0
 konkurranseprinsipp	gilppomprinsihppa	gilvvohallanprinsihppa	0	0	0	0
-konkurranseprinsipp	gilposprinsihppa	gilvvohallanprinsihppa	0	0	0	0
++konkurranseprinsipp	gilposprinsihppa	gilvvohallanprinsihppa	0	0	0	0
 
 miljøprinsipp	birrasaprinsihppa	birasjurddašeapmi	0	0	0	0
-miljøprinsipp	birásprinsihppa	birasjurddašeapmi	0	0	0	0
++miljøprinsipp	birásprinsihppa	birasjurddašeapmi	0	0	0	0
 
 reindriftseminar	boatsojdilleseminárra	boazodoalloseminára	0	0	0	0
-reindriftseminar	boatsojbarggoseminárra	boazodoalloseminára	0	0	0	0
-reindriftseminar	boatsojsujttoseminárra	boazodoalloseminára	0	0	0	0
++reindriftseminar	boatsojbarggoseminárra	boazodoalloseminára	0	0	0	0
++reindriftseminar	boatsojsujttoseminárra	boazodoalloseminára	0	0	0	0
 reindriftseminar	boatsojæládusseminárra	boazodoalloseminára	0	0	0	0
 
-partnerskapsavtaler	guojmmevuodasjiehtadibme	bargoguoibmesoahpamuš/bargoguoibmešiehtadus	0	0	0	0
++partnerskapsavtaler	guojmmevuodasjiehtadibme	bargoguoibmesoahpamuš/bargoguoibmešiehtadus	0	0	0	0
 partnerskapsavtaler	guojmmevuohtasjiehtadibme	bargoguoibmesoahpamuš/bargoguoibmešiehtadus	0	0	0	0
 
 prisvinner	hievedimevuojtte	vuoiti	4	0	194	0
 prisvinner	hievedimvuojtte	vuoiti	4	0	194	0
-prisvinner	gudnebálkkávuojtte	vuoiti	4	0	194	0
++prisvinner	gudnebálkkávuojtte	vuoiti	4	0	194	0
 
 reindriftslærer	boatsojdilleåhpadiddje	boazodoallooahpaheaddji	0	0	0	0
-reindriftslærer	boatsojbarggoåhpadiddje	boazodoallooahpaheaddji	0	0	0	0
-reindriftslærer	boatsojsujttoåhpadiddje	boazodoallooahpaheaddji	0	0	0	0
++reindriftslærer	boatsojbarggoåhpadiddje	boazodoallooahpaheaddji	0	0	0	0
++reindriftslærer	boatsojsujttoåhpadiddje	boazodoallooahpaheaddji	0	0	0	0
 reindriftslærer	boatsojæládusåhpadiddje	boazodoallooahpaheaddji	0	0	0	0
 reindriftslærer	boatsojdilleskåvlik	boazodoallooahpaheaddji	0	0	0	0
 reindriftslærer	boatsojbarggoskåvlik	boazodoallooahpaheaddji	0	0	0	0
@@ -628,41 +629,41 @@ reindriftslærer	boatsojæládusskåvlik	boazodoallooahpaheaddji	0	0	0	0
 beitemønster	guohtomagirjos	guohtonminsttar/guohtunmálle	3	0	0	0
 beitemønster	guohtomgirjos	guohtonminsttar/guohtunmálle	3	0	0	0
 
-klimarådgiver	dálkádahkarádevadde	dálkkádatráđđeaddi	0	0	0	0
++klimarådgiver	dálkádahkarádevadde	dálkkádatráđđeaddi	0	0	0	0
 klimarådgiver	dálkádahkarádediddje	dálkkádatráđđeaddi	0	0	0	0
 
 fiskerirådgiver	guollimrádevadde	guolástusráđđeaddi	2	0	0	0
-fiskerirådgiver	guolástusrádevadde	guolástusráđđeaddi	2	0	0	0
++fiskerirådgiver	guolástusrádevadde	guolástusráđđeaddi	2	0	0	0
 fiskerirådgiver	guollimrádediddje	guolástusráđđeaddi	2	0	0	0
 fiskerirådgiver	guolástusrádediddje	guolástusráđđeaddi	2	0	0	0
 
-informasjonsrådgiver	diehtojuohkemrádevadde	diehtojuohkinráđđeaddi	2	0	1	0
++informasjonsrådgiver	diehtojuohkemrádevadde	diehtojuohkinráđđeaddi	2	0	1	0
 informasjonsrådgiver	diehtojuohkemrádediddje	diehtojuohkinráđđeaddi	2	0	1	0
 
 transportsektor	fievrrosuorgge	fievrridansuorgi/fievrrádussuorgi	2	0	0	0
 transportsektor	fievrosuorgge	fievrridansuorgi/fievrrádussuorgi	2	0	0	0
 
 likestillingspris	dássádushievedibme	dásseárvobálkkašupmi	9	0	5	0
-likestillingspris	dássádusgudnebálkká	dásseárvobálkkašupmi	9	0	5	0
++likestillingspris	dássádusgudnebálkká	dásseárvobálkkašupmi	9	0	5	0
 
 produksjonsarbeidsplass	buvtadimebarggosadje	produkšuvdnabargosadji	0	0	0	0
-produksjonsarbeidsplass	buvtadimbarggosadje	produkšuvdnabargosadji	0	0	0	0
++produksjonsarbeidsplass	buvtadimbarggosadje	produkšuvdnabargosadji	0	0	0	0
 
-utredningsprosess	guoradallamprosæssa	guorahallanproseassa	1	0	0	0
++utredningsprosess	guoradallamprosæssa	guorahallanproseassa	1	0	0	0
 utredningsprosess	guoradusprosæssa	guorahallanproseassa	1	0	0	0
 
-myndighetsprosess	fábmudahkaprosæssa	váldeproseassa	0	0	0	0
++myndighetsprosess	fábmudahkaprosæssa	váldeproseassa	0	0	0	0
 myndighetsprosess	fábmogisvuohtaprosæssa	váldeproseassa	0	0	0	0
-myndighetsprosess	fábmodusprosæssa	váldeproseassa	0	0	0	0
++myndighetsprosess	fábmodusprosæssa	váldeproseassa	0	0	0	0
 
 fiskeridirektorat	guollimdirektoráhtta	guolástandirektoráhtta	0	0	1	0
-fiskeridirektorat	guolástusdirektoráhtta	guolástandirektoráhtta	0	0	1	0
++fiskeridirektorat	guolástusdirektoráhtta	guolástandirektoráhtta	0	0	1	0
 
 høringsnotat	guláskuddamtjála	gulaskuddančálus/gulaskuddannotáhtta	15	0	0	0
-høringsnotat	guláskuddamnotáhtta	gulaskuddančálus/gulaskuddannotáhtta	15	0	0	0
++høringsnotat	guláskuddamnotáhtta	gulaskuddančálus/gulaskuddannotáhtta	15	0	0	0
 
 disposisjonsnotat	disposisjåvnnåtjála	hálddašannotáhta/juolludusnotáhta	0	0	0	0
-disposisjonsnotat	disposisjåvnnånotáhtta	hálddašannotáhta/juolludusnotáhta	0	0	0	0
++disposisjonsnotat	disposisjåvnnånotáhtta	hálddašannotáhta/juolludusnotáhta	0	0	0	0
 
 miljøvernmyndighet	birásgáhttimfábmudahka	birasgáhtteneiseváldi	3	0	1	0
 miljøvernmyndighet	birásgáhttimfábmogisvuohta	birasgáhtteneiseváldi	3	0	1	0
@@ -689,7 +690,7 @@ produksjonsrettighet	buvtadimerievtes	buvttadanvuoigatvuohta	0	0	0	0
 produksjonsrettighet	buvtadimrievtes	buvttadanvuoigatvuohta	0	0	0	0
 produksjonsrettighet	buvtadusrievtes	buvttadanvuoigatvuohta	0	0	0	0
 
-økonomienhet	ekonomiddjaavtadahka	ekonomiijaovttadat	2	0	1	0
++økonomienhet	ekonomiddjaavtadahka	ekonomiijaovttadat	2	0	1	0
 økonomienhet	ekonomijaavtadahka	ekonomiijaovttadat	2	0	1	0
 
 forskningsenhet	guoradallamaavtadahka	dutkanovttadat	0	0	22	0
@@ -698,18 +699,18 @@ forskningsenhet	guoradallamaavtadak	dutkanovttadat	0	0	22	0
 forskningsenhet	guoradallamavtadak	dutkanovttadat	0	0	22	0
 
 informasjonsenhet	diehtojuohkemaavtadahka	diehtojuohkinovttadat	3	0	0	0
-informasjonsenhet	diehtojuohkemavtadahka	diehtojuohkinovttadat	3	0	0	0
++informasjonsenhet	diehtojuohkemavtadahka	diehtojuohkinovttadat	3	0	0	0
 informasjonsenhet	diehtojuohkemaavtadak	diehtojuohkinovttadat	3	0	0	0
 informasjonsenhet	diehtojuohkemavtadak	diehtojuohkinovttadat	3	0	0	0
 
 produksjonsenhet	buvtadimeavtadahka	buvttadanovttadat	0	0	0	0
-produksjonsenhet	buvtadimavtadahka	buvttadanovttadat	0	0	0	0
++produksjonsenhet	buvtadimavtadahka	buvttadanovttadat	0	0	0	0
 produksjonsenhet	buvtadusavtadahka	buvttadanovttadat	0	0	0	0
 produksjonsenhet	buvtadimeavtadak	buvttadanovttadat	0	0	0	0
 produksjonsenhet	buvtadimavtadak	buvttadanovttadat	0	0	0	0
 produksjonsenhet	buvtadusavtadak	buvttadanovttadat	0	0	0	0
 
-utredningskapasitet	guoradallammáhtukvuohta	čielggadannákca	1	0	0	0
++utredningskapasitet	guoradallammáhtukvuohta	čielggadannákca	1	0	0	0
 utredningskapasitet	guoradusmáhtukvuohta	čielggadannákca	1	0	0	0
 
 forskningsaktivitet	guoradallamadoajmma	dutkandoaibma	5	0	5	0
@@ -722,45 +723,45 @@ bioteknologibedrift	bioteknologidjavidnudak	bioteknologiijafitnodat	0	0	0	0
 bioteknologibedrift	bioteknologijjavidnudak	bioteknologiijafitnodat	0	0	0	0
 
 produksjonsbedrift	buvtadimevidnudahka	buvttadanfitnodat	0	0	1	0
-produksjonsbedrift	buvtadimvidnudahka	buvttadanfitnodat	0	0	1	0
++produksjonsbedrift	buvtadimvidnudahka	buvttadanfitnodat	0	0	1	0
 produksjonsbedrift	buvtadusvidnudahka	buvttadanfitnodat	0	0	1	0
 produksjonsbedrift	buvtadimevidnudak	buvttadanfitnodat	0	0	1	0
 produksjonsbedrift	buvtadimvidnudak	buvttadanfitnodat	0	0	1	0
 produksjonsbedrift	buvtadusvidnudak	buvttadanfitnodat	0	0	1	0
 
-utredningsprosjekt	guoradallamprosjækta	čielggadanprošeakta	7	0	2	0
++utredningsprosjekt	guoradallamprosjækta	čielggadanprošeakta	7	0	2	0
 utredningsprosjekt	guoradusprosjækta	čielggadanprošeakta	7	0	2	0
 
-garantiinntekt	dahkoduodastussisboahto	dáhkidandienas	2	0	0	0
++garantiinntekt	dahkoduodastussisboahto	dáhkidandienas	2	0	0	0
 garantiinntekt	buvtaduodastusboahto	dáhkidandienas	2	0	0	0
 
 produksjonsinntekt	buvtadimeboahto	buvttadandienas	2	0	0	0
-produksjonsinntekt	buvtadimboahto	buvttadandienas	2	0	0	0
++produksjonsinntekt	buvtadimboahto	buvttadandienas	2	0	0	0
 produksjonsinntekt	buvtadimesisboahto	buvttadandienas	2	0	0	0
 produksjonsinntekt	buvtadimsisboahto	buvttadandienas	2	0	0	0
 produksjonsinntekt	buvtadussisboahto	buvttadandienas	2	0	0	0
 produksjonsinntekt	buvtadusboahto	buvttadandienas	2	0	0	0
 
-gassinntekt	gássaboahto	gássadienas	0	0	0	0
++gassinntekt	gássaboahto	gássadienas	0	0	0	0
 gassinntekt	gássasisboahto	gássadienas	0	0	0	0
 
-utredningsplikt	guoradallamvælggo	čielggadangeatnegasvuohta	1	0	0	0
++utredningsplikt	guoradallamvælggo	čielggadangeatnegasvuohta	1	0	0	0
 utredningsplikt	guoradusvælggo	čielggadangeatnegasvuohta	1	0	0	0
 
 rammedokument	birámtjála	rámmaáššegirji	0	0	0	0
 rammedokument	birámdokumænnta	rámmaáššegirji	0	0	0	0
 
-høringsdokument	guláskuddamtjála	gulaskuddandokumeanta	5	0	1	0
++høringsdokument	guláskuddamtjála	gulaskuddandokumeanta	5	0	1	0
 høringsdokument	guláskuddamdokumænnta	gulaskuddandokumeanta	5	0	1	0
 
-fiskeprodusent	guollebivddobuvtadiddje	guollebuvttadeaddji	0	0	0	0
++fiskeprodusent	guollebivddobuvtadiddje	guollebuvttadeaddji	0	0	0	0
 fiskeprodusent	guollebivdobuvtadiddje	guollebuvttadeaddji	0	0	0	0
-fiskeprodusent	guolástusbuvtadiddje	guollebuvttadeaddji	0	0	0	0
++fiskeprodusent	guolástusbuvtadiddje	guollebuvttadeaddji	0	0	0	0
 
-utredningsrapport	guoradallamdiedádus	čielggadusraporta	0	0	0	0
++utredningsrapport	guoradallamdiedádus	čielggadusraporta	0	0	0	0
 utredningsrapport	guoradusdiedádus	čielggadusraporta	0	0	0	0
 
-klagefrist	gujddimájggemierre	váidalanáigemearri/váidináigemearri	8	0	0	0
++klagefrist	gujddimájggemierre	váidalanáigemearri/váidináigemearri	8	0	0	0
 klagefrist	gujdalvisájggemierre	váidalanáigemearri/váidináigemearri	8	0	0	0
 
 samtykkerett	guorrasimerievtes	mieđihanriekti	0	0	0	0
@@ -782,16 +783,16 @@ undersøkelsesrett	guoradallamrievtes	iskkadanvuoigatvuohta/iskanriekti	8	0	0	0
 fradragsrett	gessusarievtes	geasusvuoigatvuohta	5	0	0	0
 fradragsrett	gæsosrievtes	geasusvuoigatvuohta	5	0	0	0
 
-utredningskrav	guoradallamrávkalvis	čielggadangáibádus	1	0	0	0
++utredningskrav	guoradallamrávkalvis	čielggadangáibádus	1	0	0	0
 utredningskrav	guoradusrávkalvis	čielggadangáibádus	1	0	0	0
 utredningskrav	guoradallamgájbbádus	čielggadangáibádus	1	0	0	0
 utredningskrav	guoradusgájbbádus	čielggadangáibádus	1	0	0	0
 
-konsesjonskrav	doajmmaloahperávkalvis	konsešungáibádus	0	0	0	0
++konsesjonskrav	doajmmaloahperávkalvis	konsešungáibádus	0	0	0	0
 konsesjonskrav	doajmmaloahpegájbbádus	konsešungáibádus	0	0	0	0
 
-produksjonskrav	buvtadusrávkalvis	buvttadangáibádus	0	0	0	0
++produksjonskrav	buvtadusrávkalvis	buvttadangáibádus	0	0	0	0
 produksjonskrav	buvtadusgájbbádus	buvttadangáibádus	0	0	0	0
 
-utredningsmiljø	guoradallambirás	čielggadanbiras/guorahallanbiras	0	0	0	0
++utredningsmiljø	guoradallambirás	čielggadanbiras/guorahallanbiras	0	0	0	0
 utredningsmiljø	guoradusbirás	čielggadanbiras/guorahallanbiras	0	0	0	0
