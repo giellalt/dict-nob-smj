@@ -1780,7 +1780,603 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">fremmed</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">amás</t>
+        <t pos="A">vieres</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">gjeldende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">guoskavasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">snar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">háhppel</t>
+        <t pos="A">jåhtel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">stille</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">jasska</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ordentlig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">almma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">saklig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">ássjálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">usaklig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">iehpeássjálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">rik</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">boanndá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">bøyelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">såddjel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ekstrem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">ekstrema (attr)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">lunken</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">låjkås</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">dyr</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">divras</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">viss</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">visses</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">svart</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">tjáhppat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">rett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">njuolggat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">flott</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">fijnes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">rå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">njuoskas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ekte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">oalle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">urimelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">rievtesferdugahtes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">dobbelt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">guovtegærddásasj</t>
+        <t pos="A">guovtegerdak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">primitiv</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">primitijva (attr)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sant</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">duohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kommende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">boahtte (attr)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">målretta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">ulmmelasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">angjeldende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">guoskavasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">treffsikker</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">diejddis (attr)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sakte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">suojmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ligegyldig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">huvsodibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sen</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">nuolle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ubrukelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dåhkkimahtes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ufør</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">sáhtus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">utadvendt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">bigok</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">egnet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">hiebalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">variert</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">målssudahkes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">nedslått</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">surgulasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">enkel</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">álkke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">robust</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">stádes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tykk (om masse)</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">suohkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">foregående</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">åvdusj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">rede</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gárves</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">skjev</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">bådnjot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">høy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">allak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">grov</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">ruobes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">grafisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gráfalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">rasjonell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">jergalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">elektrisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">elektrihkalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tverrpolitisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">doarespolitihkalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ukritisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">iehpekritihkalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">pussig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">imálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">idealistisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">idealistalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">urealistisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">iehperealistalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ukristelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">iehperistalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">religiøs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">åskulasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kommende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">boahtte</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
+primitiv ::: avtagærddásasj
+næringssvak ::: rassje
+næringssvak ::: tjuorbbe
+næringssvak ::: hædjo
+næringssvak ::: lájvve
+næringssvak ::: miesska
+næringssvak ::: dájgge
+urovekkende ::: balldalahtte
+uholdbar ::: tjuorbbe
+populær ::: bissel
+uttrykkelig ::: viekses
+uttrykkelig ::: væksák
+urørt ::: tjavdes
+urimelig ::: uriektesferduk
+urimelig ::: vádnarievtesferduk
+offensiv ::: ratjik
+angjeldende ::: dåhkålasj
+angjeldende ::: lágálasj
+utsatt ::: rassje
+utsatt ::: tjuorbbe
+utsatt ::: gieres
+utsatt ::: hædjo
+utsatt ::: lájvve
+tilhørende ::: gullevasj
+synkende ::: hædjo
+levedyktig ::: viessovarák
+kommende ::: gielalasj
+kommende ::: duohta
+kommende ::: ájnas
+kommende ::: bájkálasj
+kommende ::: vuoras
+gjeldende ::: dåhkålasj
+rettslig ::: lágálasj
+nedadgående ::: hædjo
+liknende ::: gielalasj
+liknende ::: boares
+liknende ::: duohta
+liknende ::: ájnas
+liknende ::: bájkálasj
+liknende ::: vuoras
+blinkende ::: tjuovggat
+legendarisk ::: oahpes
+grov ::: låssåk
+grov ::: njuoskas
+påfallende ::: heva
+uoppdragen ::: oahppamahtes
+uoppdragen ::: åhpak
+lovmessig ::: lágálasj
+romersk ::: råmålasj
+sportslig ::: valle
+sportslig ::: jåhtel
+ekte ::: dievas
+ekte ::: duodalasj
 sentral ::: guovdásjlasj
 kunnskapsdrevet ::: máhttuvuojmálasj
 tydelig ::: tjalmus
@@ -2407,3 +3003,4 @@ operativ	åperatijvvalasj	operatiivvalaš	18	0	0	0
 
  -->
 </r>
+
