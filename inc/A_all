@@ -1,30 +1,31 @@
+# most is good, but quite a few bad (@) as well
 
 fremmed	vieres	vieris	61	17	51	0
 fremmed	amás	amas	61	128	185	0
 
-gjeldende	lágálasj	gustovaš	295	0	51	0
-gjeldende	dåhkålasj	gustovaš	295	0	51	0
+gjeldende	guoskavasj	gustovaš	295	0	51	0
+@gjeldende	dåhkålasj	gustovaš	295	0	51	0
 
 snar	háhppel	háhppil	123	22	0	0
 snar	jåhtel	johtil	123	55	67	0
 
-stille	jasskat	jaskat	446	71	59	0
+stille	jasska	jaskat	446	71	59	0
 
-skikkelig	almma	albma	31	168	195	0
+ordentlig	almma	albma	31	168	195	0
 
 saklig	ássjálasj	áššálaš	15	15	18	0
 
 usaklig	iehpeássjálasj	eahpeáššálaš	2	0	1	0
 
-rettslig	lágálasj	lágalaš	125	0	25	0
+@rettslig	lágálasj	lágalaš	125	0	25	0
 
-lovmessig	lágálasj	lágalaš	6	0	25	0
+@lovmessig	lágálasj	lágalaš	6	0	25	0
 
-rik	jábálasj	jábálaš	287	0	3	0
+rik	boanndá	jábálaš	287	0	3	0
 
-dynamisk	såddjel	soddjil	17	0	2	0
+bøyelig	såddjel	soddjil	17	0	2	0
 
-ekstrem	ekstrema	ekstrema	10	0	4	0
+ekstrem	ekstrema (attr)	ekstrema	10	0	4	0
 
 lunken	låjkås	loikkas	0	4	2	0
 
@@ -34,7 +35,7 @@ viss	visses	vissis	163	98	88	0
 
 svart	tjáhppat	čáhppat	113	74	52	0
 
-urørt	tjavdes	čavddis	3	2	3	0
+@urørt	tjavdes	čavddis	3	2	3	0
 
 rett	njuolggat	njuolgat	2096	115	234	0
 
@@ -42,126 +43,126 @@ flott	fijnes	fiinnis	17	10	75	0
 
 rå	njuoskas	njuoskkas	17	7	21	0
 
-ekte	duodalasj	buiga/eakti	99	79	0	0
-ekte	njuolggat	buiga/eakti	99	115	0	0
+@ekte	duodalasj	buiga/eakti	99	79	0	0
+ekte	oalle	buiga/eakti	99	115	0	0
 
-uttrykkelig	væksák	válddálaš	46	3	6	0
-uttrykkelig	viekses	válddálaš	46	11	6	0
+@uttrykkelig	væksák	válddálaš	46	3	6	0
+@uttrykkelig	viekses	válddálaš	46	11	6	0
 
-urimelig	uriektesferduk	govttoheapme/vuoigatmeahttun	27	0	0	0
-urimelig	vádnarievtesferduk	govttoheapme/vuoigatmeahttun	27	12	0	0
+@urimelig	uriektesferduk	govttoheapme/vuoigatmeahttun	27	0	0	0
+@urimelig	vádnarievtesferduk	govttoheapme/vuoigatmeahttun	27	12	0	0
 urimelig	rievtesferdugahtes	govttoheapme/vuoigatmeahttun	27	3	0	0
 
-næringssvak	miesska	návccaheapme	1	11	4	0
-næringssvak	dájgge	návccaheapme	1	32	4	0
+@næringssvak	miesska	návccaheapme	1	11	4	0
+@næringssvak	dájgge	návccaheapme	1	32	4	0
 
-uoppdragen	åhpak	oahppameahttun	0	0	1	0
-uoppdragen	oahppamahtes	oahppameahttun	0	0	1	0
+@uoppdragen	åhpak	oahppameahttun	0	0	1	0
+@uoppdragen	oahppamahtes	oahppameahttun	0	0	1	0
 
 dobbelt	guovtegærddásasj	duppal	9	3	29	0
 dobbelt	guovtegerdak	duppal	9	6	29	0
 
-primitiv	avtagærddásasj	oktageardán/primitiivvalaš	1	19	0	0
-primitiv	måtsåk	oktageardán/primitiivvalaš	1	0	0	0
+@primitiv	avtagærddásasj	oktageardán/primitiivvalaš	1	19	0	0
+primitiv	primitijva (attr)	oktageardán/primitiivvalaš	1	0	0	0
 
-ekte	duohta	buiga	99	445	6	0
-ekte	dievas	buiga	99	152	6	0
+sant	duohta	buiga	99	445	6	0
+@ekte	dievas	buiga	99	152	6	0
 
-næringssvak	tjuorbbe	návccaheapme	1	12	4	0
-næringssvak	rassje	návccaheapme	1	46	4	0
-næringssvak	lájvve	návccaheapme	1	0	4	0
-næringssvak	hædjo	návccaheapme	1	101	4	0
+@næringssvak	tjuorbbe	návccaheapme	1	12	4	0
+@næringssvak	rassje	návccaheapme	1	46	4	0
+@næringssvak	lájvve	návccaheapme	1	0	4	0
+@næringssvak	hædjo	návccaheapme	1	101	4	0
 
-kommende	duohta	boahtte	98	445	592	0
-kommende	gielalasj	boahtte	98	267	592	0
-kommende	bájkálasj	boahtte	98	696	592	0
-kommende	ájnas	boahtte	98	2020	592	0
-kommende	vuoras	boahtte	98	539	592	0
-kommende	boares	boahtte	98	107	592	0
+@kommende	duohta	boahtte	98	445	592	0
+@kommende	gielalasj	boahtte	98	267	592	0
+@kommende	bájkálasj	boahtte	98	696	592	0
+@kommende	ájnas	boahtte	98	2020	592	0
+@kommende	vuoras	boahtte	98	539	592	0
+kommende	boahtte (attr)	boahtte	98	107	592	0
 
-angjeldende	lágálasj	gustojeaddji	4	0	53	0
-angjeldende	dåhkålasj	gustojeaddji	4	0	53	0
+@angjeldende	lágálasj	gustojeaddji	4	0	53	0
+@angjeldende	dåhkålasj	gustojeaddji	4	0	53	0
 
-utsatt	tjuorbbe	hearki	122	12	24	0
-utsatt	rassje	hearki	122	46	24	0
-utsatt	lájvve	hearki	122	0	24	0
-utsatt	hædjo	hearki	122	101	24	0
-utsatt	gieres	hearki	122	550	24	0
+@utsatt	tjuorbbe	hearki	122	12	24	0
+@utsatt	rassje	hearki	122	46	24	0
+@utsatt	lájvve	hearki	122	0	24	0
+@utsatt	hædjo	hearki	122	101	24	0
+@utsatt	gieres	hearki	122	550	24	0
 
-sportslig	valle	falli	0	16	19	0
-sportslig	jåhtel	falli	0	55	19	0
+@sportslig	valle	falli	0	16	19	0
+@sportslig	jåhtel	falli	0	55	19	0
 
-liknende	duohta	sullasaš	34	445	109	0
-liknende	gielalasj	sullasaš	34	267	109	0
-liknende	bájkálasj	sullasaš	34	696	109	0
-liknende	ájnas	sullasaš	34	2020	109	0
-liknende	vuoras	sullasaš	34	539	109	0
-liknende	boares	sullasaš	34	107	109	0
+@liknende	duohta	sullasaš	34	445	109	0
+@liknende	gielalasj	sullasaš	34	267	109	0
+@liknende	bájkálasj	sullasaš	34	696	109	0
+@liknende	ájnas	sullasaš	34	2020	109	0
+@liknende	vuoras	sullasaš	34	539	109	0
+@liknende	boares	sullasaš	34	107	109	0
 
 målretta	ulmmelasj	mearrediđolaš	3	4	1	0
 
-angjeldende	loabálasj	gustojeaddji	4	7	53	0
+angjeldende	guoskavasj	gustojeaddji	4	7	53	0
 
-treffende	diejddis	deaivil	2	0	4	0
+treffsikker	diejddis (attr)	deaivil	2	0	4	0
 
-urovekkende	balldalahtte	balddihahtti	4	0	17	0
+@urovekkende	balldalahtte	balddihahtti	4	0	17	0
 
-påfallende	heva	čalbmáičuohcci/mearkkašahtti/imaš	8	58	0	0
+@påfallende	heva	čalbmáičuohcci/mearkkašahtti/imaš	8	58	0	0
 
-sakte	suojmok	njoahci	5	0	20	0
+sakte	suojmma	njoahci	5	0	20	0
 
 ligegyldig	huvsodibme	berošmeahttun	0	1	1	0
 
-levedyktig	viessovarák	birgenvejolaš/eallinfámolaš/ealaskas	40	0	0	0
+@levedyktig	viessovarák	birgenvejolaš/eallinfámolaš/ealaskas	40	0	0	0
 
-sen	suojmok	maŋŋit/njoahci/hiđis/hillján	253	0	0	0
+sen	nuolle	maŋŋit/njoahci/hiđis/hillján	253	0	0	0
 
-uholdbar	dåhkkimahtes	dohkketmeahttun	9	0	35	0
+ubrukelig	dåhkkimahtes	dohkketmeahttun	9	0	35	0
 
-populær	bissel	bivnnut	11	0	51	0
+@populær	bissel	bivnnut	11	0	51	0
 
 ufør	sáhtus	bargonávccaheapme/lámis	4	10	0	0
 
 utadvendt	bigok	roahkkat	1	0	23	0
 
-egnet	muttáklágásj	heivvolaš	53	1	92	0
+egnet	hiebalasj	heivvolaš	53	1	92	0
 
-variert	moattegærddásasj	girjái/molssolaš/máŋggabealálaš	97	4	0	0
+variert	målssudahkes	girjái/molssolaš/máŋggabealálaš	97	4	0	0
 
 nedslått	surgulasj	šlundi	0	9	3	0
 
-offensiv	ratjik	offensiiva/offensiivvalaš/alvvalaš	15	1	0	0
+@offensiv	ratjik	offensiiva/offensiivvalaš/alvvalaš	15	1	0	0
 
-grov	låssåk	roavis/roattus/roakkas/gassat	20	12	0	0
+@grov	låssåk	roavis/roattus/roakkas/gassat	20	12	0	0
 
-nedadgående	hædjo	njieddji	3	101	1	0
-synkende	hædjo	njieddji	6	101	1	0
+@nedadgående	hædjo	njieddji	3	101	1	0
+@synkende	hædjo	njieddji	6	101	1	0
 
-uholdbar	tjuorbbe	dohkketmeahttun	9	12	35	0
+@uholdbar	tjuorbbe	dohkketmeahttun	9	12	35	0
 
-primitiv	álkke	oktageardán	1	339	10	0
+enkel	álkke	oktageardán	1	339	10	0
 
 robust	stádes	starggas	12	0	1	0
 
-legendarisk	oahpes	beakkálmas	0	90	19	0
+@legendarisk	oahpes	beakkálmas	0	90	19	0
 
-grov	njuoskas	roavis	20	7	64	0
+@grov	njuoskas	roavis	20	7	64	0
 
-blinkende	tjuovggat	šealgat	0	367	4	0
+@blinkende	tjuovggat	šealgat	0	367	4	0
 
-grov	suohkat	gassat	20	18	9	0
+tykk (om masse)	suohkat	gassat	20	18	9	0
 
 foregående	åvdusj	ovddit	49	4	282	0
 
 rede	gárves	válmmaš	50	181	9	0
 
-skjev	bånjo-	bonju-	14	0	0	0
+skjev	bådnjot	bonju-	14	0	0	0
 
 høy	allak	allat	596	595	681	0
 
-grov	gassak	gassat	20	10	9	0
+grov	ruobes	gassat	20	10	9	0
 
-grafisk	gráfálasj	gráfalaš	8	0	8	0
+grafisk	gráfalasj	gráfalaš	8	0	8	0
 
 rasjonell	jergalasj	jearggalaš	23	2	1	0
 
@@ -171,9 +172,9 @@ tverrpolitisk	doarespolitihkalasj	doarespolitihkalaš	7	1	2	0
 
 ukritisk	iehpekritihkalasj	eahpekritihkalaš	3	0	1	0
 
-pussig	merkalasj	mearkkalaš	0	0	1	0
+pussig	imálasj	mearkkalaš	0	0	1	0
 
-romersk	råmålasj	romalaš	0	0	2	0
+@romersk	råmålasj	romalaš	0	0	2	0
 
 idealistisk	idealistalasj	idealisttalaš	1	0	1	0
 
@@ -183,6 +184,6 @@ ukristelig	iehperistalasj	eahperisttalaš	0	0	0	0
 
 religiøs	åskulasj	oskkolaš	18	50	16	0
 
-tilhørende	gullevasj	gullevaš	61	12	166	0
+@tilhørende	gullevasj	gullevaš	61	12	166	0
 
-kommende	boahttevasj	boahttevaš	98	4	196	0
+kommende	boahtte	boahttevaš	98	4	196	0
