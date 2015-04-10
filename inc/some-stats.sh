@@ -9,7 +9,24 @@ pct_bad () {
         echo  "$f	${bad}	${tot}	${diff}"
     done |
         sort -nrt$'\t' -k4,4 |
-        gawk 'BEGIN{OFS=FS="\t"} {b+=$2;t+=$3;print} END{printf "·\nSUM\t%d\t%d\t%.2f %\n", b, t, 100*b/t}'
+        gawk 'BEGIN{OFS=FS="\t"} {b+=$2;t+=$3;print} END{printf "···\nSUM\t%d\t%d\t%.2f %\n", b, t, 100*b/t}'
 }
 cat <(echo -e "FILENAME\tMARKED BAD\tTOTAL PAIRS\tPCT BAD") <(pct_bad) |
+    column -ts$'\t' -c90
+
+echo
+echo
+
+pct_good () {
+    for f in *_*; do
+        grep -q ^+ "$f" || continue
+        good=$(grep -c ^+ "$f")
+        tot=$(sed 's/^[@+?-]//' "$f" |sort -u|wc -l)
+        diff=$(echo | gawk "{printf \"%.2f %\", 100*${good}/${tot}}")
+        echo  "$f	${good}	${tot}	${diff}"
+    done |
+        sort -nrt$'\t' -k4,4 |
+        gawk 'BEGIN{OFS=FS="\t"} {b+=$2;t+=$3;print} END{printf "···\nSUM\t%d\t%d\t%.2f %\n", b, t, 100*b/t}'
+}
+cat <(echo -e "FILENAME\tMARKED GOOD\tTOTAL PAIRS\tPCT GOOD") <(pct_good) |
     column -ts$'\t' -c90
