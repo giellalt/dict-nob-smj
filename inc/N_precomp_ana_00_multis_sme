@@ -1,0 +1,118 @@
+
+sosialøkonomi	sosiállaekonomiddja	sosiálaekonomiija	1	0	0	0
+sosialøkonomi	sosialekonomiddja	sosiálaekonomiija	1	0	0	0
+
+sosialtilskudd	sosiálladoarjja	sosiáladoarjja	0	0	0	0
+sosialtilskudd	sosialdoarjja	sosiáladoarjja	0	0	0	0
+
+vertsland	barggorijkka	doalloriika	0	0	0	0
+vertsland	bargorijkka	doalloriika	0	0	0	0
+
+sosialpolitikk	sosiállapolitihkka	sosiálapolitihkka	17	0	6	0
+sosialpolitikk	sosialpolitihkka	sosiálapolitihkka	17	0	6	0
+
+rettsspråk	riektesámegiella	riektegiella	0	0	0	0
+rettsspråk	rievtegiella	riektegiella	0	0	0	0
+
+sosialvesen	sosiálladoajmma	sosiáladoaibma	4	0	1	0
+sosialvesen	sosialdoajmma	sosiáladoaibma	4	0	1	0
+
+gårdsturisme	barggoturissma	doalloturisma	0	0	0	0
+gårdsturisme	bargoturissma	doalloturisma	0	0	0	0
+
+sosialplan	sosiállapládna	sosiálaplána	8	0	4	0
+sosialplan	sosialpládna	sosiálaplána	8	0	4	0
+
+sosialstyre	sosiállastivrra	sosiálastivra	9	0	1	0
+sosialstyre	sosialstivrra	sosiálastivra	9	0	1	0
+
+rettsforpliktelse	riekterievtesvuohta	riektevuoigatvuohta	0	0	0	0
+rettsforpliktelse	rievterievtesvuohta	riektevuoigatvuohta	0	0	0	0
+
+kjernerettighet	vájmmorievtesvuohta	váimmusvuoigatvuohta	0	0	0	0
+kjernerettighet	vájmosrievtesvuohta	váimmusvuoigatvuohta	0	0	0	0
+
+sosialmiddel	sosiállaruhta	sosiálaruhta	0	0	0	0
+sosialmiddel	sosialruhta	sosiálaruhta	0	0	0	0
+sosialmiddel	sosiállaruhtta	sosiálaruhta	0	0	0	0
+sosialmiddel	sosialruhtta	sosiálaruhta	0	0	0	0
+
+sosialkomité	sosiállanammadus	sosiálalávdegoddi	0	0	1	0
+sosialkomité	sosialnammadus	sosiálalávdegoddi	0	0	1	0
+
+regionkomite	regiåvnnånammadus	regiovdnalávdegoddi	0	0	0	0
+regionkomité	regiåvnnånammadus	regiovdnalávdegoddi	1	0	0	0
+
+sosialarbeider	sosiállabargge	sosiálabargi	3	0	5	0
+sosialpersonell	sosiállabargge	sosiálabargi	17	0	5	0
+sosialarbeider	sosialbargge	sosiálabargi	3	0	5	0
+sosialpersonell	sosialbargge	sosiálabargi	17	0	5	0
+
+sosialhjelp	sosiállaviehkke	sosiálaveahkki	19	0	4	0
+sosialhjelp	sosialviehkke	sosiálaveahkki	19	0	4	0
+
+sosialsituasjon	sosiálladille	sosiáladilli	0	0	0	0
+sosialsituasjon	sosialdille	sosiáladilli	0	0	0	0
+
+rettsavklaring	riektetjielggidus	riektečielggadeapmi	1	0	0	0
+rettsavklaring	rievtetjielggidus	riektečielggadeapmi	1	0	0	0
+
+sametingsbygning	sámediggevisste	sámediggevisti	35	0	15	0
+sametingsbygg	sámediggevisste	sámediggevisti	8	0	15	0
+
+sosialsak	sosiállaássje	sosiálaášši	1	0	2	0
+sosialsak	sosialássje	sosiálaášši	1	0	2	0
+
+sosialformål	sosiállaulmme	sosiálaulbmil	0	0	0	0
+sosialformål	sosialulmme	sosiálaulbmil	0	0	0	0
+
+rettsregel	riektenjuolgadus	riektenjuolggadus	6	0	4	0
+rettsregel	rievtenjuolgadus	riektenjuolggadus	6	0	4	0
+
+sosialinstitusjon	sosiállaásadus	sosiálaásahus	7	0	3	0
+sosialinstitusjon	sosialásadus	sosiálaásahus	7	0	3	0
+
+sosialmelding	sosiálladiedádus	sosiáladieđáhus	0	0	0	0
+sosialmelding	sosialdiedádus	sosiáladieđáhus	0	0	0	0
+
+sosialtilbud	sosiállafálaldak	sosiálafálaldat	19	0	4	0
+sosialtilbud	sosialfálaldak	sosiálafálaldat	19	0	4	0
+
+rettssamfunn	riektesebrudahka	riekteservodat	0	0	0	0
+rettssamfunn	rievtesebrudahka	riekteservodat	0	0	0	0
+rettssamfunn	riektesebrudak	riekteservodat	0	0	0	0
+rettssamfunn	rievtesebrudak	riekteservodat	0	0	0	0
+
+studieopplegg	oahppaårnik	oahppoortnet	1	0	0	0
+studieopplegg	oahppoårnik	oahppoortnet	1	0	0	0
+
+ungdomsarrangement	nuorabarggo	nuoraiddoalut	0	0	0	0
+ungdomsarrangement	nuorrabarggo	nuoraiddoalut	0	0	0	0
+
+rettsinngrep	riektedahko	riektedahku	0	0	0	0
+rettsinngrep	rievtedahko	riektedahku	0	0	0	0
+
+rettsgruppe	riektejuogos	riektejoavku	3	0	13	0
+rettsgruppe	rievtejuogos	riektejoavku	3	0	13	0
+
+småbruk	smávvebarggo	smávvadoallu	7	0	1	0
+småbruk	smávvedoallo	smávvadoallu	7	0	1	0
+
+melkebruk	mielkkebarggo	mielkedoallu	1	0	0	0
+melkebruk	mielkebarggo	mielkedoallu	1	0	0	0
+
+husdyrhald	oamebarggo	oapmedoallu	0	0	2	0
+gårdsbruk	oamebarggo	oapmedoallu	53	0	2	0
+husdyrhald	oabmebarggo	oapmedoallu	0	0	2	0
+gårdsbruk	oabmebarggo	oapmedoallu	53	0	2	0
+
+sosialutdanning	sosiállaoahppa	sosiálaoahppu	0	0	0	0
+sosialutdanning	sosialoahppa	sosiálaoahppu	0	0	0	0
+sosialutdanning	sosiállaoahppo	sosiálaoahppu	0	0	0	0
+sosialutdanning	sosialoahppo	sosiálaoahppu	0	0	0	0
+
+deltidsstudium	oaseoahppo	oasseoahppu	1	0	0	0
+deltidsstudium	oasseoahppo	oasseoahppu	1	0	0	0
+
+rettsgrunnlag	riektevuodo	riektevuođđu	39	0	15	0
+rettsgrunnlag	rievtevuodo	riektevuođđu	39	0	15	0

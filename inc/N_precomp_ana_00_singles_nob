@@ -1,0 +1,338 @@
+
+reintallsskjema	boatsojlåhkosjiebmá	boazolohkoskovvi	0	0	0	0
+
+rapportskjema	diedádussjiebmá	raportaskovvi	1	0	0	0
+
+informasjonsblad	diedolassta	diehtojuohkinbláđđi	1	0	1	0
+
+permisjonssøknad	permisjåvnnååhtsåmus	virgelohpeohcamuš/permišuvdnaohcan	1	0	0	1
+
+enhetskostnad	avtadahkagållo	ovttadatgollu	0	0	0	0
+
+produktmarked	buvtamárnán	buvttamárkan	0	0	0	0
+
+kjøttmarked	bierggomárnán	biergomárkan	0	0	1	0
+
+fargeverksted	bájnnodivudahka	ivdnenbádji	0	0	0	0
+
+hovedarbeid	oajvvebarggo	váldobargu	2	3	18	0
+
+idrettsstipend	valástallamstipænnda	valáštallanstipeanda/faláštallanstipeanda	11	3	0	2
+
+idrettstipend	valástallamstipænnda	faláštallanstipeanda	3	3	0	2
+
+ordlyd	báhkojiedna	dadjanvuohki	33	0	8	0
+
+ministerråd	ministarráde	ministtarráđđi	14	0	8	1
+
+produksjonskjede	buvtadushærvva	buvttadusgoallus/buvttadangierdu	0	0	0	0
+
+språkside	giellabieles	giellaoassi	0	1	0	0
+
+rettighetsbilde	riektágåvvå	riektegovva	0	1	0	0
+
+rettsbilde	riektágåvvå	riektegovva	0	1	0	0
+
+fellesgode	aktisasjboanndudahka	oktasašbuorri	0	0	0	0
+
+fargekode	bájnnokåvddå	ivdnekoda	0	0	0	0
+
+behandlingsmetode	giehtadallamvuohke	dikšunvuohki	1	1	5	0
+
+høstingsmetode	bálosvuohke	ávkkástallanvuohki	0	0	2	0
+
+deltidsstudie	bielleájggeoahppo	oasseáiggeoahppu	1	0	0	0
+
+rapportserie	diedádusrájddo	raportaráidu	0	0	0	0
+
+sløydlinje	duodjesuorgge	duodjelinnjá	0	4	0	0
+
+gjerdemateriale	buodomateriálla	áideávnnas	0	0	0	0
+
+bibliotekmateriale	bibliotæhkkamateriálla	girjerájusávnnas/girjerádjoávnnas	6	0	0	0
+
+barnehagepersonale	mánájgárddebargge	mánáidgárdeplána	2	1	0	0
+
+fengselspersonale	giddagisbargge	giddagasbargi	0	1	0	0
+
+tidsskille	bielleærro	áigeearru	2	0	0	0
+
+meldingsrutine	diedádusdáhpe	dieđáhusrutiidna/dieđihanvuohki	0	0	0	0
+
+rapporteringsrutine	diedádusdáhpe	raporterenrutiidna	1	0	0	0
+
+inntektsevne	boahtomáhtukvuohta	sisaboahtonákca/dinennákca	1	0	0	0
+
+partsevne	biellemáhtukvuohta	bealálašnákca	8	0	1	0
+
+rettsgruppe	riektájuogos	riektejoavku	3	3	13	0
+
+barmarksløype	bievllaláhtto	bievlageaidnu	2	0	0	0
+
+orddatabase	báhkodáhtábássa	sátnediehtovuođđu	5	0	0	0
+
+produksjonsbetingelse	buvtadusækto	buvttadaneaktu	0	0	0	0
+
+stedsbetegnelse	bájkkemærkka	báikenamahus	0	0	0	0
+
+produktbetegnelse	buvtamærkka	buvttanamahus	0	0	0	0
+
+rettsforpliktelse	riektávælggo	riektevuoigatvuohta	0	1	0	0
+
+dialogkonferanse	dialåvggåkonferánssa	dialogakonferánsa/gulahallankonferánsa	2	0	0	0
+
+politikonferanse	bulkkekonferánssa	politiijakonferánsa	0	0	0	0
+
+bibliotekkonferanse	bibliotæhkkakonferánssa	girjerájuskonferánsa	2	0	0	0
+
+kunstnerkonferanse	dájddárkonferánssa	dáiddárkonferánsa	1	0	0	2
+
+verdenskonferanse	væráltkonferánssa	máilmmikonferánsa	39	13	10	38
+
+partskonferanse	bieleskonferánssa	osolaškonferánsa	0	0	0	0
+
+budsjettkonferanse	budsjæhttakonferánssa	bušeahttakonferánsa	3	0	1	0
+
+kommunegrense	suohkanrádjá	suohkanrádji/gielddarádjá	6	0	0	2
+
+datogrense	biejvverádjá	dáhtonrádji	0	0	0	0
+
+arealbruksinteresse	areállaadnemberustibme	areálageavahanberoštupmi	0	0	0	0
+
+primærhelsetjeneste	vuodovarresvuodadievnastus	vuođđodearvvašvuođabálvalus	4	0	0	1
+
+arbeidsfortjeneste	bálkkátjænssta	bargodienas	24	0	7	0
+
+minnegudstjeneste	bátsidisjubmeldievnastus	muitoipmilbálvalus	0	0	0	0
+
+barnevernstjeneste	mánnásuodjalusdievnastus	mánáidsuodjalusbálvalus	11	0	9	1
+
+bokliste	boaksalissta	girjelistu	0	0	0	0
+
+behandlingsmåte	giehtadallamvuohke	gieđahallanvuohki/meannudanvuohki	4	1	0	0
+
+tilnærmingsmåte	lahkanimvuohke	lahkananvuohki/lahkonanvuohki	2	2	0	1
+
+høstingsmåte	bálosvuohke	bivdinvuohki	0	0	1	0
+
+fargestoff	bájnnoássje	ivdneávnnas	0	0	0	0
+
+kunststoff	dahkoássje	dahkuávnnas	0	0	0	0
+
+sammenligningsgrunnlag	buohtastahttemavuodo	buohtastahttinvuođđu	1	0	0	0
+
+sidevassdrag	bielestjáhtje	oalgejohka	0	0	7	0
+
+bordflagg	bievddeslávggá	beavdeleavga	0	0	0	0
+
+fangstanlegg	bivddoásadus	bivdorusttet	3	0	1	1
+
+åpningsinnlegg	álggotjála	rahpansáhkavuorru/álgosáhkavuorru	3	2	0	0
+
+tvangsutlegg	bággogållo	bággopántideapmi	0	0	0	0
+
+tannlegebolig	bádnedåktårviesso	bátnedoavtterássanviessu	0	0	0	0
+
+tvangssalg	bággooases	bággovuovdin	0	0	1	0
+
+samekulturutvalg	sámekultuvrrajuogos	sámekulturlávdegoddi	2	0	0	1
+
+fjernsynssending	TVsátta	TV-sátta	0	0	5	0
+
+miljøplanlegging	birásplánim	birasplánen	0	0	0	0
+
+kommunikasjonsavdeling	guládallamåssudahka	gulahallanossodat	4	1	2	0
+
+feltassistentstilling	dajvvaviehkkevirgge	gieddeveahkkebargi	0	0	0	0
+
+resultatmåling	boadosmihttim	boađusmihtideapmi	1	0	0	0
+
+utbetalingsordning	máksemårnik	máksinvuohki	0	1	0	0
+
+lokalforening	bájkkesiebrre	báikkálašsearvi	0	0	2	0
+
+miljøpåvirkning	birásvájkkudibme	birasnuoskkideapmi	1	0	1	0
+
+samfunnsforskning	sebrudakguoradallam	servodatdutkan	5	1	3	0
+
+brannmurløsning	buollemmuvrra	dollaseaidnečoavddus	0	0	0	0
+
+tastaturløsning	boallobievdetjoavdos	boallobeavdečoavddus	0	0	0	0
+
+grunnsetning	båddnegárgadis	vuođđocealkka	0	0	0	0
+
+samfunnserfaring	aktisasjvuohtaduogásj	servodathárjáneapmi/servodatvásihus	1	0	0	0
+
+rettsavklaring	riektátjielggidus	riektečielggadeapmi	1	1	0	0
+
+arealbruksendring	areállaadnemrievddam	areálageavahanrievdadus	0	0	0	0
+
+miljøregistrering	birástjáledibme	birasregistreren	0	0	0	0
+
+rasering	almasjtjærddasuormas	njeaidin/bilideapmi	2	0	0	0
+
+avfallshåndtering	bátsidisdåmadibme	doappargieđahallan	1	0	0	0
+
+tilleggsnæring	duoddeæládus	liigeealáhus/lassiealáhus	15	0	0	1
+
+protokollføring	bievddegirjeadno	beavdegirječállin	1	0	1	0
+
+støyforurensing	biktasanuoskodibme	jupmanuoskkideapmi	0	0	0	0
+
+tvangsslakting	bággonjuovadibme	bággonjuovvan	3	0	12	0
+
+lokalkringkasting	bájkkesáddim	lagasrádiosádden	0	0	0	0
+
+lokalsykehusstrategi	bájkkeskihppijviesso	buohcceviessostrategiija	0	0	0	0
+
+bergverksindustri	bákteindustriddja	báktedoaibmaindustriija	1	0	0	0
+
+minoritetssak	unneplåhkoássje	minoritehtaášši	0	1	0	0
+
+tvangsvedtak	bággomærrádus	bággenmearrádus	2	0	0	0
+
+delegasjonsvedtak	delegasjåvnnåmærrádus	fápmudanmearrádus/delegerenmearrádus	0	0	0	0
+
+yrkesforetak	barggodåjmadahka	fidnodoaibma	0	0	0	0
+
+formidlingstiltak	åvddånbuktemdoajmma	gaskkustandoaibmabidju	2	0	0	1
+
+arbeidsmarkedspolitikk	barggomárnánguovllopolitihkka	bargomárkanpolitihkka	2	0	0	0
+
+assimileringspolitikk	assimilasjåvnnåguovllopolitihkka	assimilerenpolitihkka	4	0	1	0
+
+kunnskapsspråk	diedogiella	máhttogiella	0	0	0	0
+
+prisvirkemiddel	bálkkávájkkudimnævvo	haddegaskaoapmi	0	0	0	0
+
+saksbehandlingregel	ássjegiehtadallamnjuolgadus	áššemeannudannjuolggadus	0	0	5	1
+
+saksbehandlingsregel	ássjegiehtadallamnjuolgadus	áššegieđahallannjuolggadus/áššemeannudannjuolggadus	5	0	0	1
+
+ungdomsprofil	nuorraprofijlla	nuoraidprofiila	1	0	0	1
+
+prisforskjell	bálkkávuojnno	haddeerohus	0	0	0	0
+
+lønnsforskjell	bálkkávuojnno	bálkáerohus	0	0	1	0
+
+priskontroll	bálkkádárkestibme	haddebearráigeahčču	0	0	0	0
+
+særdomstol	sierraduobbmoståvllå	sierraduopmostuollu	13	0	3	1
+
+likestillingsspørsmål	dássádusássje	dásseárvogažaldat/dásseárvoášši	7	0	0	1
+
+minoritetsspørsmål	unneplåhkoássje	veahádatgažaldat	1	1	0	0
+
+ordretteprogram	báhkodivvomprográmma	sátnedivvunprográmma	0	0	0	0
+
+avgrensningsproblem	birástahkaváttesvuohta	ráddjenčuolbma	0	0	0	0
+
+landsstyremedlem	bájkkestivrrasebrulasj	riikkastivrralahttu	0	0	0	0
+
+grunneiendom	båddneåbmudahka	vuođđoopmodat	1	0	0	0
+
+museumsreform	dávvervuorkkáådåstus	museaođastus	12	1	7	1
+
+behandlingsform	giehtadallamvuohke	dikšunvuohki/dikšohápmi/gieđahallanvuohki	5	1	0	1
+
+myndighetsorgan	oajvveorgádna	váldeorgána/eiseváldeorgána	3	0	0	1
+
+produktspesifikasjon	buvtaspesifikasjåvnnå	buvttaspesifikašuvdna	0	0	0	0
+
+prestasjon	báhppastasjåvnnå	olahus	0	0	42	0
+
+gjerdesituasjon	buododille	áidedilálašvuohta	0	0	0	0
+
+helsesituasjon	varresvuohtadille	dearvvasvuođadilli	1	0	1	1
+
+oppdrettskonsesjon	biebmadimedoajmma	biebmankonsešuvdna/biebmandoaibmalohpi	3	0	0	0
+
+transaksjon	buojddeaksjåvnnå	reaidaruhtageavaheapmi	2	0	0	0
+
+kommunikasjonsseksjon	guládallamåssudahka	gulahallansekšuvdna	2	1	0	0
+
+lokalradio	bájkkeradio	báikerádio	0	0	0	0
+
+dialogpartner	dialåvggåguojmme	gulahallanguoibmi/ságastallanbealli	1	0	0	0
+
+kretsskolelærer	bijrraskåvllå	biireoahpaheaddji	0	0	0	0
+
+samisklærer	sámegiellaåhpadiddje	sámegieloahpaheaddji	27	0	12	1
+
+opplysningssektor	diedosuorgge	bajásčuvgehussuorgi	0	0	0	0
+
+feltutstyr	dajvvavædtsak	gieddereaidu/giedderusttet	1	0	0	0
+
+rapporteringsprosess	diedádusprosæssa	raporterenproseassa	0	0	0	0
+
+rettsprosess	riektáprosæssa	riekteproseassa	1	0	0	1
+
+urfolksinnsats	álggoálmmukbarggo	álgoálbmotáŋgiruššan	0	1	0	0
+
+medlemstat	ájrasstáhtta	miellahttostáhta	0	0	1	5
+
+medlemsstat	ájrasstáhtta	miellahttostáhta	6	0	1	5
+
+forvaltningsmyndighet	háldadusfábmudahka	hálddašaneiseváldi/hálddašanváldi	28	1	0	0
+
+medvirkningsmulighet	oassálasstemvejulasjvuohta	oassálastinvejolašvuohta	0	1	1	0
+
+prisbevissthet	bálkkádiedulasjvuohta	haddedihtomielalašvuohta	0	0	0	0
+
+idrettsaktivitet	valástallamdoajmma	valáštallandoaibma/valástallandoaibma/falástallandoaibma/faláštallandoaibma	12	0	0	1
+
+grunneieravgift	ednamæjgátdivut	eanaeaiggátdivat	1	0	0	2
+
+telefonkontakt	telefåvnnåguládallam	telefonoktavuohta	1	1	0	1
+
+barmarkskjøringsprosjekt	bievllavuodjemåvddånahttemprosjækta	bievlavuodjinprošeakta/bievlavuodjenprošeakta	0	0	0	0
+
+rettsplikt	riektávælggo	riektegeatnegasvuohta	8	1	2	1
+
+håndverksprodukt	duodjebuvta	giehtaduodji	0	1	14	0
+
+festetomt	bierŋesdajvva	láigohuksensadji/láigoviessosadji	3	0	0	0
+
+rammedokument	birámpáhper	rámmaáššegirji	0	0	0	0
+
+reinkjøttprodusent	boahttsubierggoprodusænnta	bohccobiergobuvttadeaddji	0	0	0	0
+
+minnekonsert	bátsidiskonsærtta	muitokonsearta	0	0	5	0
+
+jaktkort	bivddokårttå	bivdinkoarta	6	0	0	0
+
+landrapport	bájkkediedádus	riikkaraporta	0	0	0	0
+
+bokrapport	boaksadiedádus	girjeraporta	0	0	0	0
+
+forhandlingsutkast	sjiehtadallamoajvvadus	šiehtadallanevttohus	0	0	0	1
+
+rapporteringsfrist	diedádusájggemierre	raporterenáigemearri	0	0	0	0
+
+originaltekst	álggotjála	álgoteaksta	1	2	0	0
+
+innledningstekst	álggotjála	álgoteaksta	0	2	0	0
+
+lønnsvekst	bálkkásjaddo	bálkálassáneapmi/bálkábadjáneapmi	4	0	0	0
+
+undersøkelsesrett	guoradallamrievtesvuohta	iskkadanvuoigatvuohta/iskanriekti	9	0	0	1
+
+høringsrett	guláskuddamriektá	gulaskuddanriekti/gulaskuddanvuoigatvuohta	3	1	0	0
+
+tannsett	bádnevarresvuohtaájggomus	bánit	0	0	3	0
+
+rapporteringskrav	diedádusrávkalvis	raporterengáibádus/dieđihangáibádus	6	0	0	0
+
+rammeskriv	birámtjála	rámmačálus	0	0	0	0
+
+barnevernlov	mánnásuodjalusláhka	mánáidsuodjalusláhka/mánáidsuodjalanláhka	7	0	0	1
+
+rammeverktøy	birámvædtsak	rápmagaskaoapmi	0	0	0	0
+
+rettskrivingsverktøy	duollatjállemvædtsak	čállindárkkistanreaidu/riektačállinreaidu	2	1	0	1
+
+grunnskolenivå	båddnedásse	vuođđoskuvladássi	11	0	2	0
+
+høstingsnivå	bálosdásse	bivdindássi	0	0	0	0
+
+produksjonsnivå	buvtadusdásse	buvttadandássi	0	0	0	0
