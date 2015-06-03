@@ -23,7 +23,7 @@
 
 
 * Filename format
-   
+
   The filenames have this format:
   : PoS_method
   or
@@ -45,6 +45,11 @@
               pre-marked with a plus sign (+).
   - loan :: input is translated using very simple loan-word regex
             replacement rules
+  - syn :: input was translated by following synonym-paths in existing
+           dictionaries, so if a dictionary has translations A-B, A-C,
+           E-C, then we assume B and C are synonyms and add E-B
+  - cross :: input was translated by crossing two dictionaries A-B and
+             B-C to get A-C
   - intersection :: words where the same candidate-pair was generated
                     by several methods (all alternative candidates of
                     that nob-word will also go in this file)
@@ -60,7 +65,7 @@
   candidates are sorted alphabetically by the reverse of the source
   string (so e.g. all words ending in «-miljø» will be near each
   other).
-  
+
 
 * Output file format
 
@@ -81,4 +86,3 @@
    Kintel translation was part of our generated candidates, in which
    case it'll have frequency numbers, other times it was not, in which
    case only the nob and smj words will be listed for that line.
-  
