@@ -1,63 +1,64 @@
+#most of these are good
 
-fagord	moallánahka	doaba	0	109	114	0
+fagord	fáhkamoallánahka	doaba	0	109	114	0
 
-sene	ájrro	suotna	5	20	6	0
+sene	suodna	suotna	5	20	6	0
 
-kjæreste	bárnne	irgi/moarsi	8	855	0	0
+kjæreste	irgge/moarsse	irgi/moarsi	8	855	0	0
 
-myte	jáhkádis	gáddu/cuvccas/myhta	4	0	0	0
+myte	jahtto	gáddu/cuvccas/myhta	4	0	0	0
 
-måte	árbbedáhpe	láhki/vuohki	793	404	0	1
+måte	vuohke	láhki/vuohki	793	404	0	1
 
-høve	svijmme	liiba	16	2	10	0
+@høve	svijmme	liiba	16	2	10	0
 
-søskenflokk	oarbben	oappážat/vieljažat/mánnájoavku	1	38	0	0
+søskenflokk	oarbbenvehka	oappážat/vieljažat/mánnájoavku	1	38	0	0
 
-reinsogn	areálla	boazosuohkan/guovlu	1	407	0	0
+@reinsogn	areálla	boazosuohkan/guovlu	1	407	0	0
 
-pådriver	oatsodibme	ovddasduvdi/láidesteaddji/duvdda	31	11	0	0
+@pådriver	oatsodibme	ovddasduvdi/láidesteaddji/duvdda	31	11	0	0
 
-noe å takke for	gijttogisvuohta	giitámuš	0	11	0	0
+takknemlighet	gijttogisvuohta	giitámuš	0	11	0	0
 
-håndverksprodukt	duodje	giehtaduodji	0	804	14	0
+håndverksprodukt	duodjebuvtadus	giehtaduodji	0	804	14	0
 
-monument	oatsodibme	bázzi	0	11	6	0
+@monument	oatsodibme	bázzi	0	11	6	0
 
-joiketekst	moallánahka	dajahus	0	109	7	0
+@joiketekst	moallánahka	dajahus	0	109	7	0
 
-fagord	replijkka	doaba	0	0	114	0
+fagord	fáhkamoallánahka	doaba	0	0	114	0
 
-tanke	idiedja	jurdda	182	0	311	0
+tanke	ájádus	jurdda	182	0	311	0
 
-sene	árran	suotna	5	1013	6	0
+sene	suodna	suotna	5	1013	6	0
 
-tone	melodija	šuokŋa	12	1	39	0
+tone	tjuodja	šuokŋa	12	1	39	0
 
-monument	duvda	bázzi	0	2	6	0
+@monument	duvda	bázzi	0	2	6	0
 
-myte	histåvrrå	cuvccas	4	418	7	0
+myte	jahtto	cuvccas	4	418	7	0
 
-skurlast	materiálla	ávnnas	0	50	115	0
+materiale	materiálla	ávnnas	0	50	115	0
 
-marg i tre	atoma	váimmus	0	0	21	0
+@marg i tre	atoma	váimmus	0	0	21	0
 
-blikk	lissta	geahčastat	14	99	16	0
+liste	lissta	geahčastat	14	99	16	0
 
-aristokrati	giera	allaseahtu	0	30	0	0
+@aristokrati	giera	allaseahtu	0	30	0	0
 
-hjemmeoppgave	bihttá	ruovttubihttá	0	4	0	0
+@hjemmeoppgave	bihttá	ruovttubihttá	0	4	0	0
 
-noe å takke for	gijtto	giitámuš	0	100	0	0
+takk	gijtto	giitámuš	0	100	0	0
 
-oppholdssone	årromsadje	orrunsadji	0	149	23	0
-oppholdssone	årojbájkke	orrunsadji	0	0	23	0
+bosted	årromsadje	orrunsadji	0	149	23	0
+bosted	årojbájkke	orrunsadji	0	0	23	0
 
-firkantet ramme av tre	biervvek	lassá	0	1	112	0
-firkantet ramme av tre	sjielmmá	lassá	0	7	112	0
-firkantet ramme av tre	uksasjielmmá	lassá	0	0	112	0
+@firkantet ramme av tre	biervvek	lassá	0	1	112	0
+dørstokk	sjielmmá	lassá	0	7	112	0
+dørstokk	uksasjielmmá	lassá	0	0	112	0
 
-kommunikasjonsverktøy	kanálla	gulahallangaskaoapmi	0	13	4	0
-kommunikasjonskanal	kanálla	gulahallangaskaoapmi	1	13	4	0
+@kommunikasjonsverktøy	kanálla	gulahallangaskaoapmi	0	13	4	0
+kommunikasjonskanal	guládallamkanálla	gulahallangaskaoapmi	1	13	4	0
 
-proporsjon	dille	gorri	0	643	17	0
-proporsjon	relasjåvnnå	gorri	0	3	17	0
+@proporsjon	dille	gorri	0	643	17	0
+@proporsjon	relasjåvnnå	gorri	0	3	17	0
