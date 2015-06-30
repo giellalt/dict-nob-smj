@@ -1,29 +1,30 @@
+#most of these are good
 
-storområdestrategi	stuorakguovllo	stuorraguovllustrategiija	0	0	0	0
+storområdestrategi	stuorguovllostrategiddja	stuorraguovllustrategiija	0	0	0	0
 
-rettsterminologi	riekteterminologiddja	riekteterminologiija	0	0	0	0
+rettsterminologi	riektáterminologiddja	riekteterminologiija	0	0	0	0
 
-rettsteori	riekteteoriddja	riekteteoriija	1	0	1	0
+rettsteori	riektáteoriddja	riekteteoriija	1	0	1	0
 
-småindustri	smávveindustriddja	smávvaindustriija	3	0	1	0
+småindustri	smávvaindustriddja	smávvaindustriija	3	0	1	0
 
-rettsdemokrati	riektedemokratiddja	riektedemokratiija	0	0	0	0
+rettsdemokrati	riektádemokratiddja	riektedemokratiija	0	0	0	0
 
 utstillingslokale	vuosádusladnja	čájáhuslatnja	0	0	3	0
 
 friluftslov	ålggoláhka	olgoáibmoláhka	3	0	0	0
 
-u-land	åvddånahttemrijkka	ovdánahttinriika	1	0	0	0
+@u-land	åvddånahttemrijkka	ovdánahttinriika	1	0	0	0
 
-likestillingspolitikk	dásseárvvopolitihkka	dásseárvopolitihkka	5	0	10	0
+likestillingspolitikk	dássáduspolitihkka	dásseárvopolitihkka	5	0	10	0
 
-småpakke	smávvepáhkka	smávvapáhkka	0	0	0	0
+småpakke	smávvapáhkka	smávvapáhkka	0	0	0	0
 
-storskole	stuorakskåvllå	stuoraskuvla	3	0	0	0
+storskole	stuorskåvllå	stuoraskuvla	3	0	0	0
 
-småskole	smávveskåvllå	smávvaskuvla	8	0	5	0
+småskole	smáveskåvllå	smávvaskuvla	8	0	5	0
 
-småjobb	smávvedoajmma	smávvadoaibma	0	0	0	0
+småjobb	smávesbarggo	smávvadoaibma	0	0	0	0
 
 utstillingsvirksomhet	vuosádusdoajmma	čájáhusdoaibma	0	0	0	0
 
@@ -31,7 +32,7 @@ sosialøkonom	sosialekonåvmmå	sosiálaekonoma	0	0	0	0
 
 utviklingsmekanisme	åvddånahttemmekanissma	ovdánahttinmekanisma	0	0	0	0
 
-grenseregion	rádjeregiåvnnå	rádjeregiovdna	0	0	0	0
+grenseregion	rádjáregiåvnnå	rádjeregiovdna	0	0	0	0
 
 utviklingsorganisasjon	åvddånahttemorganisasjåvnnå	ovdánahttinorganisašuvdna	0	0	0	0
 
@@ -45,9 +46,9 @@ regionkontor	regiåvnnåkontåvrrå	regiovdnakantuvra	10	0	0	0
 
 rettskontor	riektekontåvrrå	riektekantuvra	0	0	0	0
 
-rettsprosess	riekteprosæssa	riekteproseassa	1	0	0	0
+rettsprosess	riektáprosæssa	riekteproseassa	1	0	0	0
 
-søvnproblem	oademváttesvuohta	oađđenváttisvuohta	0	0	0	0
+søvnproblem	oademgássjelisvuohta	oađđenváttisvuohta	0	0	0	0
 
 førsterett	vuostasjrievtesvuohta	vuosttašvuoigatvuohta	12	0	1	0
 
@@ -59,16 +60,16 @@ sametingsbudsjett	sámediggebudsjæhtta	sámediggebušeahtta	6	0	1	0
 
 utviklingsetat	åvddånahttemetáhtta	ovddidanetáhtta	0	0	0	0
 
-rettighetsbilde	riektegåvvå	riektegovva	0	0	0	0
-rettsbilde	riektegåvvå	riektegovva	0	0	0	0
+rettighetsbilde	riektágåvvå	riektegovva	0	0	0	0
+rettsbilde	riektágåvvå	riektegovva	0	0	0	0
 
-rettsvitenskap	rievtedieda	riektedieđa	3	0	2	0
+rettsvitenskap	rievtádieda	riektedieđa	3	0	2	0
 
-språkmodell	sámegiellamálle	giellamálle	1	0	0	0
+språkmodell	giellamodælla	giellamálle	1	0	0	0
 
-monter	vuosádusskáhppe	čájáhusskáhppe	2	0	0	0
+@monter	vuosádusskáhppe	čájáhusskáhppe	2	0	0	0
 
-rettighetsbærere	rievteguodde	riekteguoddi	0	0	2	0
+rettighetsbærere	riektáguodde	riekteguoddi	0	0	2	0
 
 utviklingsfase	åvddånahttemájgge	ovdánahttináigi	2	0	0	0
 
@@ -80,9 +81,9 @@ utstillingsareal	vuosádussadje	čájáhussadji	0	0	0	0
 
 utviklingsleder	åvddånahttemjådediddje	ovdánahttinjođiheaddji	0	0	0	0
 
-studieverksted	oahppobádje	oahppobádji	0	0	0	0
+studieverksted	oahppodivudahka	oahppobádji	0	0	0	0
 
-rettsstilling	rievtedille	riektedilli	27	0	36	0
+rettsstilling	riektádille	riektedilli	27	0	36	0
 
 fjordutvikling	vuodnaåvddånahttem	vuotnaovddideapmi	1	0	0	0
 
@@ -100,58 +101,58 @@ regionnivå	regiåvnnådásse	regiovdnadássi	1	0	0	0
 
 utviklingsfase	åvddånahttemdásse	ovdánahttindássi	2	0	0	0
 
-sekt	sierrasiebrre	sierrasearvi	0	0	0	0
+@sekt	sierrasiebrre	sierrasearvi	0	0	0	0
 
 utviklingsselskap	åvddånahttemsiebrre	ovddidansearvi	4	0	0	0
 
 utenrikssak	ålggorijkkaássje	olgoriikaášši	0	0	0	0
 
-sosialspørsmål	sosiállaássje	sosiálaášši	7	0	2	0
+@sosialspørsmål	sosiállaássje	sosiálaášši	7	0	2	0
 sosialspørsmål	sosialássje	sosiálaášši	7	0	2	0
 
 utviklingssak	åvddånahttemássje	ovddidanášši	0	0	0	0
 
-språksøknad	sámegiellaåhtså	giellaohcan	0	0	0	0
+språksøknad	giellaåhtsåmus	giellaohcan	0	0	0	0
 
 utviklingskommune	åvddånahttemsuohkan	ovdánahttinsuohkan	0	0	0	0
 
-demonstrasjonssalg	vuosádusvuovdde	čájáhusvuovdin	0	0	0	0
+demonstrasjonssalg	vuosádusvuomddem	čájáhusvuovdin	0	0	0	0
 
 valginformasjon	válggadiehtojuohkem	válgadiehtojuohkin	0	0	0	0
 
-plenum	ållestjoahkke	ollesčoahkkin	637	0	15	0
+@plenum	ållestjoahkke	ollesčoahkkin	637	0	15	0
 
-småbåt	smávvevanntsa	smávvafanas	3	0	4	0
+småbåt	smávvanntsa	smávvafanas	3	0	4	0
 
 utviklingsmiljø	åvddånahttembirás	ovddidanbiras	7	0	2	0
 
-rettskrav	riektegájbbádus	riektegáibádus	6	0	1	0
+rettskrav	riektágájbbádus	riektegáibádus	6	0	1	0
 
 særbestemmelse	sierramærrádus	sierramearrádus	1	0	1	0
 
-rettsavgjørelse	riektemærrádus	riektemearrádus	1	0	1	0
+rettsavgjørelse	riektámærrádus	riektemearrádus	1	0	1	0
 
 utviklingsforslag	åvddånahttemoajvvadus	ovddidanevttohus	0	0	0	0
 
-rettsvirkning	riektevájkudus	riekteváikkuhus	4	0	0	0
+rettsvirkning	riektávájkudus	riekteváikkuhus	4	0	0	0
 
-rettskraftsvirkning	riektefábmo	riektefápmováikkuhus	0	0	0	0
+rettskraftsvirkning	riektáfábmo	riektefápmováikkuhus	0	0	0	0
 
 læremiddelutstilling	oahppamnævvovuosádus	oahpponeavvočájáhus	3	0	1	0
 
-teaterforestilling	teáhtervuosádus	teáhterčájáhus	3	0	1	0
+teaterforestilling	teáhtarvuosádus	teáhterčájáhus	3	0	1	0
 
-museumsutstilling	vuorkkávuosádus	vuorkáčájáhus	0	0	0	0
+museumsutstilling	dávvervuorkkávuosádus	vuorkáčájáhus	0	0	0	0
 
-rettsvern	rievtesuodjalus	riektesuodjalus	11	0	6	0
+rettsvern	riektásuodjalus	riektesuodjalus	11	0	6	0
 
 rammeskriv	rámmatjálos	rámmačálus	0	0	0	0
 
-lavterskeltilbud	vuostasjtsiehkke	vuosttašceahkkefálaldat	1	0	0	0
+@lavterskeltilbud	vuostasjtsiehkke	vuosttašceahkkefálaldat	1	0	0	0
 
-utstillingstilbud	vuosádusfálaldak	čájáhusfálaldat	0	0	0	0
+utstillingstilbud	vuosádusfálaldahka	čájáhusfálaldat	0	0	0	0
 
-sosialspørsmål	sosiállagatjálvis	sosiálagažaldat	7	0	0	0
+@sosialspørsmål	sosiállagatjálvis	sosiálagažaldat	7	0	0	0
 sosialspørsmål	sosialgatjálvis	sosiálagažaldat	7	0	0	0
 
 sametingsperiode	sámediggegávdda	sámediggeáigodat	3	0	3	0
@@ -171,7 +172,7 @@ gjeldsordning	vielggeårnik	vealgeortnet	3	0	0	0
 
 hjelpeordning	viehkkeårnik	veahkkeortnet	0	0	0	0
 
-rettsorden	riekteårnik	riekteortnet	5	0	1	0
+rettsorden	riektáårnik	riekteortnet	5	0	1	0
 
 rangering	vuorroårnik	vuorroortnet	7	0	0	0
 
@@ -179,7 +180,7 @@ rangordning	árvvoårnik	árvoortnet	0	0	1	0
 
 avløserordning	sadjásasjårnik	sadjásašortnet	3	0	1	0
 
-rettskilde	riektegálldo	riektegáldu	7	0	8	0
+rettskilde	riektágálldo	riektegáldu	7	0	8	0
 
 utstillingsarbeid	vuosádusbarggo	čájáhusbargu	0	0	0	0
 
@@ -191,7 +192,7 @@ utviklingsretning	åvddånahttemgæjnno	ovddidangeaidnu	0	0	0	0
 
 rettstradisjon	riekteárbbedáhpe	riekteárbevierru	1	0	1	0
 
-sametingsliste	sámediggelissto	sámediggelistu	4	0	4	0
+sametingsliste	sámediggelissta	sámediggelistu	4	0	4	0
 
 utviklingskompetanse	åvddånahttemmáhtto	ovddidanmáhttu	0	0	0	0
 
