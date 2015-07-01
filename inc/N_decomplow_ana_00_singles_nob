@@ -1,13 +1,14 @@
+#most of this is good
 
-forhandlingsklima	sjiehtadallamdálkádahka	šiehtadallanáigumuš	0	0	0	0
+@forhandlingsklima	sjiehtadallamdálkádahka	šiehtadallanáigumuš	0	0	0	0
 
-folkerettsbrudd	álmmukriektáliejmme	álbmotriekterihkkun	0	0	0	0
+folkerettsbrudd	álmmukriektáboarkka	álbmotriekterihkkun	0	0	0	0
 
-behandlingssted	giehtadallamtjievtjastahka	dálkkodanbáiki/dikšunbáiki	1	0	0	0
+behandlingssted	dálkudimsadje	dálkkodanbáiki/dikšunbáiki	1	0	0	0
 
 næringsutviklingsarbeid	æládusåvddånahttembarggo	ealáhusovddidanbargu	5	0	1	0
 
-nyttårskveld	ådåjahkeiehket	ođđabeairuohtta	0	0	1	0
+nyttårskveld	ådåjakiehket	ođđabeairuohtta	0	0	1	0
 
 hovedfagsstipend	oajvvefáhkastipænnda	váldofágastipeanda	0	0	0	0
 
@@ -15,13 +16,13 @@ disposisjonsfond	disposisjåvnnåruhtavuorkká	hálddašanfoanda/háldenfoanda	2
 
 delingsforbud	juohkembuorggo	juohkingielddus	0	0	0	0
 
-folkeskoleråd	álmmukskåvllådármme	álbmotskuvlaráđđi	0	0	0	0
+folkeskoleråd	álmmukskåvllåráde	álbmotskuvlaráđđi	0	0	0	0
 
 helseskade	varresvuohtabiledibme	dearvvašvuođaváddu	3	0	0	0
 
 konfirmasjonsbilde	konfirmasjåvnnågåvvå	konfirmašungovva	0	0	0	0
 
-motbilde	måvtugisvuohtagåvvå	vuosteoaidnu	0	0	0	0
+motbilde	vuosstegåvvå	vuosteoaidnu	0	0	0	0
 
 fylkesplanperiode	fylkkapládnagávdda	fylkkaplánaáigodat	0	0	0	0
 
@@ -35,7 +36,7 @@ samfunnsfaglinje	sebrudakfáhkalinnja	servodatfágalinnjá	0	0	0	0
 
 naturbrukslinje	luonndobarggolinnja	luonddudoalloluohkká	0	0	0	0
 
-fisketurismepakke	guolleturissmapáhkke	guolleturismapáhkka	0	0	0	0
+fisketurismepakke	guolleturissmapáhkka	guolleturismapáhkka	0	0	0	0
 
 bostedsfylke	årojbájkkefylkka	ássanfylka	2	0	0	0
 
@@ -47,7 +48,7 @@ observatørrolle	váksjárroalla	áicirolla	1	0	0	0
 
 ekspertmekanisme	ássjedåbddemekanissma	áššedovdimekanisma	7	0	3	0
 
-fylkeslandbruksstyre	fylkkaednambarggo	fylkkaeanadoallostivra/fylkkaeanandoallostivra	3	0	0	0
+fylkeslandbruksstyre	fylkkaednambarggostivrra	fylkkaeanadoallostivra/fylkkaeanandoallostivra	3	0	0	0
 
 transportåre	fievrroájrro	vuodjingeaidnu/johtolatmannu	0	0	0	0
 
@@ -61,7 +62,7 @@ holdningsundersøkelse	miellaguoddoåtsådibme	miellaguoddoguorahallan	0	0	0	0
 
 levekårsundersøkelse	viessomdilleåtsådibme	birgenlágiiskkadeapmi/eallineaktoiskkadeapmi/birgenlágiguorahallan/eallindilleguorahallan/eallindilleiskkadeapmi/eallindiliguorahallan	5	0	0	0
 
-ekspropriasjonstillatelse	ekspropriasjåvnnåmiededibme	bággolonistanlohpi	2	0	0	0
+ekspropriasjonstillatelse	ekspropriasjåvnnåloahpe	bággolonistanlohpi	2	0	0	0
 
 eierstiftelse	åmastiddjevuododus	eaiggátvuođđudus	0	0	0	0
 
@@ -75,7 +76,7 @@ anleggsfag	ásadusfáhka	ráhkadusfága	0	0	0	0
 
 fylkespartilag	fylkkabelludaksiebrre	fylkkabellodatsearvi	0	0	0	0
 
-universitetsforlag	universitehttaalmmudahka	universitehtalágádus	4	0	0	0
+universitetsforlag	universitiehttaalmmudahka	universitehtalágádus	4	0	0	0
 
 personfradrag	persåvnnågæsos	personvuoládus	2	0	0	0
 
@@ -85,9 +86,9 @@ transportanlegg	sáhttoásadus	fievrridanrusttet	0	0	0	0
 
 fangstanlegg	væjddaásadus	bivdorusttet	3	0	1	0
 
-trekkpålegg	gæsossuvlle	geasusgáibádus	0	0	0	0
+trekkpålegg	gæsosgájbbádus	geasusgáibádus	0	0	0	0
 
-kommunestyrevalg	gielldastivrraválgga	gielddastivrraválga/suohkanstivrraválga	3	0	0	0
+kommunestyrevalg	suohkanstivrraválgga	gielddastivrraválga/suohkanstivrraválga	3	0	0	0
 
 lærerutdanningsmelding	åhpadiddjeoahppodiedádus	oahpaheaddjeoahppodieđáhus	0	0	0	0
 
@@ -117,7 +118,7 @@ innløsningsordning	lånåstusásadus	lotnunortnet	0	0	0	0
 
 førtidspensjonsordning	åvddålájgepensjåvnnåásadus	ovdaláiggepenšuvdnaortnet	1	0	0	0
 
-skitrening	sabekhárjjidallam	čuoiganhárjehallan	0	0	0	0
+skitrening	tjuojggamhárjjidallam	čuoiganhárjehallan	0	0	0	0
 
 oppstartbevilgning	álgadusjuollodibme	álggahanruhtadeapmi	0	0	0	0
 
@@ -125,7 +126,7 @@ kvotebegrensning	kvåvttåráddjim	earreráddjehus	0	0	0	0
 
 redskapsbegrensning	giehtaræjddogártjedibme	reaidogáržžideapmi/bivdoneavvogáržžideapmi	1	0	0	0
 
-trekkopplysning	gæsostjuovggidus	geasusdieđáhus	0	0	1	0
+trekkopplysning	gæsosdiedádus	geasusdieđáhus	0	0	1	0
 
 kulturmotsetning	kultuvrravuosstebielle	kulturerohus	0	0	2	0
 
@@ -139,17 +140,17 @@ kulturytring	kultuvrramoalgedibme	kulturovdanbuktin/kulturcealkin/kulturhápmi	3
 
 befaringssesong	gæhttjammåhkkegávdda	geahčadanáigodat	0	0	0	0
 
-verdighetsgaranti	árvvodahkoduodastus	árvodáhkádus	2	0	0	0
+verdighetsgaranti	værddogisvuohtaduodastus	árvodáhkádus	2	0	0	0
 
 vedlikeholdstiltak	hoajddodåjmalasjvuohta	divodandoaibmabidju	1	0	0	0
 
-forskningsmetodikk	guoradallamåhpadimvuohke	dutkanmetodihkka	0	0	0	0
+forskningsmetodikk	guoradallammetåvddå	dutkanmetodihkka	0	0	0	0
 
-universitetstannklinikk	universitehttabádneklinijkka	universitehtabátnedivššohat	0	0	0	0
+universitetstannklinikk	universitiehtabádneklinihkka	universitehtabátnedivššohat	0	0	0	0
 
 naboskapspolitikk	ráddnávuohtapolitihkka	siidaguoibmepolitihkka	0	0	0	0
 
-skolenettverk	skåvllånæhttadåjmadahka	skuvlafierpmádat	1	0	1	0
+skolenettverk	skåvllåværmádahka	skuvlafierpmádat	1	0	1	0
 
 prosjektmiddelbruk	prosjæktaruhtaadnem	prošeaktaruhtageavaheapmi	0	0	0	0
 
@@ -161,13 +162,13 @@ hjelpemiddelsentral	viehkkenævvoguovdásj	veahkkeneavvoguovddáš	3	0	2	0
 
 festsal	fæsstaladnja	riepmolatnja/riepmosálla	0	0	0	0
 
-erfaringstall	vásádusstálla	vásihuslohku	1	0	0	0
+erfaringstall	vásádustálla	vásihuslohku	1	0	0	0
 
-tapstall	massemstálla	massinlohku	4	0	0	0
+tapstall	massemtálla	massinlohku	4	0	0	0
 
 ressursskolemodell	resurssaskåvllåmodælla	resursaskuvlahápmi	0	0	0	0
 
-eierrettsspørsmål	åmastiddjeriektáássje	oamastanvuoigatvuođaášši	0	0	0	0
+eierrettsspørsmål	æjggumriektáássje	oamastanvuoigatvuođaášši	0	0	0	0
 
 bedriftsutviklingsprogram	vidnudahkaåvddånahttemprográmma	fitnodatovddidanprográmma	1	0	0	0
 
@@ -185,19 +186,19 @@ rusmiddelplan	gárevsælggapládna	gárrenmirkoplána	0	0	0	0
 
 fornyelsesplan	ådåstuspládna	ođasmahttinplána	0	0	0	0
 
-rettsvitenskapsmann	rievtesdiedaålmåj	riekteduopmár	0	0	0	0
+rettsvitenskapsmann	riektádiedaålmåj	riekteduopmár	0	0	0	0
 
-klassetrinn	klássatjuorgga	luohkkáceahkki/luohkkádássi	13	0	0	0
+klassetrinn	klássadásse	luohkkáceahkki/luohkkádássi	13	0	0	0
 
 nøkkelfunn	tjåvdagávnos	čoavddagávnnus	0	0	0	0
 
-lærerutdanningsregion	skåvlikoahppaguovllo	oahpaheaddjeoahpporegiovdna	7	0	0	0
+lærerutdanningsregion	åhpadiddjeoahppaguovllo	oahpaheaddjeoahpporegiovdna	7	0	0	0
 
 kalenderinformasjon	rijmmodiehtojuohkem	kaleanddardiehtu	0	0	0	0
 
 halvårsinformasjon	jahkebiellediehtojuohkem	jahkebeallediehtu	0	0	0	0
 
-kjønnsrepresentasjon	sjiervveåvdåstus	sohkabealovddastus	9	0	2	0
+@kjønnsrepresentasjon	sjiervveåvdåstus	sohkabealovddastus	9	0	2	0
 
 forhandlingsposisjon	sjiehtadallamposisjåvnnå	šiehtadallanposišuvdna	3	0	0	0
 
@@ -213,23 +214,23 @@ verdenstopp	værálttjåhkkå	njunušriika/máilmminjunuš	1	0	0	0
 
 foreldrerådsleder	æjgátrádejådediddje	váhnenráđđejođiheaddji	1	0	0	0
 
-planlegger	ájggomdieres	plánejeaddji	31	0	9	0
+planlegger	plánijiddje	plánejeaddji	31	0	9	0
 
 stipendmottaker	stipænndaduossto	stipeandaoažžu	5	0	2	0
 
 eiendomsmegler	æjggosåbadalle	opmodatvuovdi	1	0	0	0
 
-konsultasjonspartner	konsultasjåvnnåiellemguojmme	konsultašuvdnabeallelaš	2	0	0	0
+konsultasjonspartner	konsultasjåvnnåguojmme	konsultašuvdnabeallelaš	2	0	0	0
 
 sameskolelærer	sámeskåvllååhpadiddje	sámeskuvlaoahpaheaddji	1	0	0	0
 
-kristendomslærer	krisstalasjvuohtaskåvlik	risttalašvuođaoahpaheaddji	0	0	0	0
+kristendomslærer	risstalasjvuohtaåhpadiddje	risttalašvuođaoahpaheaddji	0	0	0	0
 
-dødelighetsmønster	jámedahkagirjos	jámolašvuođaminsttar	0	0	0	0
+dødelighetsmønster	jámedakminstar	jámolašvuođaminsttar	0	0	0	0
 
 merkeinnehaver	mærkkaæjgát	mearkaeaiggát	0	0	0	0
 
-identitetsfaktor	identitehttafaktåvrrå	identitehtaoassi	2	0	0	0
+identitetsfaktor	identitiehttafaktåvrrå	identitehtaoassi	2	0	0	0
 
 rettshjelpskontor	riektáviehkkekontåvrrå	riekteveahkkekantuvra	3	0	4	0
 
@@ -257,7 +258,7 @@ førstehjelpskurs	álggoviehkkekurssa	vuosttašveahkkekursa/álgoveahkkekursa	2	
 
 innsparingsprosess	siesstemprosæssa	seastinproseassa	0	0	0	0
 
-kulturbuss	kultuvrrarukto	kulturbusse	4	0	2	0
+kulturbuss	kultuvrrabussa	kulturbusse	4	0	2	0
 
 observasjonsstatus	váksjomstáhtus	dárkojeaddjistáhtus	0	0	0	0
 
@@ -265,17 +266,17 @@ listekandidat	lisstakandidáhtta	listoevttohas	1	0	2	0
 
 praksiskandidat	hárjjidallamkandidáhtta	hárjehallikandidáhtta	0	0	0	0
 
-rettsapparat	rievtesapparáhtta	riekteapparáhtta	4	0	0	0
+rettsapparat	riektáapparáhtta	riekteapparáhtta	4	0	0	0
 
 utlendingsdirektorat	ålggorijkakdirektoráhtta	olgoriikalaččaiddirektoráhtta/olgoriikalašdirektoráhtta	2	0	0	0
 
-venstrestat	gårutstáhtta	gurutstáhta	0	0	0	0
+venstrestat	gårostáhtta	gurutstáhta	0	0	0	0
 
 folkeregistermyndighet	álmmuklåhkofábmudahka	álbmotregisttareiseváldi	0	0	0	0
 
 forskriftsmyndighet	njuolgadustjálafábmudahka	láhkaásahusváldi	2	0	1	0
 
-etterutdanningsmulighet	lasseåhpadusdármme	lasseoahppovejolašvuohta	0	0	0	0
+etterutdanningsmulighet	lasseåhpadusvejulasjvuohta	lasseoahppovejolašvuohta	0	0	0	0
 
 utlånskapasitet	luojkkammáhtukvuohta	loatnajuolludanvuoibmi/loatnajuolludannákca	1	0	0	0
 
@@ -285,13 +286,13 @@ opplevelsesbedrift	vásádusvidnudahka	vásáhusfitnodat	2	0	0	0
 
 trolldomsmakt	skieddimfábmogisvuohta	noaidevuođačehppodat	0	0	0	0
 
-rettssubjekt	rievtessubjækta	riektesubjeakta	31	0	12	0
+rettssubjekt	riektássubjækta	riektesubjeakta	31	0	12	0
 
 sedvaneprosjekt	dáhpeprosjækta	dološgeavahusprošeakta	0	0	0	0
 
 veiplanprosjekt	væddjapládnaprosjækta	geaidnoplánaprošeakta	0	0	0	0
 
-opplysningsplikt	tjuovggidusvælggo	dieđihangeatnegasvuohta/dieđihangeasku	18	0	0	0
+opplysningsplikt	diededimvælggo	dieđihangeatnegasvuohta/dieđihangeasku	18	0	0	0
 
 doktorgradsoversikt	doktorgrádagåvvå	doavttergrádaoppalašgeahčastat	0	0	0	0
 
@@ -303,7 +304,7 @@ mellomfagsstudent	gasskafáhkastudænnta	gaskafágastudeanta	0	0	0	0
 
 urfolksparlament	álggoálmmukparlamænnta	álgoálbmotparlameanta/eamiálbmotparlameanta	1	0	0	0
 
-sidearrangement	doaresásadus	oalgelágideapmi	1	0	0	0
+sidearrangement	sijddoásadus	oalgelágideapmi	1	0	0	0
 
 kulturarrangement	kultuvrraásadibme	kulturdoallu/kulturdoalut	9	0	0	0
 
@@ -321,11 +322,11 @@ fornorskingsdebatt	dárojduhttemságastallam	dáruiduhttindigaštallan	0	0	0	0
 
 avdelingsbudsjett	åssudahkabudsjæhtta	ossodatbušeahtta	0	0	0	0
 
-skifterett	juohkorievtes	juogadanriekti	0	0	0	0
+skifterett	juohkoriektá	juogadanriekti	0	0	0	0
 
-jordskifterett	ednamajuohkorievtes	eanajuohkinriekti/eananjuohkindiggi/eanajuohkoriekti/eananjuohkinriekti/eanamolsunriekti	20	0	0	0
+jordskifterett	ednamajuohkoriektá	eanajuohkinriekti/eananjuohkindiggi/eanajuohkoriekti/eananjuohkinriekti/eanamolsunriekti	20	0	0	0
 
-nytterett	ávkkerievtes	ávkkástallanvuoigatvuohta	0	0	1	0
+nytterett	ávkkeriektá	ávkkástallanvuoigatvuohta	0	0	1	0
 
 medvirkningskrav	oassálasstemgájbbádus	oassálastingáibádus	0	0	0	0
 
@@ -333,4 +334,4 @@ medvirkningskrav	oassálasstemgájbbádus	oassálastingáibádus	0	0	0	0
 
 kulturminnevernperspektiv	kulturmujttosuodjalusperspektijvva	kulturmuitosuodjalanperspektiiva	0	0	0	0
 
-valgkretsnivå	válggaaktavuohtadásse	válgabiiredássi	2	0	0	0
+valgkretsnivå	válggabijrradásse	válgabiiredássi	2	0	0	0
