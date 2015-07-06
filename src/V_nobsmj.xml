@@ -26,7 +26,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">tjuollat</t>
+        <t pos="V">vierddet</t>
       </tg>
     </mg>
   </e>
@@ -42,11 +42,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V" src="fad">orde</l>
+      <l pos="V" src="fad">ytre</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">hállat</t>
+        <t pos="V">moalgedit</t>
       </tg>
     </mg>
   </e>
@@ -72,7 +72,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V" src="fad">sakse</l>
+      <l pos="V" src="fad">skjære</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
@@ -112,7 +112,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V" src="fad">lovfeste</l>
+      <l pos="V" src="fad">styrke</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
@@ -196,7 +196,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">bårådit</t>
+        <t pos="V">svarkestit</t>
       </tg>
     </mg>
   </e>
@@ -216,7 +216,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">dejvadit</t>
+        <t pos="V">æjvvalit</t>
       </tg>
     </mg>
   </e>
@@ -296,7 +296,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">gajkudit</t>
+        <t pos="V">gajkkot</t>
       </tg>
     </mg>
   </e>
@@ -476,7 +476,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">gåddålit</t>
+        <t pos="V">gåddet</t>
       </tg>
     </mg>
   </e>
@@ -496,7 +496,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">bávkkalit</t>
+        <t pos="V">bávkodit</t>
       </tg>
     </mg>
   </e>
@@ -516,7 +516,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">duvddelit</t>
+        <t pos="V">nuppástit</t>
       </tg>
     </mg>
   </e>
@@ -547,16 +547,6 @@
     <mg>
       <tg xml:lang="smj">
         <t pos="V">hedjunit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V" src="fad">nærme seg</l>
-    </lg>
-    <mg>
-      <tg xml:lang="smj">
-        <t pos="V">lahknit</t>
       </tg>
     </mg>
   </e>
@@ -616,7 +606,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">juogestit</t>
+        <t pos="V">juogadit</t>
       </tg>
     </mg>
   </e>
@@ -636,7 +626,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">sihkastit</t>
+        <t pos="V">gádodit</t>
       </tg>
     </mg>
   </e>
@@ -726,7 +716,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">sihkkut</t>
+        <t pos="V">sihkkot</t>
       </tg>
     </mg>
   </e>
@@ -736,7 +726,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">sihkkut</t>
+        <t pos="V">sihkastit</t>
       </tg>
     </mg>
   </e>
@@ -752,7 +742,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V" src="fad">sømme</l>
+      <l pos="V" src="fad">sy</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
@@ -766,7 +756,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">målssut</t>
+        <t pos="V">målssot</t>
       </tg>
     </mg>
   </e>
@@ -966,7 +956,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">tjoahkkájgiesset s*</t>
+        <t pos="V">tjoahkkájgiesset</t>
       </tg>
     </mg>
   </e>
@@ -1247,7 +1237,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">tjielggit el. dárkkelappot/snivábut tjielggit</t>
+        <t pos="V">snivábut tjielggit</t>
         <t pos="V">spesifisierit</t>
       </tg>
     </mg>
@@ -1359,7 +1349,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">joarkket</t>
+        <t pos="V">joarkedit</t>
       </tg>
     </mg>
   </e>
@@ -1519,7 +1509,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">aksjunierit</t>
+        <t pos="V">aksjonierit</t>
       </tg>
     </mg>
   </e>
@@ -1529,7 +1519,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">pensjunierit</t>
+        <t pos="V">pensjonierit</t>
       </tg>
     </mg>
   </e>
@@ -1989,7 +1979,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">dievddet</t>
+        <t pos="V">ållidit</t>
       </tg>
     </mg>
   </e>
@@ -2145,7 +2135,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V" src="fad">nedfelle</l>
+      <l pos="V" src="fad">uttale</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
@@ -2159,7 +2149,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">javllat</t>
+        <t pos="V">tjuottjodit</t>
       </tg>
     </mg>
   </e>
@@ -2169,7 +2159,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">tjállet</t>
+        <t pos="V">bievddegirjjáj tjállet</t>
       </tg>
     </mg>
   </e>
@@ -2289,7 +2279,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">ållistit</t>
+        <t pos="V">ållidit</t>
       </tg>
     </mg>
   </e>
@@ -2299,7 +2289,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">ållistit</t>
+        <t pos="V">ållidit</t>
       </tg>
     </mg>
   </e>
@@ -2309,7 +2299,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">ållistit</t>
+        <t pos="V">dievddet</t>
       </tg>
     </mg>
   </e>
@@ -2319,7 +2309,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">ållistit</t>
+        <t pos="V">lasedit</t>
       </tg>
     </mg>
   </e>
@@ -2379,7 +2369,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">sajájduhttet</t>
+        <t pos="V">tjadnat</t>
       </tg>
     </mg>
   </e>
@@ -2409,7 +2399,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">láhtjet</t>
+        <t pos="V">dilev láhtjet</t>
       </tg>
     </mg>
   </e>
@@ -2629,7 +2619,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">tjoallit</t>
+        <t pos="V">sláhkkit</t>
       </tg>
     </mg>
   </e>
@@ -3565,16 +3555,6 @@
   </e>
   <e>
     <lg>
-      <l pos="V" src="fad">forankre</l>
-    </lg>
-    <mg>
-      <tg xml:lang="smj">
-        <t pos="V">sajájduhttet</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V" src="fad">skade</l>
     </lg>
     <mg>
@@ -3805,16 +3785,6 @@
   </e>
   <e>
     <lg>
-      <l pos="V" src="fad">blogge</l>
-    </lg>
-    <mg>
-      <tg xml:lang="smj">
-        <t pos="V">bloaggit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V" src="fad">domfelle</l>
     </lg>
     <mg>
@@ -3839,7 +3809,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">spiedtjit</t>
+        <t pos="V">spædtjot</t>
       </tg>
     </mg>
   </e>
@@ -4135,7 +4105,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V" src="fad">gå i mot</l>
+      <l pos="V" src="fad">gjøre motstand</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
@@ -4169,7 +4139,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="V">guddnit</t>
+        <t pos="V">guddnedit</t>
       </tg>
     </mg>
   </e>
