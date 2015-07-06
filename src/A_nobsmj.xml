@@ -132,7 +132,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">moro</l>
+      <l pos="A" src="fad">morsom</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
@@ -156,7 +156,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="A">vijdes</t>
+        <t pos="A">vijddásasj</t>
       </tg>
     </mg>
   </e>
@@ -186,7 +186,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="A">ållo</t>
+        <t pos="A">moadda</t>
       </tg>
     </mg>
   </e>
@@ -786,16 +786,6 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="A">sámegiella</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A" src="fad">samisk</l>
-    </lg>
-    <mg>
-      <tg xml:lang="smj">
         <t pos="A">sáme</t>
       </tg>
     </mg>
@@ -946,13 +936,13 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="A">jiermmá</t>
+        <t pos="A">oajvvá</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">oppegående</l>
+      <l pos="A" src="fad">fornuftig</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
@@ -966,7 +956,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="A">doajmmel</t>
+        <t pos="A">dåbmar</t>
       </tg>
     </mg>
   </e>
@@ -1006,7 +996,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="A">iehpevisses</t>
+        <t pos="A">iehpesihkar</t>
       </tg>
     </mg>
   </e>
@@ -1316,7 +1306,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="A">vájmobávtjagahtte</t>
+        <t pos="A">vájmobávtjak</t>
       </tg>
     </mg>
   </e>
@@ -1456,13 +1446,13 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="A">dárogielak</t>
+        <t pos="A">dáro</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">nynorsk</l>
+      <l pos="A" src="fad">nynorsktalende</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
@@ -1592,7 +1582,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">norsk</l>
+      <l pos="A" src="fad">norskspråklig</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
@@ -2189,7 +2179,7 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="A">bådnjot</t>
+        <t pos="A">bånjo</t>
       </tg>
     </mg>
   </e>
