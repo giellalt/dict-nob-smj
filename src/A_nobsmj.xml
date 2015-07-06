@@ -2313,6 +2313,116 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">rettslig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">lágalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">lovmessig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">lágalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">lodden</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">guolggá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">flekket</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">deblak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">nødvendig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dárbulasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">overlegen</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">stuores</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">dynamisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dynámalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">gammeldags</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dålusj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">underordnet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">vuollásasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">øverordnet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">badjásasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">overordnet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gájkbadjásasj</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
 primitiv ::: avtagærddásasj
 næringssvak ::: rassje
@@ -2929,6 +3039,10 @@ verneverdig ::: gáhttenárvosasj
 ekstensiv ::: ekstensijva
 uærlig ::: verrutjep
 uærlig ::: iehperehálasj
+urørt ::: duohtadahtes
+dynamisk ::: sjáhtjalahtte
+dynamisk ::: hiebadahkes
+treffende ::: diejddis
  -->
   <!-- Questionable suggestions, look more at: 
 
@@ -2993,4 +3107,3 @@ operativ	åperatijvvalasj	operatiivvalaš	18	0	0	0
 
  -->
 </r>
-
