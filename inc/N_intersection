@@ -1,58 +1,59 @@
+# about half of these are good, bad marked with @
 
-grunnskolesamarbeid	båddneskåvllåaktisasjbarggo	vuođđoskuvlaovttasbargu	1	0	1	0
+grunnskolesamarbeid	vuodoskåvllåaktisasjbarggo	vuođđoskuvlaovttasbargu	1	0	1	0
 
-grunnskoleråd	båddneskåvllåráde	vuođđoskuvlaráđđi	4	0	2	0
+grunnskoleråd	vuodoskåvllåráde	vuođđoskuvlaráđđi	4	0	2	0
 
-bakstykke	oalle	oalli	0	227	70	0
+@bakstykke	oalle	oalli	0	227	70	0
 
 våpenmerke	værjjomærkka	vearjomearka	1	0	1	0
 
 forværelse	åvddåladnja	ovdalatnja	5	1	1	0
 
-hefte	árro	árru	38	17	3	0
+hefte	girjásj	árru	38	17	3	0
 
-emneknagg	fáddágilkor	fáddágilkor	0	0	0	0
+@emneknagg	fáddágilkor	fáddágilkor	0	0	0	0
 
-energiutbygging	energiddjahuksen	energiijahuksen	3	0	2	0
+@energiutbygging	energiddjahuksen	energiijahuksen	3	0	2	0
 
 næringsavdeling	æládusåssudahka	ealáhusossodat	5	0	8	2
 
-konsekvensutredning	vájkudustjielggidus	váikkuhusčielggadeapmi	54	0	7	0
+konsekvensutredning	vájkudusguoradallam	váikkuhusčielggadeapmi	54	0	7	0
 
 produksjonspremieordning	buvtadusvuojttoásadus	buvttadanvuoitodoarjja	1	0	1	0
 
 velferdsordning	álkkádusårnik	buresbirgenortnet/čálgoortnet	15	0	4	1
 
-rettferdighetsbetraktning	rievtesvuodabiel	vuoigatvuođabealli	1	0	1	0
+rettferdighetsbetraktning	riektáárvustallam	vuoigatvuođabealli	1	0	1	0
 
-ressursforvaltning	resurssaháldadus	resursahálddašeapmi	45	0	13	3
+ressursforvaltning	ressurssaháldadus	resursahálddašeapmi	45	0	13	3
 
-sameloven	sábmeláhka	sámeláhka	65	0	127	46
+sameloven	sámeláhka	sámeláhka	65	0	127	46
 
-grunnskolealder	båddneskåvllåáldar	vuođđoskuvlaahki	6	0	2	0
+grunnskolealder	vuodoskåvllåáldar	vuođđoskuvlaahki	6	0	2	0
 
 fornorskingsinstruks	dárojduhttembagádus	dáruiduhttinmearrádus/dáruiduhttinnjuolggadus	1	0	1	0
 
-riss	figuvrra	govadat	5	2	8	0
+@riss	figuvrra	govadat	5	2	8	0
 
-partsrettighet	bielrievtes	bealálašvuoigatvuohta	2	0	1	0
+@partsrettighet	bielrievtes	bealálašvuoigatvuohta	2	0	1	0
 
-rettighetsaspekt	rievtesvuodabiel	vuoigatvuođabealli	1	0	1	0
+rettighetsaspekt	riektáaspækta	vuoigatvuođabealli	1	0	1	0
 
-kursiv	vinjotjála	vinjučála	5	0	0	0
+@kursiv	vinjotjála	vinjučála	5	0	0	0
 
-formidlingsmåte	gaskostimevuohke	gaskkustanvuohki	1	0	1	0
+@formidlingsmåte	gaskostimevuohke	gaskkustanvuohki	1	0	1	0
 formidlingsmåte	gaskostimvuohke	gaskkustanvuohki	1	0	1	0
 
 resultatstyringssystem	boadosstivrrimvuogádahka	boađusstivrenvuogádat	2	0	1	0
 resultatstyringssystem	boadosstivrrimsystiebma	boađusstivrenvuogádat	2	0	1	0
 
-familiebakgrunn	familjaduogos	sohkaduogáš	8	0	2	0
+@familiebakgrunn	familjaduogos	sohkaduogáš	8	0	2	0
 familiebakgrunn	familljaduogos	sohkaduogáš	8	0	2	0
-familiebakgrunn	fuolkeduogos	sohkaduogáš	8	0	2	0
+@familiebakgrunn	fuolkeduogos	sohkaduogáš	8	0	2	0
 
-telt	bieljegoahte	bealljegoahti	33	0	3	0
-telt	bielljegoahte	bealljegoahti	33	0	3	0
+@telt	bieljegoahte	bealljegoahti	33	0	3	0
+telt	tællta	bealljegoahti	33	0	3	0
 
-naturelement	luonndobiel	luonddubealli	0	0	1	0
-naturelement	luondobiel	luonddubealli	0	0	1	0
+@naturelement	luonndobiel	luonddubealli	0	0	1	0
+@naturelement	luondobiel	luonddubealli	0	0	1	0

@@ -1,21 +1,22 @@
+#all good
 
-rund skive	pláhtta	skearru	0	5	82	0
+plate	skierro	skearru	0	5	82	0
 
-streng	ájrro	suotna/streaŋga	69	20	6	0
+åre	ájrro	suotna/streaŋga	69	20	6	0
 
-li	luohkka	hállan	33	1	56	0
+fjellside	luohkka	hállan	33	1	56	0
 
-person med barn	æjgátbielle	mánnáolmmoš	0	1	4	0
+forelder	æjgát	mánnáolmmoš	0	1	4	0
 
-fortom	duorggo	siibma	0	1	4	0
-håndsnøre	duorggo	siibma	11	1	4	0
+dorg	duorggo	siibma	0	1	4	0
+@håndsnøre	duorggo	siibma	11	1	4	0
 
-streng	árran	suotna	69	1013	7	0
+arne	árran	suotna	69	1013	7	0
 
-kommunikasjonsverktøy	kanálla	gulahallangaskaoapmi	1	13	5	0
+kommunikasjonsverktøy	guládallamvædtsak	gulahallangaskaoapmi	1	13	5	0
 
-døden	jábbme	jápmin	7	3	59	1
+døden	jábmem	jápmin	7	3	59	1
 
-reskript	bajusj	gohččun	2	4	57	0
+overflate	bajusj	gohččun	2	4	57	0
 
-skurlast	materiálla	ávnnas	1	50	116	0
+materiale	materiálla	ávnnas	1	50	116	0

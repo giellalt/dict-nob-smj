@@ -1,3 +1,4 @@
+# most of these are good candidates
 
 lærlingtilskudd	viddnooahppedoarjja	oahpahallidoarjja	3	0	1	0
 
@@ -5,11 +6,11 @@ verdipapirmarked	árvvopáhpermárnán	árvobábermárkan	1	0	0	0
 
 verdensmarked	væráltmárnán	máilmmimárkan	2	0	1	0
 
-trafikksikkerhetsarbeid	trafihkkasihkarvuohtabarggo	johtolatsihkarvuođaplána/johtolatsihkkarastin	2	0	1	0
+trafikksikkerhetsarbeid	trafihkkaoaggásvuohtabarggo	johtolatsihkarvuođaplána/johtolatsihkkarastin	2	0	1	0
 
 kulturskoletilbud	kultuvrraskåvllåfálaldahka	kulturskuvlafálaldat	4	0	2	0
 
-spillolje	stoagosulljo	bázahasolju	1	0	1	0
+@spillolje	stoagosulljo	bázahasolju	1	0	1	0
 
 utviklingslinje	åvddånahttemlinnja	ovdánanlinjá/ovddidanlinnjá	1	0	1	0
 
@@ -17,7 +18,7 @@ tradisjonsmateriale	árbbedáhpemateriálla	árbevierroávnnas	2	0	1	0
 
 tollavtale	toalljasjiehtadibme	tuollošiehtadus	1	0	1	0
 
-eierrolle	åmastiddjeroalla	oamastansajádat	1	0	1	0
+eierrolle	æjggomroalla	oamastansajádat	1	0	1	0
 
 yrkeshøyskole	ámmátallaskåvllå	fidnoallaskuvla	1	0	1	0
 
@@ -29,7 +30,7 @@ næringsstiftelse	æládusvuododus	ealáhusvuođđudus	1	0	1	0
 
 bostedsadresse	årojbájkkeadræssa	ássanadreassa/ássančujuhus	5	0	1	0
 
-regjeringsskifte	ráddidusjuohko	ráđđehusmolsun	5	0	1	0
+regjeringsskifte	ráddidusmålssom	ráđđehusmolsun	5	0	1	0
 
 underskriftsliste	vuollájtjállemlissta	vuolláičállinlistu	1	0	1	0
 
@@ -41,7 +42,7 @@ kystriksveg	merraguovllorijkkagæjnno	riddoriikkageaidnu	1	0	1	0
 
 formidlingsopplegg	åvddånbuktemgárvvidus	gaskkustanplána	1	0	1	0
 
-næringsmelding	æládusguládis	ealáhusčilgehus/ealáhusdieđáhus	3	0	5	0
+næringsmelding	æládusdiedádus	ealáhusčilgehus/ealáhusdieđáhus	3	0	5	0
 
 næringsforhandling	æládussjiehtadallam	ealáhusšiehtadallan	2	0	1	0
 
@@ -49,7 +50,7 @@ skoleinndeling	skåvllåjuohkem	skuvlajuohku	1	0	1	0
 
 grunnskoleavdeling	vuodoskåvllååssudahka	vuođđoskuvlaossodat	1	0	1	0
 
-saksbehandlerstilling	ássjegiehtadalleámmát	áššemeannudanvirgi	9	0	1	0
+saksbehandlerstilling	ássjegiehtadallevirgge	áššemeannudanvirgi	9	0	1	0
 
 skolekonsertordning	skåvllåkonsærttaásadus	skuvlakonseartaortnet	1	0	1	0
 
@@ -57,37 +58,37 @@ helselovgivning	varresvuohtaláhkaásadibme	dearvvašvuođaláhka	1	0	2	0
 
 skogsatsing	vuobmeåvdedibme	vuovdeáŋgiruššan	1	0	1	0
 
-rettssikkerhetsgaranti	rievtesvuohtasihkarvuohtabuvtaduodastus	riektesihkarvuođadáhkádus	1	0	1	0
+rettssikkerhetsgaranti	riektáoaggásvuohtabuvtaduodastus	riektesihkarvuođadáhkádus	1	0	1	0
 
-grunnskoletiltak	vuodoskåvllådåjmalasjvuohta	vuođđoskuvladoaibmabidju	1	0	1	0
+grunnskoletiltak	vuodoskåvllådoajmma	vuođđoskuvladoaibmabidju	1	0	1	0
 
-helsetiltak	varresvuohtadåjmalasjvuohta	dearvvasvuođadoaibmabidju	4	0	1	0
+helsetiltak	varresvuohtadoajmma	dearvvasvuođadoaibmabidju	4	0	1	0
 
-folkehelsetiltak	álmmukvarresvuohtadåjmalasjvuohta	álbmotdearvvašvuođadoaibmabidju	3	0	1	0
+folkehelsetiltak	álmmukvarresvuohtadoajmma	álbmotdearvvašvuođadoaibmabidju	3	0	1	0
 
-næringsutviklingstiltak	æládusåvddånahttemdåjmalasjvuohta	ealáhusovddidandoaibmabidju	2	0	1	0
+næringsutviklingstiltak	æládusåvddånahttemdoajmma	ealáhusovddidandoaibmabidju	2	0	1	0
 
-revitaliseringstiltak	ælládahttemdåjmalasjvuohta	ealáskahttindoaibmabidju/ealáskuhttindoaibmabidju	3	0	1	0
+revitaliseringstiltak	ælládahttemdoajmma	ealáskahttindoaibmabidju/ealáskuhttindoaibmabidju	3	0	1	0
 
-trafikksikkerhetstiltak	trafihkkasihkarvuohtadoajmma	johtolatsihkkarastin	8	0	0	0
+trafikksikkerhetstiltak	trafihkkaoaggásvuohtadoajmma	johtolatsihkkarastin	8	0	0	0
 
-småskolepedagogikk	smáveskåvllåpedagogihkka	smávvaskuvlapedagogihkka	2	0	1	0
+småskolepedagogikk	smávskåvllåpedagogihkka	smávvaskuvlapedagogihkka	2	0	1	0
 
 virkemiddelpolitikk	vájkkudimnævvopolitihkka	váikkuhangaskaoapmepolitihkka	5	0	1	0
 
-eiendomspolitikk	æjggopolitihkka	opmodatpolitihkka	4	0	1	0
+eiendomspolitikk	æjggompolitihkka	opmodatpolitihkka	4	0	1	0
 
 verdensbank	væráltbáŋŋka	máilmmibáŋku	2	0	1	0
 
-festningsverk	laddnedåjmadahka	ladnerusttet	1	0	1	0
+@festningsverk	laddnedåjmadahka	ladnerusttet	1	0	1	0
 
-innfallsvinkel	vuohkoviŋkal	vuolggasadji	3	0	67	0
+@innfallsvinkel	vuohkoviŋkal	vuolggasadji	3	0	67	0
 
 utviklingsmodell	åvddånahttemmodælla	ovddidanmodealla	1	0	1	0
 
 hjerneutviklingsprogram	vuojŋamåvddånahttemprográmma	vuoiŋŋamašovdánahttinprográmma	1	0	1	0
 
-valgforskningsprogram	válggaguoradallamprográmma	válgadutkanprográmma	1	0	1	0
+valgforskningsprogram	válggadutkamprográmma	válgadutkanprográmma	1	0	1	0
 
 næringseiendom	æládusæjggo	ealáhusopmodat	8	0	1	0
 
@@ -97,11 +98,11 @@ velferdsreform	álkkádusådåstus	čálgoođastus	1	0	1	0
 
 valgorgan	válggaorgádna	válgaorgána	1	0	1	0
 
-eierorgan	åmastiddjeorgádna	oamastanorgána	2	0	1	0
+eierorgan	æjgátorgádna	oamastanorgána	2	0	1	0
 
 beitebruksplan	guohtomadnempládna	guohtunplána	0	0	0	0
 
-småskoletrinn	smáveskåvllåtjuorgga	smávvaskuvladássi	1	0	2	0
+småskoletrinn	smávskåvllåtjuorgga	smávvaskuvladássi	1	0	2	0
 
 urfolksbakgrunn	álggoálmmukduogos	álgoálbmotduogáš	12	0	4	0
 
@@ -119,7 +120,7 @@ velferdsdirektør	álkkádusdirekterra	čálgodirektevra	1	0	0	0
 
 formuespris	åbmudahkahievedibme	opmodathaddi	1	0	0	0
 
-yrkespraksis	ámmáthárjjidallam	fidnohárjehallan	2	0	1	0
+yrkespraksis	virggehárjjidallam	fidnohárjehallan	2	0	1	0
 
 utviklingskurs	åvddånahttemkurssa	ovdánankursa	1	0	1	0
 
@@ -149,7 +150,7 @@ velferdsprosjekt	álkkádusprosjækta	čálgoprošeakta	1	0	0	0
 
 formidlingsprosjekt	åvddånbuktemprosjækta	gaskkustanprošeakta	3	0	2	0
 
-sikkerhetsaspekt	vissesvuohtaaspækta	dorvvolašvuođabealli	1	0	1	0
+sikkerhetsaspekt	oaggásvuohtaaspækta	dorvvolašvuođabealli	1	0	1	0
 
 helsedepartement	varresvuohtadepartemænnta	dearvvašvuođadepartemeanta	14	0	9	0
 
@@ -159,12 +160,12 @@ skiprest	sabekbáhppa	sabetbáhppa	1	0	1	0
 
 saksbehandlingsfrist	ássjegiehtadallamájggemierre	áššemeannudanáigemearri	1	0	1	0
 
-hagebruksvekst	gárddeadnemåvddånibme	gilvvagárddáššaddu	1	0	0	0
+hagebruksvekst	hágánadnemåvddånibme	gilvvagárddáššaddu	1	0	0	0
 
 virkemiddelpost	vájkkudimnævvopoassta	váikkuhangaskaoapmepoasta	5	0	1	0
 
-skoginitiativ	vuobmedåjmalasjvuohta	vuovdeálgga/meahcceálgga	1	0	1	0
+skoginitiativ	miehttsedåjmalasjvuohta	vuovdeálgga/meahcceálgga	1	0	1	0
 
-planinitiativ	ájggomdåjmalasjvuohta	plánaálgga	1	0	0	0
+planinitiativ	pládnadåjmalasjvuohta	plánaálgga	1	0	0	0
 
 utviklingsalternativ	åvddånahttemalternatijvva	ovdánahttinvejolašvuohta	1	0	4	0

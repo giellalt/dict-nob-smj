@@ -1,5 +1,6 @@
+#most are good candidates
 
-møtearena	diggeariedná	deaivvadanarena/čoahkkinbáiki	2	0	2	0
+møtearena	tjåhkanimariedná	deaivvadanarena/čoahkkinbáiki	2	0	2	0
 
 kraftoverskudd	fábmoruhtabáhtso	fápmobadjelbáza	1	0	1	0
 
@@ -7,9 +8,9 @@ museumssamarbeid	dávvervuorkkáaktisasjbarggo	museaovttasbargu	1	0	1	0
 
 menneskerettighetsarbeid	ulmusjrievtesvuohtabarggo	olmmošvuoigatvuođadoaibma	2	1	1	1
 
-hushold	dåhpesujtto	dállodoallu	22	0	22	0
+hushold	goahtesujtto	dállodoallu	22	0	22	0
 
-nordland	nuorttagádde	Nordlánda	268	0	123	1
+nordland	Nordlánnda	Nordlánda	268	0	123	1
 
 tilleggsstipend	duoddestipænnda	lassistipeanda	3	0	2	0
 
@@ -17,21 +18,21 @@ utdanningsstipend	åhpadusstipænnda	oahpahusstipeanda/oahppostipeanda	16	0	6	2
 
 fornorskningssynd	dárojduhttemsuddo	dáruiduhttinsuddu	1	0	1	0
 
-rettsstandard	duollastandárdda	riektedássi/riektestandárda	2	0	1	0
+rettsstandard	riektástandárdda	riektedássi/riektestandárda	2	0	1	0
 
-fastlegetilbud	fásstadåktår	fástadoavtterfálaldat/fástadoavttirfálaldat	1	0	0	0
+fastlegetilbud	stuovesdåktårfálaldahka	fástadoavtterfálaldat/fástadoavttirfálaldat	1	0	0	0
 
-bokbusstilbud	boaksabussafálaldahka	girjebussefálaldat	3	0	1	0
+bokbusstilbud	girjjebussafálaldahka	girjebussefálaldat	3	0	1	0
 
-nøkkelområde	tjåvdasadje	čoavddaguovlu	1	1	0	0
+nøkkelområde	tjåvdabájkke	čoavddaguovlu	1	1	0	0
 
-husklynge	dåhpeæládus	viessočoakkáldat	1	0	1	0
+husklynge	goahtetjoahkke	viessočoakkáldat	1	0	1	0
 
 fylkesveiferge	fylkkavæddjafærjjo	fylkkageaidnofearga	1	0	1	0
 
-møteserie	diggerájddo	deaivvadanráidu	1	0	1	0
+møteserie	tjåhkanimrájddo	deaivvadanráidu	1	0	1	0
 
-spillolje	gibmeoalljo	bázahasolju	1	0	1	0
+@spillolje	gibmeoalljo	bázahasolju	1	0	1	0
 
 fjordlinje	vuodnalinnja	vuotnalinnjá/vuotnalinjá	6	0	1	1
 
@@ -49,39 +50,39 @@ steintavle	gierggetábllo	geađgetávval	1	0	1	1
 
 pasientgruppe	pasiænntajuogos	buhcciidjoavku/pasieantajoavku	4	0	1	1
 
-håndsnøre	giedasnuorri	siibma	11	0	4	0
+håndsnøre	giehtasnuorri	siibma	11	0	4	0
 
-overgangsfase	gasskaájgge	gaskadilli	5	5	1	0
+overgangsfase	gasskamuddodásse	gaskadilli	5	5	1	0
 
-produksjonsfase	buvtadusájgge	buvttadandássi	0	0	1	0
+produksjonsfase	buvtadusdásse	buvttadandássi	0	0	1	0
 
-startfase	álggoájgge	álggahandássi	4	3	2	0
+startfase	álgadusdásse	álggahandássi	4	3	2	0
 
-etatsledelse	etáhttajådedibme	etáhttajođiheapmi	1	0	0	0
+etatsledelse	etáhttaoajválasj	etáhttajođiheapmi	1	0	0	0
 
 tolkningsuttalelse	dádjadusjavllamus	dulkoncealkámuš	1	0	1	0
 
-menneskerettighetsbestemmelse	almasjrievtesvuohtamærrádus	olmmošvuoigatvuođamearrádus	1	0	1	0
+menneskerettighetsbestemmelse	almasjriektámærrádus	olmmošvuoigatvuođamearrádus	1	0	1	0
 
 avgiftsbestemmelse	divutmærrádus	divatmearrádus	1	0	1	0
 
 fellesbetegnelse	aktisasjtjielggidus	oktasašnamahus	2	0	1	0
 
-lønnsdannelse	bálkkágihppo	bálkágaskavuohta	1	0	0	0
+@lønnsdannelse	bálkkágihppo	bálkágaskavuohta	1	0	0	0
 
 klimakonferanse	dálkádahkakonferánssa	dálkkádatkonferánsa	1	0	3	0
 
-erfaringskonferanse	duogásjkonferánssa	vásáhuskonferánsa	1	0	1	0
+erfaringskonferanse	vásáduskonferánssa	vásáhuskonferánsa	1	0	1	0
 
-partskonferanse	bieleskonferánssa	osolaškonferánsa	1	0	1	0
+@partskonferanse	bieleskonferánssa	osolaškonferánsa	1	0	1	0
 
-handlingskompetanse	doajmmamáhtto	čađahandáidu/doaibmagelbbolašvuohta	2	0	1	0
+handlingskompetanse	doajmmamáhtudahka	čađahandáidu/doaibmagelbbolašvuohta	2	0	1	0
 
 distriktsgrense	guovllorádjá	orohatrádji	10	0	8	1
 
-fyllmasse	devdadisvehka	deavddamássá	1	0	0	0
+@fyllmasse	devdadisvehka	deavddamássá	1	0	0	0
 
-planinteresse	dásseberustibme	plánaberoštus	1	0	1	0
+planinteresse	pládnaberustibme	plánaberoštus	1	0	1	0
 
 grunneierinteresse	ednamæjgátberustibme	eanaeaiggátberoštus	1	0	1	0
 
@@ -91,9 +92,9 @@ tilleggskvote	duoddekvåvttå	liigeearri	3	0	2	0
 
 bedriftsstøtte	vidnudahkadoarjja	fitnodatdoarjja	1	0	1	8
 
-temamøte	fáddádigge	fáddáčoahkkin	2	0	2	0
+temamøte	tiebmátjåhkanibme	fáddáčoahkkin	2	0	2	0
 
-partsmøte	bieldigge	oasálaščoahkkin/oasehasčoahkkin/osolaščoahkkin/oasálaččaidčoahkkin	8	0	1	0
+@partsmøte	bieldigge	oasálaščoahkkin/oasehasčoahkkin/osolaščoahkkin/oasálaččaidčoahkkin	8	0	1	0
 
 kunststoff	dájddaássje	dahkuávnnas	0	0	1	0
 
@@ -107,13 +108,13 @@ tilleggsavdeling	duoddeåssudahka	liigeossodat	1	0	1	0
 
 serviceinnstilling	dievnastusárvvalus	veahkkáivuohta/bálvalusárja/bálvalusdáhttu	14	0	2	0
 
-kraftledning	fábmobåhttså	fápmojođas	8	0	4	0
+@kraftledning	fábmobåhttså	fápmojođas	8	0	4	0
 
 sykdomsspredning	dávddagæjvvanibme	dávdaleavvan/dávddaidnjoammun	1	0	1	0
 
-husholdning	dåhpemiellaguoddo	báikedoallu/ruovttudoallu	21	0	8	0
+@husholdning	dåhpemiellaguoddo	báikedoallu/ruovttudoallu	21	0	8	0
 
-fastlegeordning	fásstadåktår	fástadoavtterortnet	3	0	1	0
+fastlegeordning	stuovesdåktårásadus	fástadoavtterortnet	3	0	1	0
 
 legeforening	dåktårsiebrre	doavttersearvi	3	0	2	0
 
@@ -125,45 +126,45 @@ museumsbygning	dávvervuorkkátsiekkadus	dávvirvuorkávisti	1	0	1	0
 
 legedekning	dåktårfálaldahka	doavtterlohku/doavtterdilli/doavttirlohku	3	0	2	0
 
-lokalsamfunnsforskning	bájkkesebrudakguoradallam	báikegoddedutkan	1	0	1	0
+lokalsamfunnsforskning	bájkálasjsebrudakguoradallam	báikegoddedutkan	1	0	1	0
 
 værovervåkning	dálkkeváksjudibme	dálkegeahčču	1	0	1	0
 
-planløsning	dássetjoavdos	plánačoavddus	1	0	1	0
+planløsning	pládnatjoavdos	plánačoavddus	1	0	1	0
 
 tilleggsetning	duoddegárgadis	liigecealkka	1	0	1	0
 
 tilleggssetning	duoddegárgadis	lassicealkka	2	0	1	0
 
-rettssetning	duollagárgadis	riektecealkka	1	0	1	0
+rettssetning	riektágárgadis	riektecealkka	1	0	1	0
 
 klimaforutsetning	dálkádahkaækto	dálkkádateaktu	1	0	1	0
 
-arealforvaltning	ednamháldadibme	areálahálddašeapmi/viidodathálddašeapmi/areálahálddaheapmi	28	0	4	0
+arealforvaltning	areállaháldadibme	areálahálddašeapmi/viidodathálddašeapmi/areálahálddaheapmi	28	0	4	0
 
 kraftforsyning	fábmobiergas	fápmolágideapmi	4	0	1	0
 
-tilgangsstyring	dilestivrra	beassanstivren	1	0	1	0
+tilgangsstyring	bessamstivrrim	beassanstivren	1	0	1	0
 
-etatsstyring	etáhttastivrra	etáhttastivren	8	0	1	0
+etatsstyring	etáhttastivrrim	etáhttastivren	8	0	1	0
 
-bevisføring	duodastustjállem	duođaštusovdanbuktin	1	0	1	0
+bevisføring	duodastusåvddånbuktem	duođaštusovdanbuktin	1	0	1	0
 
 symbolverdi	symbåvllåárvvo	govastatárvu/symbolaárvu	3	0	1	1
 
 ekspropriasjonssak	ekspropriasjåvnnåássje	bággolotnunášši	2	0	1	0
 
-klimavedtak	dálkádahkamærrádus	dálkkádatmearrádus	1	0	0	0
+klimavedtak	dálkádakmærrádus	dálkkádatmearrádus	1	0	0	0
 
 ekspropriasjonsvedtak	ekspropriasjåvnnåmærrádus	bággolonistanmearrádus	1	0	1	0
 
-fellestrekk	aktisasjgæsso	oktasašdovdomearka/oktasašoassi/oktasašsárggus	5	0	1	0
+@fellestrekk	aktisasjgæsso	oktasašdovdomearka/oktasašoassi/oktasašsárggus	5	0	1	0
 
-fornorskingspolitikk	dárojduhttemguovllopolitihkka	dáruiduhttinpolitihkka	12	0	27	0
+fornorskingspolitikk	dárojduhttempolitihkka	dáruiduhttinpolitihkka	12	0	27	0
 
-rettstolk	duolladålkkå	riektedulka	1	0	1	0
+rettstolk	riektádålkkå	riektedulka	1	0	1	0
 
-husbank	dåhpebáŋŋka	viessobáŋku	11	0	5	0
+husbank	goahtebáŋŋka	viessobáŋku	11	0	5	0
 
 kvinnenettverk	nissunværmádahka	nissonfierpmádat	1	1	5	0
 
@@ -171,19 +172,19 @@ urfolksnettverk	álggoálmmukværmádahka	álgoálbmotfierpmádat/eamiálbmotfie
 
 museumsnettverk	dávvervuorkkáværmádahka	museafierpmádat	5	0	3	0
 
-redskapsspråk	giehtaræjddogiella	reaidogiella	2	0	1	0
+redskapsspråk	ræjddogiella	reaidogiella	2	0	1	0
 
-kunstgjødsel	dahkodáde	gieddegilvva	2	0	1	0
+@kunstgjødsel	dahkodáde	gieddegilvva	2	0	1	0
 
-arbeidstittel	doajmmanamma	bargonamahus	1	0	1	0
+arbeidstittel	barggonamma	bargonamahus	1	0	1	0
 
-virksomhetsmodell	doajmmamodælla	doaibmamálle	1	0	5	0
+virksomhetsmodell	dåjmadusmodælla	doaibmamálle	1	0	5	0
 
 servicepersonell	dievnastusbargge	bálvaleaddji	1	0	25	0
 
 menneskerettighetsspørsmål	almasjrievtesvuohtagatjálvis	olmmošvuoigatvuođaášši/olmmošvuoigatvuođagažaldat	2	0	1	0
 
-kampflyprogram	doarrogirdde	soahtegirdiidprográmma	1	0	0	0
+kampflyprogram	doarrogirddeprográmma	soahtegirdiidprográmma	1	0	0	0
 
 hovedproblem	oajvvegássjelisvuohta	váldováttisvuohta/váldočuolbma	4	1	2	0
 
@@ -191,15 +192,15 @@ beiteproblem	guohtomgássjelisvuohta	guohtunváttisvuohta	0	0	1	1
 
 sysselsettingsproblem	barggogássjelisvuohta	barggahusčuolbma	1	0	1	0
 
-fastlegesystem	fásstadåktår	fástadoavttirvuogádat/fástadoavttervuogádat	1	0	0	0
+fastlegesystem	fásstadåktårsystiebma	fástadoavttirvuogádat/fástadoavttervuogádat	1	0	0	0
 
-ervervsform	doajmmahábme	háhkanvuohki	1	0	1	0
+@ervervsform	doajmmahábme	háhkanvuohki	1	0	1	0
 
 legestudium	dåktåråhpadus	doavtteroahppu	0	0	2	0
 
-medisinstudium	dálkasåhpadus	doavtterskuvla/medisiidnaoahppu	1	0	1	0
+@medisinstudium	dálkasåhpadus	doavtterskuvla/medisiidnaoahppu	1	0	1	0
 
-praksisstudium	dáhpeåhpadus	práksisoahppu	1	0	0	0
+@praksisstudium	dáhpeåhpadus	práksisoahppu	1	0	0	0
 
 serviceorgan	dievnastusorgádna	veahkkeorgána	0	0	1	0
 
@@ -209,13 +210,13 @@ mottaksstasjon	duostudahkastasjåvnnå	vuostáváldinstašuvdna	3	0	1	0
 
 maktsituasjon	fábmogisvuohtadille	váldedilli	1	0	1	0
 
-parallellnavn	bálldanamma	paralleallanamma	1	0	1	0
+parallellnavn	parallellnamma	paralleallanamma	1	0	1	0
 
 museumsvitenskap	dávvervuorkkádieda	museadieđa	1	0	1	0
 
 samfunnsplanlegger	aktisasjvuohtaplánijiddje	servodatplánejeaddji	1	0	1	0
 
-kretsskolelærer	dáfoskåvllå	biireoahpaheaddji	1	0	1	0
+@kretsskolelærer	dáfoskåvllå	biireoahpaheaddji	1	0	1	0
 
 servicesenter	dievnastusguovdásj	bálvalanguovddáš/bálvalusguovddáš	12	0	2	0
 
@@ -223,21 +224,21 @@ likestillingssenter	dássádusguovdásj	dásseárvoguovddáš	4	0	1	0
 
 finansminister	finánssaministar	ruhtadanministtar/finánsaministtar	41	0	4	0
 
-husmur	dåhpemuvrra	viessomuvra	0	0	1	0
+husmur	goahtemuvrra	viessomuvra	0	0	1	0
 
-flåtestruktur	boarrehábmekvåvttå	fanasstruktuvra	3	0	1	0
+@flåtestruktur	boarrehábmekvåvttå	fanasstruktuvra	3	0	1	0
 
-rettsgebyr	duollamákso	riektedivat	3	0	1	0
+rettsgebyr	riektámákso	riektedivat	3	0	1	0
 
-kjøkkenutstyr	durrovædtsak	gievkkanreaidu/gievkkanneavvu	1	0	1	0
+kjøkkenutstyr	gievkanvædtsak	gievkkanreaidu/gievkkanneavvu	1	0	1	0
 
 sommerhalvår	giessejahkebielle	geassejahkebealli	3	0	1	1
 
-kraftfôr	fábmobiebbmo	fápmofuođar/šibitjáffu	5	0	1	0
+@kraftfôr	fábmobiebbmo	fápmofuođar/šibitjáffu	5	0	1	0
 
 kommunikasjonsdirektør	guládallamdirekterra	gulahallandirektevra	8	0	5	1
 
-konkurs	doajmmakurssa	reastaluvvat/reastaluvvan	17	0	10	0
+@konkurs	doajmmakurssa	reastaluvvat/reastaluvvan	17	0	10	0
 
 nettverkskurs	værmádahkakurssa	fierpmádatkursa	1	0	1	5
 
@@ -245,7 +246,7 @@ servicearbeidsplass	dievnastusbarggosadje	bálvalusbargosadji	1	0	1	0
 
 eksamenssekretariat	eksábmadåjmadahka	eksámenčállingoddi	1	0	1	0
 
-vintermat	dálvvevalástallambiebbmo	dálveborramuš	1	0	1	0
+vintermat	dálvvebiebbmo	dálveborramuš	1	0	1	0
 
 mottaksapparat	duostudahkaapparáhtta	sisaváldinapparáhtta/vuostáiváldinapparáhtta	1	0	0	0
 
@@ -253,11 +254,11 @@ avgiftsdirektorat	divutdirektoráhtta	divatdirektoráhtta	1	0	1	0
 
 avgiftsetat	divutetáhtta	divatetáhtta	2	0	1	0
 
-valgmyndighet	válljimfábmudahka	válgaeiseváldi/válgaváldi	5	0	1	1
+valgmyndighet	válggaoajválasj	válgaeiseváldi/válgaváldi	5	0	1	1
 
 amatørteatervirksomhet	amaterrateáhtardoajmma	amatevrateáhterdoaibma	4	0	1	0
 
-kampflyvirksomhet	doarrogirdde	soahtegirdidoaibma	1	0	1	0
+kampflyvirksomhet	doarrogirddedoajmma	soahtegirdidoaibma	1	0	1	0
 
 museumsenhet	dávvervuorkkáavtadahka	museaovttadat	2	0	1	0
 
@@ -267,29 +268,29 @@ beitekvalitet	guohtomkvalitæhtta	guohtunkvaliteahtta	2	0	1	1
 
 konsesjonsavgift	doajmmaloahpedivut	doaibmadivat/konsešuvdnadivat	3	0	1	0
 
-satsingsprosjekt	doajmmaåvddånahttemprosjækta	áŋgiruššanprošeakta	1	0	1	0
+satsingsprosjekt	vuorodimprosjækta	áŋgiruššanprošeakta	1	0	1	0
 
 tilstandsrapport	dillediedádus	dilleraporta	2	0	1	0
 
 tilleggsrapport	duoddediedádus	lasseraporta	1	0	1	0
 
-rettstvist	duollarijddo	riektesoahpameahttunvuohta	1	0	1	0
+rettstvist	riektárijddo	riektesoahpameahttunvuohta	1	0	1	0
 
 tilleggstekst	duoddetæksta	lassiteaksta	1	0	0	0
 
 klimagevinst	dálkádahkavuojtto	dálkkádatvuoitu	1	0	1	0
 
-tannsett	bádnedåktårájggomus	bánit	1	0	4	0
+tannsett	báne	bánit	1	0	4	0
 
-praksisbrev	dáhpegirjje	hárjehallireive	1	0	1	0
+@praksisbrev	dáhpegirjje	hárjehallireive	1	0	1	0
 
-planinitiativ	dássedåjmalasjvuohta	plánaálgga	1	0	0	0
+@planinitiativ	dássedåjmalasjvuohta	plánaálgga	1	0	0	0
 
 servicebehov	dievnastusdárbbo	bálvalusdárbu	1	0	1	0
 
-husbehov	dåhpedárbbo	dállodárbu	10	0	1	0
+husbehov	goahtedárbbo	dállodárbu	10	0	1	0
 
-planverktøy	dássevædtsak	plánagaskaoapmi	1	0	1	0
+planverktøy	pládnavædtsak	plánagaskaoapmi	1	0	1	0
 
 dokumentasjonsverktøy	dokumentasjåvnnåvædtsak	duođaštanreaidu	1	0	1	0
 
@@ -305,22 +306,22 @@ kvalitetsindikator	kvalitæhttamærkka	kvalitehtamearka	1	0	1	0
 
 identitetsmarkør	identitiehttamærkka	identitehtamearka	4	0	2	0
 
-opprinnelsesmerking	álggomærkka	álgomearka	1	0	1	0
+opprinnelsesmerking	álggomierkkim	álgomearka	1	0	1	0
 
-privilegium	åvddårievtesvuohta	ovdavuoigatvuohta	3	0	3	0
+@privilegium	åvddårievtesvuohta	ovdavuoigatvuohta	3	0	3	0
 
-utredningsmiddel	tjielggidusruhtta	čielggadanruhta	0	0	1	0
+@utredningsmiddel	tjielggidusruhta	čielggadanruhta	0	0	1	0
 
-skatteinntekt	vierroruhtta	vearroruhta	6	0	4	0
+skatteinntekt	værroboahto	vearroruhta	6	0	4	0
 
-formannskap	åvddågådde	ovdagoddi	95	0	71	0
+formannskap	åvddånammadus	ovdagoddi	95	0	71	0
 
-språklig utvikling	sámegiellaåvddånibme	giellaovdáneapmi	0	0	9	0
+språklig utvikling	gielalasj åvddånibme	giellaovdáneapmi	0	0	9	0
 
-merkevarebygging	mærkkadávver	mearkadávvirhuksen	7	0	1	0
+merkevarebygging	mærkkadávveråvddånahttem	mearkadávvirhuksen	7	0	1	0
 
-kjeledress	åbbåbivtas	obbabivttas	1	0	1	0
+@kjeledress	åbbåbivtas	obbabivttas	1	0	1	0
 
-grasproduksjon	suojnebarggo	suoidnedoallu	2	0	1	0
+grasproduksjon	rássebuvtadus	suoidnedoallu	2	0	1	0
 
-forsang	åvddålávllo	ovdalávlu	1	0	1	0
+@forsang	åvddålávllo	ovdalávlu	1	0	1	0
