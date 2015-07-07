@@ -1,204 +1,205 @@
+# + is good
 
 etableringstilskudd	vuododimedoarjja	álggahandoarjja	2	0	3	0
-etableringstilskudd	vuododimdoarjja	álggahandoarjja	2	0	3	0
++etableringstilskudd	vuododimdoarjja	álggahandoarjja	2	0	3	0
 
 valutamarked	valuhtamárnán	ruhtamárkan	1	0	1	0
-valutamarked	valuhttamárnán	ruhtamárkan	1	0	1	0
++valutamarked	valuhttámárnán	ruhtamárkan	1	0	1	0
 
 etableringssted	vuododimetjievtjastahka	ásahanbáiki	1	0	1	0
 etableringssted	vuododimtjievtjastahka	ásahanbáiki	1	0	1	0
 etableringssted	vuododimetjievtjastak	ásahanbáiki	1	0	1	0
-etableringssted	vuododimtjievtjastak	ásahanbáiki	1	0	1	0
++etableringssted	vuododimsadje	ásahanbáiki	1	0	1	0
 
 helsesamarbeid	varresvuodaaktisasjbarggo	dearvvašvuođabargu	2	0	2	0
-helsesamarbeid	varresvuohtaaktisasjbarggo	dearvvašvuođabargu	2	0	2	0
++helsesamarbeid	varresvuohtaaktisasjbarggo	dearvvašvuođabargu	2	0	2	0
 
-radioside	radioájádus	rádiobealli	1	0	0	0
++radioside	radiobielle	rádiobealli	1	0	0	0
 radioside	rádioájádus	rádiobealli	1	0	0	0
 
 etableringspakke	vuododimeskurppo	álggahanbáhkka	1	0	1	0
-etableringspakke	vuododimskurppo	álggahanbáhkka	1	0	1	0
++etableringspakke	vuododimpáhkka	álggahanbáhkka	1	0	1	0
 
-virkemiddelramme	vájkkudimnævvorámma	váikkuhangaskaoapmerámma	1	0	1	0
++virkemiddelramme	vájkkudimnævvorámma	váikkuhangaskaoapmerámma	1	0	1	0
 virkemiddelramme	vájkkudimnævvobirám	váikkuhangaskaoapmerámma	1	0	1	0
 
 semesteremne	jahkebielleábnas	lohkanbadjeoahppu/lohkanbádjefáddá	23	0	2	0
-semesteremne	semesterfáddá	lohkanbadjeoahppu/lohkanbádjefáddá	23	0	2	0
++semesteremne	semesterfáhka	lohkanbadjeoahppu/lohkanbádjefáddá	23	0	2	0
 
 virkemiddelkommune	vájkkudimnævvogiellda	váikkuhangaskaoapmegielda	1	0	1	0
-virkemiddelkommune	vájkkudimnævvosuohkan	váikkuhangaskaoapmegielda	1	0	1	0
++virkemiddelkommune	vájkkudimnævvosuohkan	váikkuhangaskaoapmegielda	1	0	1	0
 
-næringsanalyse	æládusanalyjssa	ealáhusguorahallan	1	0	1	0
++næringsanalyse	æládusanalyjssa	ealáhusguorahallan	1	0	1	0
 næringsanalyse	æládusguoradallam	ealáhusguorahallan	1	0	1	0
 
 prioriteringsliste	vuorodimelissta	vuoruhanlistu/prioriterenlistu/vuoruhanlista	8	0	2	0
-prioriteringsliste	vuorodimlissta	vuoruhanlistu/prioriterenlistu/vuoruhanlista	8	0	2	0
++prioriteringsliste	vuorodimlissta	vuoruhanlistu/prioriterenlistu/vuoruhanlista	8	0	2	0
 
 etableringsstøtte	vuododimeoatsodibme	ásahandoarjja	1	0	1	0
-etableringsstøtte	vuododimoatsodibme	ásahandoarjja	1	0	1	0
++etableringsstøtte	vuododimoatsodibme	ásahandoarjja	1	0	1	0
 
 bedriftsstøtte	vidnudahkaoatsodibme	fitnodatdoarjja	1	0	1	0
-bedriftsstøtte	vidnudakoatsodibme	fitnodatdoarjja	1	0	1	0
++bedriftsstøtte	vidnudakoatsodibme	fitnodatdoarjja	1	0	1	0
 
 tilpasningsmåte	hiebadahttemavuohke	heivehanvuohki	0	0	1	0
 tilpasningsmåte	hiebadimevuohke	heivehanvuohki	0	0	1	0
 tilpasningsmåte	sjiehtadimevuohke	heivehanvuohki	0	0	1	0
 tilpasningsmåte	hiebadahttemvuohke	heivehanvuohki	0	0	1	0
-tilpasningsmåte	hiebadimvuohke	heivehanvuohki	0	0	1	0
++tilpasningsmåte	hiebadimvuohke	heivehanvuohki	0	0	1	0
 tilpasningsmåte	sjiehtadimvuohke	heivehanvuohki	0	0	1	0
 
 næringssammenheng	æládusgasskavuohta	ealáhusoktavuohta	5	0	1	0
-næringssammenheng	æládusaktijvuohta	ealáhusoktavuohta	5	0	1	0
++næringssammenheng	æládusaktijvuohta	ealáhusoktavuohta	5	0	1	0
 
 visumbehandling	visumagiehtadallam	visummeannudeapmi	1	0	1	0
-visumbehandling	visumgiehtadallam	visummeannudeapmi	1	0	1	0
++visumbehandling	visumgiehtadallam	visummeannudeapmi	1	0	1	0
 
-hjerneutvikling	vuojŋamåvddånibme	vuoiŋŋamašovdáneapmi	1	0	1	0
-hjerneutvikling	vuojŋamåvddånahttem	vuoiŋŋamašovdáneapmi	1	0	1	0
++hjerneutvikling	vuojŋamåvddånibme	vuoiŋŋamašovdáneapmi	1	0	1	0
++hjerneutvikling	vuojŋamåvddånahttem	vuoiŋŋamašovdáneapmi	1	0	1	0
 
-velferdsutvikling	álkkádusåvddånibme	čálgobuorideapmi	0	0	0	0
-velferdsutvikling	álkkádusåvddånahttem	čálgobuorideapmi	0	0	0	0
++velferdsutvikling	álkkádusåvddånibme	čálgobuorideapmi	0	0	0	0
++velferdsutvikling	álkkádusåvddånahttem	čálgobuorideapmi	0	0	0	0
 
-bedriftsutvikling	vidnudahkaåvddånibme	fitnodatovdánahttin/fitnodatovddideapmi	15	0	7	0
-bedriftsutvikling	vidnudahkaåvddånahttem	fitnodatovdánahttin/fitnodatovddideapmi	15	0	7	0
++bedriftsutvikling	vidnudahkaåvddånibme	fitnodatovdánahttin/fitnodatovddideapmi	15	0	7	0
++bedriftsutvikling	vidnudahkaåvddånahttem	fitnodatovdánahttin/fitnodatovddideapmi	15	0	7	0
 
-erfaringsutveksling	vásáduslånudibme	vásáhuslonuheapmi/dovddiiduslonohallan/vásáhuslonohallan	11	0	1	0
-erfaringsutveksling	vásáduslånudallam	vásáhuslonuheapmi/dovddiiduslonohallan/vásáhuslonohallan	11	0	1	0
++erfaringsutveksling	vásáduslånudibme	vásáhuslonuheapmi/dovddiiduslonohallan/vásáhuslonohallan	11	0	1	0
++erfaringsutveksling	vásáduslånudallam	vásáhuslonuheapmi/dovddiiduslonohallan/vásáhuslonohallan	11	0	1	0
 
-vurderingsordning	árvustallamårnik	árvvoštallanortnet	1	0	1	0
++vurderingsordning	árvustallamårnik	árvvoštallanortnet	1	0	1	0
 vurderingsordning	árvustallamdájddoårnik	árvvoštallanortnet	1	0	1	0
 vurderingsordning	árvustallamásadus	árvvoštallanortnet	1	0	1	0
 vurderingsordning	árvustallamdájddoásadus	árvvoštallanortnet	1	0	1	0
 
-forsikringsordning	tjårggimårnik	dáhkádusortnet	2	0	2	0
-forsikringsordning	tjårggidusásadus	dáhkádusortnet	2	0	2	0
++forsikringsordning	tjårggimårnik	dáhkádusortnet	2	0	2	0
++forsikringsordning	tjårggidusásadus	dáhkádusortnet	2	0	2	0
 
 oppstartsbevilgning	álggomuddoruhtajuollodibme	álggahanjuolludeapmi	1	0	1	0
-oppstartsbevilgning	álgadusruhtajuollodibme	álggahanjuolludeapmi	1	0	1	0
++oppstartsbevilgning	álgadusruhtajuollodibme	álggahanjuolludeapmi	1	0	1	0
 oppstartsbevilgning	álggomuddojuollodibme	álggahanjuolludeapmi	1	0	1	0
 
-helseforskning	varresvuohtaåtsådibme	dearvvasvuođadutkanguovddáš	25	0	1	0
++helseforskning	varresvuohtadutkam	dearvvasvuođadutkanguovddáš	25	0	1	0
 helseforskning	varresvuohtaguoradallam	dearvvasvuođadutkanguovddáš	25	0	1	0
 
-lærlingvurdering	viddnooahppeárvustallam	oahpahalliárvvoštallan	0	0	0	0
++lærlingvurdering	viddnooahppeárvustallam	oahpahalliárvvoštallan	0	0	0	0
 lærlingvurdering	viddnooahppeárvustallamdájddo	oahpahalliárvvoštallan	0	0	0	0
 
 helsepolitikk	varresvuodapolitihkka	dearvvašvuođapolitihkka	4	0	3	0
-helsepolitikk	varresvuohtapolitihkka	dearvvašvuođapolitihkka	4	0	3	0
++helsepolitikk	varresvuohtapolitihkka	dearvvašvuođapolitihkka	4	0	3	0
 helsepolitikk	varresvuodapolitijkka	dearvvašvuođapolitihkka	4	0	3	0
 
-referanseverk	referánssadåjmadahka	diehtoohcangirji/referánsadagus	2	0	1	0
++referanseverk	referánssatjoahkke	diehtoohcangirji/referánsadagus	2	0	1	0
 referanseverk	referánssaásadus	diehtoohcangirji/referánsadagus	2	0	1	0
 
-stiftelseskapital	vuododusruhtaåbmudahka	vuođđuduskapitála	1	0	1	0
++stiftelseskapital	vuododusruhtaåbmudahka	vuođđuduskapitála	1	0	1	0
 stiftelseskapital	vuododuskapitálla	vuođđuduskapitála	1	0	1	0
 
-utviklingskapital	åvddånahttemruhtaåbmudahka	ovddidankapitála	2	0	1	0
++utviklingskapital	åvddånahttemruhtaåbmudahka	ovddidankapitála	2	0	1	0
 utviklingskapital	åvddånahttemkapitálla	ovddidankapitála	2	0	1	0
 
 ekspertpanel	ássjedåbddepaniella	ekspeartapanela	1	0	1	0
-ekspertpanel	ássjediehttepaniella	ekspeartapanela	1	0	1	0
++ekspertpanel	ássjediehttepaniella	ekspeartapanela	1	0	1	0
 ekspertpanel	ássjedåbddepanella	ekspeartapanela	1	0	1	0
 ekspertpanel	ássjediehttepanella	ekspeartapanela	1	0	1	0
 
 helsekapittel	varresvuodakapihtal	dearvvašvuođakapihtal	1	0	0	0
-helsekapittel	varresvuohtakapihtal	dearvvašvuođakapihtal	1	0	0	0
++helsekapittel	varresvuohtakapihtal	dearvvašvuođakapihtal	1	0	0	0
 
-helsesystem	varresvuohtavuogádahka	dearvvašvuođavuogádat	1	0	1	0
++helsesystem	varresvuohtavuogádahka	dearvvašvuođavuogádat	1	0	1	0
 helsesystem	varresvuodasystiebma	dearvvašvuođavuogádat	1	0	1	0
-helsesystem	varresvuohtasystiebma	dearvvašvuođavuogádat	1	0	1	0
++helsesystem	varresvuohtasystiebma	dearvvašvuođavuogádat	1	0	1	0
 helsesystem	varresvuodavuohke	dearvvašvuođavuogádat	1	0	1	0
 helsesystem	varresvuohtavuohke	dearvvašvuođavuogádat	1	0	1	0
 
-virkemiddelsystem	vájkkudimnævvovuogádahka	váikkuhangaskaoapmevuogádat/gaskaoapmevuogádat	1	0	1	0
-virkemiddelsystem	vájkkudimnævvosystiebma	váikkuhangaskaoapmevuogádat/gaskaoapmevuogádat	1	0	1	0
++virkemiddelsystem	vájkkudimnævvovuogádahka	váikkuhangaskaoapmevuogádat/gaskaoapmevuogádat	1	0	1	0
++virkemiddelsystem	vájkkudimnævvosystiebma	váikkuhangaskaoapmevuogádat/gaskaoapmevuogádat	1	0	1	0
 virkemiddelsystem	vájkkudimnævvovuohke	váikkuhangaskaoapmevuogádat/gaskaoapmevuogádat	1	0	1	0
 
-saksbehandlingssystem	ássjegiehtadallamvuogádahka	áššemeannudanvuogádat	5	0	2	0
-saksbehandlingssystem	ássjegiehtadallamsystiebma	áššemeannudanvuogádat	5	0	2	0
++saksbehandlingssystem	ássjegiehtadallamvuogádahka	áššemeannudanvuogádat	5	0	2	0
++saksbehandlingssystem	ássjegiehtadallamsystiebma	áššemeannudanvuogádat	5	0	2	0
 
-utviklingssystem	åvddånahttemvuogádahka	ovddidansystema	1	0	1	0
-utviklingssystem	åvddånahttemsystiebma	ovddidansystema	1	0	1	0
++utviklingssystem	åvddånahttemvuogádahka	ovddidansystema	1	0	1	0
++utviklingssystem	åvddånahttemsystiebma	ovddidansystema	1	0	1	0
 utviklingssystem	åvddånahttemvuohke	ovddidansystema	1	0	1	0
 
-valgnattsystem	válggaidjavuogádahka	válgaidjavuogádat	1	0	1	0
-valgnattsystem	válggaidjasystiebma	válgaidjavuogádat	1	0	1	0
++valgnattsystem	válggaidjavuogádahka	válgaidjavuogádat	1	0	1	0
++valgnattsystem	válggaidjasystiebma	válgaidjavuogádat	1	0	1	0
 valgnattsystem	válggaidjavuohke	válgaidjavuogádat	1	0	1	0
 
-utviklingsforum	åvddånahttemságastallamsadje	ovddidanforum/ovdánahttinforum	9	0	3	0
++utviklingsforum	åvddånahttemságastallamsadje	ovddidanforum/ovdánahttinforum	9	0	3	0
 utviklingsforum	åvddånahttemsadje	ovddidanforum/ovdánahttinforum	9	0	3	0
 
 ekspertorgan	ássjedåbddeorgádna	áššedovdiorgána	3	0	2	0
-ekspertorgan	ássjediehtteorgádna	áššedovdiorgána	3	0	2	0
++ekspertorgan	ássjediehtteorgádna	áššedovdiorgána	3	0	2	0
 
-helseplan	varresvuohtapládna	dearvvašvuođaplána	12	0	7	0
++helseplan	varresvuohtapládna	dearvvašvuođaplána	12	0	7	0
 helseplan	varresvuohtaájggom	dearvvašvuođaplána	12	0	7	0
 
-nasjonalparkplan	álmmukmiehttsepládna	álbmotmeahcceplána	2	0	3	0
++nasjonalparkplan	álmmukmiehttsepládna	álbmotmeahcceplána	2	0	3	0
 nasjonalparkplan	álmmukmiehttseájggom	álbmotmeahcceplána	2	0	3	0
 
-utviklingsplan	åvddånahttempládna	gárgedanplána	6	0	1	0
++utviklingsplan	åvddånahttempládna	gárgedanplána	6	0	1	0
 utviklingsplan	åvddånahttemájggom	gárgedanplána	6	0	1	0
 
-næringsutviklingsplan	æládusåvddånahttempládna	ealáhusovddidanplána	1	0	1	0
++næringsutviklingsplan	æládusåvddånahttempládna	ealáhusovddidanplána	1	0	1	0
 næringsutviklingsplan	æládusåvddånahttemájggom	ealáhusovddidanplána	1	0	1	0
 
-voksenopplæringsplan	ållessjattukåhpaduspládna	rávesolbmuidoahppoplána	1	0	1	0
++voksenopplæringsplan	ållessjattukåhpaduspládna	rávesolbmuidoahppoplána	1	0	1	0
 voksenopplæringsplan	ållessjattukåhpadusájggom	rávesolbmuidoahppoplána	1	0	1	0
 
-velferdsgrunn	álkkádussivva	čálgoágga	1	0	1	0
++velferdsgrunn	álkkádussivva	čálgoágga	1	0	1	0
 velferdsgrunn	álkkádusbåddne	čálgoágga	1	0	1	0
 
 helseinformasjon	varresvuodadiehtojuohkem	dearvvašvuođadiehtu/dearvvašvuođadiehtojuohkin	2	0	1	0
-helseinformasjon	varresvuohtadiehtojuohkem	dearvvašvuođadiehtu/dearvvašvuođadiehtojuohkin	2	0	1	0
++helseinformasjon	varresvuohtadiehto	dearvvašvuođadiehtu/dearvvašvuođadiehtojuohkin	2	0	1	0
 
 velferdspermisjon	álkkádusvirggeloahpe	čálgovirgelohpi	3	0	1	0
-velferdspermisjon	álkkáduspermisjåvnnå	čálgovirgelohpi	3	0	1	0
++velferdspermisjon	álkkáduspermisjåvnnå	čálgovirgelohpi	3	0	1	0
 
 universitetsfellesskap	universitehttasiebrrevuohta	universitehtasearvevuohta	1	0	1	0
-universitetsfellesskap	universitehttaaktisasjvuohta	universitehtasearvevuohta	1	0	1	0
++universitetsfellesskap	universitehttaaktisasjvuohta	universitehtasearvevuohta	1	0	1	0
 
 oppstartsseminar	álggomuddoseminárra	álggahanseminára	2	0	2	0
-oppstartsseminar	álgadusseminárra	álggahanseminára	2	0	2	0
++oppstartsseminar	álgadusseminárra	álggahanseminára	2	0	2	0
 
 ekspertseminar	ássjedåbddeseminárra	áššedovdiseminára	1	0	1	0
-ekspertseminar	ássjediehtteseminárra	áššedovdiseminára	1	0	1	0
++ekspertseminar	ássjediehtteseminárra	áššedovdiseminára	1	0	1	0
 
 næringsfisker	æládusguollebivdde	ealáhusguolásteaddji	1	0	1	0
-næringsfisker	æládusguollár	ealáhusguolásteaddji	1	0	1	0
++næringsfisker	æládusguollár	ealáhusguolásteaddji	1	0	1	0
 
 helseregister	varresvuodaregistar	dearvvašvuođaregisttar	3	0	3	0
-helseregister	varresvuohtaregistar	dearvvašvuođaregisttar	3	0	3	0
++helseregister	varresvuohtaregistar	dearvvašvuođaregisttar	3	0	3	0
 helseregister	varresvuohtalågos	dearvvašvuođaregisttar	3	0	3	0
 
-fangstmønster	væjddagirjos	bivdominsttar	1	0	1	0
++fangstmønster	væjddagirjos	bivdominsttar	1	0	1	0
 fangstmønster	vejdagirjos	bivdominsttar	1	0	1	0
 
-folkerettsrådgiver	álmmukriektárádevadde	álbmotriekteráđđeaddi	1	0	1	0
++folkerettsrådgiver	álmmukriektárádevadde	álbmotriekteráđđeaddi	1	0	1	0
 folkerettsrådgiver	álmmukriektárádediddje	álbmotriekteráđđeaddi	1	0	1	0
 
 næringspris	æládushievedibme	ealáhusbálkkašupmi	1	0	1	0
-næringspris	æládusgudnebálkká	ealáhusbálkkašupmi	1	0	1	0
++næringspris	æládushadde	ealáhusbálkkašupmi	1	0	1	0
 
 eiendomspris	æjggohievedibme	opmodathaddi	1	0	0	0
-eiendomspris	æjggogudnebálkká	opmodathaddi	1	0	0	0
++eiendomspris	æjggohadde	opmodathaddi	1	0	0	0
 
 rettssikkerhetspris	rievtesvuohtasihkarvuohtahievedibme	riektesihkarvuođabálkkašupmi	1	0	1	0
-rettssikkerhetspris	rievtesvuohtasihkarvuohtagudnebálkká	riektesihkarvuođabálkkašupmi	1	0	1	0
++rettssikkerhetspris	rievtesvuohtasihkarvuohtagudnebálkká	riektesihkarvuođabálkkašupmi	1	0	1	0
 
 oppstartsnotat	álggomuddotjála	álggahannotáhta	1	0	1	0
-oppstartsnotat	álgadustjála	álggahannotáhta	1	0	1	0
++oppstartsnotat	álgadustjála	álggahannotáhta	1	0	1	0
 oppstartsnotat	álggomuddonotáhtta	álggahannotáhta	1	0	1	0
 oppstartsnotat	álgadusnotáhtta	álggahannotáhta	1	0	1	0
 
-helsemyndighet	varresvuohtafábmudahka	dearvvašvuođaeiseváldi/dearvvasvuođaeiseváldi	4	0	2	0
++helsemyndighet	varresvuohtaoajválasj	dearvvašvuođaeiseváldi/dearvvasvuođaeiseváldi	4	0	2	0
 helsemyndighet	varresvuohtafábmogisvuohta	dearvvašvuođaeiseváldi/dearvvasvuođaeiseváldi	4	0	2	0
 helsemyndighet	varresvuohtafábmodus	dearvvašvuođaeiseváldi/dearvvasvuođaeiseváldi	4	0	2	0
 
-valgmyndighet	válggafábmudahka	válgaeiseváldi/válgaváldi	5	0	1	0
++valgmyndighet	válggaoajválasj	válgaeiseváldi/válgaváldi	5	0	1	0
 valgmyndighet	válggafábmogisvuohta	válgaeiseváldi/válgaváldi	5	0	1	0
 
-sikkerhetsmyndighet	vissesvuohtafábmudahka	sihkkarvuođaváldi/sihkkarvuođaeiseváldi	2	0	1	0
++sikkerhetsmyndighet	oaggásvuohtaoajválasj	sihkkarvuođaváldi/sihkkarvuođaeiseváldi	2	0	1	0
 sikkerhetsmyndighet	tjårggisvuohtafábmudahka	sihkkarvuođaváldi/sihkkarvuođaeiseváldi	2	0	1	0
 sikkerhetsmyndighet	vissesvuohtafábmogisvuohta	sihkkarvuođaváldi/sihkkarvuođaeiseváldi	2	0	1	0
 sikkerhetsmyndighet	tjårggisvuohtafábmogisvuohta	sihkkarvuođaváldi/sihkkarvuođaeiseváldi	2	0	1	0
@@ -206,16 +207,16 @@ sikkerhetsmyndighet	vissesvuohtafábmodus	sihkkarvuođaváldi/sihkkarvuođaeisev
 sikkerhetsmyndighet	tjårggisvuohtafábmodus	sihkkarvuođaváldi/sihkkarvuođaeiseváldi	2	0	1	0
 
 sikkerhetsenhet	vissesvuodaavtadahka	sihkkarvuođaovttadat	1	0	1	0
-sikkerhetsenhet	vissesvuohtaavtadahka	sihkkarvuođaovttadat	1	0	1	0
++sikkerhetsenhet	oaggásvuohtaavtadahka	sihkkarvuođaovttadat	1	0	1	0
 sikkerhetsenhet	vissesvuodaavtadak	sihkkarvuođaovttadat	1	0	1	0
 
-oljeinntekt	ulljoboahto	oljoboahtu/oljodienas/oljodinestus/oljosisaboahtu	4	0	1	0
++oljeinntekt	ulljoboahto	oljoboahtu/oljodienas/oljodinestus/oljosisaboahtu	4	0	1	0
 oljeinntekt	uljoboahto	oljoboahtu/oljodienas/oljodinestus/oljosisaboahtu	4	0	1	0
-oljeinntekt	ulljosisboahto	oljoboahtu/oljodienas/oljodinestus/oljosisaboahtu	4	0	1	0
++oljeinntekt	ulljosisboahto	oljoboahtu/oljodienas/oljodinestus/oljosisaboahtu	4	0	1	0
 oljeinntekt	uljosisboahto	oljoboahtu/oljodienas/oljodinestus/oljosisaboahtu	4	0	1	0
 
-forhandlingspart	sjiehtadallamabiel	šiehtadusoasálaš/šiehtadallanbealli/šiehtadanbealli	7	0	2	0
++forhandlingspart	sjiehtadallamabielle	šiehtadusoasálaš/šiehtadallanbealli/šiehtadanbealli	7	0	2	0
 forhandlingspart	sjiehtadallambiel	šiehtadusoasálaš/šiehtadallanbealli/šiehtadanbealli	7	0	2	0
 
-helserett	varresvuodarievtes	dearvvasvuođariekti	1	0	1	0
++helserett	varresvuodariektá	dearvvasvuođariekti	1	0	1	0
 helserett	varresvuohtarievtes	dearvvasvuođariekti	1	0	1	0
