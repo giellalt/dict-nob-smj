@@ -72049,7 +72049,7055 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">etableringstilskudd</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuododimdoarjja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">valutamarked</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">valuhttámárnán</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">etableringssted</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuododimsadje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helsesamarbeid</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtaaktisasjbarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">radioside</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">radiobielle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">etableringspakke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuododimpáhkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">virkemiddelramme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vájkkudimnævvorámma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">semesteremne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">semesterfáhka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">virkemiddelkommune</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vájkkudimnævvosuohkan</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">næringsanalyse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æládusanalyjssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">prioriteringsliste</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuorodimlissta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">etableringsstøtte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuododimoatsodibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bedriftsstøtte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vidnudakoatsodibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilpasningsmåte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">hiebadimvuohke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">næringssammenheng</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æládusaktijvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">visumbehandling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">visumgiehtadallam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">hjerneutvikling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuojŋamåvddånahttem</t>
+        <t pos="N">vuojŋamåvddånibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">velferdsutvikling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álkkádusåvddånibme</t>
+        <t pos="N">álkkádusåvddånahttem</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bedriftsutvikling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vidnudahkaåvddånibme</t>
+        <t pos="N">vidnudahkaåvddånahttem</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">erfaringsutveksling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vásáduslånudibme</t>
+        <t pos="N">vásáduslånudallam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vurderingsordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">árvustallamårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forsikringsordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tjårggimårnik</t>
+        <t pos="N">tjårggidusásadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">oppstartsbevilgning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álgadusruhtajuollodibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helseforskning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtadutkam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">lærlingvurdering</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">viddnooahppeárvustallam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helsepolitikk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtapolitihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">referanseverk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">referánssatjoahkke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">stiftelseskapital</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuododusruhtaåbmudahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utviklingskapital</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånahttemruhtaåbmudahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ekspertpanel</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ássjediehttepaniella</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helsekapittel</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtakapihtal</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helsesystem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtasystiebma</t>
+        <t pos="N">varresvuohtavuogádahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">virkemiddelsystem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vájkkudimnævvovuogádahka</t>
+        <t pos="N">vájkkudimnævvosystiebma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">saksbehandlingssystem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ássjegiehtadallamvuogádahka</t>
+        <t pos="N">ássjegiehtadallamsystiebma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utviklingssystem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånahttemsystiebma</t>
+        <t pos="N">åvddånahttemvuogádahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">valgnattsystem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">válggaidjavuogádahka</t>
+        <t pos="N">válggaidjasystiebma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utviklingsforum</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånahttemságastallamsadje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ekspertorgan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ássjediehtteorgádna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helseplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtapládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">nasjonalparkplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álmmukmiehttsepládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utviklingsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånahttempládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">næringsutviklingsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æládusåvddånahttempládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">voksenopplæringsplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ållessjattukåhpaduspládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">velferdsgrunn</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álkkádussivva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helseinformasjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtadiehto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">velferdspermisjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álkkáduspermisjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">universitetsfellesskap</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">universitehttaaktisasjvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">oppstartsseminar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álgadusseminárra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ekspertseminar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ássjediehtteseminárra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">næringsfisker</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æládusguollár</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helseregister</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtaregistar</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fangstmønster</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">væjddagirjos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">folkerettsrådgiver</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álmmukriektárádevadde</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">næringspris</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æládushadde</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">eiendomspris</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æjggohadde</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettssikkerhetspris</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">rievtesvuohtasihkarvuohtagudnebálkká</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">oppstartsnotat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álgadustjála</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helsemyndighet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtaoajválasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">valgmyndighet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">válggaoajválasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sikkerhetsmyndighet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oaggásvuohtaoajválasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sikkerhetsenhet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oaggásvuohtaavtadahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">oljeinntekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ulljosisboahto</t>
+        <t pos="N">ulljoboahto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forhandlingspart</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">sjiehtadallamabielle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helserett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuodariektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">lærlingtilskudd</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">viddnooahppedoarjja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">verdipapirmarked</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">árvvopáhpermárnán</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">verdensmarked</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">væráltmárnán</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">trafikksikkerhetsarbeid</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">trafihkkaoaggásvuohtabarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kulturskoletilbud</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">kultuvrraskåvllåfálaldahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utviklingslinje</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånahttemlinnja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tradisjonsmateriale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">árbbedáhpemateriálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tollavtale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">toalljasjiehtadibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">eierrolle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æjggomroalla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">yrkeshøyskole</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ámmátallaskåvllå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">religionstime</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åsskotijmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">trafikkforbindelse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">trafihkkaaktijvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">næringsstiftelse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æládusvuododus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bostedsadresse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">årojbájkkeadræssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">regjeringsskifte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ráddidusmålssom</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">underskriftsliste</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuollájtjállemlissta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ferdselsmåte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">mannulakvuohke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">lærerutdanningsfag</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åhpadiddjeåhpadusfáhka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kystriksveg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">merraguovllorijkkagæjnno</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">formidlingsopplegg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånbuktemgárvvidus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">næringsmelding</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æládusdiedádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">næringsforhandling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æládussjiehtadallam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">skoleinndeling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">skåvllåjuohkem</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">grunnskoleavdeling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuodoskåvllååssudahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">saksbehandlerstilling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ássjegiehtadallevirgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">skolekonsertordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">skåvllåkonsærttaásadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helselovgivning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtaláhkaásadibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">skogsatsing</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuobmeåvdedibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettssikkerhetsgaranti</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektáoaggásvuohtabuvtaduodastus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">grunnskoletiltak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuodoskåvllådoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helsetiltak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtadoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">folkehelsetiltak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álmmukvarresvuohtadoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">næringsutviklingstiltak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æládusåvddånahttemdoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">revitaliseringstiltak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ælládahttemdoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">trafikksikkerhetstiltak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">trafihkkaoaggásvuohtadoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">småskolepedagogikk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">smávskåvllåpedagogihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">virkemiddelpolitikk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vájkkudimnævvopolitihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">eiendomspolitikk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æjggompolitihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">verdensbank</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">væráltbáŋŋka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utviklingsmodell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånahttemmodælla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">hjerneutviklingsprogram</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuojŋamåvddånahttemprográmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">valgforskningsprogram</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">válggadutkamprográmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">næringseiendom</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æládusæjggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helsereform</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtaådåstus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">velferdsreform</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álkkádusådåstus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">valgorgan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">válggaorgádna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">eierorgan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æjgátorgádna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">beitebruksplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guohtomadnempládna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">småskoletrinn</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">smávskåvllåtjuorgga</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">urfolksbakgrunn</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álggoálmmukduogos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helseorganisasjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtaorganisasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helsestasjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtastasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helseinstitusjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtainstitusjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">byrådsleder</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">stádarádejådediddje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">småbåtfisker</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">smávvanntsaguollár</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">velferdsdirektør</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álkkádusdirekterra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">formuespris</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åbmudahkahievedibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">yrkespraksis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">virggehárjjidallam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utviklingskurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånahttemkurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">saksbehandlingsprosess</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ássjegiehtadallamprosæssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">observatørstatus</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">váksjárstáhtus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">virkemiddelapparat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vájkkudimnævvoapparáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">velferdsdirektorat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álkkádusdirektoráhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">velferdsstat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álkkádusstáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">yrkesmulighet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ámmátdármme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">valgfrihet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">válggafriddjavuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">saksbehandlingskapasitet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ássjegiehtadallammáhtukvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">folkehelseforskrift</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álmmukvarresvuohtanjuolgadustjála</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utlendingsforskrift</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ålggorijkaknjuolgadustjála</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utviklingstakt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånahttemtákta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">velferdsprosjekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álkkádusprosjækta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">formidlingsprosjekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånbuktemprosjækta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sikkerhetsaspekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oaggásvuohtaaspækta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">helsedepartement</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">varresvuohtadepartemænnta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">næringstransport</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æládussáhtto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">skiprest</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">sabekbáhppa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">saksbehandlingsfrist</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ássjegiehtadallamájggemierre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">hagebruksvekst</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">hágánadnemåvddånibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">virkemiddelpost</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vájkkudimnævvopoassta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">skoginitiativ</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">miehttsedåjmalasjvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">planinitiativ</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">pládnadåjmalasjvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utviklingsalternativ</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånahttemalternatijvva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">grunnskolesamarbeid</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuodoskåvllåaktisasjbarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">grunnskoleråd</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuodoskåvllåráde</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">våpenmerke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">værjjomærkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forværelse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddåladnja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">hefte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">girjásj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">næringsavdeling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æládusåssudahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">konsekvensutredning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vájkudusguoradallam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">produksjonspremieordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">buvtadusvuojttoásadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">velferdsordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álkkádusårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettferdighetsbetraktning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektáárvustallam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ressursforvaltning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ressurssaháldadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sameloven</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">sámeláhka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">grunnskolealder</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuodoskåvllåáldar</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fornorskingsinstruks</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dárojduhttembagádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettighetsaspekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektáaspækta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">formidlingsmåte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gaskostimvuohke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">resultatstyringssystem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">boadosstivrrimsystiebma</t>
+        <t pos="N">boadosstivrrimvuogádahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">familiebakgrunn</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">familljaduogos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">telt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tællta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">genser</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gensar</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">orkester</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">orkestar</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fondssøknad</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">foanndaåhtsåmus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ekspropriasjonssøknad</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ekspropriasjåvnnååhtsåmus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dispensasjonssøknad</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dispensasjåvnnååhtsåmus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">overgangsstønad</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gasskamuddoruhtadoarjja</t>
+        <t pos="N">sirddemruhttadoarjja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sløydverksted</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duodjedivudahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">klimaarbeid</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dálkádahkabarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reguleringsplanarbeid</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">regulierimpládnabarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fornorskningsarbeid</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dárojduhttembarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentasjonsarbeid</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dokumentasjåvnnåbarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">revisjonsarbeid</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dárkastusbarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tjenesteinnhold</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dievnnosisadno</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">klimaforhold</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dálkádahkavijor</t>
+        <t pos="N">dálkádahkadille</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">spenningsforhold</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">geldulasjvuohtavijor</t>
+        <t pos="N">geldulasjvuodadille</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">avgiftsforhold</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">divutdille</t>
+        <t pos="N">divudavijor</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">revisjonsstandard</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dárkastusstandárdda</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fagskoletilbud</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fáhkaskåvllåfálaldahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">transporttilbud</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fievrrofálaldahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vinterskade</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dálvvevahágahttem</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentmengde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dokumænntavaljesvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">konsesjonsrunde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doajmmaloahpevuorro</t>
+        <t pos="N">konsesjåvnnåvuorro</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">eksamensperiode</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">eksábmaájgge</t>
+        <t pos="N">eksábmagávdda</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">konsesjonsperiode</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doajmmaloahpegávdda</t>
+        <t pos="N">doajmmaloahpeájgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reguleringsmetode</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">regulierimvuohke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vinterbeiteområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dálvveguohtomguovllo</t>
+        <t pos="N">dálvveguohtomsadje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">formidlingsområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gaskostimsuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkeslege</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fylkkadåktår</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordleie</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednamlájggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fornorskingslinje</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dárojduhttemlinnja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kraftlinje</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fábmolinnja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">arbeidsstyrke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">barggevehka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggsavtale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddesjiehtadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kraftavtale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fábmosjiehtadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordgamme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednamgábmá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">følgegruppe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tjuovosjuogos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">familiegruppe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">familljajuogos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunstnergruppe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dájddárjuogos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ekstrabarriere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddetsagge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordsalgstyre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednamvuobddemstivrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">meldingsfase</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">diedádusmuddo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">redaksjonsledelse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåjmadusjådedibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettledelse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bagádallam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">felleskapsfølelse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">aktisasjvuohtadåvddå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">værbeskyttelse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dálkkevárjjo</t>
+        <t pos="N">dálkkesuodjalibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landbrukskonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggokonferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordbruksinteresse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggoberustibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fergetjeneste</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">færjjodievnno</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støttetjeneste</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doarjjadievnno</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">økonomitjeneste</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ekonomiddjadievnno</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumstjeneste</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkádievnno</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">transporttjeneste</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fievrrodievnno</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fritidshytte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">asstoájggehyhtto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">driftshytte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doajmmahyhtto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">festivalstøtte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">festivállaruhtadoarjja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sekretariatsstøtte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåjmadahkadoarjja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">trekkoppgave</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gæsosdahkamus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">planoppgave</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">pládnadahkamus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">formingsoppgave</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">hábbmimdahkamus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">eksamensoppgave</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">eksábmadahkamus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sekretariatsoppgave</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåjmadahkadahkamus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesutdanningssjef</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fylkkaåhpadusoajvve</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonstreff</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">diehtoæjvvalibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">redskapslag</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ræjddosiebrre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">satsingsforslag</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuorodimoajvvadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sidevassdrag</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">sijddotjáhtjádahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">serviceanlegg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dievnastusrustik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsanlegg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkárustik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsbygg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkátsiekkadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forholdsvalg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dilleválgga</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fagutvalg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fáhkanammadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">grunneierutvalg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednamæjgátnammadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">likestillingsutvalg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dássádusnammadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsutvalg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkánammadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">finansutvalg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">finánssanammadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">revisjonsutvalg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dárkastusnammadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunnskapstilfang</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">diehtoboanndudahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumssammenheng</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkáaktijvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggspoeng</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddepoæŋŋa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsmelding</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkádiedádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">familieplanlegging</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">familljaplánim</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesplanlegging</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fylkkaplánim</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">møtebehandling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tjåhkanibmegiehtadallam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">myndighetshandling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fábmodusdoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">funksjonfordeling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">funksjåvnnåjuohko</t>
+        <t pos="N">funksjåvnnåjuogadibme</t>
+        <t pos="N">doajmmajuogadibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">arbeidsmarkedsutvikling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">barggomárnánåvddånahttem</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsutvikling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkáåvddånibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ekspedisjonssjefsstilling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ekspedisjåvnnåjådediddjevirgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">familiesamling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">familljatjåhkanibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">erfaringsutveksling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vásáduslånudallam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsutredning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkátjielggidus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støtteordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doarjjaårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">festivalstøtteordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">festiválladoarjjaårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumstilskuddsordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkáårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">overgangsordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gasskamuddoårnik</t>
+        <t pos="N">sirddemårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mottaksordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duostudahkaårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentasjonsordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dokumentasjåvnnåårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tjenestepensjonsordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dievnastuspensjåvnnåårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landsforening</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">rijkkasiebrre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reinforskning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">boatsojdutkam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landbruksforskning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggodutkam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettsforskning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektádutkam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kreftforskning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bårredávddadutkam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">doktorgradsøkning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doktorgrádalassánibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tanntannlegeutdanning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bádnedåktåråhpadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fagskoleutdanning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fáhkaskåvllååhpadus</t>
+        <t pos="N">fáhkaskåvllåoahppo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordbruksutdanning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggoåhpadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">temaundervisning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tiebmáåhpadibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landbruksundervisning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggoåhpadibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energiløsning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">energiddjatjoavdos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordforvaltning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednamháldadibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordbruksforvaltning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggoháldadibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsforvaltning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkáháldadibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vinterforsyning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dálvvebiergas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesforsyning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fylkkabiergas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">planendring</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">pládnarievddam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">avgiftsendring</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">divudarievddam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">behovsendring</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dárbborievddam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunnskapsutfordring</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">máhtudakhásstalus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilstandsvurdering</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dilleárvustallam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bevisvurdering</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duodastusárvustallam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunnskapsoppsummering</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">máhtudaktjoahkkájgæsos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">økonomistyring</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ekonomiddjastivrrim</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fagbrevopplæring</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fáhkaduodastusåhpadibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">myndighetsoverføring</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fábmodussirddem</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumssatsing</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkáåvdedibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vindkraftsatsing</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bieggafábmovuorodibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vindkraftenergi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bieggafábmoenergiddja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">genterapi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giednaterapiddja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landbruksindustri</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambargoindustriddja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vindkraftindustri</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bieggafábmoindustriddja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettsgaranti</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektábuvtaduodastus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordskiftesak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednamjuohkoássje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landbrukssak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggoássje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkestingsvedtak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fylkadiggemærrádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reguleringstiltak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">regulierimdoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">servicepolitikk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dievnnopolitihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">asylpolitikk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dårvvopolitihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reguleringspolitikk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">regulierimpolitihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumspolitikk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkápolitihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunnskapsbank</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">máhttobáŋŋka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">høyskolenettverk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">allaskåvllåværmádahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">samarbeidsnettverk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">aktisasjbarggoværmádahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">allmenningsbruk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">aktisasjadnem</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">redskapsbruk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ræjddobarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">møtespråk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tjåhkanimgiella</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunnskapskapital</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">máhtudahkakapitálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">likestillingsmiddel</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dássádusnævvo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tiltaksmiddel</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doajmmanævvo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentasjonsmiddel</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dokumentasjåvnnåruhta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentasjonsdel</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dokumentasjåvnnåoasse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forholdstall</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dilletálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reguleringsmodell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">regulierimmodælla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggsmateriell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddemateriálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">pengespill</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">biednikspella</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggsprotokoll</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddebievddegirjje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">økonomikontroll</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ekonomiddjadárkestibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">resultatkontroll</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">boadosdárkestibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landbruksformål</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggoulmme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordbruksformål</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggoulmme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentasjonsformål</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dokumentasjåvnnåulmme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">behandlingsmål</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giehtadallamulmme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">klimaspørsmål</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dálkádahkagatjálvis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">opplysningsspørsmål</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">diehtogatjálvis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettskrivningsspørsmål</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duollatjállemgatjálvis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordbruksspørsmål</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggogatjálvis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landrettighetsspørsmål</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednamriektágatjálvis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">likestillingsteam</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dássádusjuogos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">konsekvensutredningsprogram</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">boadostjielggidusprográmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentasjonsprogram</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dokumentasjåvnnåprográmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støttesystem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doarjjasystiebma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reguleringssystem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">regulierimsystiebma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">avgiftssystem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">divudasystiebma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettssystem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektásystiebma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reinsykdom</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">boatsojdávdda</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordeiendom</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednamæjggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">handlingsrom</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doajmmavejulasjvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">formidlingsform</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gaskostimvuohke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reguleringsform</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">regulierimvuohke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">transportform</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fievrrovuohke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">doktorgradsstudium</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåktårgrádaåhpadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsforum</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkáságastallamsadje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesvåpen</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fylkkaværjjo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reinsogn</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">boatsojsuohkan</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fornorskningsmann</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dárojduhttemålmåj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kjøkkenregion</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gievkanregiåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsregion</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkáguovllo</t>
+        <t pos="N">dávvervuorkkáregiåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">domstoladministrasjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duobbmoståvllåháldadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landbruksadministrasjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggoháldadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsadministrasjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkáháldadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ørretkonsesjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dábmukkonsesjåvnnå</t>
+        <t pos="N">dábmukdoajmmaloahpe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">domstolkommisjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duobbmoståvllåkommisjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">domstolskommisjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duobbmoståvllåkommisjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sekretariatsfunksjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåjmadahkafunksjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tjenesteproduksjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dievnnobuvtadibme</t>
+        <t pos="N">dievnnobuvtadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsinstitusjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkáinstitusjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordvern</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednamasuodjalibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">finanstilsyn</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">finánssabærrájgæhttjo</t>
+        <t pos="N">finánssabærrájgæhttje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energiselskap</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">energiddjavidnudahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesselskap</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fylkkavidnudahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilskuddsbeløp</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doarjjaruhta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vindkraftseminar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bieggafábmoseminárra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsansvar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkáåvdåsvásstádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">redaksjonsansvar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåjmadusåvdåsvásstádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">redaksjonsmedarbeider</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåjmadusbarggoguojmme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">driftsmedarbeider</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doajmmabarggoguojmme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">filmarbeider</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">filmmabargge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">møtekalender</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tjåhkanimrijmmo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reguleringslager</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">regulierimvuorkudahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">transportveier</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fievrrovæddja</t>
+        <t pos="N">fievrrogæjnno</t>
+        <t pos="N">fievrrorahte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">møtedeltaker</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tjåhkanimoassálasste</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ekstranummer</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddenummar</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonstjener</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">diehtodievnár</t>
+        <t pos="N">diehtojuohkemdievnár</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggslærer</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddeåhpadiddje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vårsemester</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gidájahkebielle</t>
+        <t pos="N">gidásemester</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energiminister</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">energiddjaministar</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">likestillingsminister</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dássádusministar</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landbruksminister</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggoministar</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">driftsmønster</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doajmmavuohke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumskontor</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkákontåvrrå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">familietur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">familljamanno</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">skitur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tjuojggammanno</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mottaksstruktur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duostudakstruktuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fabeldyr</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fábeljudos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landbruksutstyr</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggovædtsak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">eksistensvilkår</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">eksistænssaækto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordbruksoppgjør</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggoboahto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">energidirektør</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">energiddjadirekterra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fullpris</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dievashadde</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettsikkerhetspris</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektáoaggásvuohtaguddnebálkká</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">servicepraksis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dievnastusdáhpe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">støttepraksis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doarjjadáhpe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettspraksis</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektádáhpe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">timeressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tijmmaressurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sekretariatsressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåjmadahkaresurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">møteresultat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tjåhkanimboados</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tolkningsresultat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dádjadusboados</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordsalgsmyndighet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednamvuobddemoajválasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landbruksmyndighet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambargooajválasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">møteoffentlighet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tjåhkanimalmulasjvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reguleringsmulighet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">regulierimvejulasjvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ressursrettighet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ressurssariektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">møtevirksomhet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tjåhkanimdoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentasjonsvirksomhet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dokumentasjåvnnådoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">driftsenhet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doajmmaavtadahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">grunnpakkeavgift</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuodopáhkkadivut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">arealavgift</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">areálladivut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordbruksdrift</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggodoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentasjonsprosjekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dokumentasjåvnnåprosjækta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vindkraftprosjekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bieggafábmoprosjækta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggsinntekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddeboahto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">overgangsdistrikt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gasskamuddoguovllo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilbudstidspunkt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fálaldahkaájgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landbruksprodukt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggobuvta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordbruksprodukt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggobuvta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">landbruksbruksprodukt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednambarggoadnembuvta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tradisjonsprodukt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">árbbedáhpebuvta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">spenningsfelt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">geldulasjvuohtasuorgga</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">praksisfelt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dáhpesuorgge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkestingsrepresentant</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fylkadiggeájras</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">møterett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tjåhkanimriektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">grunneierrett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednamæjgátriektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ekspropriasjonsrett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ekspropriasjåvnnåriektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">initiativrett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåjmalasjvuohtariektá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggsavsnitt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddeoasse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">beviskrav</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duodastusgájbbádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">eksamenskrav</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">eksábmagájbbádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentasjonskrav</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dokumentasjåvnnågájbbádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reguleringsbrev</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">regulierimgirjje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">jordskiftelov</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednamjuohkoláhka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">domstollov</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duobbmoståvllåláhka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">revisorlov</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dárkastiddjeláhka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">finanslov</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">finánssaláhka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">foretakspensjonslov</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåjmadahkapensjåvnnåláhka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">driftskjøretøy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doajmmavuoján</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonsverktøy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">diehtojuohkemvædtsak</t>
+        <t pos="N">diehtovædtsak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tjenestenivå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dievnastusdásse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">doktorgradsnivå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåktårgrádadásse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">myndighetsnivå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fábmudahkadásse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkestingskomité</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fylkadiggenammadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">redaksjonskomité</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåjmadusnammadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">møtearena</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tjåhkanimariedná</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kraftoverskudd</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fábmoruhtabáhtso</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumssamarbeid</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkáaktisasjbarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">menneskerettighetsarbeid</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ulmusjrievtesvuohtabarggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">hushold</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">goahtesujtto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">nordland</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">Nordlánnda</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggsstipend</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddestipænnda</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">utdanningsstipend</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åhpadusstipænnda</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fornorskningssynd</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dárojduhttemsuddo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettsstandard</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektástandárdda</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fastlegetilbud</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">stuovesdåktårfálaldahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bokbusstilbud</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">girjjebussafálaldahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">nøkkelområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tjåvdabájkke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">husklynge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">goahtetjoahkke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fylkesveiferge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fylkkavæddjafærjjo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">møteserie</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tjåhkanimrájddo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fjordlinje</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuodnalinnja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">genmateriale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giednamateriálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsmateriale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkámateriálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentasjonsmateriale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dokumentasjåvnnåmateriálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tradisjonsmateriale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dáhpemateriálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkrolle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giellaroalla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">steintavle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gierggetábllo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">pasientgruppe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">pasiænntajuogos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">håndsnøre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giehtasnuorri</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">overgangsfase</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gasskamuddodásse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">produksjonsfase</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">buvtadusdásse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">startfase</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álgadusdásse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">etatsledelse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">etáhttaoajválasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tolkningsuttalelse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dádjadusjavllamus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">menneskerettighetsbestemmelse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">almasjriektámærrádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">avgiftsbestemmelse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">divutmærrádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fellesbetegnelse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">aktisasjtjielggidus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">klimakonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dálkádahkakonferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">erfaringskonferanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vásáduskonferánssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">handlingskompetanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doajmmamáhtudahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">distriktsgrense</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guovllorádjá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">planinteresse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">pládnaberustibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">grunneierinteresse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ednamæjgátberustibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kraftgate</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fábmogahttun</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggskvote</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddekvåvttå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bedriftsstøtte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vidnudahkadoarjja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">temamøte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">tiebmátjåhkanibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kunststoff</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dájddaássje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">eksamensfag</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">eksábmafáhka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">transportplanlegging</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fievrroplánim</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">pasientbehandling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">pasiænntadálkudibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggsavdeling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddeåssudahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">serviceinnstilling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dievnastusárvvalus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sykdomsspredning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávddagæjvvanibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fastlegeordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">stuovesdåktårásadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">legeforening</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåktårsiebrre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">festivalforening</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">festivállasiebrre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">reiseregning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">mannorieknik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsbygning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkátsiekkadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">legedekning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåktårfálaldahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">lokalsamfunnsforskning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bájkálasjsebrudakguoradallam</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">værovervåkning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dálkkeváksjudibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">planløsning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">pládnatjoavdos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggsetning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddegárgadis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggssetning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddegárgadis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettssetning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektágárgadis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">klimaforutsetning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dálkádahkaækto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">arealforvaltning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">areállaháldadibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kraftforsyning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fábmobiergas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilgangsstyring</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bessamstivrrim</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">etatsstyring</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">etáhttastivrrim</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bevisføring</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duodastusåvddånbuktem</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">symbolverdi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">symbåvllåárvvo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ekspropriasjonssak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ekspropriasjåvnnåássje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">klimavedtak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dálkádakmærrádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ekspropriasjonsvedtak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ekspropriasjåvnnåmærrádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fornorskingspolitikk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dárojduhttempolitihkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettstolk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektádålkkå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">husbank</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">goahtebáŋŋka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kvinnenettverk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">nissunværmádahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">urfolksnettverk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álggoálmmukværmádahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsnettverk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkáværmádahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">redskapsspråk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ræjddogiella</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">arbeidstittel</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">barggonamma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">virksomhetsmodell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåjmadusmodælla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">servicepersonell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dievnastusbargge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">menneskerettighetsspørsmål</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">almasjrievtesvuohtagatjálvis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kampflyprogram</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doarrogirddeprográmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">hovedproblem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">oajvvegássjelisvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">beiteproblem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guohtomgássjelisvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sysselsettingsproblem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">barggogássjelisvuohta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fastlegesystem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fásstadåktårsystiebma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">legestudium</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dåktåråhpadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">serviceorgan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dievnastusorgádna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggskvalifikasjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddekvalifikasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mottaksstasjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duostudahkastasjåvnnå</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">maktsituasjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">fábmogisvuohtadille</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">parallellnavn</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">parallellnamma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsvitenskap</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkádieda</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">samfunnsplanlegger</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">aktisasjvuohtaplánijiddje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">servicesenter</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dievnastusguovdásj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">likestillingssenter</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dássádusguovdásj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">finansminister</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">finánssaministar</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">husmur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">goahtemuvrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettsgebyr</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektámákso</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kjøkkenutstyr</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gievkanvædtsak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sommerhalvår</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giessejahkebielle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kommunikasjonsdirektør</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guládallamdirekterra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">nettverkskurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">værmádahkakurssa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">servicearbeidsplass</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dievnastusbarggosadje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">eksamenssekretariat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">eksábmadåjmadahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vintermat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dálvvebiebbmo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">mottaksapparat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duostudahkaapparáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">avgiftsdirektorat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">divutdirektoráhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">avgiftsetat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">divutetáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">valgmyndighet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">válggaoajválasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">amatørteatervirksomhet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">amaterrateáhtardoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kampflyvirksomhet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doarrogirddedoajmma</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">museumsenhet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dávvervuorkkáavtadahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentasjonsenhet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dokumentasjåvnnåavtadahka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">beitekvalitet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guohtomkvalitæhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">konsesjonsavgift</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">doajmmaloahpedivut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">satsingsprosjekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">vuorodimprosjækta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilstandsrapport</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dillediedádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggsrapport</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddediedádus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">rettstvist</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">riektárijddo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tilleggstekst</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duoddetæksta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">klimagevinst</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dálkádahkavuojtto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tannsett</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">báne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">servicebehov</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dievnastusdárbbo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">husbehov</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">goahtedárbbo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">planverktøy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">pládnavædtsak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dokumentasjonsverktøy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dokumentasjåvnnåvædtsak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">servicenivå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dievnastusdásse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">behandlingsnivå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giehtadallamdásse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">ekspertkomité</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ássjedåbddenammadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">spesialtegn</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">sierramærkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kvalitetsindikator</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">kvalitæhttamærkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">identitetsmarkør</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">identitiehttamærkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">opprinnelsesmerking</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">álggomierkkim</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">skatteinntekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">værroboahto</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">formannskap</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">åvddånammadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språklig utvikling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">gielalasj åvddånibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">merkevarebygging</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">mærkkadávveråvddånahttem</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">grasproduksjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">rássebuvtadus</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">plate</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">skierro</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">åre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">ájrro</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fjellside</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">luohkka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forelder</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">æjgát</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dorg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">duorggo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">arne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">árran</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kommunikasjonsverktøy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guládallamvædtsak</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">døden</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">jábmem</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">overflate</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bajusj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">materiale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">materiálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">referat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">referáhtta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">åker</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bælldo</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
+håndsnøre ::: duorggo
+tilleggsavtale ::: duoddebarggosjiehtadus
+tilleggsavtale ::: duottesjiehtadus
+tilleggsavtale ::: duoddelihtudibme
+tilleggsavtale ::: duottebarggosjiehtadus
+tilleggsavtale ::: duoddesjiehtadibme
+tilleggsavtale ::: duottesjiehtadibme
+tilleggsavtale ::: duottelihtudibme
+eksistensvilkår ::: existensadille
+eksistensvilkår ::: eksistensadille
+eksistensvilkår ::: eksistænssaækto
+naturelement ::: luonndobiel
+naturelement ::: luondobiel
+beviskrav ::: duodastusrávkalvis
+kunnskapsoppsummering ::: doajmmatjoahkkájgiessem
+kunnskapsoppsummering ::: diehtotjoahkkájgæsos
+kunnskapsoppsummering ::: doajmmatjoahkkájgæsos
+dokumentasjonsvirksomhet ::: dokumentasjåvnnåbarggo
+energiutbygging ::: energiddjahuksen
+helsesamarbeid ::: varresvuodaaktisasjbarggo
+forsang ::: åvddålávllo
+sekretariatsressurs ::: dåjmadahkaresurssaháldadus
+kunnskapsutfordring ::: doajmmahásstalus
+fagutvalg ::: fáhkajuohko
+dokumentasjonsprosjekt ::: dokumentasjåvnnååvddånahttemprosjækta
+tilleggsinntekt ::: duottesisboahto
+tilleggsinntekt ::: duoddesisboahto
+tilleggsinntekt ::: duotteboahto
+museumssatsing ::: dávvervuorkkádoajmma
+samarbeidsnettverk ::: aktisasjværmádahka
+landbruksforskning ::: ednamaguoradallam
+landbruksforskning ::: ednamåtsådibme
+dokumentasjonsformål ::: dokumentasjåvnnåájggomus
+tanntannlegeutdanning ::: bádnebádnedåktåroahppo
+følgegruppe ::: filkajuohko
+følgegruppe ::: filkkajuohko
+følgegruppe ::: filkabarggojuohko
+følgegruppe ::: filkajuogos
+følgegruppe ::: filkabarggojuogos
+følgegruppe ::: filkkabarggojuogos
+praksisbrev ::: dáhpegirjje
+museumsutredning ::: dávvervuorkkáguoradallam
+museumsutredning ::: dávvervuorkkátjielgadus
+museumsutredning ::: dávvervuorkkáguoradus
+jordeiendom ::: ednamåbmudahka
+jordeiendom ::: ednambarggoåbmudahka
+dokumentasjonsprogram ::: dokumentasjåvnnååvddånahttemprográmma
+vinterforsyning ::: dálvvevalástallambiergas
+fondssøknad ::: foanndaåhtsåm
+doktorgradsstudium ::: doktorgrádaåhpadus
+privilegium ::: åvddårievtesvuohta
+privilegium ::: åvddåmunne
+tjenestenivå ::: dievnnodásse
+jordbruksoppgjør ::: ednambargoboahto
+jordbruksoppgjør ::: ednamaboahto
+jordbruksoppgjør ::: ednamboahto
+klimaforhold ::: dálkádahkavidjur
+museumsanlegg ::: dávvervuorkkáásadus
+filmarbeider ::: filmabargge
+revisjonsarbeid ::: dárkastusåvddånahttembarggo
+revisjonsarbeid ::: dárkastiddjeåvddånahttembarggo
+revisjonsarbeid ::: dárkastuspládnabarggo
+revisjonsarbeid ::: dárkastusbálkká
+revisjonsarbeid ::: dárkastiddjepládnabarggo
+revisjonsarbeid ::: dárkastiddjebarggo
+revisjonsarbeid ::: dárkastusdoajmma
+revisjonsarbeid ::: dárkastiddjedoajmma
+revisjonsarbeid ::: dárkastiddjebálkká
+værbeskyttelse ::: dálkkesuodjalus
+værbeskyttelse ::: dálkkevárjjalibme
+reguleringsmetode ::: dulvvadimevuohke
+temaundervisning ::: fáddáoahppo
+vindkraftindustri ::: bieggafábmofábmo
+dokumentasjonsdel ::: dokumentasjåvnnåguovllo
+funksjonfordeling ::: doajmmajuollodibme
+funksjonfordeling ::: funksjåvnnåjuollodibme
+planoppgave ::: dássebarggo
+planoppgave ::: dássediedádus
+planoppgave ::: dássedoajmma
+driftsenhet ::: doajmmaavtadak
+driftsenhet ::: doaloavtadahka
+driftsenhet ::: doajmmaruhtaavtadahka
+driftsenhet ::: doajmmaruhtaavtadak
+driftsenhet ::: doalloavtadak
+driftsenhet ::: doalloavtadahka
+driftsenhet ::: doaloavtadak
+eksamensoppgave ::: eksábmabarggo
+eksamensoppgave ::: eksábmadoajmma
+eksamensoppgave ::: eksábmadiedádus
+referanseverk ::: referánssaásadus
+fritidshytte ::: astohyhtto
+fritidshytte ::: asstohyhtto
+dokumentmengde ::: dokumentavehka
+dispensasjonssøknad ::: dispensasjåvnnååhtsåm
+vindkraftseminar ::: bieggafábmofábmo
+møtebehandling ::: dikkesujtto
+møtebehandling ::: diggedálkudibme
+møtebehandling ::: diggeássjegiehtadallam
+møtebehandling ::: diggegiehtadallam
+møtebehandling ::: diggesujtto
+klimaarbeid ::: dálkádahkapládnabarggo
+klimaarbeid ::: dálkádahkaåvddånahttembarggo
+klimaarbeid ::: dálkádahkabálkká
+klimaarbeid ::: dálkádahkadoajmma
+redaksjonsmedarbeider ::: dåjmadusguojmmebargge
+landbrukskonferanse ::: ednamkonferánssa
+forsikringsordning ::: buohttidusdoarjjaårnik
+forsikringsordning ::: buohttidusnjuolgadus
+familiebakgrunn ::: fuolkeduogos
+familiebakgrunn ::: familjaduogos
+konkurs ::: doajmmakurssa
+energiløsning ::: enersjidjatjoavdos
+energiløsning ::: enersjiddjatjoavdos
+valutamarked ::: valuhtamárnán
+møtevirksomhet ::: dikkebarggo
+møtevirksomhet ::: diggedoajmma
+sekretariatsstøtte ::: dåjmadahkagiergge
+sekretariatsstøtte ::: dåjmadahkaruhtadoarjja
+prioriteringsliste ::: vuorodimelissta
+museumspolitikk ::: dávvervuorkkáguovllopolitihkka
+kraftledning ::: fábmobåhttså
+ekstranummer ::: duottenummar
+genterapi ::: gednaterapijja
+genterapi ::: genaterapiddja
+genterapi ::: giednaterapijja
+genterapi ::: genaterapijja
+genterapi ::: gednaterapiddja
+spillolje ::: stoagosulljo
+spillolje ::: gibmeoalljo
+reguleringssystem ::: dulvvadimesuorgge
+reguleringssystem ::: dulvvadimvuohke
+reguleringssystem ::: dulvvadimevuohke
+reguleringssystem ::: dulvvadimsuorgge
+reguleringssystem ::: dulvvadimsystiebma
+landrettighetsspørsmål ::: ednambarggorievtesvuohtagatjálvis
+landrettighetsspørsmål ::: ednamarievtesvuohtagatjálvis
+landrettighetsspørsmål ::: bájkkerievtesvuohtagatjálvis
+landrettighetsspørsmål ::: ednamarievtesvuohtaássje
+energiminister ::: enersjidjaministar
+energiminister ::: enersjiddjaministar
+bakstykke ::: oalle
+overgangsprosjekt ::: gasskaåvddånahttemprosjækta
+overgangsprosjekt ::: gasskaprosjækta
+fylkesplanlegging ::: fylkkavæddjaplánim
+fylkesplanlegging ::: fylkapládnaplánim
+fylkesplanlegging ::: fylkkapládnaplánim
+fylkesplanlegging ::: fylkkabelludahkaplánim
+helserett ::: varresvuohtarievtes
+domstolskommisjon ::: diggekommisjåvnnå
+utredningsmiddel ::: tjielggidusruhta
+opplysningsspørsmål ::: diehtoássje
+tilleggsprotokoll ::: duottebievddegirjje
+etableringsstøtte ::: vuododimeoatsodibme
+økonomitjeneste ::: ekonomidjavarresvuodadievnastus
+økonomitjeneste ::: ekonomiddjavirgge
+økonomitjeneste ::: ekonomijadievnastus
+økonomitjeneste ::: ekonomidjadievnastus
+økonomitjeneste ::: ekonomijavarresvuodadievnastus
+økonomitjeneste ::: ekonomijavirgge
+økonomitjeneste ::: ekonomijaámmát
+økonomitjeneste ::: ekonomijjavarresvuodadievnastus
+økonomitjeneste ::: ekonomiddjadievnastus
+økonomitjeneste ::: ekonomijadievnno
+økonomitjeneste ::: ekonomiddjavarresvuodadievnastus
+økonomitjeneste ::: ekonomidjavirgge
+økonomitjeneste ::: ekonomijjadievnno
+økonomitjeneste ::: ekonomijjadievnastus
+økonomitjeneste ::: ekonomidjadievnno
+økonomitjeneste ::: ekonomijjavirgge
+økonomitjeneste ::: ekonomiddjaámmát
+møterett ::: diggerievtes
+møterett ::: diggeriektá
+møterett ::: dikkerievtesvuohta
+møterett ::: diggerievtesvuohta
+møterett ::: dikkerievtes
+helseinformasjon ::: varresvuodadiehtojuohkem
+jordskiftelov ::: ednamajuohkoskåvllåláhka
+jordskiftelov ::: ednamajuohkoláhka
+jordskiftelov ::: ednamjuohkoskåvllåláhka
+jordskiftelov ::: ednamahievedus
+jordskiftelov ::: ednamhievedus
+arbeidsmarkedsutvikling ::: barggoåvddånibme
+fagskoleutdanning ::: fáhkaskåvllååhpadiddjeåhpadus
+fagskoleutdanning ::: fáhkaoahppa
+fagskoleutdanning ::: fáhkaoahppo
+fagskoleutdanning ::: fáhkaskåvllåoahppa
+kursiv ::: vinjotjála
+innfallsvinkel ::: vuolgasadje
+innfallsvinkel ::: vuohkoviŋkal
+møtespråk ::: dikkegiella
+ressursrettighet ::: resurssarievtes
+bevisvurdering ::: duodastusárvustallamdájddo
+partskonferanse ::: bieleskonferánssa
+reguleringsplanarbeid ::: dulvvadimebarggo
+fagskoletilbud ::: fáhkaskåvllååhpadusfálaldahka
+fagskoletilbud ::: fáhkafálaldahka
+fagskoletilbud ::: fáhkaåhpadusfálaldahka
+landbruksindustri ::: ednamindustrijja
+landbruksindustri ::: ednamindustriddja
+landbruksindustri ::: ednamaindustriddja
+landbruksindustri ::: ednambarggoindustrijja
+landbruksindustri ::: ednambargoindustrijja
+landbruksindustri ::: ednamaindustrijja
+fylkesselskap ::: fylkapládnavidnudahka
+fylkesselskap ::: fylkkavæddjasiebrre
+fylkesselskap ::: fylkavidnudak
+fylkesselskap ::: fylkkavæddjavidnudahka
+fylkesselskap ::: fylkapládnaávvudallam
+fylkesselskap ::: fylkavidnudahka
+fylkesselskap ::: fylkapládnasiebrre
+fylkesselskap ::: fylkkapládnasiebrre
+fylkesselskap ::: fylkkaávvudallam
+fylkesselskap ::: fylkasiebrre
+fylkesselskap ::: fylkkabelludahkavidnudahka
+fylkesselskap ::: fylkkavidnudak
+fylkesselskap ::: fylkkabelludahkasiebrre
+fylkesselskap ::: fylkkapládnaávvudallam
+fylkesselskap ::: fylkkapládnavidnudahka
+fylkesselskap ::: fylkkabelludahkaávvudallam
+fylkesselskap ::: fylkkavæddjaávvudallam
+jordsalgstyre ::: ednambarggovuobddem
+jordsalgstyre ::: ednambarggooases
+jordsalgstyre ::: ednambarggooasse
+jordsalgstyre ::: ednamaoasse
+jordsalgstyre ::: ednambargooasse
+jordsalgstyre ::: ednamoases
+jordsalgstyre ::: ednamoasse
+tilleggsmateriell ::: duoddenævvo
+praksisfelt ::: dáhpedajvva
+støttepraksis ::: doarjjahárjjidallam
+fastland ::: fásstaednam
+fastland ::: fásstaednambarggo
+fastland ::: fásstabájkke
+fastland ::: fásstagádde
+fastland ::: fásstarijkka
+reguleringspolitikk ::: dulvvadimeguovllopolitijkka
+reguleringspolitikk ::: dulvvadimepolitijkka
+reguleringspolitikk ::: dulvvadimguovllopolitihkka
+reguleringspolitikk ::: dulvvadimguovllopolitijkka
+reguleringspolitikk ::: dulvvadimpolitijkka
+reguleringspolitikk ::: dulvvadimeguovllopolitihkka
+reguleringspolitikk ::: dulvvadimepolitihkka
+lønnsdannelse ::: bálkkágihppo
+avgiftsforhold ::: divudavidjur
+avgiftsforhold ::: divutvidjur
+avgiftsforhold ::: divutvijor
+avgiftsforhold ::: divudadille
+myndighetsoverføring ::: fábmudahkasirddem
+myndighetsoverføring ::: fábmogisvuohtasirddem
+avgiftssystem ::: divudasuorgge
+avgiftssystem ::: divudavuohke
+avgiftssystem ::: divutsuorgge
+avgiftssystem ::: divutvuohke
+avgiftssystem ::: divutvuogádahka
+avgiftssystem ::: divutsystiebma
+museumsmelding ::: dávvervuorkkáguládis
+museumsmelding ::: dávvervuorkkádiededibme
+tilleggspoeng ::: duottetjuorgga
+tilstandsvurdering ::: dilleárvustallamdájddo
+ekspropriasjonsrett ::: ekspropriasjåvnnårievtesvuohta
+helseforskning ::: varresvuohtaguoradallam
+landbruksformål ::: ednamájggomus
+landbruksformål ::: ednambarggoájggomus
+landbruksformål ::: ednamulmme
+landbruksformål ::: ednambargoulmme
+landbruksformål ::: ednamaulmme
+likestillingsutvalg ::: dásseárvvojuogos
+likestillingsutvalg ::: dássádusjuogos
+likestillingsutvalg ::: dásseárvvojuohko
+likestillingsutvalg ::: dássádusjuohko
+museumsbygg ::: dávvervuorkkábivgge
+museumsbygg ::: dávvervuorkkáviesso
+rettskrivningsspørsmål ::: duollatjállemássje
+timeressurs ::: dijmaressurssa
+timeressurs ::: dijmaresurssa
+timeressurs ::: dijmmaresurssa
+eksamenskrav ::: eksábmarávkalvis
+tjenesteproduksjon ::: dievnastusbuvtadus
+tjenesteproduksjon ::: dievnobuvtadus
+tjenesteproduksjon ::: dievnastusbuvtadibme
+tjenesteproduksjon ::: dievnobuvtadibme
+transportform ::: fievrovuohke
+transportform ::: fievrrohábme
+radioside ::: rádioájádus
+vektmål ::: dæddomålla
+vektmål ::: dæddomihttomierre
+vektmål ::: dæddogiella
+vektmål ::: dæddomåhkke
+vektmål ::: dæddomihtto
+vektmål ::: dæddoulmme
+reguleringslager ::: dulvvadimevuorkudak
+reguleringslager ::: dulvvadimevuorkudahka
+reguleringslager ::: dulvvadimvuorkudak
+revisjonsstandard ::: dárkastiddjestandárdda
+reguleringsforslag ::: dulvvadimeoajvvadus
+reguleringsforslag ::: regulierimoajvvadus
+støttesystem ::: doarjjasuorgge
+støttesystem ::: doarjjavuohke
+støttesystem ::: doarjjavuogádahka
+næringsanalyse ::: æládusguoradallam
+arbeidsforbrukstall ::: doajmmaadno
+arbeidsforbrukstall ::: doajmmagållådibme
+fylkestingsvedtak ::: fylkkamærrádus
+fylkestingsvedtak ::: fylkkadiggemærrádus
+økonomikontroll ::: ekonomijadárkestibme
+likestillingsmiddel ::: dásseárvvogasska
+likestillingsmiddel ::: dássádusgasska
+likestillingsmiddel ::: dásseárvvonævvo
+likestillingsmiddel ::: dássádusruhtta
+likestillingsmiddel ::: dássádusruhta
+familieplanlegging ::: fuolkkeplánim
+festningsverk ::: laddnedåjmadahka
+behovsendring ::: dárbborievddadibme
+behovsendring ::: dárbborievddadus
+spenningsfelt ::: geldulasjvuodasuorgge
+spenningsfelt ::: geldulasjvuodadajvva
+rettsgaranti ::: duolladahkoduodastus
+rettsgaranti ::: duollabuvta
+sekretariatsfunksjon ::: dåjmadahkadoajmma
+virkemiddelkommune ::: vájkkudimnævvogiellda
+møteresultat ::: diggeboahto
+møteresultat ::: dikkeboahto
+møteresultat ::: diggeboados
+redskapsbruk ::: giehtaræjddoadno
+praksisstudium ::: dáhpeåhpadus
+sløydverksted ::: duodjedivudahka
+sløydverksted ::: duojedivudak
+sløydverksted ::: duodjedivudak
+museumssammenheng ::: dávvervuorkkágasskavuohta
+reguleringsform ::: dulvvadimevuohke
+arbeidsstyrke ::: doajmmagievrrodibme
+arbeidsstyrke ::: doajmmananosvuohta
+driftsmedarbeider ::: doalobargge
+driftsmedarbeider ::: doajmmaruhtaguojmmebargge
+driftsmedarbeider ::: doajmmaruhtabargge
+driftsmedarbeider ::: doalobarggoguojmme
+driftsmedarbeider ::: doalloguojmmebargge
+driftsmedarbeider ::: doajmmaruhtabarggoguojmme
+helsekapittel ::: varresvuodakapihtal
+sikkerhetsmyndighet ::: tjårggisvuohtafábmodus
+sikkerhetsmyndighet ::: vissesvuohtafábmogisvuohta
+sikkerhetsmyndighet ::: tjårggisvuohtafábmogisvuohta
+sikkerhetsmyndighet ::: tjårggisvuohtafábmudahka
+sikkerhetsmyndighet ::: vissesvuohtafábmodus
+satsingsforslag ::: doajmmaárvvalus
+sekretariatsoppgave ::: dåjmadahkadiedádus
+sekretariatsoppgave ::: dåjmadahkadoajmma
+dokumentasjonskrav ::: dokumentasjåvnnårávkalvis
+energiselskap ::: enersjiddjasiebrre
+energiselskap ::: enersjiddjaávvudallam
+energiselskap ::: enersjiddjavidnudak
+energiselskap ::: enersjiddjavidnudahka
+energiselskap ::: enersjidjavidnudak
+energiselskap ::: enersjidjavidnudahka
+energiselskap ::: energiddjaávvudallam
+energiselskap ::: enersjidjasiebrre
+energiselskap ::: energiddjasiebrre
+servicepraksis ::: dievnastushárjjidallam
+fylkesutdanningssjef ::: fylkkavæddjaoahppo
+fylkesutdanningssjef ::: fylkkaåhpadiddjeåhpadus
+fylkesutdanningssjef ::: fylkkabelludahkaåhpadus
+fylkesutdanningssjef ::: fylkapládnaåhpadiddjeåhpadus
+fylkesutdanningssjef ::: fylkapládnaåhpadus
+fylkesutdanningssjef ::: fylkkavæddjaåhpadus
+fylkesutdanningssjef ::: fylkapládnaoahppa
+fylkesutdanningssjef ::: fylkkabelludahkaoahppa
+fylkesutdanningssjef ::: fylkkavæddjaåhpadiddjeåhpadus
+fylkesutdanningssjef ::: fylkkapládnaåhpadus
+fylkesutdanningssjef ::: fylkapládnaoahppo
+fylkesutdanningssjef ::: fylkkabelludahkaoahppo
+fylkesutdanningssjef ::: fylkkabelludahkaåhpadiddjeåhpadus
+fylkesutdanningssjef ::: fylkkapládnaoahppa
+fylkesutdanningssjef ::: fylkkaoahppa
+fylkesutdanningssjef ::: fylkkapládnaoahppo
+fylkesutdanningssjef ::: fylkkaoahppo
+fylkesutdanningssjef ::: fylkkapládnaåhpadiddjeåhpadus
+fylkesutdanningssjef ::: fylkkavæddjaoahppa
+tilpasningsmåte ::: hiebadimevuohke
+tilpasningsmåte ::: hiebadahttemavuohke
+tilpasningsmåte ::: sjiehtadimvuohke
+tilpasningsmåte ::: sjiehtadimevuohke
+tilpasningsmåte ::: hiebadahttemvuohke
+reguleringsmodell ::: dulvvadimvuohke
+medisinstudium ::: dálkasåhpadus
+samdrift ::: siebrebarggo
+samdrift ::: siebrrebarggo
+allmenningsbruk ::: aktisasjbarggo
+allmenningsbruk ::: aktisasjadno
+tilleggsavsnitt ::: duotteoasse
+tjenesteinnhold ::: dievnastussisadno
+tjenesteinnhold ::: dievnosisadno
+tjenesteinnhold ::: dievnastussisanádus
+tjenesteinnhold ::: dievnnosisanádus
+overgangsstønad ::: gasskadoarjja
+overgangsstønad ::: gaskadoarjja
+myndighetshandling ::: fábmogisvuohtadoajmma
+myndighetshandling ::: fábmudahkadoajmma
+utviklingskapital ::: åvddånahttemkapitálla
+jordbruksinteresse ::: ednamaberustibme
+jordbruksinteresse ::: ednamberustibme
+jordbruksinteresse ::: ednambargoberustibme
+konsekvensutredningsprogram ::: boadosguoradallamåvddånahttemprográmma
+spenningsforhold ::: geldulasjvuohtadille
+spenningsforhold ::: geldulasjvuodavidjur
+spenningsforhold ::: geldulasjvuohtavidjur
+spenningsforhold ::: geldulasjvuodavijor
+fyllmasse ::: devdadisvehka
+revisjonsresultat ::: dárkastiddjeboados
+revisjonsresultat ::: dárkastusboados
+revisjonsresultat ::: dárkastiddjeboahto
+revisjonsresultat ::: dárkastusboahto
+landbruksmyndighet ::: ednamaoajvve
+landbruksmyndighet ::: ednamoajvve
+landbruksmyndighet ::: ednamfábmogisvuohta
+landbruksmyndighet ::: ednamfábmudahka
+landbruksmyndighet ::: ednamfábmodus
+myndighetstilsyn ::: fábmodusbærrájgæhttjo
+myndighetstilsyn ::: fábmodusgæhttjo
+myndighetstilsyn ::: fábmodusbærrájgæhttje
+myndighetstilsyn ::: fábmudahkabærrájgæhttjo
+myndighetstilsyn ::: fábmogisvuohtabærrájgæhttjo
+myndighetstilsyn ::: fábmudahkabærrájgæhttje
+myndighetstilsyn ::: fábmogisvuohtagæhttjo
+myndighetstilsyn ::: fábmogisvuohtabærrájgæhttje
+myndighetstilsyn ::: fábmudahkagæhttjo
+dokumentasjonsordning ::: dokumentasjåvnnådoarjjaårnik
+dokumentasjonsordning ::: dokumentasjåvnnåásadus
+dokumentasjonsordning ::: dokumentasjåvnnånjuolgadus
+sidevassdrag ::: doarestjáhtjádahka
+sidevassdrag ::: bielestjáhtjádahka
+partsmøte ::: bieldigge
+domstolkommisjon ::: diggekommisjåvnnå
+rettsforskning ::: duollaguoradallam
+landbruksprodukt ::: ednamabuvta
+landbruksprodukt ::: ednamgálvvo
+landbruksprodukt ::: ednambargobuvta
+landbruksprodukt ::: ednambuvta
+museumsforvaltning ::: dávvervuorkkáháldadus
+jordbruksspørsmål ::: ednamássje
+jordbruksspørsmål ::: ednambarggoássje
+jordbruksspørsmål ::: ednamgatjálvis
+forholdsvalg ::: dilleválljim
+forholdsvalg ::: dilejienastibme
+forholdsvalg ::: dillejienastibme
+myndighetsnivå ::: fábmogisvuohtadásse
+fellestrekk ::: aktisasjgæsso
+lærlingvurdering ::: viddnooahppeárvustallamdájddo
+jordleie ::: ednambarggolájggo
+jordleie ::: ednamláhtjo
+jordleie ::: ednambarggoláhtjo
+familiegruppe ::: fuolkebarggojuohko
+familiegruppe ::: fuolkebarggojuogos
+familiegruppe ::: familljabarggojuohko
+familiegruppe ::: familljajuohko
+familiegruppe ::: fuolkejuohko
+familiegruppe ::: fuolkkebarggojuohko
+familiegruppe ::: familljabarggojuogos
+familiegruppe ::: familjabarggojuohko
+familiegruppe ::: fuolkkejuohko
+familiegruppe ::: familjajuohko
+familiegruppe ::: fuolkejuogos
+familiegruppe ::: fuolkkebarggojuogos
+familiegruppe ::: familjabarggojuogos
+familiegruppe ::: fuolkkejuogos
+familiegruppe ::: familjajuogos
+jordbruksutdanning ::: ednamoahppa
+jordbruksutdanning ::: ednamoahppo
+jordbruksutdanning ::: ednambargooahppa
+jordbruksutdanning ::: ednamåhpadus
+jordbruksutdanning ::: ednamåhpadiddjeåhpadus
+jordbruksutdanning ::: ednambargooahppo
+jordbruksutdanning ::: ednamaoahppa
+jordbruksutdanning ::: ednamaoahppo
+jordbruksutdanning ::: ednambarggoåhpadiddjeåhpadus
+jordbruksutdanning ::: ednambarggooahppa
+jordbruksutdanning ::: ednambarggooahppo
+næringspris ::: æládushievedibme
+vinterbeiteområde ::: dálvvevalástallamguovllo
+vinterbeiteområde ::: dálvveguovllo
+vinterbeiteområde ::: dálvvevalástallamguohtomednam
+vinterbeiteområde ::: dálvveguohtomednam
+vinterbeiteområde ::: dálvveguohtomguohtomednam
+vinterbeiteområde ::: dálvveguohtomsuorgge
+vinterbeiteområde ::: dálvveguohtombájkke
+vinterbeiteområde ::: dálvvevalástallamednam
+asylpolitikk ::: dårvvoguovllopolitihkka
+bedriftsstøtte ::: vidnudahkaoatsodibme
+redaksjonsansvar ::: dåjmadusvásstádus
+nedbryting ::: gållån
+finanslov ::: finánssahievedus
+finanslov ::: finánssaskåvllåláhka
+tilskuddsbeløp ::: doarjjaruhtta
+energidirektør ::: enersjidjadirekterra
+energidirektør ::: enersjiddjadirekterra
+formidlingsmåte ::: gaskostimevuohke
+helsesystem ::: varresvuodavuohke
+helsesystem ::: varresvuodasystiebma
+helsesystem ::: varresvuohtavuohke
+oppstartsbevilgning ::: álggomuddojuollodibme
+oppstartsbevilgning ::: álggomuddoruhtajuollodibme
+museumsutvikling ::: dávvervuorkkáåvddånahttem
+serviceanlegg ::: dievnastusásadus
+klimaspørsmål ::: dálkádahkaássje
+redaksjonskomité ::: dåjmadusjuohko
+redaksjonskomité ::: dåjmadusjuogos
+familiesamling ::: fuolkketjoahkke
+familiesamling ::: fuolketjoahkke
+familiesamling ::: berajtjoakkáldahka
+familiesamling ::: familljatjåhkalvis
+familiesamling ::: familljatjoakkáldahka
+familiesamling ::: fuolkkevuorkká
+familiesamling ::: familljavuorkká
+familiesamling ::: fuolkketjoakkáldahka
+familiesamling ::: fuolkketjåhkalvis
+familiesamling ::: familljatjoahkke
+familiesamling ::: fuolkketjåhkanibme
+familiesamling ::: familjatjoahkke
+rettledelse ::: duollajådedibme
+transporttilbud ::: fievrroåhpadusfálaldahka
+informasjonstreff ::: diehtojuohkemæjvvalibme
+forholdstall ::: dillelåhko
+forholdstall ::: dillestálla
+doktorgradsøkning ::: doktorgrádalasádus
+doktorgradsøkning ::: dåktårgrádalassánibme
+doktorgradsøkning ::: dåktårgrádalasádus
+utvinning ::: råggån
+meldingsfase ::: diedádusájgge
+serviceerklæring ::: dievnastusjavllamus
+serviceerklæring ::: dievnastusduodastus
+ekspropriasjonssøknad ::: ekspropriasjåvnnååhtsåm
+driftskjøretøy ::: doajmmaruhtavuoján
+driftskjøretøy ::: doallovuoján
+landbrukssak ::: ednamássje
+rettssikkerhetspris ::: rievtesvuohtasihkarvuohtahievedibme
+resultatkontroll ::: boahtodárkestibme
+vindkraftplan ::: bieggafábmopládna
+vindkraftplan ::: bieggafábmofábmo
+fullpris ::: dievashievedibme
+fullpris ::: dievasguddnebálkká
+fullpris ::: dievvabálkká
+fullpris ::: dievvahadde
+fullpris ::: dievasgudnebálkká
+fullpris ::: dievasbálkká
+fullpris ::: dievvahievedibme
+fullpris ::: dievahievedibme
+fullpris ::: dievvagudnebálkká
+fullpris ::: dievvaguddnebálkká
+innsatspott ::: siebrreruhtta
+innsatspott ::: siebreruhtta
+landbruksbruksprodukt ::: ednambargoadno
+landbruksbruksprodukt ::: ednambarggoadno
+landbruksbruksprodukt ::: ednamabarggo
+landbruksbruksprodukt ::: ednambarggobarggo
+landbruksbruksprodukt ::: ednamadnem
+landbruksbruksprodukt ::: ednamadno
+landbruksbruksprodukt ::: ednamaadno
+landbruksbruksprodukt ::: ednambargobarggo
+ekspertpanel ::: ássjedåbddepaniella
+ekspertpanel ::: ássjediehttepanella
+ekspertpanel ::: ássjedåbddepanella
+landbruksundervisning ::: ednamåhpadibme
+landbruksundervisning ::: ednambarggoåhpadus
+landbruksundervisning ::: ednamoahppo
+landbruksundervisning ::: ednamåhpadus
+landbruksundervisning ::: ednambargooahppo
+landbruksundervisning ::: ednamaoahppo
+landbruksundervisning ::: ednambarggooahppo
+erfaringsutveksling ::: duogásjlånudibme
+fornorskningsarbeid ::: dárojduhttembálkká
+fornorskningsarbeid ::: dárojduhttemåvddånahttembarggo
+fornorskningsarbeid ::: dárojduhttemdoajmma
+tilleggslærer ::: duoddegiellaåhpadiddje
+tilleggslærer ::: duoddeskåvlik
+tilleggslærer ::: duotteoahppa
+tilleggslærer ::: duoddeoahppa
+tilleggslærer ::: duoddeoahppopládna
+tilleggslærer ::: duotteoahppo
+tilleggslærer ::: duoddeoahppo
+tilleggslærer ::: duoddeåhpadiddjeåhpadus
+slagord ::: doarrobáhko
+slagord ::: doarrotjála
+slagord ::: doarrohålla
+helseregister ::: varresvuohtalågos
+helseregister ::: varresvuodaregistar
+møtedeltaker ::: diggeoassálasstem
+møtedeltaker ::: diggeoassevállde
+landbruksutstyr ::: ednamvædtsak
+mottaksordning ::: duostudahkadoarjjaårnik
+mottaksordning ::: duostudahkanjuolgadus
+mottaksordning ::: duostudaknjuolgadus
+etableringstilskudd ::: vuododimedoarjja
+skitur ::: bajkkakurssa
+fylkesvåpen ::: fylkkapládnadoarroværjjo
+fylkesvåpen ::: fylkkavæddjaværjjo
+fylkesvåpen ::: fylkkapládnaværjjo
+fylkesvåpen ::: fylkapládnadoarroværjjo
+fylkesvåpen ::: fylkkavæddjadoarroværjjo
+fylkesvåpen ::: fylkkabelludahkaværjjo
+valgnattsystem ::: válggaidjavuohke
+museumsadministrasjon ::: dávvervuorkkáháldadibme
+reinsykdom ::: boatsojguohtomavihke
+reinsykdom ::: boatsojguohtomvihke
+helseplan ::: varresvuohtaájggom
+museumsansvar ::: dávvervuorkkávásstádus
+informasjonsskille ::: diehtojuogádis
+informasjonsskille ::: diehtoærro
+informasjonsskille ::: diehtojuohkemjuogádis
+informasjonsskille ::: diehtojuohkemærro
+jordbrukssak ::: ednamássje
+jordbrukssak ::: ednambarggoássje
+partsrettighet ::: bielrievtes
+overgangsordning ::: gaskanjuolgadus
+overgangsordning ::: gasskaásadus
+overgangsordning ::: gasskanjuolgadus
+museumsprosjekt ::: dávvervuorkkáåvddånahttemprosjækta
+museumsprosjekt ::: dávvervuorkkáprosjækta
+jordbruksformål ::: ednamájggomus
+jordbruksformål ::: ednambarggoájggomus
+jordbruksformål ::: ednamulmme
+jordbruksformål ::: ednambargoulmme
+jordbruksformål ::: ednamaulmme
+visumbehandling ::: visumagiehtadallam
+museumsinstitusjon ::: dávvervuorkkáásadus
+økonomistyring ::: ekonomidjastivrra
+økonomistyring ::: ekonomijastivrra
+økonomistyring ::: ekonomijjastivrra
+fabeldyr ::: fábeljudo
+jordgamme ::: ednambarggogábmá
+fylkestingskomité ::: fylkkadikkejuohko
+fylkestingskomité ::: fylkadiggejuohko
+fylkestingskomité ::: fylkkadikkejuogos
+fylkestingskomité ::: fylkadiggejuogos
+fylkestingskomité ::: fylkkajuogos
+fylkestingskomité ::: fylkkadikkenammadus
+fylkestingskomité ::: fylkajuogos
+fylkestingskomité ::: fylkanammadus
+fylkestingskomité ::: fylkkadiggenammadus
+fylkestingskomité ::: fylkkadiggejuohko
+handlingsrom ::: doajmmavuobman
+formidlingsform ::: gaskostimevuohke
+familietur ::: fuolkkemanno
+familietur ::: familjamanno
+familietur ::: fuolkemanno
+høyskolenettverk ::: alukskåvllåværmádahka
+høyskolenettverk ::: allakskåvllåværmádahka
+redaksjonsledelse ::: dåjmadusjådediddje
+transportveier ::: fievrorahte
+transportveier ::: fievrroluodda
+transportveier ::: fievroluodda
+oppstartsnotat ::: álggomuddonotáhtta
+oppstartsnotat ::: álggomuddotjála
+oppstartsnotat ::: álgadusnotáhtta
+vindkraftprosjekt ::: bieggafábmofábmo
+vurderingsordning ::: árvustallamdájddoårnik
+vurderingsordning ::: árvustallamdájddoásadus
+vurderingsordning ::: árvustallamásadus
+formingsoppgave ::: giehtadoajmma
+formingsoppgave ::: giehtaduodjebarggo
+formingsoppgave ::: giedadoajmma
+formingsoppgave ::: giehtaduodjedahkamus
+formingsoppgave ::: giehtaduodjediedádus
+formingsoppgave ::: giehtadiedádus
+formingsoppgave ::: giedabarggo
+formingsoppgave ::: giedadahkamus
+helsemyndighet ::: varresvuohtafábmogisvuohta
+helsemyndighet ::: varresvuohtafábmodus
+fornorskingslinje ::: dárojduhttemsáhtso
+fornorskingslinje ::: dárojduhttembarggosuorgge
+skurlast ::: ávnas
+tjenestepensjonsordning ::: dievnnopensjåvnnåårnik
+fylkeslege ::: fylkkabelludahkadåktår
+fylkeslege ::: fylkkavæddjadåktår
+fylkeslege ::: fylkapládnadåktår
+fylkeslege ::: fylkkapládnadåktår
+kunnskapsbank ::: doajmmabáŋŋka
+stiftelseskapital ::: vuododuskapitálla
+transporttjeneste ::: fievrrodievnastus
+transporttjeneste ::: fievrrovirgge
+transporttjeneste ::: fievrroámmát
+transporttjeneste ::: fievrovarresvuodadievnastus
+transporttjeneste ::: fievrovirgge
+transporttjeneste ::: fievrodievnastus
+transporttjeneste ::: fievrrovarresvuodadievnastus
+transporttjeneste ::: fievrodievnno
+driftsmønster ::: doajmmaruhtagirjos
+driftsmønster ::: doallogirjos
+driftsmønster ::: doajmmagirjos
+driftsmønster ::: doalovuohke
+driftsmønster ::: doalogirjos
+fangstmønster ::: vejdagirjos
+forhandlingspart ::: sjiehtadallambiel
+etableringspakke ::: vuododimeskurppo
+etableringssted ::: vuododimetjievtjastahka
+etableringssted ::: vuododimtjievtjastahka
+etableringssted ::: vuododimetjievtjastak
+semesteremne ::: jahkebielleábnas
+ekspedisjonssjefsstilling ::: ekspedisjåvnnåjådediddjedille
+velferdspermisjon ::: álkkádusvirggeloahpe
+fylkesforsyning ::: fylkkavæddjabiergas
+fylkesforsyning ::: fylkapládnabiergas
+fylkesforsyning ::: fylkkapládnabiergas
+fylkesforsyning ::: fylkabiergas
+fylkesforsyning ::: fylkkabelludahkabiergas
+nasjonalparkplan ::: álmmukmiehttseájggom
+støttepunktfunksjon ::: doarjjaájgge
+støttepunktfunksjon ::: doarjjatjuorgga
+støttepunktfunksjon ::: doarjjatjuokkes
+kraftlinje ::: fábmobarggosuorgge
+kraftlinje ::: fábmosáhtso
+fornorskningsmann ::: dárojduhttemdiedaålmåj
+fornorskningsmann ::: dárojduhttemguojmme
+fornorskningsmann ::: dárojduhttemalmasj
+fornorskningsmann ::: dárojduhttemulmusj
+familiemedlem ::: familljaájras
+familiemedlem ::: berrahastivrrasebrulasj
+familiemedlem ::: familljastivrrasebrulasj
+familiemedlem ::: fuolkesebrulasj
+familiemedlem ::: familljasebrulasj
+familiemedlem ::: familjastivrrasebrulasj
+familiemedlem ::: familjasebrulasj
+familiemedlem ::: berajstivrrasebrulasj
+familiemedlem ::: fuolkkestivrrasebrulasj
+familiemedlem ::: fuolkkesebrulasj
+familiemedlem ::: fuolkestivrrasebrulasj
+familiemedlem ::: fuolkkeájrra
+familiemedlem ::: fuolkkeájras
+familiemedlem ::: familljaájrra
+kreftforskning ::: dávddaguoradallam
+kreftforskning ::: bårreguoradallam
+kreftforskning ::: bårreåtsådibme
+museumstjeneste ::: dávvervuorkkáámmát
+museumstjeneste ::: dávvervuorkkávarresvuodadievnastus
+museumstjeneste ::: dávvervuorkkádievnastus
+museumstjeneste ::: dávvervuorkkávirgge
+møteoffentlighet ::: diggealmulasjvuohta
+servicepolitikk ::: dievnastusguovllopolitihkka
+servicepolitikk ::: dievnastuspolitijkka
+servicepolitikk ::: dievnastusguovllopolitijkka
+telt ::: bieljegoahte
+innslagspunkt ::: dáhpádustjuorgga
+innslagspunkt ::: dáhpádusájgge
+initiativrett ::: dåjmalasjvuohtarievtesvuohta
+næringsutviklingsplan ::: æládusåvddånahttemájggom
+praksisopplæring ::: dáhpeoahppa
+praksisopplæring ::: dáhpeoahppo
+praksisopplæring ::: dáhpeåhpadibme
+praksisopplæring ::: dáhpegiellaåhpadus
+praksisopplæring ::: dáhpeåhpadus
+felleskapsfølelse ::: guojmmeaktijvuohta
+landsforening ::: ednambargosiebrre
+landsforening ::: ednamsiebrre
+landsforening ::: ednambarggosiebrre
+landsforening ::: bájkkesiebrre
+kunnskapstilfang ::: doajmmaboanndudak
+kunnskapstilfang ::: diehtoboanndudak
+kunnskapstilfang ::: doajmmaboanndudahka
+kretsskolelærer ::: dáfoskåvllå
+vinterskade ::: dálvvevalástallamvahágahttem
+vinterskade ::: dálvvevalástallambiledibme
+vinterskade ::: dálvvebiledibme
+fagbrevopplæring ::: fáhkaduodastusoahppa
+fagbrevopplæring ::: fáhkaduodastusoahppo
+fagbrevopplæring ::: fáhkaduodastusåhpadus
+fagbrevopplæring ::: fáhkaduodastusgiellaåhpadus
+slitasje ::: gållån
+kraftfôr ::: fábmobiebbmo
+ervervsform ::: doajmmahábme
+valgmyndighet ::: válggafábmogisvuohta
+reguleringsbrev ::: dulvvadimegirjje
+husholdning ::: dåhpemiellaguoddo
+utjevningsmandatordning ::: dássemandáhttanjuolgadus
+utjevningsmandatordning ::: dássemandáhttadoarjjaårnik
+likestillingsteam ::: dásseárvvojuohko
+likestillingsteam ::: dássádusjuohko
+grunneierutvalg ::: ednamæjgátjuohko
+grunneierutvalg ::: ednamæjgátjuogos
+næringssammenheng ::: æládusgasskavuohta
+mottaksstruktur ::: duostudahkastruktuvrra
+mottaksstruktur ::: duostudahkahábme
+mottaksstruktur ::: duostudahkahábmekvåvttå
+virkemiddelsystem ::: vájkkudimnævvovuohke
+kunstnergruppe ::: dájddabarggojuogos
+kunstnergruppe ::: dájddárbarggojuohko
+kunstnergruppe ::: dájddárbarggojuogos
+kunstnergruppe ::: dájddárjuohko
+kunstnergruppe ::: dájddajuohko
+kunstnergruppe ::: dájddabarggojuohko
+kunstnergruppe ::: dájddajuogos
+næringsfisker ::: æládusguollebivdde
+driftshytte ::: doalogoahte
+driftshytte ::: doalohyhtto
+driftshytte ::: doajmmaruhtagoahte
+driftshytte ::: bargohyhtto
+driftshytte ::: barggohyhtto
+driftshytte ::: doallogoahte
+driftshytte ::: doallohyhtto
+driftshytte ::: doajmmagoahte
+jordvern ::: ednamsuodjalibme
+jordvern ::: ednamasuodjalus
+jordvern ::: ednambargosuodjalus
+jordvern ::: ednambargosuodjalibme
+jordvern ::: ednamsuodjalus
+jordvern ::: ednambarggosuodjalus
+jordvern ::: ednambarggosuodjalibme
+flåtestruktur ::: boarrehábmekvåvttå
+tradisjonsprodukt ::: dáhpegálvvo
+folkerettsrådgiver ::: álmmukriektárádediddje
+jordbruksprodukt ::: ednamabuvta
+jordbruksprodukt ::: ednamgálvvo
+jordbruksprodukt ::: ednambargobuvta
+jordbruksprodukt ::: ednambuvta
+tjenestekrets ::: dievnastusbijrra
+tjenestekrets ::: dievnastusdáfo
+tjenestekrets ::: dievnobijrra
+tjenestekrets ::: dievnnodáfo
+tjenestekrets ::: dievnnobijrra
+dokumentasjonsmiddel ::: dokumentasjåvnnågasska
+dokumentasjonsmiddel ::: dokumentasjåvnnåruhtta
+dokumentasjonsmiddel ::: dokumentasjåvnnånævvo
+jordskiftesak ::: ednamássje
+jordskiftesak ::: ednamajuohkoássje
+rettsikkerhetspris ::: duollavissesvuohta
+oljeinntekt ::: uljoboahto
+oljeinntekt ::: uljosisboahto
+utviklingsplan ::: åvddånahttemájggom
+jordforvaltning ::: ednambarggoháldadus
+jordforvaltning ::: ednambarggoháldadibme
+fylkestingsrepresentant ::: fylkkadiggeájrra
+fylkestingsrepresentant ::: fylkkadiggeájras
+fylkestingsrepresentant ::: fylkadiggeájrra
+fylkestingsrepresentant ::: fylkkaájrra
+fylkestingsrepresentant ::: fylkkaájras
+ekstrabarriere ::: duottetsagge
+eiendomspris ::: æjggohievedibme
+jordsalgsmyndighet ::: ednambarggovuobddem
+jordsalgsmyndighet ::: ednambarggooases
+jordsalgsmyndighet ::: ednambarggooasse
+jordsalgsmyndighet ::: ednamaoasse
+jordsalgsmyndighet ::: ednambargooasse
+jordsalgsmyndighet ::: ednamoases
+jordsalgsmyndighet ::: ednamoasse
+grunneierrett ::: ednamæjgátrievtesvuohta
+arealavgift ::: ednamdivut
+møtekalender ::: diggerijmmo
+overgangsdistrikt ::: gaskaguovllo
+støtteordning ::: doarjjadoarjjaårnik
+støtteordning ::: doarjjaásadus
+støtteordning ::: doarjjanjuolgadus
+finansutvalg ::: finánssajuohko
+velferdsgrunn ::: álkkádusbåddne
+riss ::: figuvrra
+landbruksminister ::: ednambargoministar
+landbruksminister ::: ednamministar
+landbruksminister ::: ednamaministar
+emneknagg ::: fáddágilkor
+doktorgradsnivå ::: doktorgrádadásse
+festivalstøtte ::: festivállagiergge
+trekkoppgave ::: gessusadoajmma
+trekkoppgave ::: gessusabarggo
+møtedato ::: diggebiejvve
+møtedato ::: dikkebiejvve
+reinsogn ::: boatsojguohtomasuohkan
+museumsutvalg ::: dávvervuorkkájuogos
+museumsutvalg ::: dávvervuorkkájuohko
+redskapslag ::: giehtaræjddodoarro
+redskapslag ::: giehtaræjddobelludahkasiebrre
+redskapslag ::: giehtaræjddojuohko
+redskapslag ::: giehtaræjddojuogos
+redskapslag ::: giehtaræjddosládja
+redskapslag ::: giehtaræjddovuohke
+domstollov ::: diggehievedus
+domstollov ::: dikkehievedus
+domstollov ::: diggeskåvllåláhka
+domstollov ::: duobbmoståvllåhievedus
+domstollov ::: diggeláhka
+domstollov ::: duobbmoståvllåskåvllåláhka
+oppstartsseminar ::: álggomuddoseminárra
+pengespill ::: biednigaspella
+kraftforproduksjon ::: fábmoåvddå
+kraftforproduksjon ::: fábmoálggo
+kunstgjødsel ::: dahkodáde
+reguleringsmulighet ::: dulvvadimevejulasjvuohta
+sikkerhetsenhet ::: vissesvuodaavtadahka
+sikkerhetsenhet ::: vissesvuodaavtadak
+domstoladministrasjon ::: diggeháldadibme
+domstoladministrasjon ::: duobbmoståvllåháldadibme
+vinterlek ::: dálvvevalástallamståhka
+vinterlek ::: dálvveståhka
+vinterlek ::: dálvvevalástallamstoagos
+vinterlek ::: dálvvestoagos
+landbruksadministrasjon ::: ednambarggoháldadibme
+landbruksadministrasjon ::: ednamháldadibme
+reguleringstiltak ::: dulvvadimdoajmma
+planendring ::: dásserievddadus
+planendring ::: dásserievddadibme
+tiltaksmiddel ::: dåjmalasjvuohtaruhta
+tiltaksmiddel ::: doajmmagasska
+tiltaksmiddel ::: doajmmaruhtta
+tiltaksmiddel ::: dåjmalasjvuohtaruhtta
+tiltaksmiddel ::: dåjmalasjvuohtanævvo
+tiltaksmiddel ::: dåjmalasjvuohtagasska
+universitetsfellesskap ::: universitehttasiebrrevuohta
+festivalstøtteordning ::: festivállaásadus
+festivalstøtteordning ::: festivállaårnik
+finanstilsyn ::: finánssagæhttjo
+museumstilskuddsordning ::: dávvervuorkkádoarjjaårnik
+ørretkonsesjon ::: dábmukdoajmma
+likestillingsminister ::: dásseárvvoministar
+jordbruksforvaltning ::: ednambarggoháldadus
+jordbruksforvaltning ::: ednamháldadibme
+tolkningsresultat ::: dádjadusboahto
+formidlingsområde ::: gaskostimeednam
+formidlingsområde ::: gaskostimesadje
+formidlingsområde ::: gaskostimednam
+formidlingsområde ::: gaskostimguovllo
+formidlingsområde ::: gaskostimsadje
+formidlingsområde ::: gaskostimeguovllo
+formidlingsområde ::: gaskostimguohtomednam
+formidlingsområde ::: gaskostimeguohtomednam
+formidlingsområde ::: gaskostimesuorgge
+rettspraksis ::: duollahárjjidallam
+museumskontor ::: dávvervuorkkábarggokontåvrrå
+revisjonsutvalg ::: dárkastiddjejuohko
+revisjonsutvalg ::: dárkastusjuohko
+revisjonsutvalg ::: dárkastiddjejuogos
+revisjonsutvalg ::: dárkastusjuogos
+revisjonsutvalg ::: dárkastiddjenammadus
+foretakspensjonslov ::: dåjmadahkaruhtta
+foretakspensjonslov ::: dåjmadahkaruhta
+rettssystem ::: duollasuorgge
+rettssystem ::: duollavuohke
+rettssystem ::: duollavuogádahka
+utviklingsforum ::: åvddånahttemsadje
+voksenopplæringsplan ::: ållessjattukåhpadusájggom
+helsepolitikk ::: varresvuodapolitihkka
+helsepolitikk ::: varresvuodapolitijkka
+vindkraftsatsing ::: bieggafábmofábmo
+dokumentasjonsarbeid ::: dokumentasjåvnnåbálkká
+dokumentasjonsarbeid ::: dokumentasjåvnnååvddånahttembarggo
+dokumentasjonsarbeid ::: dokumentasjåvnnåpládnabarggo
+dokumentasjonsarbeid ::: dokumentasjåvnnådoajmma
+ekspertseminar ::: ássjedåbddeseminárra
+kunnskapskapital ::: doajmmakapitálla
+kunnskapskapital ::: diehtoruhtaåbmudahka
+behandlingsmål ::: giehtadallamamihtto
+behandlingsmål ::: giehtadallamamihttomierre
+behandlingsmål ::: giehtadallamaulmme
+behandlingsmål ::: giehtadallammihtto
+behandlingsmål ::: giehtadallammihttomierre
+behandlingsmål ::: giehtadallammåhkke
+behandlingsmål ::: giehtadallamagiella
+behandlingsmål ::: giehtadallammålla
+behandlingsmål ::: giehtadallamgiella
+ekspertorgan ::: ássjedåbddeorgádna
+kjeledress ::: åbbåbivtas
+fergetjeneste ::: færjjodievnastus
+fergetjeneste ::: færjjoámmát
+fergetjeneste ::: færjjovarresvuodadievnastus
+fergetjeneste ::: færjjovirgge
+kjøkkenregion ::: duroguovllo
+kjøkkenregion ::: durroguovllo
+utviklingssystem ::: åvddånahttemvuohke
+jordbruksdrift ::: ednambarggodoajmmaruhta
+jordbruksdrift ::: ednamdoajmma
+jordbruksdrift ::: ednamsujtto
+jordbruksdrift ::: ednambargodoallo
+jordbruksdrift ::: ednamadoajmma
+jordbruksdrift ::: ednambargosujtto
+jordbruksdrift ::: ednamadoallo
+jordbruksdrift ::: ednamasujtto
+jordbruksdrift ::: ednamdoallo
+jordbruksdrift ::: ednamabarggo
+jordbruksdrift ::: ednambarggodoallo
+jordbruksdrift ::: ednambarggosujtto
+jordbruksdrift ::: ednambargodoajmmaruhta
+jordbruksdrift ::: ednambarggobarggo
+jordbruksdrift ::: ednambargodoajmma
+jordbruksdrift ::: ednambargobarggo
+jordbruksdrift ::: ednamdoajmmaruhta
+jordbruksdrift ::: ednamadoajmmaruhta
+husholdningsøkonomi ::: viessobarggo
+husholdningsøkonomi ::: viesobarggo
+tverrsnittsanalyse ::: doaressárgastahka
+tverrsnittsanalyse ::: doarestjuohpadus
+vindkraftenergi ::: bieggafábmofábmo
+virkemiddelramme ::: vájkkudimnævvobirám
+tilbudstidspunkt ::: fálaldahkamuddo
+revisorlov ::: dárkastiddjeskåvllåláhka
+revisorlov ::: dárkastiddjehievedus
+støttetjeneste ::: doarjjadievnastus
+støttetjeneste ::: doarjjavarresvuodadievnastus
+støttetjeneste ::: doarjjaámmát
+støttetjeneste ::: doarjjavirgge
+grunnpakkeavgift ::: ednamskurppo
+grunnpakkeavgift ::: ednamæjgátpáhkke
+grunnpakkeavgift ::: ednamháldaduspáhkke
+grunnpakkeavgift ::: ednamæjgátskurppo
+grunnpakkeavgift ::: ednamháldadusskurppo
+grunnpakkeavgift ::: ednamæjgátpáhkka
+grunnpakkeavgift ::: ednamháldaduspáhkka
+grunnpakkeavgift ::: ednampáhkke
+kraftavtale ::: fábmosjiehtadibme
+kraftavtale ::: fábmobarggosjiehtadus
+kraftavtale ::: fábmolihtudibme
+planinitiativ ::: dássedåjmalasjvuohta
+reinforskning ::: boatsojbarggoguoradallam
+reinforskning ::: boatsojguohtomaguoradallam
+reinforskning ::: boatsojguohtomguoradallam
+reinforskning ::: boahttsubiergoguoradallam
+reinforskning ::: boatsojbargoguoradallam
+reinforskning ::: boahttsubierggoguoradallam
+reinforskning ::: boatsojbarggoåtsådibme
+reinforskning ::: boahttsubierggoåtsådibme
+fylkeshusflidslag ::: fylkkavæddjaduodje
+fylkeshusflidslag ::: fylkapládnaduodje
+fylkeshusflidslag ::: fylkkabelludahkaduodje
+fylkeshusflidslag ::: fylkkapládnaduodje
+museumsforum ::: dávvervuorkkáforum
+museumsforum ::: dávvervuorkkásadje
+avgiftsendring ::: divutrievddam
+avgiftsendring ::: divutrievddadibme
+avgiftsendring ::: divudarievddadibme
+avgiftsendring ::: divutrievddadus
+avgiftsendring ::: divudarievddadus
 museumssamarbeid ::: museaaktisasjbarggo
 teltstang ::: lávvomuorra
 teltstang ::: goademuorra

@@ -5206,7 +5206,133 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">rette på</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">divvut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">viske vekk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sihkkut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bevege seg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">labudit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tilpasse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hiebadallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kjede</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guhkalussjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tegne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjuorggat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">stoppe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ganugattet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ferdigstille</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ållidit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">undergrave</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">rassjut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">samle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjoahkkit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">melke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">båhtjet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">re opp</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">láhtjet</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
+rette på ::: lågådit
+bevege seg ::: æjvvurit
+bevege seg ::: lulestit
+bevege seg ::: doargástallat
+bevege seg ::: svatjádit
+montere ::: tjoaggut
 stabilisere ::: doarjjalit
 blande ::: sehkanit
 meisle ::: ferrat

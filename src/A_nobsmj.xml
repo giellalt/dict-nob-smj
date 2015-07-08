@@ -2423,6 +2423,26 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">underordnet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gájkvuollásasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">rund</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">jårbbåt</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
 primitiv ::: avtagærddásasj
 næringssvak ::: rassje
