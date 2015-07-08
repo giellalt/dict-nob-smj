@@ -1,4 +1,4 @@
-#most is good
+#what is marked with + are good candidates
 
 fondssøknad	foanndaåhtsåm	foandaohcan	0	0	0	0
 +fondssøknad	foanndaåhtsåmus	foandaohcan	0	0	0	0
@@ -835,27 +835,27 @@ pengespill	biednigaspella	ruhtaspeallu	5	0	2	0
 +tilleggsprotokoll	duoddebievddegirjje	lassiprotokolla/lassibeavdegirji	4	0	1	0
 tilleggsprotokoll	duottebievddegirjje	lassiprotokolla/lassibeavdegirji	4	0	1	0
 
-+økonomikontroll	ekonomiddjadárkestibme	ekonomiijadárkkisteapmi	0	0	0	0 #here
++økonomikontroll	ekonomiddjadárkestibme	ekonomiijadárkkisteapmi	0	0	0	0
 økonomikontroll	ekonomijadárkestibme	ekonomiijadárkkisteapmi	0	0	0	0
 
 resultatkontroll	boahtodárkestibme	boađusdárkkástus	2	0	1	0
-resultatkontroll	boadosdárkestibme	boađusdárkkástus	2	0	1	0
++resultatkontroll	boadosdárkestibme	boađusdárkkástus	2	0	1	0
 
 landbruksformål	ednamaulmme	eanadoalloáigumuš/eanandoalloulbmil	3	0	1	0
 landbruksformål	ednamulmme	eanadoalloáigumuš/eanandoalloulbmil	3	0	1	0
-landbruksformål	ednambarggoulmme	eanadoalloáigumuš/eanandoalloulbmil	3	0	1	0
++landbruksformål	ednambarggoulmme	eanadoalloáigumuš/eanandoalloulbmil	3	0	1	0
 landbruksformål	ednambargoulmme	eanadoalloáigumuš/eanandoalloulbmil	3	0	1	0
 landbruksformål	ednamájggomus	eanadoalloáigumuš/eanandoalloulbmil	3	0	1	0
 landbruksformål	ednambarggoájggomus	eanadoalloáigumuš/eanandoalloulbmil	3	0	1	0
 
 jordbruksformål	ednamaulmme	eanadoalloulbmil/eanadoallodoaibma/eanandoalloulbmil	7	0	1	0
 jordbruksformål	ednamulmme	eanadoalloulbmil/eanadoallodoaibma/eanandoalloulbmil	7	0	1	0
-jordbruksformål	ednambarggoulmme	eanadoalloulbmil/eanadoallodoaibma/eanandoalloulbmil	7	0	1	0
++jordbruksformål	ednambarggoulmme	eanadoalloulbmil/eanadoallodoaibma/eanandoalloulbmil	7	0	1	0
 jordbruksformål	ednambargoulmme	eanadoalloulbmil/eanadoallodoaibma/eanandoalloulbmil	7	0	1	0
 jordbruksformål	ednamájggomus	eanadoalloulbmil/eanadoallodoaibma/eanandoalloulbmil	7	0	1	0
 jordbruksformål	ednambarggoájggomus	eanadoalloulbmil/eanadoallodoaibma/eanandoalloulbmil	7	0	1	0
 
-dokumentasjonsformål	dokumentasjåvnnåulmme	duođaštanáigumuš	1	0	1	0
++dokumentasjonsformål	dokumentasjåvnnåulmme	duođaštanáigumuš	1	0	1	0
 dokumentasjonsformål	dokumentasjåvnnåájggomus	duođaštanáigumuš	1	0	1	0
 
 behandlingsmål	giehtadallamagiella	dikšunulbmil	1	0	1	0
@@ -863,30 +863,30 @@ behandlingsmål	giehtadallamgiella	dikšunulbmil	1	0	1	0
 behandlingsmål	giehtadallammålla	dikšunulbmil	1	0	1	0
 behandlingsmål	giehtadallammåhkke	dikšunulbmil	1	0	1	0
 behandlingsmål	giehtadallamaulmme	dikšunulbmil	1	0	1	0
-behandlingsmål	giehtadallamulmme	dikšunulbmil	1	0	1	0
++behandlingsmål	giehtadallamulmme	dikšunulbmil	1	0	1	0
 behandlingsmål	giehtadallamamihttomierre	dikšunulbmil	1	0	1	0
 behandlingsmål	giehtadallammihttomierre	dikšunulbmil	1	0	1	0
 behandlingsmål	giehtadallamamihtto	dikšunulbmil	1	0	1	0
 behandlingsmål	giehtadallammihtto	dikšunulbmil	1	0	1	0
 
 klimaspørsmål	dálkádahkaássje	dálkkádatgažaldat	4	0	1	0
-klimaspørsmål	dálkádahkagatjálvis	dálkkádatgažaldat	4	0	1	0
++klimaspørsmål	dálkádahkagatjálvis	dálkkádatgažaldat	4	0	1	0
 
 opplysningsspørsmål	diehtoássje	čuvgehusgažaldat	1	0	1	0
-opplysningsspørsmål	diehtogatjálvis	čuvgehusgažaldat	1	0	1	0
++opplysningsspørsmål	diehtogatjálvis	čuvgehusgažaldat	1	0	1	0
 
 rettskrivningsspørsmål	duollatjállemássje	riektačállinášši/riektačállingažaldat	1	0	1	0
-rettskrivningsspørsmål	duollatjállemgatjálvis	riektačállinášši/riektačállingažaldat	1	0	1	0
++rettskrivningsspørsmål	duollatjállemgatjálvis	riektačállinášši/riektačállingažaldat	1	0	1	0
 
 jordbruksspørsmål	ednamássje	eanandoalloášši/eanadoalloášši	2	0	1	0
 jordbruksspørsmål	ednambarggoássje	eanandoalloášši/eanadoalloášši	2	0	1	0
 jordbruksspørsmål	ednamgatjálvis	eanandoalloášši/eanadoalloášši	2	0	1	0
-jordbruksspørsmål	ednambarggogatjálvis	eanandoalloášši/eanadoalloášši	2	0	1	0
++jordbruksspørsmål	ednambarggogatjálvis	eanandoalloášši/eanadoalloášši	2	0	1	0
 
 landrettighetsspørsmål	ednamarievtesvuohtaássje	eananvuoigatvuođagažaldat	1	0	1	0
 landrettighetsspørsmål	ednamarievtesvuohtagatjálvis	eananvuoigatvuođagažaldat	1	0	1	0
 landrettighetsspørsmål	bájkkerievtesvuohtagatjálvis	eananvuoigatvuođagažaldat	1	0	1	0
-landrettighetsspørsmål	ednamrievtesvuohtagatjálvis	eananvuoigatvuođagažaldat	1	0	1	0
++landrettighetsspørsmål	ednamriektágatjálvis	eananvuoigatvuođagažaldat	1	0	1	0
 landrettighetsspørsmål	ednambarggorievtesvuohtagatjálvis	eananvuoigatvuođagažaldat	1	0	1	0
 
 vektmål	dæddogiella	deaddomihttu	1	0	1	0
@@ -898,13 +898,13 @@ vektmål	dæddomihtto	deaddomihttu	1	0	1	0
 
 likestillingsteam	dásseárvvojuohko	dásseárvojoavku	1	0	1	0
 likestillingsteam	dássádusjuohko	dásseárvojoavku	1	0	1	0
-likestillingsteam	dássádusjuogos	dásseárvojoavku	1	0	1	0
++likestillingsteam	dássádusjuogos	dásseárvojoavku	1	0	1	0
 
 konsekvensutredningsprogram	boadosguoradallamåvddånahttemprográmma	váikkuhaniskančielggadusprográmma/váikkuhanguorahallanprográmma	3	0	1	0
-konsekvensutredningsprogram	boadosåvddånahttemprográmma	váikkuhaniskančielggadusprográmma/váikkuhanguorahallanprográmma	3	0	1	0
++konsekvensutredningsprogram	boadostjielggidusprográmma	váikkuhaniskančielggadusprográmma/váikkuhanguorahallanprográmma	3	0	1	0
 
 dokumentasjonsprogram	dokumentasjåvnnååvddånahttemprográmma	duođaštanprojeakta	1	0	1	0
-dokumentasjonsprogram	dokumentasjåvnnåprográmma	duođaštanprojeakta	1	0	1	0
++dokumentasjonsprogram	dokumentasjåvnnåprográmma	duođaštanprojeakta	1	0	1	0
 
 familiemedlem	familljaájrra	bearašlahttu/bearašmiellahttu	6	0	3	0
 familiemedlem	fuolkkeájrra	bearašlahttu/bearašmiellahttu	6	0	3	0
@@ -922,11 +922,11 @@ familiemedlem	familljaájras	bearašlahttu/bearašmiellahttu	6	0	3	0
 familiemedlem	fuolkkeájras	bearašlahttu/bearašmiellahttu	6	0	3	0
 
 støttesystem	doarjjavuogádahka	doarjjavuogádat	5	0	4	0
-støttesystem	doarjjasystiebma	doarjjavuogádat	5	0	4	0
++støttesystem	doarjjasystiebma	doarjjavuogádat	5	0	4	0
 støttesystem	doarjjasuorgge	doarjjavuogádat	5	0	4	0
 støttesystem	doarjjavuohke	doarjjavuogádat	5	0	4	0
 
-reguleringssystem	dulvvadimesystiebma	regulerenvuogádat/muddenvuogádat	7	0	1	0
++reguleringssystem	regulierimsystiebma	regulerenvuogádat/muddenvuogádat	7	0	1	0
 reguleringssystem	dulvvadimsystiebma	regulerenvuogádat/muddenvuogádat	7	0	1	0
 reguleringssystem	dulvvadimesuorgge	regulerenvuogádat/muddenvuogádat	7	0	1	0
 reguleringssystem	dulvvadimsuorgge	regulerenvuogádat/muddenvuogádat	7	0	1	0
@@ -934,7 +934,7 @@ reguleringssystem	dulvvadimevuohke	regulerenvuogádat/muddenvuogádat	7	0	1	0
 reguleringssystem	dulvvadimvuohke	regulerenvuogádat/muddenvuogádat	7	0	1	0
 
 avgiftssystem	divutvuogádahka	divatvuogádat	1	0	1	0
-avgiftssystem	divudasystiebma	divatvuogádat	1	0	1	0
++avgiftssystem	divudasystiebma	divatvuogádat	1	0	1	0
 avgiftssystem	divutsystiebma	divatvuogádat	1	0	1	0
 avgiftssystem	divudasuorgge	divatvuogádat	1	0	1	0
 avgiftssystem	divutsuorgge	divatvuogádat	1	0	1	0
@@ -942,97 +942,97 @@ avgiftssystem	divudavuohke	divatvuogádat	1	0	1	0
 avgiftssystem	divutvuohke	divatvuogádat	1	0	1	0
 
 rettssystem	duollavuogádahka	riektevuogádat	8	0	10	0
-rettssystem	duollasystiebma	riektevuogádat	8	0	10	0
++rettssystem	riektásystiebma	riektevuogádat	8	0	10	0
 rettssystem	duollasuorgge	riektevuogádat	8	0	10	0
 rettssystem	duollavuohke	riektevuogádat	8	0	10	0
 
-reinsykdom	boatsojguohtomdávdda	boazodávda	1	0	1	0
++reinsykdom	boatsojdávdda	boazodávda	1	0	1	0
 reinsykdom	boatsojguohtomavihke	boazodávda	1	0	1	0
 reinsykdom	boatsojguohtomvihke	boazodávda	1	0	1	0
 
 jordeiendom	ednamåbmudahka	eananopmodat	2	0	0	0
 jordeiendom	ednambarggoåbmudahka	eananopmodat	2	0	0	0
-jordeiendom	ednamæjggo	eananopmodat	2	0	0	0
++jordeiendom	ednamæjggo	eananopmodat	2	0	0	0
 
-handlingsrom	doajmmaladnja	doaibmamunni/doaibmanviidodat/doaibmanmunni/doaibmanvejolašvuohta/doaibmanliiba/doaibmavejolašvuohta	23	0	1	0
++handlingsrom	doajmmavejulasjvuohta	doaibmamunni/doaibmanviidodat/doaibmanmunni/doaibmanvejolašvuohta/doaibmanliiba/doaibmavejolašvuohta	23	0	1	0
 handlingsrom	doajmmavuobman	doaibmamunni/doaibmanviidodat/doaibmanmunni/doaibmanvejolašvuohta/doaibmanliiba/doaibmavejolašvuohta	23	0	1	0
 
 formidlingsform	gaskostimevuohke	gaskkustanvuohki	1	0	1	0
-formidlingsform	gaskostimvuohke	gaskkustanvuohki	1	0	1	0
++formidlingsform	gaskostimvuohke	gaskkustanvuohki	1	0	1	0
 
 reguleringsform	dulvvadimevuohke	regulerenhápmi	3	0	1	0
-reguleringsform	dulvvadimvuohke	regulerenhápmi	3	0	1	0
++reguleringsform	regulierimvuohke	regulerenhápmi	3	0	1	0
 
-transportform	fievrrovuohke	fievrridanvuohki/fievrredanvuohki	1	0	1	0
++transportform	fievrrovuohke	fievrridanvuohki/fievrredanvuohki	1	0	1	0
 transportform	fievrovuohke	fievrridanvuohki/fievrredanvuohki	1	0	1	0
 transportform	fievrrohábme	fievrridanvuohki/fievrredanvuohki	1	0	1	0
 
 doktorgradsstudium	doktorgrádaåhpadus	doavttergrádaoahppu	3	0	1	0
-doktorgradsstudium	dåktårgrádaåhpadus	doavttergrádaoahppu	3	0	1	0
++doktorgradsstudium	dåktårgrádaåhpadus	doavttergrádaoahppu	3	0	1	0
 
-museumsforum	dávvervuorkkáságastallamsadje	museaforum	2	0	1	0
++museumsforum	dávvervuorkkáságastallamsadje	museaforum	2	0	1	0
 museumsforum	dávvervuorkkásadje	museaforum	2	0	1	0
 museumsforum	dávvervuorkkáforum	museaforum	2	0	1	0
 
-vindkraftplan	bieggafábmoliebma	bieggafápmoplána	4	0	2	0
+vindkraftplan	bieggafábmopládna	bieggafápmoplána	4	0	2	0
 vindkraftplan	bieggafábmofábmo	bieggafápmoplána	4	0	2	0
 
 fylkesvåpen	fylkkavæddjaværjjo	fylkkagovastat	1	0	1	0
 fylkesvåpen	fylkkabelludahkaværjjo	fylkkagovastat	1	0	1	0
-fylkesvåpen	fylkkaværjjo	fylkkagovastat	1	0	1	0
++fylkesvåpen	fylkkaværjjo	fylkkagovastat	1	0	1	0
 fylkesvåpen	fylkkapládnaværjjo	fylkkagovastat	1	0	1	0
 fylkesvåpen	fylkkavæddjadoarroværjjo	fylkkagovastat	1	0	1	0
 fylkesvåpen	fylkkapládnadoarroværjjo	fylkkagovastat	1	0	1	0
 fylkesvåpen	fylkapládnadoarroværjjo	fylkkagovastat	1	0	1	0
 
 reinsogn	boatsojguohtomasuohkan	boazosuohkan/guovlu	2	0	1027	0
-reinsogn	boatsojguohtomsuohkan	boazosuohkan/guovlu	2	0	1027	0
++reinsogn	boatsojsuohkan	boazosuohkan/guovlu	2	0	1027	0
 
 fornorskningsmann	dárojduhttemguojmme	dáruiduhttinolmmái	1	0	1	0
 fornorskningsmann	dárojduhttemalmasj	dáruiduhttinolmmái	1	0	1	0
 fornorskningsmann	dárojduhttemulmusj	dáruiduhttinolmmái	1	0	1	0
 fornorskningsmann	dárojduhttemdiedaålmåj	dáruiduhttinolmmái	1	0	1	0
-fornorskningsmann	dárojduhttemålmåj	dáruiduhttinolmmái	1	0	1	0
++fornorskningsmann	dárojduhttemålmåj	dáruiduhttinolmmái	1	0	1	0
 
 kjøkkenregion	durroguovllo	gievkkanossodat	1	0	1	0
 kjøkkenregion	duroguovllo	gievkkanossodat	1	0	1	0
-kjøkkenregion	durroregiåvnnå	gievkkanossodat	1	0	1	0
++kjøkkenregion	gievkanregiåvnnå	gievkkanossodat	1	0	1	0
 
-museumsregion	dávvervuorkkáguovllo	museaguovlu	1	0	1	0
-museumsregion	dávvervuorkkáregiåvnnå	museaguovlu	1	0	1	0
++museumsregion	dávvervuorkkáguovllo	museaguovlu	1	0	1	0
++museumsregion	dávvervuorkkáregiåvnnå	museaguovlu	1	0	1	0
 
 domstoladministrasjon	diggeháldadibme	duopmostuollohálddahus	3	0	4	0
 domstoladministrasjon	duobbmoståvllåháldadibme	duopmostuollohálddahus	3	0	4	0
-domstoladministrasjon	duobbmoståvllåháldadus	duopmostuollohálddahus	3	0	4	0
++domstoladministrasjon	duobbmoståvllåháldadus	duopmostuollohálddahus	3	0	4	0
 
 landbruksadministrasjon	ednamháldadibme	eanandoallohálddahus	1	0	1	0
 landbruksadministrasjon	ednambarggoháldadibme	eanandoallohálddahus	1	0	1	0
-landbruksadministrasjon	ednambarggoháldadus	eanandoallohálddahus	1	0	1	0
++landbruksadministrasjon	ednambarggoháldadus	eanandoallohálddahus	1	0	1	0
 
 museumsadministrasjon	dávvervuorkkáháldadibme	museahálddahus	1	0	1	0
-museumsadministrasjon	dávvervuorkkáháldadus	museahálddahus	1	0	1	0
++museumsadministrasjon	dávvervuorkkáháldadus	museahálddahus	1	0	1	0
 
 ørretkonsesjon	dábmukdoajmma	dápmotkonsešuvdna	1	0	1	0
-ørretkonsesjon	dábmukdoajmmaloahpe	dápmotkonsešuvdna	1	0	1	0
-ørretkonsesjon	dábmukkonsesjåvnnå	dápmotkonsešuvdna	1	0	1	0
++ørretkonsesjon	dábmukdoajmmaloahpe	dápmotkonsešuvdna	1	0	1	0
++ørretkonsesjon	dábmukkonsesjåvnnå	dápmotkonsešuvdna	1	0	1	0
 
 domstolkommisjon	diggekommisjåvnnå	duopmostuollokommišuvdna	1	0	1	0
-domstolkommisjon	duobbmoståvllåkommisjåvnnå	duopmostuollokommišuvdna	1	0	1	0
++domstolkommisjon	duobbmoståvllåkommisjåvnnå	duopmostuollokommišuvdna	1	0	1	0
 
 domstolskommisjon	diggekommisjåvnnå	duopmostuollokommišuvdna	0	0	1	0
-domstolskommisjon	duobbmoståvllåkommisjåvnnå	duopmostuollokommišuvdna	0	0	1	0
++domstolskommisjon	duobbmoståvllåkommisjåvnnå	duopmostuollokommišuvdna	0	0	1	0
 
 sekretariatsfunksjon	dåjmadahkadoajmma	čállingoddedoaibma	10	0	3	0
-sekretariatsfunksjon	dåjmadahkafunksjåvnnå	čállingoddedoaibma	10	0	3	0
++sekretariatsfunksjon	dåjmadahkafunksjåvnnå	čállingoddedoaibma	10	0	3	0
 
 støttepunktfunksjon	doarjjatjuorgga	doarjjabáikedoaibma	1	0	1	0
 støttepunktfunksjon	doarjjaájgge	doarjjabáikedoaibma	1	0	1	0
 støttepunktfunksjon	doarjjatjuokkes	doarjjabáikedoaibma	1	0	1	0
 
-tjenesteproduksjon	dievnnobuvtadibme	bálvalusbuvttadeapmi	27	0	1	0
++tjenesteproduksjon	dievnnobuvtadibme	bálvalusbuvttadeapmi	27	0	1	0
 tjenesteproduksjon	dievnobuvtadibme	bálvalusbuvttadeapmi	27	0	1	0
 tjenesteproduksjon	dievnastusbuvtadibme	bálvalusbuvttadeapmi	27	0	1	0
-tjenesteproduksjon	dievnnobuvtadus	bálvalusbuvttadeapmi	27	0	1	0
++tjenesteproduksjon	dievnnobuvtadus	bálvalusbuvttadeapmi	27	0	1	0
 tjenesteproduksjon	dievnobuvtadus	bálvalusbuvttadeapmi	27	0	1	0
 tjenesteproduksjon	dievnastusbuvtadus	bálvalusbuvttadeapmi	27	0	1	0
 
@@ -1040,9 +1040,9 @@ kraftforproduksjon	fábmoálggo	fuođđarbuvttadus	1	0	1	0
 kraftforproduksjon	fábmoåvddå	fuođđarbuvttadus	1	0	1	0
 
 museumsinstitusjon	dávvervuorkkáásadus	museaásahus	1	0	1	0
-museumsinstitusjon	dávvervuorkkáinstitusjåvnnå	museaásahus	1	0	1	0
++museumsinstitusjon	dávvervuorkkáinstitusjåvnnå	museaásahus	1	0	1	0
 
-jordvern	ednamasuodjalibme	eanangáhtten/eanagáhtten/eanansuodjaleapmi	7	0	1	0
++jordvern	ednamasuodjalibme	eanangáhtten/eanagáhtten/eanansuodjaleapmi	7	0	1	0
 jordvern	ednamsuodjalibme	eanangáhtten/eanagáhtten/eanansuodjaleapmi	7	0	1	0
 jordvern	ednambarggosuodjalibme	eanangáhtten/eanagáhtten/eanansuodjaleapmi	7	0	1	0
 jordvern	ednambargosuodjalibme	eanangáhtten/eanagáhtten/eanansuodjaleapmi	7	0	1	0
@@ -1051,9 +1051,9 @@ jordvern	ednamsuodjalus	eanangáhtten/eanagáhtten/eanansuodjaleapmi	7	0	1	0
 jordvern	ednambarggosuodjalus	eanangáhtten/eanagáhtten/eanansuodjaleapmi	7	0	1	0
 jordvern	ednambargosuodjalus	eanangáhtten/eanagáhtten/eanansuodjaleapmi	7	0	1	0
 
-finanstilsyn	finánssabærrájgæhttje	ruhtadanbearráigeahčču/ruhtadangeahčču	3	0	0	0
++finanstilsyn	finánssabærrájgæhttje	ruhtadanbearráigeahčču/ruhtadangeahčču	3	0	0	0
 finanstilsyn	finánssagæhttjo	ruhtadanbearráigeahčču/ruhtadangeahčču	3	0	0	0
-finanstilsyn	finánssabærrájgæhttjo	ruhtadanbearráigeahčču/ruhtadangeahčču	3	0	0	0
++finanstilsyn	finánssabærrájgæhttjo	ruhtadanbearráigeahčču/ruhtadangeahčču	3	0	0	0
 
 myndighetstilsyn	fábmudahkabærrájgæhttje	eiseváldegoziheapmi	1	0	0	0
 myndighetstilsyn	fábmogisvuohtabærrájgæhttje	eiseváldegoziheapmi	1	0	0	0
@@ -1068,7 +1068,7 @@ myndighetstilsyn	fábmodusgæhttjo	eiseváldegoziheapmi	1	0	0	0
 møtedato	diggebiejvve	čoahkkindáhton/čoahkkinbeaivi	44	0	5	0
 møtedato	dikkebiejvve	čoahkkindáhton/čoahkkinbeaivi	44	0	5	0
 
-energiselskap	energiddjavidnudahka	energiijafitnodat	1	0	1	0
++energiselskap	energiddjavidnudahka	energiijafitnodat	1	0	1	0
 energiselskap	enersjiddjavidnudahka	energiijafitnodat	1	0	1	0
 energiselskap	enersjidjavidnudahka	energiijafitnodat	1	0	1	0
 energiselskap	energiddjasiebrre	energiijafitnodat	1	0	1	0
@@ -1081,7 +1081,7 @@ energiselskap	enersjiddjaávvudallam	energiijafitnodat	1	0	1	0
 
 fylkesselskap	fylkkavæddjavidnudahka	fylkkafitnodat	1	0	1	0
 fylkesselskap	fylkkabelludahkavidnudahka	fylkkafitnodat	1	0	1	0
-fylkesselskap	fylkkavidnudahka	fylkkafitnodat	1	0	1	0
++fylkesselskap	fylkkavidnudahka	fylkkafitnodat	1	0	1	0
 fylkesselskap	fylkavidnudahka	fylkkafitnodat	1	0	1	0
 fylkesselskap	fylkkapládnavidnudahka	fylkkafitnodat	1	0	1	0
 fylkesselskap	fylkapládnavidnudahka	fylkkafitnodat	1	0	1	0
@@ -1098,83 +1098,83 @@ fylkesselskap	fylkkaávvudallam	fylkkafitnodat	1	0	1	0
 fylkesselskap	fylkkapládnaávvudallam	fylkkafitnodat	1	0	1	0
 fylkesselskap	fylkapládnaávvudallam	fylkkafitnodat	1	0	1	0
 
-tilskuddsbeløp	doarjjaruhta	doarjjasubmi	10	0	3	0
++tilskuddsbeløp	doarjjaruhta	doarjjasubmi	10	0	3	0
 tilskuddsbeløp	doarjjaruhtta	doarjjasubmi	10	0	3	0
 
-vindkraftseminar	bieggafábmoliebma	bieggafápmoseminára	1	0	1	0
++vindkraftseminar	bieggafábmoseminárra	bieggafápmoseminára	1	0	1	0
 vindkraftseminar	bieggafábmofábmo	bieggafápmoseminára	1	0	1	0
 
-museumsansvar	dávvervuorkkáåvdåsvásstádus	museaovddasvástádus	2	0	2	0
++museumsansvar	dávvervuorkkáåvdåsvásstádus	museaovddasvástádus	2	0	2	0
 museumsansvar	dávvervuorkkávásstádus	museaovddasvástádus	2	0	2	0
 
 redaksjonsansvar	dåjmadusvásstádus	doaimmahatovddasvástádus	1	0	1	0
-redaksjonsansvar	dåjmadusåvdåsvásstádus	doaimmahatovddasvástádus	1	0	1	0
++redaksjonsansvar	dåjmadusåvdåsvásstádus	doaimmahatovddasvástádus	1	0	1	0
 
 redaksjonsmedarbeider	dåjmadusguojmmebargge	redakšuvdnabargi	1	0	1	0
-redaksjonsmedarbeider	dåjmadusbarggoguojmme	redakšuvdnabargi	1	0	1	0
++redaksjonsmedarbeider	dåjmadusbarggoguojmme	redakšuvdnabargi	1	0	1	0
 
 driftsmedarbeider	doajmmaruhtabargge	doaibmabargi	1	0	1	0
 driftsmedarbeider	doajmmaruhtaguojmmebargge	doaibmabargi	1	0	1	0
 driftsmedarbeider	doalloguojmmebargge	doaibmabargi	1	0	1	0
 driftsmedarbeider	doalobargge	doaibmabargi	1	0	1	0
-driftsmedarbeider	doajmmabarggoguojmme	doaibmabargi	1	0	1	0
++driftsmedarbeider	doajmmabarggoguojmme	doaibmabargi	1	0	1	0
 driftsmedarbeider	doajmmaruhtabarggoguojmme	doaibmabargi	1	0	1	0
 driftsmedarbeider	doalobarggoguojmme	doaibmabargi	1	0	1	0
 
 filmarbeider	filmabargge	?????	2	0	0	0
-filmarbeider	filmmabargge	?????	2	0	0	0
++filmarbeider	filmmabargge	?????	2	0	0	0
 
 møtekalender	diggerijmmo	čoahkkinkaleanddar	9	0	1	0
-møtekalender	dikkerijmmo	čoahkkinkaleanddar	9	0	1	0
++møtekalender	tjåhkanimrijmmo	čoahkkinkaleanddar	9	0	1	0
 
 reguleringslager	dulvvadimevuorkudahka	regulerenrádju/heivehanrádju/muddenrájus	2	0	1	0
-reguleringslager	dulvvadimvuorkudahka	regulerenrádju/heivehanrádju/muddenrájus	2	0	1	0
++reguleringslager	regulierimvuorkudahka	regulerenrádju/heivehanrádju/muddenrájus	2	0	1	0
 reguleringslager	dulvvadimevuorkudak	regulerenrádju/heivehanrádju/muddenrájus	2	0	1	0
 reguleringslager	dulvvadimvuorkudak	regulerenrádju/heivehanrádju/muddenrájus	2	0	1	0
 
 transportveier	fievrroluodda	fievrrádusgeaidnu	1	0	1	0
 transportveier	fievroluodda	fievrrádusgeaidnu	1	0	1	0
-transportveier	fievrrovæddja	fievrrádusgeaidnu	1	0	1	0
-transportveier	fievrrorahte	fievrrádusgeaidnu	1	0	1	0
++transportveier	fievrrovæddja	fievrrádusgeaidnu	1	0	1	0
++transportveier	fievrrorahte	fievrrádusgeaidnu	1	0	1	0
 transportveier	fievrorahte	fievrrádusgeaidnu	1	0	1	0
-transportveier	fievrrogæjnno	fievrrádusgeaidnu	1	0	1	0
++transportveier	fievrrogæjnno	fievrrádusgeaidnu	1	0	1	0
 
 møtedeltaker	diggeoassevállde	čoahkkináirras/čoahkkinoasseváldi	3	0	1	0
-møtedeltaker	diggeoassálasste	čoahkkináirras/čoahkkinoasseváldi	3	0	1	0
++møtedeltaker	tjåhkanimoassálasste	čoahkkináirras/čoahkkinoasseváldi	3	0	1	0
 møtedeltaker	diggeoassálasstem	čoahkkináirras/čoahkkinoasseváldi	3	0	1	0
 
-ekstranummer	duoddenummar	liigenummir	1	0	1	0
++ekstranummer	duoddenummar	liigenummir	1	0	1	0
 ekstranummer	duottenummar	liigenummir	1	0	1	0
 
-informasjonstjener	diehtojuohkemdievnár	diehtojuohkinbálvalus	1	0	10	0
-informasjonstjener	diehtodievnár	diehtojuohkinbálvalus	1	0	10	0
++informasjonstjener	diehtojuohkemdievnár	diehtojuohkinbálvalus	1	0	10	0
++informasjonstjener	diehtodievnár	diehtojuohkinbálvalus	1	0	10	0
 
 tilleggslærer	duoddeoahppopládna	liigeoahpaheaddji	1	0	1	0
 tilleggslærer	duoddeoahppa	liigeoahpaheaddji	1	0	1	0
 tilleggslærer	duotteoahppa	liigeoahpaheaddji	1	0	1	0
 tilleggslærer	duoddegiellaåhpadiddje	liigeoahpaheaddji	1	0	1	0
-tilleggslærer	duoddeåhpadiddje	liigeoahpaheaddji	1	0	1	0
++tilleggslærer	duoddeåhpadiddje	liigeoahpaheaddji	1	0	1	0
 tilleggslærer	duoddeskåvlik	liigeoahpaheaddji	1	0	1	0
 tilleggslærer	duoddeoahppo	liigeoahpaheaddji	1	0	1	0
 tilleggslærer	duotteoahppo	liigeoahpaheaddji	1	0	1	0
 tilleggslærer	duoddeåhpadiddjeåhpadus	liigeoahpaheaddji	1	0	1	0
 
-vårsemester	gidájahkebielle	giđđalohkanbadji	2	0	2	0
-vårsemester	gidásemester	giđđalohkanbadji	2	0	2	0
++vårsemester	gidájahkebielle	giđđalohkanbadji	2	0	2	0
++vårsemester	gidásemester	giđđalohkanbadji	2	0	2	0
 
-energiminister	energiddjaministar	energiijaministtar	13	0	3	0
++energiminister	energiddjaministar	energiijaministtar	13	0	3	0
 energiminister	enersjiddjaministar	energiijaministtar	13	0	3	0
 energiminister	enersjidjaministar	energiijaministtar	13	0	3	0
 
 likestillingsminister	dásseárvvoministar	dásseárvoministtar	2	0	3	0
-likestillingsminister	dássádusministar	dásseárvoministtar	2	0	3	0
++likestillingsminister	dássádusministar	dásseárvoministtar	2	0	3	0
 
 landbruksminister	ednamaministar	eanandoalloministtar/eanadoalloministtar	12	0	3	0
 landbruksminister	ednamministar	eanandoalloministtar/eanadoalloministtar	12	0	3	0
-landbruksminister	ednambarggoministar	eanandoalloministtar/eanadoalloministtar	12	0	3	0
++landbruksminister	ednambarggoministar	eanandoalloministtar/eanadoalloministtar	12	0	3	0
 landbruksminister	ednambargoministar	eanandoalloministtar/eanadoalloministtar	12	0	3	0
 
-driftsmønster	doajmmaruhtavuohke	doaibmaminsttar	4	0	1	0
++driftsmønster	doajmmavuohke	doaibmaminsttar	4	0	1	0
 driftsmønster	doalovuohke	doaibmaminsttar	4	0	1	0
 driftsmønster	doajmmagirjos	doaibmaminsttar	4	0	1	0
 driftsmønster	doajmmaruhtagirjos	doaibmaminsttar	4	0	1	0
@@ -1182,42 +1182,42 @@ driftsmønster	doalogirjos	doaibmaminsttar	4	0	1	0
 driftsmønster	doallogirjos	doaibmaminsttar	4	0	1	0
 
 museumskontor	dávvervuorkkábarggokontåvrrå	dávvirvuorkákantuvra	1	0	1	0
-museumskontor	dávvervuorkkákontåvrrå	dávvirvuorkákantuvra	1	0	1	0
++museumskontor	dávvervuorkkákontåvrrå	dávvirvuorkákantuvra	1	0	1	0
 
 familietur	familjamanno	bearašmátki	1	0	1	0
-familietur	familljamanno	bearašmátki	1	0	1	0
++familietur	familljamanno	bearašmátki	1	0	1	0
 familietur	fuolkkemanno	bearašmátki	1	0	1	0
 familietur	fuolkemanno	bearašmátki	1	0	1	0
 
-skitur	bajkakurssa	čuoiganmátki	1	0	2	0
++skitur	tjuojggammanno	čuoiganmátki	1	0	2	0
 skitur	bajkkakurssa	čuoiganmátki	1	0	2	0
 
 mottaksstruktur	duostudahkastruktuvrra	vuostáiváldinstruktuvra	1	0	1	0
-mottaksstruktur	duostudakstruktuvrra	vuostáiváldinstruktuvra	1	0	1	0
++mottaksstruktur	duostudakstruktuvrra	vuostáiváldinstruktuvra	1	0	1	0
 mottaksstruktur	duostudahkahábme	vuostáiváldinstruktuvra	1	0	1	0
 mottaksstruktur	duostudahkahábmekvåvttå	vuostáiváldinstruktuvra	1	0	1	0
 
 fabeldyr	fábeljudo	máinnassivdnádus	1	0	1	0
-fabeldyr	fábeljudos	máinnassivdnádus	1	0	1	0
++fabeldyr	fábeljudos	máinnassivdnádus	1	0	1	0
 
 landbruksutstyr	ednamvædtsak	eanadoallorusttet	1	0	1	0
-landbruksutstyr	ednambarggovædtsak	eanadoallorusttet	1	0	1	0
++landbruksutstyr	ednambarggovædtsak	eanadoallorusttet	1	0	1	0
 
 eksistensvilkår	eksistensadille	birgeneaktu	1	0	1	0
 eksistensvilkår	existensadille	birgeneaktu	1	0	1	0
-eksistensvilkår	eksistænssadille	birgeneaktu	1	0	1	0
++eksistensvilkår	eksistænssaækto	birgeneaktu	1	0	1	0
 eksistensvilkår	eksistænssaækto	birgeneaktu	1	0	1	0
 
 jordbruksoppgjør	ednamaboahto	eanandoallošiehtadus/eanandoallošiehtadallan/eanandoalločoavddus	13	0	0	0
 jordbruksoppgjør	ednamboahto	eanandoallošiehtadus/eanandoallošiehtadallan/eanandoalločoavddus	13	0	0	0
-jordbruksoppgjør	ednambarggoboahto	eanandoallošiehtadus/eanandoallošiehtadallan/eanandoalločoavddus	13	0	0	0
++jordbruksoppgjør	ednambarggoboahto	eanandoallošiehtadus/eanandoallošiehtadallan/eanandoalločoavddus	13	0	0	0
 jordbruksoppgjør	ednambargoboahto	eanandoallošiehtadus/eanandoallošiehtadallan/eanandoalločoavddus	13	0	0	0
 
-energidirektør	energiddjadirekterra	energiijadirektevra	1	0	1	0
++energidirektør	energiddjadirekterra	energiijadirektevra	1	0	1	0
 energidirektør	enersjiddjadirekterra	energiijadirektevra	1	0	1	0
 energidirektør	enersjidjadirekterra	energiijadirektevra	1	0	1	0
 
-fullpris	dievahadde	dievashaddi	0	0	0	0
++fullpris	dievashadde	dievashaddi	0	0	0	0
 fullpris	dievvahadde	dievashaddi	0	0	0	0
 fullpris	dievahievedibme	dievashaddi	0	0	0	0
 fullpris	dievvahievedibme	dievashaddi	0	0	0	0
@@ -1230,23 +1230,23 @@ fullpris	dievasgudnebálkká	dievashaddi	0	0	0	0
 fullpris	dievasbálkká	dievashaddi	0	0	0	0
 
 rettsikkerhetspris	duollavissesvuohta	riektesihkarvuođabálkkašupmi	1	0	1	0
-rettsikkerhetspris	duollatjårggisvuohta	riektesihkarvuođabálkkašupmi	1	0	1	0
++rettsikkerhetspris	riektáoaggásvuohtaguddnebálkká	riektesihkarvuođabálkkašupmi	1	0	1	0
 
-servicepraksis	dievnastusdáhpe	bálvalusvuohki	0	0	0	0
++servicepraksis	dievnastusdáhpe	bálvalusvuohki	0	0	0	0
 servicepraksis	dievnastushárjjidallam	bálvalusvuohki	0	0	0	0
 
-støttepraksis	doarjjadáhpe	doarjjapráksis/doarjjageavahus	34	0	1	0
++støttepraksis	doarjjadáhpe	doarjjapráksis/doarjjageavahus	34	0	1	0
 støttepraksis	doarjjahárjjidallam	doarjjapráksis/doarjjageavahus	34	0	1	0
 
-rettspraksis	duolladáhpe	riektegeavat/riektegeavahus	15	0	4	0
++rettspraksis	riektádáhpe	riektegeavat/riektegeavahus	15	0	4	0
 rettspraksis	duollahárjjidallam	riektegeavat/riektegeavahus	15	0	4	0
 
 timeressurs	dijmaresurssa	diibmoresursa	2	0	1	0
 timeressurs	dijmmaresurssa	diibmoresursa	2	0	1	0
 timeressurs	dijmaressurssa	diibmoresursa	2	0	1	0
-timeressurs	dijmmaressurssa	diibmoresursa	2	0	1	0
++timeressurs	tijmmaressurssa	diibmoresursa	2	0	1	0
 
-sekretariatsressurs	dåjmadahkaresurssa	čállingodderesursa	1	0	1	0
++sekretariatsressurs	dåjmadahkaresurssa	čállingodderesursa	1	0	1	0
 sekretariatsressurs	dåjmadahkaresurssaháldadus	čállingodderesursa	1	0	1	0
 
 tjenestekrets	dievnnobijrra	bálvalanviidodat	8	0	1	0
@@ -1258,10 +1258,10 @@ tjenestekrets	dievnastusdáfo	bálvalanviidodat	8	0	1	0
 møteresultat	diggeboahto	čoahkkinboađus	0	0	1	0
 møteresultat	dikkeboahto	čoahkkinboađus	0	0	1	0
 møteresultat	diggeboados	čoahkkinboađus	0	0	1	0
-møteresultat	dikkeboados	čoahkkinboađus	0	0	1	0
++møteresultat	tjåhkanimboados	čoahkkinboađus	0	0	1	0
 
 tolkningsresultat	dádjadusboahto	dulkonboađus	1	0	1	0
-tolkningsresultat	dádjadusboados	dulkonboađus	1	0	1	0
++tolkningsresultat	dádjadusboados	dulkonboađus	1	0	1	0
 
 revisjonsresultat	dárkastiddjeboahto	revišuvdnaboađus	1	0	1	0
 revisjonsresultat	dárkastusboahto	revišuvdnaboađus	1	0	1	0
@@ -1272,7 +1272,7 @@ jordsalgsmyndighet	ednamaoasse	eananvuovdineiseváldi/eanavuovdineiseváldi	2	0	
 jordsalgsmyndighet	ednamoasse	eananvuovdineiseváldi/eanavuovdineiseváldi	2	0	2	0
 jordsalgsmyndighet	ednambarggooasse	eananvuovdineiseváldi/eanavuovdineiseváldi	2	0	2	0
 jordsalgsmyndighet	ednambargooasse	eananvuovdineiseváldi/eanavuovdineiseváldi	2	0	2	0
-jordsalgsmyndighet	ednamvuobddem	eananvuovdineiseváldi/eanavuovdineiseváldi	2	0	2	0
++jordsalgsmyndighet	ednamvuobddemoajválasj	eananvuovdineiseváldi/eanavuovdineiseváldi	2	0	2	0
 jordsalgsmyndighet	ednambarggovuobddem	eananvuovdineiseváldi/eanavuovdineiseváldi	2	0	2	0
 jordsalgsmyndighet	ednamoases	eananvuovdineiseváldi/eanavuovdineiseváldi	2	0	2	0
 jordsalgsmyndighet	ednambarggooases	eananvuovdineiseváldi/eanavuovdineiseváldi	2	0	2	0
@@ -1281,26 +1281,26 @@ landbruksmyndighet	ednamfábmudahka	eanadoalloeiseváldi/eanandoalloeiseváldi	6
 landbruksmyndighet	ednamfábmogisvuohta	eanadoalloeiseváldi/eanandoalloeiseváldi	6	0	2	0
 landbruksmyndighet	ednamaoajvve	eanadoalloeiseváldi/eanandoalloeiseváldi	6	0	2	0
 landbruksmyndighet	ednamoajvve	eanadoalloeiseváldi/eanandoalloeiseváldi	6	0	2	0
-landbruksmyndighet	ednambargooajvve	eanadoalloeiseváldi/eanandoalloeiseváldi	6	0	2	0
++landbruksmyndighet	ednambargooajválasj	eanadoalloeiseváldi/eanandoalloeiseváldi	6	0	2	0
 landbruksmyndighet	ednamfábmodus	eanadoalloeiseváldi/eanandoalloeiseváldi	6	0	2	0
 
 møteoffentlighet	diggealmulasjvuohta	čoahkkinalmmolašvuohta	1	0	1	0
-møteoffentlighet	dikkealmulasjvuohta	čoahkkinalmmolašvuohta	1	0	1	0
++møteoffentlighet	tjåhkanimalmulasjvuohta	čoahkkinalmmolašvuohta	1	0	1	0
 
 reguleringsmulighet	dulvvadimevejulasjvuohta	regulerenvejolašvuohta	1	0	1	0
-reguleringsmulighet	dulvvadimvejulasjvuohta	regulerenvejolašvuohta	1	0	1	0
++reguleringsmulighet	regulierimvejulasjvuohta	regulerenvejolašvuohta	1	0	1	0
 
 ressursrettighet	resurssarievtes	resursavuoigatvuohta	70	0	22	16
-ressursrettighet	resurssariektá	resursavuoigatvuohta	70	0	22	1
++ressursrettighet	ressurssariektá	resursavuoigatvuohta	70	0	22	1
 
 møtevirksomhet	diggedoajmma	čoahkkindoaibma	9	0	1	0
-møtevirksomhet	dikkedoajmma	čoahkkindoaibma	9	0	1	0
++møtevirksomhet	tjåhkanimdoajmma	čoahkkindoaibma	9	0	1	0
 møtevirksomhet	dikkebarggo	čoahkkindoaibma	9	0	1	0
 
-dokumentasjonsvirksomhet	dokumentasjåvnnådoajmma	duođaštandoaibma	8	0	2	0
++dokumentasjonsvirksomhet	dokumentasjåvnnådoajmma	duođaštandoaibma	8	0	2	0
 dokumentasjonsvirksomhet	dokumentasjåvnnåbarggo	duođaštandoaibma	8	0	2	0
 
-driftsenhet	doajmmaavtadahka	doallu/doaibmaovttadat/doalloovttadat/boazodoalloovttadat	178	0	143	0
++driftsenhet	doajmmaavtadahka	doallu/doaibmaovttadat/doalloovttadat/boazodoalloovttadat	178	0	143	0
 driftsenhet	doajmmaruhtaavtadahka	doallu/doaibmaovttadat/doalloovttadat/boazodoalloovttadat	178	0	143	0
 driftsenhet	doaloavtadahka	doallu/doaibmaovttadat/doalloovttadat/boazodoalloovttadat	178	0	143	0
 driftsenhet	doalloavtadahka	doallu/doaibmaovttadat/doalloovttadat/boazodoalloovttadat	178	0	143	0
@@ -1309,7 +1309,7 @@ driftsenhet	doajmmaruhtaavtadak	doallu/doaibmaovttadat/doalloovttadat/boazodoall
 driftsenhet	doaloavtadak	doallu/doaibmaovttadat/doalloovttadat/boazodoalloovttadat	178	0	143	0
 driftsenhet	doalloavtadak	doallu/doaibmaovttadat/doalloovttadat/boazodoalloovttadat	178	0	143	0
 
-grunnpakkeavgift	ednampáhkka	vuođđopáhkkadivat	1	0	0	0
++grunnpakkeavgift	vuodopáhkkadivut	vuođđopáhkkadivat	1	0	0	0
 grunnpakkeavgift	ednamháldaduspáhkka	vuođđopáhkkadivat	1	0	0	0
 grunnpakkeavgift	ednamæjgátpáhkka	vuođđopáhkkadivat	1	0	0	0
 grunnpakkeavgift	ednampáhkke	vuođđopáhkkadivat	1	0	0	0
@@ -1319,12 +1319,12 @@ grunnpakkeavgift	ednamskurppo	vuođđopáhkkadivat	1	0	0	0
 grunnpakkeavgift	ednamháldadusskurppo	vuođđopáhkkadivat	1	0	0	0
 grunnpakkeavgift	ednamæjgátskurppo	vuođđopáhkkadivat	1	0	0	0
 
-arealavgift	ednamadivut	viidodatdivat	1	0	1	0
++arealavgift	areálladivut	viidodatdivat	1	0	1	0
 arealavgift	ednamdivut	viidodatdivat	1	0	1	0
 
 jordbruksdrift	ednamadoajmma	eanandoallodoaibma	4	0	1	0
 jordbruksdrift	ednamdoajmma	eanandoallodoaibma	4	0	1	0
-jordbruksdrift	ednambarggodoajmma	eanandoallodoaibma	4	0	1	0
++jordbruksdrift	ednambarggodoajmma	eanandoallodoaibma	4	0	1	0
 jordbruksdrift	ednambargodoajmma	eanandoallodoaibma	4	0	1	0
 jordbruksdrift	ednamadoajmmaruhta	eanandoallodoaibma	4	0	1	0
 jordbruksdrift	ednamdoajmmaruhta	eanandoallodoaibma	4	0	1	0
@@ -1349,20 +1349,20 @@ museumsprosjekt	dávvervuorkkáåvddånahttemprosjækta	museaprošeakta	1	0	1	0
 museumsprosjekt	dávvervuorkkáprosjækta	museaprošeakta	1	0	1	0
 
 dokumentasjonsprosjekt	dokumentasjåvnnååvddånahttemprosjækta	duođaštanprojeakta/duođaštanprošeakta/duođaštusprošeakta	9	0	2	0
-dokumentasjonsprosjekt	dokumentasjåvnnåprosjækta	duođaštanprojeakta/duođaštanprošeakta/duođaštusprošeakta	9	0	2	0
++dokumentasjonsprosjekt	dokumentasjåvnnåprosjækta	duođaštanprojeakta/duođaštanprošeakta/duođaštusprošeakta	9	0	2	0
 
-vindkraftprosjekt	bieggafábmoliebma	bieggafápmoprošeakta	6	0	3	0
++vindkraftprosjekt	bieggafábmoprosjækta	bieggafápmoprošeakta	6	0	3	0
 vindkraftprosjekt	bieggafábmofábmo	bieggafápmoprošeakta	6	0	3	0
 
-tilleggsinntekt	duoddeboahto	lassidienas	4	0	3	0
++tilleggsinntekt	duoddeboahto	lassidienas	4	0	3	0
 tilleggsinntekt	duotteboahto	lassidienas	4	0	3	0
 tilleggsinntekt	duoddesisboahto	lassidienas	4	0	3	0
 tilleggsinntekt	duottesisboahto	lassidienas	4	0	3	0
 
 overgangsdistrikt	gaskaguovllo	nuppástusguovlu/rievdadusguovlu	6	0	1	0
-overgangsdistrikt	gasskaguovllo	nuppástusguovlu/rievdadusguovlu	6	0	1	0
++overgangsdistrikt	gasskamuddoguovllo	nuppástusguovlu/rievdadusguovlu	6	0	1	0
 
-tilbudstidspunkt	fálaldahkaájgge	fálaldatáigemearri	5	0	3	0
++tilbudstidspunkt	fálaldahkaájgge	fálaldatáigemearri	5	0	3	0
 tilbudstidspunkt	fálaldahkamuddo	fálaldatáigemearri	5	0	3	0
 
 innslagspunkt	dáhpádustjuorgga	gustončuokkis	1	0	0	0
@@ -1370,18 +1370,18 @@ innslagspunkt	dáhpádusájgge	gustončuokkis	1	0	0	0
 
 landbruksprodukt	ednamabuvta	eanadoallobuvtta/eanageavahanbuvtta/eanandoallobuvtta	4	0	1	0
 landbruksprodukt	ednambuvta	eanadoallobuvtta/eanageavahanbuvtta/eanandoallobuvtta	4	0	1	0
-landbruksprodukt	ednambarggobuvta	eanadoallobuvtta/eanageavahanbuvtta/eanandoallobuvtta	4	0	1	0
++landbruksprodukt	ednambarggobuvta	eanadoallobuvtta/eanageavahanbuvtta/eanandoallobuvtta	4	0	1	0
 landbruksprodukt	ednambargobuvta	eanadoallobuvtta/eanageavahanbuvtta/eanandoallobuvtta	4	0	1	0
 landbruksprodukt	ednamgálvvo	eanadoallobuvtta/eanageavahanbuvtta/eanandoallobuvtta	4	0	1	0
 
 jordbruksprodukt	ednamabuvta	eanadoallobuvtta/eanandoallobuvtta	2	0	1	0
 jordbruksprodukt	ednambuvta	eanadoallobuvtta/eanandoallobuvtta	2	0	1	0
-jordbruksprodukt	ednambarggobuvta	eanadoallobuvtta/eanandoallobuvtta	2	0	1	0
++jordbruksprodukt	ednambarggobuvta	eanadoallobuvtta/eanandoallobuvtta	2	0	1	0
 jordbruksprodukt	ednambargobuvta	eanadoallobuvtta/eanandoallobuvtta	2	0	1	0
 jordbruksprodukt	ednamgálvvo	eanadoallobuvtta/eanandoallobuvtta	2	0	1	0
 
 landbruksbruksprodukt	ednamadnem	eanandoallobuvtta	1	0	0	0
-landbruksbruksprodukt	ednambarggoadnem	eanandoallobuvtta	1	0	0	0
++landbruksbruksprodukt	ednambarggoadnembuvta	eanandoallobuvtta	1	0	0	0
 landbruksbruksprodukt	ednamabarggo	eanandoallobuvtta	1	0	0	0
 landbruksbruksprodukt	ednambarggobarggo	eanandoallobuvtta	1	0	0	0
 landbruksbruksprodukt	ednambargobarggo	eanandoallobuvtta	1	0	0	0
@@ -1390,56 +1390,56 @@ landbruksbruksprodukt	ednamadno	eanandoallobuvtta	1	0	0	0
 landbruksbruksprodukt	ednambarggoadno	eanandoallobuvtta	1	0	0	0
 landbruksbruksprodukt	ednambargoadno	eanandoallobuvtta	1	0	0	0
 
-tradisjonsprodukt	dáhpebuvta	árbevierrobuvtta	1	0	1	0
++tradisjonsprodukt	árbbedáhpebuvta	árbevierrobuvtta	1	0	1	0
 tradisjonsprodukt	dáhpegálvvo	árbevierrobuvtta	1	0	1	0
 
 spenningsfelt	geldulasjvuodadajvva	gealdagassuorgi	3	0	1	0
-spenningsfelt	geldulasjvuohtadajvva	gealdagassuorgi	3	0	1	0
++spenningsfelt	geldulasjvuohtasuorgga	gealdagassuorgi	3	0	1	0
 spenningsfelt	geldulasjvuodasuorgge	gealdagassuorgi	3	0	1	0
 
 praksisfelt	dáhpedajvva	práksissuorgi	2	0	0	0
-praksisfelt	dáhpesuorgge	práksissuorgi	2	0	0	0
++praksisfelt	dáhpesuorgge	práksissuorgi	2	0	0	0
 
 fylkestingsrepresentant	fylkkaájrra	fylkkadiggeáirras	1	0	5	0
 fylkestingsrepresentant	fylkkadiggeájrra	fylkkadiggeáirras	1	0	5	0
 fylkestingsrepresentant	fylkadiggeájrra	fylkkadiggeáirras	1	0	5	0
 fylkestingsrepresentant	fylkkaájras	fylkkadiggeáirras	1	0	5	0
 fylkestingsrepresentant	fylkkadiggeájras	fylkkadiggeáirras	1	0	5	0
-fylkestingsrepresentant	fylkadiggeájras	fylkkadiggeáirras	1	0	5	0
++fylkestingsrepresentant	fylkadiggeájras	fylkkadiggeáirras	1	0	5	0
 
 møterett	diggerievtesvuohta	čoahkkinvuoigatvuohta	3	0	0	0
 møterett	dikkerievtesvuohta	čoahkkinvuoigatvuohta	3	0	0	0
 møterett	diggerievtes	čoahkkinvuoigatvuohta	3	0	0	0
 møterett	dikkerievtes	čoahkkinvuoigatvuohta	3	0	0	0
 møterett	diggeriektá	čoahkkinvuoigatvuohta	3	5	0	0
-møterett	dikkeriektá	čoahkkinvuoigatvuohta	3	0	0	0
++møterett	tjåhkanimriektá	čoahkkinvuoigatvuohta	3	0	0	0
 
 grunneierrett	ednamæjgátrievtesvuohta	eanaoamastanvuoigatvuohta/eananeaiggátriekti/eanaeaiggátvuoigatvuohta	1	0	1	0
-grunneierrett	ednamæjgátriektá	eanaoamastanvuoigatvuohta/eananeaiggátriekti/eanaeaiggátvuoigatvuohta	1	0	1	0
++grunneierrett	ednamæjgátriektá	eanaoamastanvuoigatvuohta/eananeaiggátriekti/eanaeaiggátvuoigatvuohta	1	0	1	0
 
 ekspropriasjonsrett	ekspropriasjåvnnårievtesvuohta	bággolonistanvuoigatvuohta	4	0	1	0
-ekspropriasjonsrett	ekspropriasjåvnnåriektá	bággolonistanvuoigatvuohta	4	0	1	0
++ekspropriasjonsrett	ekspropriasjåvnnåriektá	bággolonistanvuoigatvuohta	4	0	1	0
 
 initiativrett	dåjmalasjvuohtarievtesvuohta	álggavuoigatvuohta/álggahanvuoigatvuohta	3	0	1	0
-initiativrett	dåjmalasjvuohtariektá	álggavuoigatvuohta/álggahanvuoigatvuohta	3	0	1	0
++initiativrett	dåjmalasjvuohtariektá	álggavuoigatvuohta/álggahanvuoigatvuohta	3	0	1	0
 
-tilleggsavsnitt	duoddeoasse	lassiteakstaoassi	0	0	0	0
++tilleggsavsnitt	duoddeoasse	lassiteakstaoassi	0	0	0	0
 tilleggsavsnitt	duotteoasse	lassiteakstaoassi	0	0	0	0
 
 beviskrav	duodastusrávkalvis	duođaštusgáibádus	1	0	1	0
-beviskrav	duodastusgájbbádus	duođaštusgáibádus	1	0	1	0
++beviskrav	duodastusgájbbádus	duođaštusgáibádus	1	0	1	0
 
 eksamenskrav	eksábmarávkalvis	eksámengáibádus	1	0	1	0
-eksamenskrav	eksábmagájbbádus	eksámengáibádus	1	0	1	0
++eksamenskrav	eksábmagájbbádus	eksámengáibádus	1	0	1	0
 
 dokumentasjonskrav	dokumentasjåvnnårávkalvis	duođaštangáibádus/duođaštusgáibádus	7	0	1	0
-dokumentasjonskrav	dokumentasjåvnnågájbbádus	duođaštangáibádus/duođaštusgáibádus	7	0	1	0
++dokumentasjonskrav	dokumentasjåvnnågájbbádus	duođaštangáibádus/duođaštusgáibádus	7	0	1	0
 
 reguleringsbrev	dulvvadimegirjje	regulerenreive	1	0	1	0
-reguleringsbrev	dulvvadimgirjje	regulerenreive	1	0	1	0
++reguleringsbrev	regulierimgirjje	regulerenreive	1	0	1	0
 
 jordskiftelov	ednamajuohkoláhka	eanajuohkinláhka/eanajuohkoláhka/eanamolsunláhka	5	0	1	0
-jordskiftelov	ednamjuohkoláhka	eanajuohkinláhka/eanajuohkoláhka/eanamolsunláhka	5	0	1	0
++jordskiftelov	ednamjuohkoláhka	eanajuohkinláhka/eanajuohkoláhka/eanamolsunláhka	5	0	1	0
 jordskiftelov	ednamajuohkoskåvllåláhka	eanajuohkinláhka/eanajuohkoláhka/eanamolsunláhka	5	0	1	0
 jordskiftelov	ednamjuohkoskåvllåláhka	eanajuohkinláhka/eanajuohkoláhka/eanamolsunláhka	5	0	1	0
 jordskiftelov	ednamahievedus	eanajuohkinláhka/eanajuohkoláhka/eanamolsunláhka	5	0	1	0
@@ -1448,37 +1448,37 @@ jordskiftelov	ednamhievedus	eanajuohkinláhka/eanajuohkoláhka/eanamolsunláhka	
 domstollov	diggeláhka	duopmostuolloláhka	6	0	4	0
 domstollov	diggeskåvllåláhka	duopmostuolloláhka	6	0	4	0
 domstollov	duobbmoståvllåskåvllåláhka	duopmostuolloláhka	6	0	4	0
-domstollov	duobbmoståvllåláhka	duopmostuolloláhka	6	0	4	0
++domstollov	duobbmoståvllåláhka	duopmostuolloláhka	6	0	4	0
 domstollov	diggehievedus	duopmostuolloláhka	6	0	4	0
 domstollov	dikkehievedus	duopmostuolloláhka	6	0	4	0
 domstollov	duobbmoståvllåhievedus	duopmostuolloláhka	6	0	4	0
 
-revisorlov	dárkastiddjeláhka	revisorláhka	1	0	1	0
++revisorlov	dárkastiddjeláhka	revisorláhka	1	0	1	0
 revisorlov	dárkastiddjeskåvllåláhka	revisorláhka	1	0	1	0
 revisorlov	dárkastiddjehievedus	revisorláhka	1	0	1	0
 
-finanslov	finánssaláhka	ruhtadanláhka	1	0	1	0
++finanslov	finánssaláhka	ruhtadanláhka	1	0	1	0
 finanslov	finánssaskåvllåláhka	ruhtadanláhka	1	0	1	0
 finanslov	finánssahievedus	ruhtadanláhka	1	0	1	0
 
 foretakspensjonslov	dåjmadahkaruhta	fitnodatpenšuvdnaláhka	1	0	0	0
 foretakspensjonslov	dåjmadahkaruhtta	fitnodatpenšuvdnaláhka	1	0	0	0
-foretakspensjonslov	dåjmadahkapensjåvnnå	fitnodatpenšuvdnaláhka	1	0	0	0
++foretakspensjonslov	dåjmadahkapensjåvnnåláhka	fitnodatpenšuvdnaláhka	1	0	0	0
 
-driftskjøretøy	doajmmavuoján	doaibmafievru	1	0	1	0
++driftskjøretøy	doajmmavuoján	doaibmafievru	1	0	1	0
 driftskjøretøy	doajmmaruhtavuoján	doaibmafievru	1	0	1	0
 driftskjøretøy	doallovuoján	doaibmafievru	1	0	1	0
 
-informasjonsverktøy	diehtojuohkemvædtsak	diehtojuohkinreaidu	1	0	1	0
-informasjonsverktøy	diehtovædtsak	diehtojuohkinreaidu	1	0	1	0
++informasjonsverktøy	diehtojuohkemvædtsak	diehtojuohkinreaidu	1	0	1	0
++informasjonsverktøy	diehtovædtsak	diehtojuohkinreaidu	1	0	1	0
 
 tjenestenivå	dievnnodásse	bálvalusdássi	2	0	1	0
-tjenestenivå	dievnastusdásse	bálvalusdássi	2	0	1	0
++tjenestenivå	dievnastusdásse	bálvalusdássi	2	0	1	0
 
 doktorgradsnivå	doktorgrádadásse	doavttergrádadássi	2	0	1	0
-doktorgradsnivå	dåktårgrádadásse	doavttergrádadássi	2	0	1	0
++doktorgradsnivå	dåktårgrádadásse	doavttergrádadássi	2	0	1	0
 
-myndighetsnivå	fábmudahkadásse	eiseváldedássi/fápmodássi/váldedássi	2	0	1	0
++myndighetsnivå	fábmudahkadásse	eiseváldedássi/fápmodássi/váldedássi	2	0	1	0
 myndighetsnivå	fábmogisvuohtadásse	eiseváldedássi/fápmodássi/váldedássi	2	0	1	0
 
 fylkestingskomité	fylkkadiggejuohko	fylkkadiggelávdegoddi	1	0	1	0
@@ -1490,12 +1490,12 @@ fylkestingskomité	fylkadiggejuogos	fylkkadiggelávdegoddi	1	0	1	0
 fylkestingskomité	fylkkadikkejuogos	fylkkadiggelávdegoddi	1	0	1	0
 fylkestingskomité	fylkanammadus	fylkkadiggelávdegoddi	1	0	1	0
 fylkestingskomité	fylkkadiggenammadus	fylkkadiggelávdegoddi	1	0	1	0
-fylkestingskomité	fylkadiggenammadus	fylkkadiggelávdegoddi	1	0	1	0
++fylkestingskomité	fylkadiggenammadus	fylkkadiggelávdegoddi	1	0	1	0
 fylkestingskomité	fylkkadikkenammadus	fylkkadiggelávdegoddi	1	0	1	0
 
 redaksjonskomité	dåjmadusjuohko	doaimmahuslávdegoddi	3	0	1	0
 redaksjonskomité	dåjmadusjuogos	doaimmahuslávdegoddi	3	0	1	0
-redaksjonskomité	dåjmadusnammadus	doaimmahuslávdegoddi	3	0	1	0
++redaksjonskomité	dåjmadusnammadus	doaimmahuslávdegoddi	3	0	1	0
 
 innsatspott	siebreruhtta	searveruhta	1	0	1	0
 innsatspott	siebrreruhtta	searveruhta	1	0	1	0
