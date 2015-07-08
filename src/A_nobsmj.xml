@@ -2443,6 +2443,266 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">dynamisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dynámalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">få</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gallegasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ryddig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">rádjánis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">streng</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">rámes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">krypende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">biege</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">velstående</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">boanndá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">forsvarlig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">bælostahtte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">verdig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">værddogis</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">hederlig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gudnálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">operativ</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">operatijva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">enkel</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">ájnegasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">uærlig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">vágedibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">jevnaldrende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">ludtjusasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">skjev</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">bånjo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">feil</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">boasstot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">hatefull</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">vassjá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tverrpolitisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">doarespolitihkalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ukritisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">iehpekritihkalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">pussig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">imálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">positiv</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">mielos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">uformell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">iehpeformálla</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">urealistisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">iehperealistalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ukristelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">iehperistalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">fruktbar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">sjaddel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">offisiell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">almulasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">jevnaldrende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">ludtjusasj</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
 primitiv ::: avtagærddásasj
 næringssvak ::: rassje
@@ -3063,59 +3323,5 @@ urørt ::: duohtadahtes
 dynamisk ::: sjáhtjalahtte
 dynamisk ::: hiebadahkes
 treffende ::: diejddis
- -->
-  <!-- Questionable suggestions, corrected:
-
-dynamisk	dynámalasj	soddjil	18	0	2	0
-
-få	gallegasj	unnán	3532	69	522	0
-
-ryddig	rádjánis	čorgat	7	2	19	0
-
-streng	rámes	čavgat	64	8	45	0
-
-krypende	biege	njoammu	0	0	25	0
-
-velstående	boanndá	jábálaš	1	0	3	0
-
-forsvarlig	bælostahtte	dohkálaš	115	0	270	0
-
-verdig	værddogis	gutnálaš	24	2	2	0
-hederlig	gudnálasj	gutnálaš	1	2	2	0
-
-operativ	operatijva
-
-enkel	ájnegasj	ovttaskas	720	89	291	17
-
-uærlig	vágedibme	verrošit	0	0	9	0
-
-jevnaldrende	ludtjusasj	ovttaahkásaš	5	0	1	0
-
-skjev	bånjo	bonju-	14	0	0	0 #why firstcmp? 
-
-feil	boasstot	boasttu-	17	0	0	0 #why firstcmp? boasto attr, boasstot pred
-
-hatefull	vassjá	vaššái	0	0	0	0 # sg. ill analysis for both smj and sme
-
-tverrpolitisk	doarespolitihkalasj	doarespolitihkalaš	6	1	2	0
-
-ukritisk	iehpekritihkalasj	eahpekritihkalaš	3	0	0	0
-
-pussig	imálasj	mearkkalaš	0	0	1	0
-
-positiv	mielos	buorremielalaš	354	0	1	0 
-
-uformell	iehpeformálla	eahpeformálalaš	16	22	8	0 #unsure if I rather want the short fort -álla for most of the -álalasj entries
-
-urealistisk	iehperealistalasj	eahperealisttalaš	4	0	3	0
-
-ukristelig	iehperistalasj	eahperisttalaš	0	0	0	0
-
-fruktbar	sjaddel	buvttalaš	5	0	0	0
-
-offisiell	almulasj	virggálaš	81	25	57	0
-
-jevnaldrende	ludtjusasj	ovttaahkásaš	5	0	1	0
-
  -->
 </r>

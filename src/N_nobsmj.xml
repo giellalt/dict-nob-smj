@@ -78073,6 +78073,196 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forlikssak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">såbadimássje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">tvangssak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">bággoássje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">samarbeidsområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">aktisasjbarggoguovllo</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">språkoverføring</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">giellajoarkedibme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">statskog</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">stáhttamiehttse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">sameradio</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">sámeradio</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">generasjonsperspektiv</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">buolvasbuolvvajperspektijvva</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fritidsarena</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">asstoájggeariedná</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bruksordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">adnoårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">autorisasjonsordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">autorisasjåvnnåårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fritidsordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">asstoájggeårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">dagsorden</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">biejvveårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">bruksordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">adnoårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">informasjonsordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">diehtojuohkemårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">samarbeidsordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">aktisasjbarggoårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kompensasjonsordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">kompensasjonårnik</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">fjellov</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">várreláhka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">Finnmarksloven</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">Finnmárkoláhka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">oppdrettslaks</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">guollebiebmadimluossa</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
 håndsnøre ::: duorggo
 tilleggsavtale ::: duoddebarggosjiehtadus
@@ -86430,47 +86620,9 @@ reindriftsunge ::: boatsojsujtotjivgga
 reindriftsunge ::: boahttsutjivgga
 reindriftsunge ::: boatsojbargotjivgga
  -->
-  <!-- Questionable suggestions, corrected: 
-
-tvangssak	bággoássje	bággoášši	0	0	0	0
-forlikssak	såbadimássje	bággoášši	0	0	0	0
-
-samarbeidsområde	aktisasjbarggoguovllo	ovttasbargoguovlu	3	0	0	0
-samarbeidsområde	aktisasjbarggoguovllo	ovttasbargoguovlu	3	0	0	0
-
-språkoverføring	giellajoarkedibme	giellafievrrideapmi/giellasirdin	3	1	0	0
-
-statskog	stáhttamiehttse	stáhtavuovdi	50	0	2	1
+  <!-- Questionable suggestions, look more at: 
 
 ?kollega	kollega	kollega	15	1	3	0
-
-sameradio	sámeradio	sámirádio	13	0	8	0
-
-generasjonsperspektiv	buolvasbuolvvajperspektijvva	buolvaperspektiiva	0	0	0	0
-
-fritidsarena	asstoájggeariedná	astoáiggebáiki	0	0	0	0
-
-bruksordning	adnoårnik	doaibmaortnet	2	0	1	0 #i think maybe vuohke or doajmma instead of årnik - for all årnik below as well
-
-autorisasjonsordning	autorisasjåvnnåårnik	autorisašuvdnaortnet	1	0	0	0
-
-fritidsordning	asstoájggeårnik	astoáiggeortnet	1	0	2	0
-
-dagsorden	biejvveårnik	beaiveortnet	35	0	0	0
-
-bruksordning	adnoårnik	geavahanortnet	2	0	0	0
-
-informasjonsordning	diehtojuohkemårnik	diehtojuohkinortnet	0	0	0	0
-
-samarbeidsordning	aktisasjbarggoårnik	ovttasbargoortnet	1	0	0	0
-
-kompensasjonsordning	kompensasjonårnik	buvttadusortnet	3	0	0	0
-
-fjellov	várreláhka	meahcceláhka	6	0	1	0
-
-Finnmarksloven	Finnmárkoláhka	Finnmárkoláhka	158	9	94	0
-
-oppdrettslaks	guollebiebmadimluossa	biebmoluossa	7	0	7	0
 
  -->
 </r>

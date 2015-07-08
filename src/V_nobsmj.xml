@@ -5326,6 +5326,16 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">leie</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">lájggit</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
 rette på ::: lågådit
 bevege seg ::: æjvvurit
@@ -5944,10 +5954,5 @@ omhandle ::: májnudit
 bekymre seg ::: buotsadit
 avverge ::: goaredit
 stabilisere ::: doarjjut
- -->
-  <!-- Questionable suggestions, corrected:
-
-leie	lájggit	láigohit	2	0	76	0
-
  -->
 </r>

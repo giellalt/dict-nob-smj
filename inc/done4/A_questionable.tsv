@@ -1,0 +1,53 @@
+#+ if unmarked
+
+dynamisk	dynámalasj	soddjil	18	0	2	0
+
+få	gallegasj	unnán	3532	69	522	0
+
+ryddig	rádjánis	čorgat	7	2	19	0
+
+streng	rámes	čavgat	64	8	45	0
+
+krypende	biege	njoammu	0	0	25	0
+
+velstående	boanndá	jábálaš	1	0	3	0
+
+forsvarlig	bælostahtte	dohkálaš	115	0	270	0
+
+verdig	værddogis	gutnálaš	24	2	2	0
+hederlig	gudnálasj	gutnálaš	1	2	2	0
+
+operativ	operatijva
+
+enkel	ájnegasj	ovttaskas	720	89	291	17
+
+uærlig	vágedibme	verrošit	0	0	9	0
+
+jevnaldrende	ludtjusasj	ovttaahkásaš	5	0	1	0
+
+skjev	bånjo	bonju-	14	0	0	0 #why firstcmp? 
+
+feil	boasstot	boasttu-	17	0	0	0 #why firstcmp? boasto attr, boasstot pred
+
+hatefull	vassjá	vaššái	0	0	0	0 # sg. ill analysis for both smj and sme
+
+tverrpolitisk	doarespolitihkalasj	doarespolitihkalaš	6	1	2	0
+
+ukritisk	iehpekritihkalasj	eahpekritihkalaš	3	0	0	0
+
+pussig	imálasj	mearkkalaš	0	0	1	0
+
+positiv	mielos	buorremielalaš	354	0	1	0 
+
+uformell	iehpeformálla	eahpeformálalaš	16	22	8	0 #unsure if I rather want the short fort -álla for most of the -álalasj entries
+
+urealistisk	iehperealistalasj	eahperealisttalaš	4	0	3	0
+
+ukristelig	iehperistalasj	eahperisttalaš	0	0	0	0
+
+fruktbar	sjaddel	buvttalaš	5	0	0	0
+
+offisiell	almulasj	virggálaš	81	25	57	0
+
+jevnaldrende	ludtjusasj	ovttaahkásaš	5	0	1	0
+
