@@ -3064,66 +3064,58 @@ dynamisk ::: sjáhtjalahtte
 dynamisk ::: hiebadahkes
 treffende ::: diejddis
  -->
-  <!-- Questionable suggestions, look more at: 
+  <!-- Questionable suggestions, corrected:
 
-?dynamisk	såddjel	soddjil	18	0	2	0
+dynamisk	dynámalasj	soddjil	18	0	2	0
 
--få	unnán	unnán	3532	69	522	0
+få	gallegattja	unnán	3532	69	522	0
 
--ryddig	tjårggåt	čorgat	7	2	19	0
+ryddig	rádjánis	čorgat	7	2	19	0
 
--streng	tjavggat	čavgat	64	8	45	0
+streng	rámes	čavgat	64	8	45	0
 
-?krypende	njoammo	njoammu	0	0	25	0
+krypende	biege	njoammu	0	0	25	0
 
--lovmessig	lágálasj	lágalaš	6	0	25	0
+velstående	boanndá	jábálaš	1	0	3	0
 
--velstående	jábálasj	jábálaš	1	0	3	0
+forsvarlig	bælostahtte	dohkálaš	115	0	270	0
 
--forsvarlig	dåhkålasj	dohkálaš	115	0	270	0
-
--verdig	gudnálasj	gutnálaš	24	2	2	0
+verdig	værddogis	gutnálaš	24	2	2	0
 hederlig	gudnálasj	gutnálaš	1	2	2	0
 
-+grenseoverskridende	rájájrasstididdje
-grenseoverskridende	rájárastideaddje	rájárasttideaddji	94	0	1	0
-?grenseoverskridende	rádjerastildeaddje	rádjerasttildeaddji	94	0	13	0
+operativ	operatijva
 
-?operativ	operatijva el. operatijvalasj
-operativ	åperatijva	operatiiva	18	0	3	0
-operativ	åperatijvvalasj	operatiivvalaš	18	0	0	0
+enkel	ájnegasj	ovttaskas	720	89	291	17
 
-?enkelt	aktugasj	ovttaskas	720	89	291	17
+uærlig	vágedibme	verrošit	0	0	9	0
 
--uærlig	verrutjit	verrošit	0	0	9	0
+jevnaldrende	ludtjusasj	ovttaahkásaš	5	0	1	0
 
--jevnaldrende	avtavuorrasasj	ovttaahkásaš	5	0	1	0
+skjev	bånjo	bonju-	14	0	0	0 #why firstcmp? 
 
-?skjev	bånjo-	bonju-	14	0	0	0 #why firstcmp? 
+feil	boasstot	boasttu-	17	0	0	0 #why firstcmp? boasto attr, boasstot pred
 
-?uriktig	boasto-	boasttu-	17	0	0	0 #why firstcmp? boasto attr, boasstot pred
+hatefull	vassjá	vaššái	0	0	0	0 # sg. ill analysis for both smj and sme
 
-?hatefull	vassjáj	vaššái	0	0	0	0 # sg. ill analysis for both smj and sme
+tverrpolitisk	doarespolitihkalasj	doarespolitihkalaš	6	1	2	0
 
-?tverrpolitisk	doarespolitihkalasj	doarespolitihkalaš	6	1	2	0
+ukritisk	iehpekritihkalasj	eahpekritihkalaš	3	0	0	0
 
-?ukritisk	iehpekritihkalasj	eahpekritihkalaš	3	0	0	0
+pussig	imálasj	mearkkalaš	0	0	1	0
 
--pussig	merkalasj	mearkkalaš	0	0	1	0
+positiv	mielos	buorremielalaš	354	0	1	0 
 
-?positiv	buorremielalasj	buorremielalaš	354	0	1	0 
+uformell	iehpeformálla	eahpeformálalaš	16	22	8	0 #unsure if I rather want the short fort -álla for most of the -álalasj entries
 
-?uformell	iehpeformálalasj	eahpeformálalaš	16	22	8	0 #unsure if I rather want the short fort -álla for most of the -álalasj entries
+urealistisk	iehperealistalasj	eahperealisttalaš	4	0	3	0
 
-?urealistisk	iehperealistalasj	eahperealisttalaš	4	0	3	0
+ukristelig	iehperistalasj	eahperisttalaš	0	0	0	0
 
-?ukristelig	iehperistalasj	eahperisttalaš	0	0	0	0
+fruktbar	sjaddel	buvttalaš	5	0	0	0
 
--fruktbar	buvtalasj	buvttalaš	5	0	0	0
+offisiell	almulasj	virggálaš	81	25	57	0
 
--offisiell	virgálasj	virggálaš	81	25	57	0
-
--jevnaldrende	åvtåahkásasj	ovttaahkásaš	5	0	1	0
+jevnaldrende	ludtjusasj	ovttaahkásaš	5	0	1	0
 
  -->
 </r>
