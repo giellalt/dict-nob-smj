@@ -1,0 +1,172 @@
+
+tegn	signálla	mearka	101	26	238	0
+merke	signálla	mearka	194	26	238	0
+
+handelsvirksomhet	doajmma	gávpedoaibma	1	1796	4	0
+forretningsvirksomhet	doajmma	gávpedoaibma	4	1796	4	0
+
+tillitsverv	ámmát	luohttámušdoaibma	5	17	4	0
+
+fortom	duorggo	siibma	0	1	4	0
+
+buljong	fábmo	liepma	1	772	4	0
+
+tolkeautoriasjon	autorisasjåvnnå	dulkonautorisašuvdna	0	0	1	0
+
+sjø	áhpe	mearra	290	56	450	0
+
+likhet	kongruænssa	ovttaláganvuohta	85	2	8	0
+
+pågangsmot	motivasjåvnnå	áŋgirvuohta	3	0	9	0
+
+plikt	åvdåsvásstádus	geatnegasvuohta	224	647	205	5
+
+motsetning	rijddo	vuostálasvuohta	36	170	16	0
+
+enighet	kongruænssa	ovttamielalašvuohta	207	2	38	0
+
+iver	miella	mokta	42	876	80	17
+iver	optimissma	mokta	42	0	80	0
+
+iver	motivasjåvnnå	áŋgirvuohta/mokta	42	0	45	0
+
+iver	liekkasvuohta	indu/mokta	42	0	41	0
+
+anbefaling	várre	neavva	53	508	10	0
+
+menneskehet	ulmusj	olmmošsohkagoddi	2	2325	1	0
+
+opplæringsmodell	vuohke	oahppanvuohki	6	516	3	3
+
+urolighet	válla	stuibmi	1	1	32	0
+opprør	válla	stuibmi	6	1	32	0
+
+fiskegarn	lájgge	fierbmi	1	24	57	0
+
+fremstilling	illustrasjåvnnå	govvideapmi	22	1	11	0
+
+behandling	dálkas	dálkkodeapmi	771	202	27	2
+
+ivaretakelse	berustibme	fuolaheapmi	76	233	16	0
+
+medvirkning	vájkudus	váikkuheapmi	64	4	174	0
+innflytelse	vájkudus	váikkuheapmi	186	4	174	0
+
+framstilling	presentasjåvnnå	ovdanbuktin/ovdanbuktojupmi	29	0	28	0
+
+salg	buvdda	gávpi	214	4	179	0
+handel	buvdda	gávpi	155	4	179	0
+forretning	buvdda	gávpi	85	4	179	0
+
+busk	oakse	rissi	10	71	18	0
+
+gulv	guolbbe	láhtti	6	27	32	0
+
+belastning	gurppe	noađđi	26	1	32	0
+
+diskusjon	debáhtta	digaštallan	70	1	142	0
+
+nedbryting	gållo	gollan	4	70	47	0
+
+satsing	doarro	rahčan	305	276	45	0
+
+satsing	berustibme	áŋgiruššan	305	233	119	1
+
+atferd	juogos	láhtten	12	379	44	0
+væremåte	juogos	láhtten	4	379	44	0
+adferd	juogos	láhtten	8	379	44	0
+
+vold	fábmo	veahkaváldi/veahkaváldin	90	772	34	0
+
+omtanke	respækta	vuhtiiváldin	4	0	16	0
+hensyn	respækta	vuhtiiváldin	779	0	16	0
+
+uttrykk	oasse	cealkin	254	1985	10	1
+
+uttrykk	javllamus	dajahus/cealkin	254	174	10	0
+
+flytting	juogos	johtin	98	379	128	0
+
+framstilling	åvddåsáhka	ovdanbuktin	29	0	54	0
+
+beregning	addisjåvnnå	rehkenastin	133	0	16	0
+
+oppmerksomhet	berustibme	ávvir	108	233	238	1
+
+eventyr	myhta	cuvccas	30	0	8	0
+
+joiketekst	javllamus	dajahus	1	174	9	0
+
+effekt	vájkudus	čuozahus	107	4	5	0
+
+avfall	ráhpe	bázahus	25	4	71	0
+rest	ráhpe	bázahus	145	4	71	0
+
+ulempe	árro	hehttehus	48	17	34	0
+hinder	árro	hehttehus	88	17	34	0
+
+hindring	árro	veahtu/hehttehus	27	17	17	0
+
+forskjell	differánssa	erohus	132	0	206	0
+avvik	differánssa	erohus	118	0	206	0
+
+kunngjøring	deklarasjåvnnå	almmuhus	54	5	44	0
+
+fortelling	histåvrrå	muitalus	79	433	174	5
+
+binding	Aktisasjvuohta	čanus	11	6	6	0
+sammenheng	Aktisasjvuohta	čanus	606	6	6	0
+
+bekreftelse	dokumentasjåvnnå	duođaštus	24	4	99	0
+attest	dokumentasjåvnnå	duođaštus	15	4	99	0
+
+beregning	definisjåvnnå	meroštus	133	6	1	0
+
+riss	hábme	govadat	5	305	7	0
+
+dyktighet	máhtto	čehppodat	3	301	31	0
+
+avdeling	oasse	ossodat	293	1985	193	1
+
+masse	mierre	hivvodat	30	282	13	0
+
+brett	duorre	máhcastat	3	0	1	0
+
+anlegg	installasjåvnnå	rusttet	201	2	92	0
+
+underskudd	vádne	váili/vádjit	64	46	9	0
+
+belastning	barggo	heavganit	26	2553	1	0
+
+pause	gasska	boddu	10	1447	51	0
+
+runding	suormas	gierdu	0	18	7	0
+linebøyel	suormas	gierdu	0	18	7	0
+spektrum	suormas	gierdu	1	18	7	0
+sirkel	suormas	gierdu	5	18	7	0
+
+etternavn	guddne	goargu	21	173	12	0
+
+tun	sadje	šillju	14	1490	87	0
+
+mindretall	minoritiehtta	uhcitlohku/unnitlohku	169	0	61	0
+
+ro	ráfe	leahpu	58	446	2	5
+
+toppledersamling	åvddåsáhka	álgosáhkavuorru	1	0	1	0
+innleder	åvddåsáhka	álgosáhkavuorru	8	0	1	0
+
+hindring	girjásj	veahtu	27	93	1	0
+
+salgsvare	gálvvo	vuovdingálvu	1	66	2	0
+
+ektefelle	guojmme	beallelaš	93	229	12	1
+
+kulde	ridne	buolaš	8	1	71	0
+
+omtanke	berustibme	ovddasmoraš	4	233	11	0
+
+noe å si	javllamus	dadjamuš	0	174	26	0
+innflytelse	javllamus	dadjamuš	186	174	26	0
+
+strev	doarro	rahčamuš	4	276	23	0

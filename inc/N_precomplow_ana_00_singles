@@ -1,0 +1,378 @@
+
+registerdata	lågosdiehto	registardiehtu/registtardiehtu	1	0	1	0
+
+manntallsdata	låhkodiehto	jienastuslohkodiehtu	1	0	1	0
+
+valgmanntallsdata	jienastusdiehto	jienastuslohkodiehtu	0	0	1	0
+
+forskningssøknad	guoradallamåhtsåm	dutkanohcamuš	1	0	1	0
+
+kapitalkostnad	kapitállagållo	kapitálagollu	3	0	1	0
+
+kontaktledd	guládallamoasse	oktavuođalađas	2	0	1	0
+
+frakttilskudd	gálvvoruhtta	fievrredandoarjja/fievrridandoarjja/geasehandoarjja	5	0	2	0
+
+undersøkelsesarbeid	guoradallambálkká	iskkadanbargu	6	0	3	0
+
+kartleggingsarbeid	guoradallambálkká	gártenbargu/kártenbargu	5	0	3	0
+
+språkutviklingsarbeid	giellabálkká	giellaovdánahttinbargu	5	1	1	0
+
+forskningsarbeid	guoradallambálkká	dutkanbargu	6	0	13	0
+
+omsorgsarbeid	huksobálkká	ovddasmorašbargu	12	0	2	0
+
+kommunikasjonsarbeid	guládallambálkká	gulahallanbargu	1	0	1	0
+
+internatarbeid	internáhttabálkká	internáhttaáigi	1	0	1	0
+
+studieopphold	låhkåmårro	oahppogalledeapmi	1	0	0	0
+
+beiteforhold	guohtomavidjur	guohtundilli/guohtundilálašvuohta	20	0	4	0
+
+naturhushold	luonndogoahtesujtto	luondduruovttudoallu/luonddudállodoallu	1	0	1	0
+
+urfolksstandard	iemestandárdda	álgoálbmotstandárda/eamiálbmotdássodat	2	0	1	0
+
+menneskerettighetsstandard	almasjstandárdda	olmmošvuoigatvuođastandárda	1	0	1	0
+
+nattverd	idjaielle	eahkedismállásat	5	0	16	0
+
+godstransporttilbud	gálvvofievrrofálaldahka	gálvofievrridanfálaldat	1	0	1	0
+
+familieplanleggingsmetode	familljaplánimvuohke	bearašplánenvuohki	1	0	0	0
+
+opplæringsmetode	giellaåhpadusvuohke	oahpahanmálle	1	0	3	0
+
+merkegjerde	gierggegárdde	mearkungárdi	2	0	1	0
+
+talemateriale	hållamateriálla	hállanávnnas	1	0	1	0
+
+ektefelle	gállasjváhtá	beallelaš/náittosguoibmi	93	0	11	0
+
+studietime	låhkåmtijmma	oahppodiibmu	1	0	4	0
+
+sangtime	lávllomtijmma	lávlundiibmu	1	0	1	0
+
+forhåndsstemme	åvddågiehta	ovddalgihtiijietna	48	0	3	1
+
+levevane	miedásjbielleviermme	eallinvierru	1	0	1	0
+
+kystfiskesone	merragáddeguovllo	riddoguolástanavádat/riddoguolástusavádat	1	0	1	0
+
+urfolkssone	iemeguovllo	eamiálbmotavádat	8	0	1	0
+
+kystsone	merragáddeguollimguovllo	riddoavádat	7	0	1	0
+
+konkurranseevne	gilppommáhtukvuohta	gilvalannákca/gilvocoakci/gilvogálga/gilvalancoakci	6	0	1	0
+
+tilpasningsevne	hiebadahttemmáhtukvuohta	heivehallannákca	2	0	1	0
+
+utredningsfase	guoradusdásse	čielggadanmuddu	1	0	1	0
+
+skoleledelse	skåvllåjådediddje	skuvlajođiheapmi	4	3	1	0
+
+identitetsfølelse	identitehttadåbddo	identitehtadovdu	4	0	2	0
+
+forumkonferanse	forumkonferánssa	forumkonferánsa	1	0	1	0
+
+opplæringskonferanse	giellaåhpaduskonferánssa	oahpahuskonferánsa	1	0	1	0
+
+melkekvote	mielkkekvåvttå	mielkeearri	24	0	13	0
+
+gruppekvote	juogoskvåvttå	joavkoearri	2	0	1	0
+
+distriktskvote	guovllokvåvttå	guovllubivdoearri/guovlluearri	4	0	2	0
+
+språktjeneste	giellaámmát	giellabálvalus	2	0	2	0
+
+fjelltjeneste	miehttseámmát	meahccebálvalus	5	0	8	0
+
+fototjeneste	gåvvåámmát	govvabálvalus	2	0	1	0
+
+rådgivertjeneste	rádevaddedievnastus	ráđđeaddibálvalus	1	1	1	0
+
+forvaltningstjeneste	háldadusámmát	hálddahusbálvalus	2	0	1	0
+
+kommunikasjonstjeneste	guládallamámmát	gulahallanbálvalus	1	0	1	0
+
+utlånstjeneste	luojkkamámmát	luoikanbálvalus	1	0	1	0
+
+internattjeneste	internáhttaámmát	internáhttabálvalus	1	0	1	0
+
+sommerhytte	giessesijddahyhtto	geassestohpu	1	0	1	0
+
+hurtigbåtrute	jåhtelisvanntsavinndek	jođánisfanasrukto/valesfanasfálaldat	2	0	1	0
+
+talemåte	hållavuohke	hállanvuohki/ságastallanvuohki	1	0	2	0
+
+etatsstyringsmøte	etáhttastivrrimtjåhkanibme	etáhttastivrračoahkkin	0	0	0	0
+
+internatstue	internáhttaståhpe	internáhttastohpu	1	0	1	0
+
+lærefag	giellaåhpadiddjefáhka	oahpahallanfága	3	0	1	0
+
+ervervsgrunnlag	doajmmavuodo	háhkanvuođđu	1	0	1	0
+
+reguleringsforslag	dulvvadimoajvvadus	muddenevttohus	4	0	1	0
+
+kapitaltilgang	kapitálladille	kapitálavárri	2	0	1	0
+
+vegplanlegging	gæjnnopládnaplánim	luoddaplánen/geaidnoplánen	1	0	1	0
+
+reiselivsplanlegging	mannoæláduspládnaplánim	mátkeealáhusplánen	1	0	1	0
+
+opplæringsavdeling	giellaåhpadusåssudahka	oahpahusossodat	15	0	18	0
+
+kraftledning	liebmabåhttså	fápmojođas	8	0	4	0
+
+fordelingsvirkning	juohkofábmo	juohkinváikkuhus	1	0	1	0
+
+registeropplysning	lågosdiehto	registtardiehtu	1	0	1	0
+
+opphavsrettslovgivning	dahkkerievtesvuohtaláhka	vuoigatvuođaláhka	1	0	1	0
+
+kvalitetsvurdering	kvalitæhttaárvustallamdájddo	kvalitehtaárvvoštallan	1	0	1	0
+
+skolestyring	skåvllåstivrra	skuvlastivrejupmi	1	1	1	0
+
+virksomhetsstyring	doajmmastivrra	doaibmastivren	1	0	0	0
+
+forsøksnæring	gæhttjaladdamæládusåvddånahttem	geahččaladdanealáhus	1	0	0	0
+
+petroleumsnæring	gássaæládusåvddånahttem	petroleumealáhus	1	0	1	0
+
+korrekturlesing	korrektuvrralåhkke	korrekturlohkan	6	0	0	0
+
+TV-satsing	TV-vuorodibme	TV-doaibma	1	0	1	0
+
+menneskerettighetsdialog	almasjriektádialåvggå	olmmošvuoigatvuođadigaštallan	1	0	0	0
+
+opplæringsfilosofi	giellaåhpadusfilosofiddja	oahpahanfilosofiija	1	0	1	0
+
+taleteknologi	hållateknologiddja	jietnadanteknologiija	1	0	1	0
+
+kystparti	merragáddeguollimbelludahka	riddobellodat	1	0	3	0
+
+verneplansak	gáhttimpládnaássje	suodjalanplánaášši/suodjalusplánaášši	2	0	1	0
+
+kulturminnevernsak	kulturmujttosuodjalusássjegiehtadallam	kulturmuitoášši	1	0	1	0
+
+bistandssak	doarjjaássjegiehtadallam	ovddádusášši	1	0	1	0
+
+forskningssak	guoradallamássjegiehtadallam	dutkanášši	1	0	1	0
+
+høringssak	guláskuddamássjegiehtadallam	gulaskuddanášši	4	0	1	0
+
+omsorgssak	huksoássjegiehtadallam	fuolahusášši	1	0	1	0
+
+vannpolitikk	jávrreguovllopolitihkka	čáhcepolitihkka	1	0	1	0
+
+petroleumspolitikk	gássaguovllopolitihkka	petroleumpolitihkka	1	0	0	0
+
+kommunikasjonspolitikk	guládallamguovllopolitihkka	gulahallanpolitihkka	5	0	1	0
+
+musikkuttrykk	musihkkaåvddånbuktemvuohke	musihkkaovdanbuktin	2	0	1	0
+
+formuttrykk	hábmeåvddånbuktemvuohke	hábmenvuohki	1	0	1	0
+
+identitetsuttrykk	identitæhttaåvddånbuktemvuohke	identitehtaolggosbuktin	1	0	0	0
+
+lærespråk	giellaåhpadiddjegiella	oahppangiella	1	0	1	0
+
+opplæringsvirkemiddel	giellaåhpadusvájkkudimnævvo	oahpahusváikkuhangaskaoapmi	0	0	1	0
+
+varehandel	gálvvooasse	gálvogávppašeapmi/gálvogávpi	6	0	1	0
+
+barsel	goahttsenuorjjo	seaŋganisu	2	0	1	0
+
+festspillprofil	musihkkaspællaprofijlla	feastaspealloprofiila	1	0	1	0
+
+urfolksprofil	iemeprofijlla	eamiálbmothámádat/eamiálbmotprofiila	1	0	1	0
+
+bruddprotokoll	liejmebievddegirjje	boatkaprotokolla	1	0	1	0
+
+styreprotokoll	jådediddjebievddegirjje	stivrrabeavdegirji	1	0	0	0
+
+barnekull	goahttsegårnnebilggá	mánáidbessodat	2	0	1	0
+
+menighetsrådsmedlem	biednarádeájras	searvegoddelahttu	1	0	1	0
+
+sysselsettingssystem	barggosuorgge	barggahanvuogádat	1	11	1	0
+
+kommunikasjonssystem	guládallamvuohke	gulahallanvuogádat	1	29	1	0
+
+styrerom	jådediddjeladnja	stivrenlatnja	1	0	1	0
+
+ervervsform	doajmmavuohke	háhkanvuohki	1	0	1	0
+
+gymnasstudium	gymnásaåhpadus	logahatoahppu	0	0	1	0
+
+språkutviklingsplan	gielladásse	giellaovdánahttinplána	3	0	1	0
+
+skjøtselsplan	hoajddodásse	dikšunplána	5	0	2	0
+
+petroleumsplan	gássadásse	petroleumplána	1	0	1	0
+
+kommunikasjonsplan	guládallamdásse	gulahallanplána	1	0	1	0
+
+distriktsplan	guovllodásse	orohatplána	22	0	8	0
+
+vindkraftplan	bieggafábmoliebma	bieggafápmoplána	4	0	2	0
+
+lærereksamen	giellaåhpadiddjeeksábma	oahpaheaddjeeksámen	2	0	1	0
+
+studiedesign	låhkåmhábmedibme	dutkanhápmi	1	0	1	0
+
+villsvin	gåddevijnna	meahccespiidni/villaspiidni	1	0	1	0
+
+merkesmann	gierggediedaålmåj	mearkaalmmái	1	0	1	0
+
+forvaltningsskjønn	háldadusmåhkke	hálddašanárvvoštallan/hálddašanárvvošteapmi	1	0	0	0
+
+talesituasjon	hålladille	ságastallandilálašvuohta	3	0	1	0
+
+likviditetssituasjon	máksemmáhttelisvuohtadille	reaidaruhtadilli	1	0	0	0
+
+foreldreaksjon	åvddåbielle	váhnenakšuvdna	1	14	1	0
+
+politikkutviklerfunksjon	guovllopolitihkkaåvddånahtte	politihkkaovddidandoaibma	1	0	1	0
+
+støttepunktfunksjon	gierggetjuokkes	doarjjabáikedoaibma	1	0	1	0
+
+menneskerettighetskonvensjon	almasjkonvensjåvnnå	olmmošvuoigatvuođakonvenšuvdna/olmmošvuoigatvuođasoahpamuš/olmmošriektekonvenšuvdna	8	0	2	0
+
+urfolksnavn	iemenamma	álgoálbmotnamma	1	0	1	0
+
+studielån	låhkåmluojkkam	studieloatna/oahppoloatna	23	0	4	0
+
+tapsrisiko	massemváhtá	massinvejolašvuohta	1	0	1	0
+
+utbetalingsdato	máksembiejvve	máksindáhton	24	0	4	0
+
+kvalitetsbegrep	kvalitæhttabáhko	kvalitehtadoaba	1	0	1	0
+
+ektepar	gállasjbielisj	náittospárra/náittosbárra	6	0	5	0
+
+forsøksleder	gæhttjaladdamnjunnjusj	geahččaladdanjođiheaddji/geahččalanjođiheaddji	1	0	1	0
+
+opplæringssenter	giellaåhpadusguovdásj	oahpahallanguovddáš	1	0	1	0
+
+samferdselsminister	jåhtulahkaministar	johtolatministtar	13	0	3	0
+
+kystminister	merragáddeguollimministar	riddoministtar	42	0	7	0
+
+rådgiver	dármmevadde	rávvejeaddji/ráđđeaddi	162	0	60	0
+
+studierådgiver	låhkåmrádediddje	oahppobagadeaddji/oahpporávvejeaddji	0	0	1	0
+
+kommunikasjonsrådgiver	guládallamrádediddje	gulahallanráđđeaddi	11	0	5	0
+
+regionskattekontor	guovlloværrokontåvrrå	regiovdnavearrokantuvra	1	0	0	0
+
+urfolkslitteratur	iemegirjálasjvuohta	eamiálbmotgirjjálašvuohta	1	0	1	0
+
+moltepris	láttakhievedibme	luomehaddi	1	0	1	0
+
+kortpris	kårttåhievedibme	goartahaddi	1	0	1	0
+
+forvaltningspraksis	háldadushárjjidallam	hálddašangeavahus/hálddašangeavat	8	0	2	0
+
+konkurs	doajmmakurssa	reastaluvvat/reastaluvvan	17	0	9	0
+
+kulturminneressurs	kulturmujttoresurssaháldadus	kulturmuitoriggodat	1	0	0	0
+
+beiteressurs	guohtomresurssaháldadus	guođohanresursa/guohtunresursa	18	0	1	0
+
+naturressurs	luonndoresurssaháldadus	luondduresursa/luondduvalljodat/luondduriggodat	111	0	25	0
+
+undersøkelsesressurs	guoradallamresurssaháldadus	guorahallanresursa	1	0	1	0
+
+urfolksfokus	iemeálmmukguovdásj	álgoálbmotfokus	1	0	1	0
+
+lærekandidat	giellaåhpadiddjekandidáhtta	oahpaheaddjekandidáhtta	14	0	1	0
+
+gardsmat	gárgesbiebbmo	doalloborramuš	3	0	1	0
+
+arbeidsmarkedsetat	barggoetáhtta	bargomárkanetáhtta/bargofápmodoaimmahat	2	0	1	0
+
+kjernerettighet	guovdásjrievtes	váimmusvuoigatvuohta	1	0	1	0
+
+pengespillvirksomhet	biednikspelladoajmma	ruhtaspeallodoaibma	1	0	0	0
+
+havbruksvirksomhet	merraæládusbarggo	áhpedoallodoaibma	1	0	1	0
+
+forsøksvirksomhet	gæhttjaladdambarggo	geahččaladdandoaibma/geahččalandoaibma	3	2	2	0
+
+petroleumsvirksomhet	gássabarggo	petrovladoaibma/petroleumdoaibma	32	0	5	0
+
+innovasjonsvirksomhet	innovasjåvnnåbarggo	hutkandoaibma	1	0	1	0
+
+sjøørret	merradábmuk	guvžá	5	0	6	0
+
+vrakpantavgift	hilgoduspánntadivut	ráhtomáksodivat	1	0	0	0
+
+steinbit	gierggesmålle	stáinnir/stáidnár	3	0	1	0
+
+reinkalvslakt	miesseslákta	miessenjuovvan	0	0	2	0
+
+opplæringskontrakt	giellaåhpadussjiehtadus	oahpahussoahpamuš	4	0	1	0
+
+litteraturformidlingsprosjekt	girjálasjvuohtaåvddånbuktemprosjækta	girjjálašvuođagaskkustanprošeakta	1	0	1	0
+
+lærerdistrikt	giellaåhpadiddjeguovllo	oahpaheaddjebiire	1	0	0	0
+
+satsingsfelt	doajmmasuorgge	nannenduovdda	2	2	1	0
+
+naturelement	luonndoelemænnta	luonddubealli	1	0	1	0
+
+talefot	hållajuolgge	háleštanmuddu	1	0	1	0
+
+vegtransport	gæjnnofievrro	geaidnofievrrideapmi	1	0	1	0
+
+praksisbrev	dáhpetjála	hárjehallireive	1	0	1	0
+
+arealforvaltningsperspektiv	areállaperspektijvva	areálahálddašanperspektiiva	0	0	1	0
+
+trafikkbehov	jåhtulahkadárbbo	johtolatdárbu	1	0	1	0
+
+ferielov	loabehievedus	luopmoláhka	2	0	1	0
+
+vannlov	jávrrehievedus	čázádatláhka/čáhceláhka	1	0	3	0
+
+naturvernlov	luondosuoddjimhievedus	luonddusuodjalanláhka/birasgáhttenláhka/luonddusuodjalusláhka	12	0	3	0
+
+petroleumslov	gássahievedus	oljoláhka	1	0	1	0
+
+ekteskapslov	gállasjvuohtaskåvllåláhka	náittosláhka	4	0	1	0
+
+vannressurslov	jávrreresurssaháldadus	čáhceresursaláhka	3	0	1	0
+
+havressurslov	merraresurssaháldadus	áhperesursaláhka	22	0	3	0
+
+språkopplæringsverktøy	giellavædtsak	giellaoahpporeaidu	1	1	1	0
+
+symbolnivå	gåvåstahkadásse	symboladássi/govastatdássi	1	0	1	0
+
+husholdsnivå	goahtesujttodásse	dállodoallodássi	1	0	0	0
+
+tegn	tjálamærkka	čálamearka	101	0	6	0
+
+klistremerke	lijmmamærkka	liibmamearka	1	0	1	0
+
+depresjon	låssåtmiella	lossamiella	3	0	2	0
+
+utviklingstilbud	åvddånahttemvejulasjvuohta	ovdánahttinvejolašvuohta	1	0	4	0
+
+pioner	åvddåvádtse	ovdavázzin	1	0	2	0
+
+utkast	álggotjálos	álgočálus	140	0	2	0
+
+tv-tilbud	tv-fálaldak	tv-fálaldat	4	0	3	0
+
+fordom	åvddågáddo	ovdagáddu	9	0	21	1
+
+geitehold	gájttsabarggo	gáicadoallu	1	0	1	0
+
+forkunnskap	åvddåmáhtto	ovdamáhttu	3	0	1	0

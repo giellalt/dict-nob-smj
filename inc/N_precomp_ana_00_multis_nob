@@ -1,0 +1,817 @@
+
+forskningstema	guoradallamfáddá	dutkanfáddá	2	0	6	0
+forskningstema	guoradallamtiebmá	dutkanfáddá	2	1	6	0
+
+menneskerettighetstema	almasjriektáássje	olmmošvuoigatvuođafáddá	0	0	0	0
+menneskerettighetstema	almasjriektáfáddá	olmmošvuoigatvuođafáddá	0	0	0	0
+menneskerettighetstema	almasjriektátiebmá	olmmošvuoigatvuođafáddá	0	0	0	0
+
+kontaktledd	guládallammadda	oktavuođalađas	2	0	1	0
+kontaktledd	guládallamladás	oktavuođalađas	2	0	1	0
+
+frakttilskudd	gálvvoruhtadoarjja	fievrredandoarjja/fievrridandoarjja/geasehandoarjja	5	0	2	0
+frakttilskudd	gálvvodoarjja	fievrredandoarjja/fievrridandoarjja/geasehandoarjja	5	0	2	0
+frakttilskudd	gálvvoruhta	fievrredandoarjja/fievrridandoarjja/geasehandoarjja	5	0	2	0
+
+distriktsplanarbeid	guovllopládnabarggo	orohatplánabargu	1	0	1	0
+distriktsplanarbeid	guovllobarggo	orohatplánabargu	1	0	1	0
+distriktsplanarbeid	guovlobarggo	orohatplánabargu	1	0	1	0
+
+undersøkelsesarbeid	guoradallamadoajmma	iskkadanbargu	6	0	3	0
+undersøkelsesarbeid	guoradallamdoajmma	iskkadanbargu	6	0	3	0
+undersøkelsesarbeid	guoradallamabarggo	iskkadanbargu	6	0	3	0
+undersøkelsesarbeid	guoradallampládnabarggo	iskkadanbargu	6	0	3	0
+undersøkelsesarbeid	guoradallambarggo	iskkadanbargu	6	0	3	2
+undersøkelsesarbeid	guoradallamåvddånahttembarggo	iskkadanbargu	6	0	3	0
+
+kartleggingsarbeid	guoradallamadoajmma	gártenbargu/kártenbargu	5	0	3	0
+kartleggingsarbeid	guoradallamdoajmma	gártenbargu/kártenbargu	5	0	3	0
+kartleggingsarbeid	guoradallamabarggo	gártenbargu/kártenbargu	5	0	3	0
+kartleggingsarbeid	guoradallampládnabarggo	gártenbargu/kártenbargu	5	0	3	0
+kartleggingsarbeid	guoradallambarggo	gártenbargu/kártenbargu	5	0	3	0
+kartleggingsarbeid	guoradallamåvddånahttembarggo	gártenbargu/kártenbargu	5	0	3	0
+
+språkutviklingsarbeid	gieladoajmma	giellaovdánahttinbargu	5	0	1	0
+språkutviklingsarbeid	gielladoajmma	giellaovdánahttinbargu	5	0	1	0
+språkutviklingsarbeid	gielabarggo	giellaovdánahttinbargu	5	0	1	0
+språkutviklingsarbeid	giellapládnabarggo	giellaovdánahttinbargu	5	0	1	0
+språkutviklingsarbeid	giellaåvddånahttembarggo	giellaovdánahttinbargu	5	0	1	0
+
+forskningsarbeid	guoradallamadoajmma	dutkanbargu	6	0	13	0
+forskningsarbeid	guoradallamdoajmma	dutkanbargu	6	0	13	0
+forskningsarbeid	guoradallamabarggo	dutkanbargu	6	0	13	0
+forskningsarbeid	guoradallampládnabarggo	dutkanbargu	6	0	13	0
+forskningsarbeid	guoradallambarggo	dutkanbargu	6	0	13	0
+forskningsarbeid	guoradallamåvddånahttembarggo	dutkanbargu	6	0	13	0
+
+omsorgsarbeid	huksodoajmma	ovddasmorašbargu	12	0	2	0
+omsorgsarbeid	huvsodoajmma	ovddasmorašbargu	12	0	2	0
+omsorgsarbeid	huksopládnabarggo	ovddasmorašbargu	12	0	2	0
+omsorgsarbeid	huksoåvddånahttembarggo	ovddasmorašbargu	12	0	2	0
+omsorgsarbeid	huksobarggo	ovddasmorašbargu	12	0	2	0
+omsorgsarbeid	huvsobarggo	ovddasmorašbargu	12	0	2	0
+
+kommunikasjonsarbeid	guládallamdoajmma	gulahallanbargu	1	0	1	0
+kommunikasjonsarbeid	guládallampládnabarggo	gulahallanbargu	1	0	1	0
+kommunikasjonsarbeid	guládallambarggo	gulahallanbargu	1	0	1	0
+kommunikasjonsarbeid	guládallamåvddånahttembarggo	gulahallanbargu	1	0	1	0
+
+fisketid	guolleájgge	oaggunáigi/bivdináigi	5	0	2	0
+fisketid	guollimájgge	oaggunáigi/bivdináigi	5	0	2	0
+fisketid	guollebivddoájgge	oaggunáigi/bivdináigi	5	0	2	0
+fisketid	guollárájgge	oaggunáigi/bivdináigi	5	0	2	0
+fisketid	guolástusájgge	oaggunáigi/bivdináigi	5	0	2	0
+fisketid	guollimamuddo	oaggunáigi/bivdináigi	5	0	2	0
+fisketid	guollemuddo	oaggunáigi/bivdináigi	5	0	2	0
+fisketid	guolemuddo	oaggunáigi/bivdináigi	5	0	2	0
+fisketid	guollimmuddo	oaggunáigi/bivdináigi	5	0	2	0
+fisketid	guollebivddomuddo	oaggunáigi/bivdináigi	5	0	2	0
+fisketid	guollebivdomuddo	oaggunáigi/bivdináigi	5	0	2	0
+fisketid	guollármuddo	oaggunáigi/bivdináigi	5	0	2	0
+fisketid	guolástusmuddo	oaggunáigi/bivdináigi	5	0	2	0
+
+dagtid	biejvveájgge	beaivet/beaiveáigi	5	0	16	0
+dagtid	biejvemuddo	beaivet/beaiveáigi	5	0	16	0
+dagtid	biejvvemuddo	beaivet/beaiveáigi	5	0	16	0
+
+måltid	giellaájgge	boradit/borran	7	0	63	0
+måltid	gielamuddo	boradit/borran	7	0	63	0
+måltid	giellamuddo	boradit/borran	7	0	63	0
+
+konkurranseforhold	gilpustallamadille	gilvalandilálašvuohta	4	0	1	0
+konkurranseforhold	gilppusadille	gilvalandilálašvuohta	4	0	1	0
+konkurranseforhold	gilpustallamdille	gilvalandilálašvuohta	4	0	1	0
+konkurranseforhold	gilposdille	gilvalandilálašvuohta	4	0	1	0
+konkurranseforhold	gilpustallamavijor	gilvalandilálašvuohta	4	0	1	0
+konkurranseforhold	gilppusavijor	gilvalandilálašvuohta	4	0	1	0
+konkurranseforhold	gilpustallamvijor	gilvalandilálašvuohta	4	0	1	0
+konkurranseforhold	gilposvijor	gilvalandilálašvuohta	4	0	1	0
+
+beiteforhold	guohtomadille	guohtundilli/guohtundilálašvuohta	20	0	4	0
+beiteforhold	guohtomdille	guohtundilli/guohtundilálašvuohta	20	0	4	0
+beiteforhold	guohtomavijor	guohtundilli/guohtundilálašvuohta	20	0	4	0
+
+boforhold	girjjedille	ássandilálašvuohta	2	0	1	0
+boforhold	girjedille	ássandilálašvuohta	2	0	1	0
+boforhold	girjjevijor	ássandilálašvuohta	2	0	1	0
+boforhold	girjevijor	ássandilálašvuohta	2	0	1	0
+
+språkmotiveringsstipend	gielaarvusmahttem	giellamovttiidahttinstipeanda	4	0	1	0
+språkmotiveringsstipend	giellaarvusmahttem	giellamovttiidahttinstipeanda	4	9	1	0
+
+petroleumsfond	gássafoannda	petroleumfoanda	2	0	1	0
+petroleumsfond	gássaruhtavuorkká	petroleumfoanda	2	0	1	0
+
+korngård	gårnnesijdda	gordnedállu	1	0	0	0
+korngård	gårnnegárdde	gordnedállu	1	0	0	0
+korngård	gårnnegoahte	gordnedállu	1	0	0	0
+
+TV-tilbud	TV-fálaldahka	TV-fálaldat	2	0	4	0
+TV-tilbud	TV-åhpadusfálaldahka	TV-fálaldat	2	0	4	0
+TV-tilbud	TV-skåvllåfálaldahka	TV-fálaldat	2	0	4	0
+
+behandlingstilbud	giehtadallamfálaldahka	dálkkodanfálaldat/dikšofálaldat/dikšunfálaldat	16	0	2	1
+behandlingstilbud	giehtadallamåhpadusfálaldahka	dálkkodanfálaldat/dikšofálaldat/dikšunfálaldat	16	0	2	0
+behandlingstilbud	giehtadallamskåvllåfálaldahka	dálkkodanfálaldat/dikšofálaldat/dikšunfálaldat	16	0	2	0
+
+omsorgstilbud	huksofálaldahka	fuolahanfálaldat/fuolahusfálaldat/fuollafálaldat	11	0	1	0
+omsorgstilbud	huksoåhpadusfálaldahka	fuolahanfálaldat/fuolahusfálaldat/fuollafálaldat	11	0	1	0
+omsorgstilbud	huksoskåvllåfálaldahka	fuolahanfálaldat/fuolahusfálaldat/fuollafálaldat	11	0	1	0
+
+forsøksråd	gæhttjaladdamráde	geahččalanráđđi	2	0	1	0
+forsøksråd	gæhttjaladdamdármme	geahččalanráđđi	2	0	1	0
+
+undersøkelsesperiode	guoradallamgávdda	guorahallanáigodat/iskanáigodat	3	0	4	0
+undersøkelsesperiode	guoradallamájgge	guorahallanáigodat/iskanáigodat	3	0	4	0
+
+forsøksperiode	gæhttjaladdamgávdda	geahččalanáigodat	2	0	3	0
+forsøksperiode	gæhttjaladdamájgge	geahččalanáigodat	2	0	3	0
+
+språkmetode	gielavuohke	giellametoda	1	0	1	0
+språkmetode	giellavuohke	giellametoda	1	0	1	0
+
+kartleggingsmetode	guoradallamavuohke	kártenvuohki	1	0	1	0
+kartleggingsmetode	guoradallamvuohke	kártenvuohki	1	0	1	0
+
+merkegjerde	gierggebuodo	mearkungárdi	2	6	1	0
+merkegjerde	giergebuodo	mearkungárdi	2	0	1	0
+
+katastrofeområde	hiedesuorgge	katastrofaguovlu	1	0	0	0
+katastrofeområde	hiehtesuorgge	katastrofaguovlu	1	0	0	0
+katastrofeområde	hiedesadje	katastrofaguovlu	1	0	0	0
+katastrofeområde	hiehtesadje	katastrofaguovlu	1	0	0	0
+katastrofeområde	hiehtebájkke	katastrofaguovlu	1	0	0	0
+katastrofeområde	hiedeednam	katastrofaguovlu	1	0	0	0
+katastrofeområde	hiehteednam	katastrofaguovlu	1	0	0	0
+katastrofeområde	hiedeguohtomednam	katastrofaguovlu	1	0	0	0
+katastrofeområde	hiehteguohtomednam	katastrofaguovlu	1	0	0	0
+katastrofeområde	hiedeguovllo	katastrofaguovlu	1	0	0	0
+katastrofeområde	hiehteguovllo	katastrofaguovlu	1	0	0	0
+
+undersøkelsesområde	guoradallamasuorgge	guorahallanguovlu	1	0	1	0
+undersøkelsesområde	guoradallamsuorgge	guorahallanguovlu	1	0	1	0
+undersøkelsesområde	guoradallamasadje	guorahallanguovlu	1	0	1	0
+undersøkelsesområde	guoradallamsadje	guorahallanguovlu	1	0	1	0
+undersøkelsesområde	guoradallambájkke	guorahallanguovlu	1	0	1	0
+undersøkelsesområde	guoradallamaednam	guorahallanguovlu	1	0	1	0
+undersøkelsesområde	guoradallamednam	guorahallanguovlu	1	0	1	0
+undersøkelsesområde	guoradallamaguohtomednam	guorahallanguovlu	1	0	1	0
+undersøkelsesområde	guoradallamguohtomednam	guorahallanguovlu	1	0	1	0
+undersøkelsesområde	guoradallamaguovllo	guorahallanguovlu	1	0	1	0
+undersøkelsesområde	guoradallamguovllo	guorahallanguovlu	1	0	1	0
+
+utredningsområde	guoradallamasuorgge	čielggadusguovlu/guorahallansuorgi	1	0	1	0
+utredningsområde	guoradallamsuorgge	čielggadusguovlu/guorahallansuorgi	1	0	1	0
+utredningsområde	guoradallamasadje	čielggadusguovlu/guorahallansuorgi	1	0	1	0
+utredningsområde	guoradallamsadje	čielggadusguovlu/guorahallansuorgi	1	0	1	0
+utredningsområde	guoradallambájkke	čielggadusguovlu/guorahallansuorgi	1	0	1	0
+utredningsområde	guoradallamaednam	čielggadusguovlu/guorahallansuorgi	1	0	1	0
+utredningsområde	guoradallamednam	čielggadusguovlu/guorahallansuorgi	1	0	1	0
+utredningsområde	guoradallamaguohtomednam	čielggadusguovlu/guorahallansuorgi	1	0	1	0
+utredningsområde	guoradallamguohtomednam	čielggadusguovlu/guorahallansuorgi	1	0	1	0
+utredningsområde	guoradallamaguovllo	čielggadusguovlu/guorahallansuorgi	1	0	1	0
+utredningsområde	guoradallamguovllo	čielggadusguovlu/guorahallansuorgi	1	0	1	0
+
+utdanningsområde	oahpposuorgge	oahppansuorgi	2	2	0	0
+utdanningsområde	åhpadussuorgge	oahppansuorgi	2	11	0	1
+utdanningsområde	oahpposadje	oahppansuorgi	2	6	0	0
+utdanningsområde	oahppobájkke	oahppansuorgi	2	1	0	0
+
+forsøksområde	gæhttjaladdamsuorgge	geahččaladdanguovlu	1	0	1	0
+forsøksområde	gæhttjaladdamsadje	geahččaladdanguovlu	1	0	1	0
+forsøksområde	gæhttjaladdambájkke	geahččaladdanguovlu	1	0	1	0
+forsøksområde	gæhttjaladdamednam	geahččaladdanguovlu	1	0	1	0
+forsøksområde	gæhttjaladdamguohtomednam	geahččaladdanguovlu	1	0	1	0
+forsøksområde	gæhttjaladdamguovllo	geahččaladdanguovlu	1	0	1	0
+
+omsorgspenge	huksoruhta	fuolahanruhta	3	0	1	0
+omsorgspenge	huvsoruhta	fuolahanruhta	3	0	1	0
+omsorgspenge	huksobiednik	fuolahanruhta	3	0	1	0
+omsorgspenge	huvsobiednik	fuolahanruhta	3	0	1	0
+
+utdanningslinje	oahpposuorgge	oahppolinnjá	2	2	1	0
+utdanningslinje	åhpadussuorgge	oahppolinnjá	2	11	1	0
+
+kommunikasjonslinje	guládallamlinnja	kommunikašuvdnalinnjá	1	0	1	0
+kommunikasjonslinje	guládallamsuorgge	kommunikašuvdnalinnjá	1	0	1	0
+kommunikasjonslinje	guládallambarggosuorgge	kommunikašuvdnalinnjá	1	0	1	0
+kommunikasjonslinje	guládallamsáhtso	kommunikašuvdnalinnjá	1	0	1	0
+
+ektefelle	gállasjguojmme	beallelaš/náittosguoibmi	93	31	11	0
+ektefelle	gállasjvádá	beallelaš/náittosguoibmi	93	0	11	0
+
+konkurranseevne	gilpustallammáhtukvuohta	gilvalannákca/gilvocoakci/gilvogálga/gilvalancoakci	6	0	1	0
+konkurranseevne	gilposmáhtukvuohta	gilvalannákca/gilvocoakci/gilvogálga/gilvalancoakci	6	0	1	0
+
+funksjonsevne	doajmmamáhtukvuohta	doaibmannákca/doaibmanákca	39	0	5	0
+funksjonsevne	funksjåvnnåmáhtukvuohta	doaibmannákca/doaibmanákca	39	0	5	0
+
+fokusgruppe	guovdásjjuogos	fokusjoavku	1	0	1	0
+fokusgruppe	guovdásjbarggojuogos	fokusjoavku	1	0	1	0
+
+forskningsstyre	guoradallamjådediddje	dutkanstivra	1	0	1	0
+forskningsstyre	guoradallamráddidus	dutkanstivra	1	0	1	0
+
+distriktsstyre	guovllostivrra	orohatstivra	73	1	27	0
+distriktsstyre	guovlostivrra	orohatstivra	73	0	27	0
+distriktsstyre	guovllojådediddje	orohatstivra	73	0	27	0
+distriktsstyre	guovlloráddidus	orohatstivra	73	0	27	0
+
+sledeføre	gierrisafierdda	reahkasiivu	1	0	1	0
+sledeføre	gierisfierdda	reahkasiivu	1	0	1	0
+
+kriseledelse	hiehtedillejådedibme	heahtejođihangoddi	1	0	1	0
+kriseledelse	hiehtejådedibme	heahtejođihangoddi	1	0	1	0
+
+karlidelse	gárjjeldávdda	varrasuotnadávda	1	0	1	0
+karlidelse	gárjjelskihpudahka	varrasuotnadávda	1	0	1	0
+karlidelse	gárjjelvihke	varrasuotnadávda	1	0	1	0
+
+klagekompetanse	gujddimmáhtudahka	váidingelbbolašvuohta	1	0	0	0
+klagekompetanse	gujdalvismáhtudahka	váidingelbbolašvuohta	1	0	0	0
+klagekompetanse	gujddimmáhtto	váidingelbbolašvuohta	1	0	0	0
+klagekompetanse	gujdalvismáhtto	váidingelbbolašvuohta	1	0	0	0
+
+utredningskompetanse	guoradallammáhtudahka	guorahallangelbbolašvuohta	1	0	1	0
+utredningskompetanse	guoradallammáhtto	guorahallangelbbolašvuohta	1	0	1	0
+
+forskningskompetanse	guoradallammáhtudahka	dutkanmáhttu/dutkangelbbolašvuohta	5	0	1	0
+forskningskompetanse	guoradallammáhtto	dutkanmáhttu/dutkangelbbolašvuohta	5	0	1	0
+
+sluttkompetanse	hiejttemmáhtudahka	loahppagelbbolašvuohta	2	0	1	0
+sluttkompetanse	hiejttemmáhtto	loahppagelbbolašvuohta	2	0	1	0
+
+klageinteresse	gujddimberustibme	váidinberoštus	2	0	0	0
+klageinteresse	gujdalvisberustibme	váidinberoštus	2	0	0	0
+
+forskningsinteresse	guoradallamaberustibme	dutkanberoštus	1	0	1	0
+forskningsinteresse	guoradallamberustibme	dutkanberoštus	1	0	1	0
+
+regionkomite	guovllojuogos	regiovdnalávdegoddi	1	0	1	0
+regionkomite	guovlojuogos	regiovdnalávdegoddi	1	0	1	0
+regionkomite	guovllonammadus	regiovdnalávdegoddi	1	0	1	0
+regionkomite	guovlonammadus	regiovdnalávdegoddi	1	0	1	0
+
+forskningskomite	guoradallamajuogos	dutkanlávdegoddi	1	0	3	0
+forskningskomite	guoradallamjuogos	dutkanlávdegoddi	1	0	3	0
+forskningskomite	guoradallamanammadus	dutkanlávdegoddi	1	0	3	0
+forskningskomite	guoradallamnammadus	dutkanlávdegoddi	1	0	3	0
+
+språktjeneste	gielavirgge	giellabálvalus	2	0	2	0
+språktjeneste	giellavirgge	giellabálvalus	2	0	2	0
+språktjeneste	gieladievnno	giellabálvalus	2	0	2	0
+språktjeneste	gielladievnno	giellabálvalus	2	0	2	0
+språktjeneste	gielavarresvuodadievnastus	giellabálvalus	2	0	2	0
+språktjeneste	giellavarresvuodadievnastus	giellabálvalus	2	0	2	0
+språktjeneste	gieladievnastus	giellabálvalus	2	0	2	0
+språktjeneste	gielladievnastus	giellabálvalus	2	0	2	0
+
+fototjeneste	gåvvåvirgge	govvabálvalus	2	0	1	0
+fototjeneste	gåvvådievnno	govvabálvalus	2	0	1	0
+fototjeneste	gåvvåvarresvuodadievnastus	govvabálvalus	2	0	1	0
+fototjeneste	gåvvådievnastus	govvabálvalus	2	0	1	0
+
+kommunikasjonstjeneste	guládallamvirgge	gulahallanbálvalus	1	0	1	0
+kommunikasjonstjeneste	guládallamdievnno	gulahallanbálvalus	1	0	1	0
+kommunikasjonstjeneste	guládallamvarresvuodadievnastus	gulahallanbálvalus	1	0	1	0
+kommunikasjonstjeneste	guládallamdievnastus	gulahallanbálvalus	1	0	1	0
+
+sommerhytte	giesehyhtto	geassestohpu	1	0	1	0
+sommerhytte	giessehyhtto	geassestohpu	1	0	1	0
+
+petroleumsformue	gássaåbmudahka	petroleumopmodat	1	0	1	0
+petroleumsformue	gássaruhtaåbmudahka	petroleumopmodat	1	0	1	0
+
+konkurransegrunnlag	gilpustallamavuodo	gilvalanvuođđu/gilvovuođđu	2	0	1	0
+konkurransegrunnlag	gilppusavuodo	gilvalanvuođđu/gilvovuođđu	2	0	1	0
+konkurransegrunnlag	gilpustallamvuodo	gilvalanvuođđu/gilvovuođđu	2	0	1	0
+konkurransegrunnlag	gilposvuodo	gilvalanvuođđu/gilvovuođđu	2	0	1	0
+
+beitegrunnlag	guohtomavuodo	guohtunvuođđu	22	0	1	0
+beitegrunnlag	guohtomvuodo	guohtunvuođđu	22	0	1	0
+
+veganlegg	gæjnnorustik	geaidnorusttet	3	0	1	0
+veganlegg	gæjnnoásadus	geaidnorusttet	3	0	1	0
+
+omsorgsbolig	huksoviesso	fuolahanviessu/fuollavisti/fuollaásodat/fuolahanvisti	4	0	1	0
+omsorgsbolig	huvsoviesso	fuolahanviessu/fuollavisti/fuollaásodat/fuolahanvisti	4	0	1	0
+
+vegvalg	gæjnnoválgga	geaidnoválljen	1	0	1	0
+vegvalg	gæjnnojienastibme	geaidnoválljen	1	0	1	0
+vegvalg	gæjnnoválljim	geaidnoválljen	1	0	1	0
+
+verdivalg	haddeválgga	árvoválljen	2	0	1	0
+verdivalg	haddejienastibme	árvoválljen	2	0	1	0
+verdivalg	hattejienastibme	árvoválljen	2	0	1	0
+verdivalg	haddeválljim	árvoválljen	2	0	1	0
+
+veivalg	gæjnnoválgga	geaidnoválljen	7	0	1	0
+veivalg	gæjnnojienastibme	geaidnoválljen	7	0	1	0
+veivalg	gæjnnoválljim	geaidnoválljen	7	0	1	0
+
+vareutvalg	gálvvojuohko	gálvovalljodat/gálvohivvodat	1	0	1	0
+vareutvalg	gálvvojuogos	gálvovalljodat/gálvohivvodat	1	0	1	0
+vareutvalg	gálvvonammadus	gálvovalljodat/gálvohivvodat	1	0	1	0
+
+forskningsutvalg	guoradallamajuohko	dutkanlávdegoddi	4	0	3	0
+forskningsutvalg	guoradallamjuohko	dutkanlávdegoddi	4	0	3	0
+forskningsutvalg	guoradallamajuogos	dutkanlávdegoddi	4	0	3	0
+forskningsutvalg	guoradallamjuogos	dutkanlávdegoddi	4	0	3	0
+forskningsutvalg	guoradallamanammadus	dutkanlávdegoddi	4	0	3	0
+forskningsutvalg	guoradallamnammadus	dutkanlávdegoddi	4	0	3	0
+
+høringsutvalg	guláskuddamjuohko	gulaskuddanlávdegoddi	1	0	1	0
+høringsutvalg	guláskuddamjuogos	gulaskuddanlávdegoddi	1	0	1	0
+høringsutvalg	guláskuddamnammadus	gulaskuddanlávdegoddi	1	0	1	0
+
+planlegging	barggopládnaplánim	plánenbargu/plánen	228	0	71	0
+planlegging	dásseplánim	plánenbargu/plánen	228	0	71	0
+
+litteraturformidling	girjálasjvuohtagaskostibme	girjjálašvuođagaskkusteapmi	1	0	1	0
+litteraturformidling	girjálasjvuohtaåvddånbuktem	girjjálašvuođagaskkusteapmi	1	0	1	0
+
+distriktsinndeling	guovllojuohkem	orohatjuohku/orohatjuohkin	27	0	6	0
+distriktsinndeling	guovlojuohkem	orohatjuohku/orohatjuohkin	27	0	6	0
+distriktsinndeling	guovllojuohko	orohatjuohku/orohatjuohkin	27	0	6	0
+distriktsinndeling	guovlojuohko	orohatjuohku/orohatjuohkin	27	0	6	0
+
+petroleumsutvikling	gássaåvddånibme	petroleumovdáneapmi	1	0	1	0
+petroleumsutvikling	gássaåvddånahttem	petroleumovdáneapmi	1	0	1	0
+
+verdiforestilling	haddeájádus	árvoipmárdus/árvogovahallan	1	0	1	0
+verdiforestilling	haddevuosádus	árvoipmárdus/árvogovahallan	1	0	1	0
+
+boksamling	girjjetjoakkáldahka	girječoakkáldat	4	0	2	0
+boksamling	girjjetjoahkke	girječoakkáldat	4	0	2	0
+boksamling	girjetjoahkke	girječoakkáldat	4	0	2	0
+boksamling	girjjetjåhkanibme	girječoakkáldat	4	0	2	0
+boksamling	girjjetjåhkalvis	girječoakkáldat	4	0	2	0
+boksamling	girjjevuorkká	girječoakkáldat	4	131	2	0
+
+språksamling	giellatjoakkáldahka	giellačoagganeapmi	2	0	1	0
+språksamling	gielatjoahkke	giellačoagganeapmi	2	0	1	0
+språksamling	giellatjoahkke	giellačoagganeapmi	2	0	1	0
+språksamling	giellatjåhkanibme	giellačoagganeapmi	2	0	1	0
+språksamling	giellatjåhkalvis	giellačoagganeapmi	2	0	1	0
+språksamling	giellavuorkká	giellačoagganeapmi	2	0	1	0
+
+distriktsordning	guovllodoarjjaårnik	orohatortnet	1	0	1	0
+distriktsordning	guovlloårnik	orohatortnet	1	0	1	0
+distriktsordning	guovllonjuolgadus	orohatortnet	1	0	1	0
+distriktsordning	guovlonjuolgadus	orohatortnet	1	0	1	0
+distriktsordning	guovlloásadus	orohatortnet	1	0	1	0
+
+fraktordning	gálvvodoarjjaårnik	fievrrádusortnet	1	0	0	0
+fraktordning	gálvvoårnik	fievrrádusortnet	1	0	0	0
+fraktordning	gálvvonjuolgadus	fievrrádusortnet	1	0	0	0
+fraktordning	gálvvoásadus	fievrrádusortnet	1	0	0	0
+
+forskningsbevilgning	guoradallamaruhta	dutkanjuolludeapmi	1	0	0	0
+forskningsbevilgning	guoradallamruhta	dutkanjuolludeapmi	1	0	0	0
+
+verdiøkning	haddelassánibme	árvostuorrun	2	1	0	0
+verdiøkning	haddelasádus	árvostuorrun	2	0	0	0
+
+omsorgsløsning	huksotjoavdos	fuolahusčoavddus	1	0	1	0
+omsorgsløsning	huvsotjoavdos	fuolahusčoavddus	1	0	1	0
+
+beiteforvaltning	guohtomháldadibme	guohtunhálddašeapmi/guođohanhálddašeapmi	1	0	1	0
+beiteforvaltning	guohtomháldadus	guohtunhálddašeapmi/guođohanhálddašeapmi	1	0	1	0
+
+slutterklæring	hiejttemajavllamus	loahppajulggaštus	4	0	2	0
+slutterklæring	hiejttemjavllamus	loahppajulggaštus	4	0	2	0
+slutterklæring	hiejttemaduodastus	loahppajulggaštus	4	0	2	0
+slutterklæring	hiejttemduodastus	loahppajulggaštus	4	0	2	0
+
+bosetting	girjjemierre	ássan	230	0	244	0
+bosetting	girjemierre	ássan	230	0	244	0
+
+beiteverdi	guohtomahadde	guohtunárvu	2	0	1	0
+beiteverdi	guohtomhadde	guohtunárvu	2	0	1	0
+beiteverdi	guohtomárvvo	guohtunárvu	2	0	1	0
+
+vegtiltak	gæjnnodoajmma	geaidnodoaibmabidju	1	0	0	0
+vegtiltak	gæjnnodåjmalasjvuohta	geaidnodoaibmabidju	1	0	0	0
+
+språkutviklingstiltak	gieladoajmma	giellaovddidandoaibma/giellaovddidandoaibmabidju	8	0	2	0
+språkutviklingstiltak	gielladoajmma	giellaovddidandoaibma/giellaovddidandoaibmabidju	8	0	2	0
+språkutviklingstiltak	giellaåvddånahttemdoajmma	giellaovddidandoaibma/giellaovddidandoaibmabidju	8	0	2	0
+språkutviklingstiltak	gielladåjmalasjvuohta	giellaovddidandoaibma/giellaovddidandoaibmabidju	8	0	2	0
+
+skjøtselstiltak	hoajddodoajmma	seailluhandoaibmabidju	2	0	1	0
+skjøtselstiltak	hoajdodoajmma	seailluhandoaibmabidju	2	0	1	0
+skjøtselstiltak	hoajddodåjmalasjvuohta	seailluhandoaibmabidju	2	0	1	0
+
+veitrafikk	gæjnnojåhtulahka	luoddajohtolat	1	0	1	0
+veitrafikk	gæjnnotrafihkka	luoddajohtolat	1	0	1	0
+
+omsorgspolitikk	huksopolitihkka	áimmahuššanpolitihkka	1	0	1	0
+omsorgspolitikk	huvsopolitihkka	áimmahuššanpolitihkka	1	0	1	0
+omsorgspolitikk	huksopolitijkka	áimmahuššanpolitihkka	1	0	1	0
+omsorgspolitikk	huvsopolitijkka	áimmahuššanpolitihkka	1	0	1	0
+
+forskningsspråk	guoradallamagiella	dutkangiella	4	0	2	0
+forskningsspråk	guoradallamgiella	dutkangiella	4	0	2	0
+
+kjernekapital	guovdásjruhtaåbmudahka	vuođđokapitála	1	0	1	0
+kjernekapital	guovdásjkapitálla	vuođđokapitála	1	0	1	0
+
+språkutviklingsmiddel	gielaruhta	giellaovddidanruhta	0	0	1	0
+språkutviklingsmiddel	giellaruhta	giellaovddidanruhta	0	0	1	0
+språkutviklingsmiddel	giellanævvo	giellaovddidanruhta	0	0	1	0
+
+utredningsmiddel	guoradallamaruhta	čielggadanruhta	0	0	1	0
+utredningsmiddel	guoradallamruhta	čielggadanruhta	0	0	1	0
+utredningsmiddel	guoradallamnævvo	čielggadanruhta	0	0	1	0
+
+forskningsmiddel	guoradallamaruhta	dutkanruhta	2	0	3	0
+forskningsmiddel	guoradallamruhta	dutkanruhta	2	0	3	0
+forskningsmiddel	guoradallamnævvo	dutkanruhta	2	0	3	0
+
+språkopplæringsmiddel	giellaåhpadusruhta	giellaoahpahusruhta	0	0	1	0
+språkopplæringsmiddel	giellaåhpadusnævvo	giellaoahpahusruhta	0	0	1	0
+
+varehandel	gálvvooasestibme	gálvogávppašeapmi/gálvogávpi	6	0	1	0
+varehandel	gálvvooases	gálvogávppašeapmi/gálvogávpi	6	0	1	0
+
+klageregel	gujddimnjuolgadus	váidinnjuolggadus	1	0	1	0
+klageregel	gujdalvisnjuolgadus	váidinnjuolggadus	1	0	1	0
+
+merkeregel	gierggenjuolgadus	merkennjuolggadus	1	0	1	0
+merkeregel	giergenjuolgadus	merkennjuolggadus	1	0	1	0
+
+konkurranseregel	gilpustallamanjuolgadus	gilvonjuolggadus	1	0	1	0
+konkurranseregel	gilppusanjuolgadus	gilvonjuolggadus	1	0	1	0
+konkurranseregel	gilpustallamnjuolgadus	gilvonjuolggadus	1	0	1	0
+konkurranseregel	gilposnjuolgadus	gilvonjuolggadus	1	0	1	0
+
+hederstittel	guddnenamma	gudnenamahus	1	0	1	0
+hederstittel	gudnenamma	gudnenamahus	1	0	1	0
+
+forskningsprofil	guoradallamaprofijlla	dutkanprofiila	1	0	1	0
+forskningsprofil	guoradallamprofijlla	dutkanprofiila	1	0	1	0
+
+distriktsprofil	guovlloprofijlla	distriktaprofiila/guovloprofiila	7	0	1	0
+distriktsprofil	guovloprofijlla	distriktaprofiila/guovloprofiila	7	0	1	0
+
+språkforskjell	gielavuojnno	giellaerohus	1	0	1	0
+språkforskjell	giellavuojnno	giellaerohus	1	0	1	0
+språkforskjell	gielasieradus	giellaerohus	1	0	1	0
+språkforskjell	giellasieradus	giellaerohus	1	0	1	0
+
+sluttprotokoll	hiejttemabievddegirjje	loahppaprotokolla	4	0	1	0
+sluttprotokoll	hiejttembievddegirjje	loahppaprotokolla	4	0	1	0
+
+forskningsformål	guoradallamaulmme	dutkanulbmil	3	0	1	0
+forskningsformål	guoradallamulmme	dutkanulbmil	3	0	1	0
+forskningsformål	guoradallamájggomus	dutkanulbmil	3	0	1	0
+
+forskningsspørsmål	guoradallamássje	dutkangažaldat	2	0	1	0
+forskningsspørsmål	guoradallamgatjálvis	dutkangažaldat	2	0	1	0
+
+kommunikasjonsproblem	guládallamtjuolmma	gulahallanváttisvuohta	2	0	4	0
+kommunikasjonsproblem	guládallamváttesvuohta	gulahallanváttisvuohta	2	0	4	0
+kommunikasjonsproblem	guládallamgássjelisvuohta	gulahallanváttisvuohta	2	0	4	0
+
+forskningssystem	guoradallamasuorgge	dutkanvuogádat	3	0	1	0
+forskningssystem	guoradallamsuorgge	dutkanvuogádat	3	0	1	0
+
+kommunikasjonssystem	guládallamvuogádahka	gulahallanvuogádat	1	0	1	0
+kommunikasjonssystem	guládallamsystiebma	gulahallanvuogádat	1	0	1	0
+kommunikasjonssystem	guládallamsuorgge	gulahallanvuogádat	1	0	1	0
+
+karsykdom	gárjjeldávdda	varrasuotnavihki	6	0	2	0
+karsykdom	gárjjelvihke	varrasuotnavihki	6	0	2	0
+
+boform	girjjevuohke	ássanvuohki	2	0	2	0
+boform	girjevuohke	ássanvuohki	2	0	2	0
+boform	girjjehábme	ássanvuohki	2	0	2	0
+
+tilpasningsform	hiebadimevuohke	heivehusvuohki	1	0	1	0
+tilpasningsform	hiebadimvuohke	heivehusvuohki	1	0	1	0
+
+omsorgsform	huksovuohke	fuolahusvuohki	1	0	1	0
+omsorgsform	huvsovuohke	fuolahusvuohki	1	0	1	0
+omsorgsform	huksohábme	fuolahusvuohki	1	0	1	0
+
+skriftform	girjjevuohke	čállinnorbma	2	0	1	0
+skriftform	girjevuohke	čállinnorbma	2	0	1	0
+skriftform	tjállemvuohke	čállinnorbma	2	80	1	2
+skriftform	girjjehábme	čállinnorbma	2	0	1	0
+
+kvenmuseum	guojnamusedja	kvenamusea	1	0	1	0
+kvenmuseum	guojnnamusedja	kvenamusea	1	0	1	0
+kvenmuseum	guojnnadávvervuorkká	kvenamusea	1	0	1	0
+
+språkutviklingsplan	giellavæddjapládna	giellaovdánahttinplána	3	0	1	0
+språkutviklingsplan	giellapládna	giellaovdánahttinplána	3	9	1	0
+språkutviklingsplan	giellaåvddånahttempládna	giellaovdánahttinplána	3	0	1	0
+språkutviklingsplan	giellabarggopládna	giellaovdánahttinplána	3	0	1	0
+språkutviklingsplan	giellaájggom	giellaovdánahttinplána	3	0	1	0
+
+skjøtselsplan	hoajddovæddjapládna	dikšunplána	5	0	2	0
+skjøtselsplan	hoajddopládna	dikšunplána	5	0	2	0
+skjøtselsplan	hoajddobarggopládna	dikšunplána	5	0	2	0
+skjøtselsplan	hoajddoájggom	dikšunplána	5	0	2	0
+
+petroleumsplan	gássavæddjapládna	petroleumplána	1	0	1	0
+petroleumsplan	gássapládna	petroleumplána	1	0	1	0
+petroleumsplan	gássabarggopládna	petroleumplána	1	0	1	0
+petroleumsplan	gássaájggom	petroleumplána	1	0	1	0
+
+kommunikasjonsplan	guládallamvæddjapládna	gulahallanplána	1	0	1	0
+kommunikasjonsplan	guládallampládna	gulahallanplána	1	0	1	0
+kommunikasjonsplan	guládallambarggopládna	gulahallanplána	1	0	1	0
+kommunikasjonsplan	guládallamájggom	gulahallanplána	1	0	1	0
+
+distriktsplan	guovllovæddjapládna	orohatplána	22	0	8	0
+distriktsplan	guovllobarggopládna	orohatplána	22	0	8	0
+distriktsplan	guovllopládna	orohatplána	22	2	8	0
+distriktsplan	guovlloájggom	orohatplána	22	0	8	0
+
+merkesmann	gierggeguojmme	mearkaalmmái	1	0	1	0
+merkesmann	giergeguojmme	mearkaalmmái	1	0	1	0
+merkesmann	gierggealmasj	mearkaalmmái	1	0	1	0
+merkesmann	giergealmasj	mearkaalmmái	1	0	1	0
+merkesmann	gierggeulmusj	mearkaalmmái	1	0	1	0
+merkesmann	giergeulmusj	mearkaalmmái	1	0	1	0
+merkesmann	gierggeålmåj	mearkaalmmái	1	0	1	0
+
+krisesituasjon	hiededille	roassodilli	3	0	1	0
+krisesituasjon	hiehtediledille	roassodilli	3	0	1	0
+krisesituasjon	hiehtedilledille	roassodilli	3	0	1	0
+krisesituasjon	hiehtedille	roassodilli	3	0	1	0
+
+omsorgssituasjon	huksodille	fuolahusdilli	2	0	1	0
+omsorgssituasjon	huvsodille	fuolahusdilli	2	0	1	0
+
+livssituasjon	hekkadille	eallindilli/eallindilálašvuohta	14	0	15	0
+livssituasjon	iellemdille	eallindilli/eallindilálašvuohta	14	12	15	3
+livssituasjon	viessomdille	eallindilli/eallindilálašvuohta	14	7	15	0
+
+omsorgspermisjon	huksovirggeloahpe	áimmahuššanvirgelohpi/fuolahusvirgelohpi	2	0	1	0
+omsorgspermisjon	huvsovirggeloahpe	áimmahuššanvirgelohpi/fuolahusvirgelohpi	2	0	1	0
+omsorgspermisjon	huksopermisjåvnnå	áimmahuššanvirgelohpi/fuolahusvirgelohpi	2	0	1	0
+
+petroleumsproduksjon	gássabuvtadibme	petroleumbuvttadeapmi	1	0	0	0
+petroleumsproduksjon	gássabuvtadus	petroleumbuvttadeapmi	1	0	0	0
+
+fiskegarn	guollimaviermme	fierbmi	1	0	57	0
+fiskegarn	guolleviermme	fierbmi	1	0	57	0
+fiskegarn	guoleviermme	fierbmi	1	0	57	0
+fiskegarn	guollimviermme	fierbmi	1	0	57	0
+fiskegarn	guollebivddoviermme	fierbmi	1	0	57	0
+fiskegarn	guollebivdoviermme	fierbmi	1	0	57	0
+fiskegarn	guollárviermme	fierbmi	1	0	57	0
+fiskegarn	guolástusviermme	fierbmi	1	0	57	0
+
+fiskerioppsyn	guollimgæhttjo	guollebearráigeahčču	2	0	1	0
+fiskerioppsyn	guolástusgæhttjo	guollebearráigeahčču	2	0	1	0
+
+landskap	gáddeskáhppa	eanadat	70	0	23	0
+landskap	bájkkeskáhppa	eanadat	70	0	23	0
+landskap	ednamskáhppa	eanadat	70	0	23	0
+landskap	ednambarggoskáhppa	eanadat	70	0	23	0
+landskap	ednamaaktijvuohta	eanadat	70	0	23	0
+landskap	gáddeaktijvuohta	eanadat	70	0	23	0
+landskap	bájkkeaktijvuohta	eanadat	70	0	23	0
+landskap	ednamaktijvuohta	eanadat	70	0	23	0
+landskap	ednambarggoaktijvuohta	eanadat	70	0	23	0
+landskap	ednambargoaktijvuohta	eanadat	70	0	23	0
+
+ekteskap	gállasjskáhppa	náittosdilli/náittosvuohta/náittus	24	0	19	0
+ekteskap	gállasjaktijvuohta	náittosdilli/náittosvuohta/náittus	24	0	19	0
+
+forkunnskap	álggomáhtudahka	ovdamáhtolašvuohta/ovdamáhttu	3	1	1	0
+forkunnskap	åvddåmáhtudahka	ovdamáhtolašvuohta/ovdamáhttu	3	2	1	0
+
+hovedansvar	oajvvevásstádus	váldoovddasvástádus	21	2	16	0
+hovedansvar	oajvveåvdåsvásstádus	váldoovddasvástádus	21	14	16	3
+
+lederansvar	dåjmadiddjevásstádus	jođiheaddjeovddasvástádus/jođiheaddjiovddasvástádus/jođihanovddasvástádus	9	0	2	0
+lederansvar	dåjmadiddjeåvdåsvásstádus	jođiheaddjeovddasvástádus/jođiheaddjiovddasvástádus/jođihanovddasvástádus	9	0	2	0
+
+forskningsansvar	guoradallamvásstádus	dutkanovddasvástádus	1	0	1	0
+forskningsansvar	guoradallamåvdåsvásstádus	dutkanovddasvástádus	1	0	1	0
+
+forsøksleder	gæhttjaladdamdåjmadiddje	geahččaladdanjođiheaddji/geahččalanjođiheaddji	1	0	1	0
+forsøksleder	gæhttjaladdamjådediddje	geahččaladdanjođiheaddji/geahččalanjođiheaddji	1	0	1	0
+forsøksleder	gæhttjaladdamoajvve	geahččaladdanjođiheaddji/geahččalanjođiheaddji	1	0	1	0
+forsøksleder	gæhttjaladdamgieris	geahččaladdanjođiheaddji/geahččalanjođiheaddji	1	0	1	0
+
+distriktsleder	guovllodåjmadiddje	orohatjođiheaddji	3	0	1	0
+distriktsleder	guovllojådediddje	orohatjođiheaddji	3	0	1	0
+distriktsleder	guovllooajvve	orohatjođiheaddji	3	0	1	0
+distriktsleder	guovlooajvve	orohatjođiheaddji	3	0	1	0
+distriktsleder	guovllogieris	orohatjođiheaddji	3	0	1	0
+distriktsleder	guovlogieris	orohatjođiheaddji	3	0	1	0
+
+omsorgspenger	huksoruhta	fuolahanruhta	4	0	1	0
+omsorgspenger	huvsoruhta	fuolahanruhta	4	0	1	0
+omsorgspenger	huksobiednik	fuolahanruhta	4	0	1	0
+omsorgspenger	huvsobiednik	fuolahanruhta	4	0	1	0
+
+sluttbruker	hiejttemabargge	loahppageavaheaddji	2	0	1	0
+sluttbruker	hiejttembargge	loahppageavaheaddji	2	0	1	0
+sluttbruker	hiejttemaaddne	loahppageavaheaddji	2	0	1	0
+sluttbruker	hiejttemaddne	loahppageavaheaddji	2	0	1	0
+
+verdiskaper	haddesjivnnjediddje	árvoduojár	2	0	1	0
+verdiskaper	hattesjivnnjediddje	árvoduojár	2	0	1	0
+
+forskningsminister	guoradallamaministar	dutkanministtar	1	0	1	0
+forskningsminister	guoradallamministar	dutkanministtar	1	0	1	0
+
+beitemønster	guohtomavuohke	guohtonminsttar/guohtunmálle	4	0	1	0
+beitemønster	guohtomvuohke	guohtonminsttar/guohtunmálle	4	0	1	0
+
+husdyr	goadeielle	šibit	43	0	64	0
+husdyr	goahteielle	šibit	43	0	64	0
+husdyr	goadejudos	šibit	43	0	64	0
+husdyr	goahtejudos	šibit	43	0	64	0
+
+konkurransevilkår	gilpustallamadille	gilvoeaktu/gilvalaneaktu	4	0	1	0
+konkurransevilkår	gilppusadille	gilvoeaktu/gilvalaneaktu	4	0	1	0
+konkurransevilkår	gilpustallamdille	gilvoeaktu/gilvalaneaktu	4	0	1	0
+konkurransevilkår	gilposdille	gilvoeaktu/gilvalaneaktu	4	0	1	0
+konkurransevilkår	gilpustallamækto	gilvoeaktu/gilvalaneaktu	4	0	1	0
+konkurransevilkår	gilposækto	gilvoeaktu/gilvalaneaktu	4	0	1	0
+
+fiskevær	guolledálkke	guollebivdohápman	13	0	2	0
+fiskevær	guollimdálkke	guollebivdohápman	13	0	2	0
+fiskevær	guollebivddodálkke	guollebivdohápman	13	0	2	0
+fiskevær	guollárdálkke	guollebivdohápman	13	0	2	0
+fiskevær	guolástusdálkke	guollebivdohápman	13	0	2	0
+
+beiteressurs	guohtomaresurssa	guođohanresursa/guohtunresursa	18	0	1	0
+beiteressurs	guohtomresurssa	guođohanresursa/guohtunresursa	18	0	1	0
+beiteressurs	guohtomaressurssa	guođohanresursa/guohtunresursa	18	0	1	0
+beiteressurs	guohtomressurssa	guođohanresursa/guohtunresursa	18	0	1	0
+
+undersøkelsesressurs	guoradallamaresurssa	guorahallanresursa	1	0	1	0
+undersøkelsesressurs	guoradallamresurssa	guorahallanresursa	1	0	1	0
+undersøkelsesressurs	guoradallamaressurssa	guorahallanresursa	1	0	1	0
+undersøkelsesressurs	guoradallamressurssa	guorahallanresursa	1	0	1	0
+
+omsorgsplass	huksosadje	fuolahansadji	5	0	1	0
+omsorgsplass	huvsosadje	fuolahansadji	5	0	1	0
+omsorgsplass	huksobájkke	fuolahansadji	5	0	1	0
+omsorgsplass	huksosalljo	fuolahansadji	5	0	1	0
+omsorgsplass	huvsosalljo	fuolahansadji	5	0	1	0
+
+forskningsinnsats	guoradallamratjástibme	dutkannákca/dutkansearat/dutkanárja/dutkanáŋgiruššan	5	0	1	0
+forskningsinnsats	guoradallamabarggo	dutkannákca/dutkansearat/dutkanárja/dutkanáŋgiruššan	5	0	1	0
+forskningsinnsats	guoradallambarggo	dutkannákca/dutkansearat/dutkanárja/dutkanáŋgiruššan	5	0	1	0
+
+omsorgsinnsats	huksoratjástibme	fuollaáŋgiruššan	1	0	0	0
+omsorgsinnsats	huksobarggo	fuollaáŋgiruššan	1	0	0	0
+omsorgsinnsats	huvsobarggo	fuollaáŋgiruššan	1	0	0	0
+
+fiskemat	guollimabiebbmo	guolleborramuš	1	0	1	0
+fiskemat	guollebiebbmo	guolleborramuš	1	0	1	0
+fiskemat	guolebiebbmo	guolleborramuš	1	0	1	0
+fiskemat	guollimbiebbmo	guolleborramuš	1	0	1	0
+fiskemat	guollebivddobiebbmo	guolleborramuš	1	0	1	0
+fiskemat	guollebivdobiebbmo	guolleborramuš	1	0	1	0
+fiskemat	guollárbiebbmo	guolleborramuš	1	0	1	0
+fiskemat	guolástusbiebbmo	guolleborramuš	1	0	1	0
+
+tilpasningsmulighet	hiebadimevejulasjvuohta	heivehanvejolašvuohta	2	0	1	0
+tilpasningsmulighet	hiebadimvejulasjvuohta	heivehanvejolašvuohta	2	0	1	0
+
+kommunikasjonsmulighet	guládallamvejulasjvuohta	gulahallanvejolašvuohta	1	0	1	0
+kommunikasjonsmulighet	guládallammáhttelisvuohta	gulahallanvejolašvuohta	1	0	1	0
+kommunikasjonsmulighet	guládallamdármme	gulahallanvejolašvuohta	1	0	1	0
+
+kjernerettighet	guovdásjrievtesvuohta	váimmusvuoigatvuohta	1	0	1	0
+kjernerettighet	vuodorievtesvuohta	váimmusvuoigatvuohta	1	2	1	0
+kjernerettighet	guovdásjriektá	váimmusvuoigatvuohta	1	0	1	0
+
+konkurranserettighet	gilpustallamarievtesvuohta	gilvovuoigatvuohta	0	0	0	0
+konkurranserettighet	gilppusarievtesvuohta	gilvovuoigatvuohta	0	0	0	0
+konkurranserettighet	gilpustallamrievtesvuohta	gilvovuoigatvuohta	0	0	0	0
+konkurranserettighet	gilposrievtesvuohta	gilvovuoigatvuohta	0	0	0	0
+konkurranserettighet	gilpustallamriektá	gilvovuoigatvuohta	0	0	0	0
+konkurranserettighet	gilposriektá	gilvovuoigatvuohta	0	0	0	0
+
+boenhet	girjjeavtadahka	ássanovttadat	4	0	1	0
+boenhet	girjeavtadahka	ássanovttadat	4	0	1	0
+boenhet	girjjeavtadak	ássanovttadat	4	0	1	0
+boenhet	girjeavtadak	ássanovttadat	4	0	1	0
+
+tilpasningskapasitet	hiebadimekapacitiehtta	heivehankapasiteahtta	1	0	1	0
+tilpasningskapasitet	hiebadimkapacitiehtta	heivehankapasiteahtta	1	0	1	0
+tilpasningskapasitet	hiebadimekapasitiehtta	heivehankapasiteahtta	1	0	1	0
+tilpasningskapasitet	hiebadimkapasitiehtta	heivehankapasiteahtta	1	0	1	0
+
+kjerneaktivitet	guovdásjdoajmma	váimmusdoaibma	1	0	1	0
+kjerneaktivitet	vuododoajmma	váimmusdoaibma	1	10	1	0
+kjerneaktivitet	guovdásjaktivitæhtta	váimmusdoaibma	1	0	1	0
+kjerneaktivitet	guovdásjdåjmadibme	váimmusdoaibma	1	0	1	0
+
+forsøksaktivitet	gæhttjaladdamdoajmma	geahččalandoaibma	1	0	3	0
+forsøksaktivitet	gæhttjaladdamaktivitæhtta	geahččalandoaibma	1	0	3	0
+forsøksaktivitet	gæhttjaladdamdåjmadibme	geahččalandoaibma	1	0	3	0
+
+konkurransekraft	gilpustallamaliebma	gilvofápmu/gilvalanvuoibmi	5	0	1	0
+konkurransekraft	gilppusaliebma	gilvofápmu/gilvalanvuoibmi	5	0	1	0
+konkurransekraft	gilpustallamliebma	gilvofápmu/gilvalanvuoibmi	5	0	1	0
+konkurransekraft	gilposliebma	gilvofápmu/gilvalanvuoibmi	5	0	1	0
+konkurransekraft	gilpustallamfábmo	gilvofápmu/gilvalanvuoibmi	5	0	1	0
+konkurransekraft	gilposfábmo	gilvofápmu/gilvalanvuoibmi	5	0	1	0
+
+omsorgsbedrift	huksovidnudahka	fuollafitnodat	1	0	0	0
+omsorgsbedrift	huvsovidnudahka	fuollafitnodat	1	0	0	0
+omsorgsbedrift	huksovidnudak	fuollafitnodat	1	0	0	0
+omsorgsbedrift	huvsovidnudak	fuollafitnodat	1	0	0	0
+
+hotelldrift	hotelladoajmma	hotealladoaibma	1	0	1	0
+hotelldrift	hotælladoajmma	hotealladoaibma	1	0	1	0
+hotelldrift	hotellabarggo	hotealladoaibma	1	0	1	0
+hotelldrift	hotællabarggo	hotealladoaibma	1	0	1	0
+hotelldrift	hotellasujtto	hotealladoaibma	1	0	1	0
+hotelldrift	hotællasujtto	hotealladoaibma	1	0	1	0
+
+steinbit	gierggebiehkke	stáinnir/stáidnár	3	0	1	0
+steinbit	giergebiehkke	stáinnir/stáidnár	3	0	1	0
+
+overgangsprosjekt	gasskamuddoåvddånahttemprosjækta	áigemolsunprošeakta/nuppástusprošeakta	1	0	1	0
+overgangsprosjekt	gasskamuddoprosjækta	áigemolsunprošeakta/nuppástusprošeakta	1	0	1	0
+
+omsorgsprosjekt	huksoåvddånahttemprosjækta	fuolahusprošeakta/áimmahuššanprošeakta	3	0	1	0
+omsorgsprosjekt	huksoprosjækta	fuolahusprošeakta/áimmahuššanprošeakta	3	0	1	0
+
+skjøtselsprosjekt	hoajddoåvddånahttemprosjækta	dikšunprošeakta/seailluhanprošeakta	3	0	1	0
+skjøtselsprosjekt	hoajddoprosjækta	dikšunprošeakta/seailluhanprošeakta	3	0	1	0
+
+kommunikasjonsprosjekt	guládallamprosjækta	gulahallanprošeakta	1	0	1	0
+kommunikasjonsprosjekt	guládallamåvddånahttemprosjækta	gulahallanprošeakta	1	0	1	0
+
+petroleumsinntekt	gássaboahto	petroleumdienas/petroleumsisaboahtu/petroleumboahtu	3	0	1	0
+petroleumsinntekt	gássasisboahto	petroleumdienas/petroleumsisaboahtu/petroleumboahtu	3	0	1	0
+
+beitekonflikt	guohtomarijddo	guohtunriidu/guohtonnággu	1	0	2	0
+beitekonflikt	guohtomrijddo	guohtunriidu/guohtonnággu	1	0	2	0
+
+reinbeitedistrikt	guohtomaguovllo	orohat/biire/boazoguohtunorohat	231	0	149	0
+reinbeitedistrikt	boatsojguohtomaguovllo	orohat/biire/boazoguohtunorohat	231	0	149	0
+reinbeitedistrikt	guohtomguovllo	orohat/biire/boazoguohtunorohat	231	37	149	3
+reinbeitedistrikt	boatsojguohtomguovllo	orohat/biire/boazoguohtunorohat	231	0	149	0
+
+språkblandingsdistrikt	gielamassta	giellaseaguhusguovlu	2	0	2	0
+språkblandingsdistrikt	giellamassta	giellaseaguhusguovlu	2	0	2	0
+språkblandingsdistrikt	gielasegadus	giellaseaguhusguovlu	2	0	2	0
+språkblandingsdistrikt	giellasegadus	giellaseaguhusguovlu	2	0	2	0
+
+sluttprodukt	hiejttemabuvta	loahppaboahtu/loahppabuvtta	2	0	4	0
+sluttprodukt	hiejttembuvta	loahppaboahtu/loahppabuvtta	2	0	4	0
+sluttprodukt	hiejttemgálvvo	loahppaboahtu/loahppabuvtta	2	0	4	0
+
+forskningsfelt	guoradallamasuorgge	dutkansuorgi	6	0	4	0
+forskningsfelt	guoradallamsuorgge	dutkansuorgi	6	0	4	0
+
+høringsutkast	guláskuddamoajvvadus	gulaskuddanevttohus	10	0	4	0
+høringsutkast	guláskuddamárvvalus	gulaskuddanevttohus	10	0	4	0
+
+søknadsfrist	åhtsåmájggemierre	ohcanáigemearri/ohcanáigi	108	5	63	5
+søknadsfrist	åhtsåmusájggemierre	ohcanáigemearri/ohcanáigi	108	0	63	2
+
+befolkningsvekst	álmmuklassánibme	veahkadatlassáneapmi/olmmošlassáneapmi	7	6	1	0
+befolkningsvekst	viesátåvddånibme	veahkadatlassáneapmi/olmmošlassáneapmi	7	2	1	0
+
+klagebrev	gujddimtjála	váidalanreive	1	0	1	0
+klagebrev	gujdalvistjála	váidalanreive	1	0	1	0
+klagebrev	gujddimgirjje	váidalanreive	1	0	1	0
+klagebrev	gujdalvisgirjje	váidalanreive	1	0	1	0
+
+høringsbrev	guláskuddamtjála	gulaskuddanreive	13	0	7	0
+høringsbrev	guláskuddamgirjje	gulaskuddanreive	13	0	7	0
+
+språkalternativ	gielaalternatijvva	giellamolssaeaktu	3	0	1	0
+språkalternativ	giellaalternatijvva	giellamolssaeaktu	3	0	1	0
+
+konkurranselov	gilpustallamláhka	gilvoláhka	5	0	1	0
+konkurranselov	gilposláhka	gilvoláhka	5	0	1	0
+konkurranselov	gilpustallamskåvllåláhka	gilvoláhka	5	0	1	0
+konkurranselov	gilposskåvllåláhka	gilvoláhka	5	0	1	0
+
+kartleggingslov	guoradallamláhka	kártenláhka	1	0	1	0
+kartleggingslov	guoradallamskåvllåláhka	kártenláhka	1	0	1	0
+
+petroleumslov	gássaláhka	oljoláhka	1	0	1	0
+petroleumslov	gássaskåvllåláhka	oljoláhka	1	0	1	0
+
+partnerskapslov	guojmmevuohtaláhka	eallinguoibmeláhka/guimmešláhka	1	0	0	0
+partnerskapslov	guojmmevuohtaskåvllåláhka	eallinguoibmeláhka/guimmešláhka	1	0	0	0
+
+forskningsfartøy	guoradallamavanntsa	dutkanskiipa/dutkanfanas	4	0	1	0
+forskningsfartøy	guoradallamvanntsa	dutkanskiipa/dutkanfanas	4	0	1	0
+
+bomiljø	girjjebirás	ássanbiras	1	0	1	0
+bomiljø	girjjebarggobirás	ássanbiras	1	0	1	0
+
+petroleumsmiljø	gássabirás	petroleumbiras	0	0	1	0
+petroleumsmiljø	gássabarggobirás	petroleumbiras	0	0	1	0
+
+menneskerettighetsmiljø	almasjriektábarggobirás	olmmošvuoigatvuođabiras	0	0	1	0
+menneskerettighetsmiljø	almasjriektábirás	olmmošvuoigatvuođabiras	0	0	1	0
