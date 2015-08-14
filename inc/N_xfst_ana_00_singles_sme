@@ -1,60 +1,61 @@
+# + = good
 
 avreise	vuolga	vuolgga	4	4	117	0
 
-seng	sæŋŋga	seaŋga	10	14	30	2
++seng	sæŋŋga	seaŋga	10	14	30	2
 
 slede	rehka	reahka	12	0	27	0
 
-tegn	mærkka	mearka	101	299	238	12
-merke	mærkka	mearka	194	299	238	9
++tegn	mærkka	mearka	101	299	238	12
++merke	mærkka	mearka	194	299	238	9
 
 gave	skæŋŋka	skeaŋka	68	0	81	0
 
-bil	bijlla	biila	101	60	342	0
++bil	bijlla	biila	101	60	342	0
 
-celle	sella	sealla	1	0	5	0
++celle	sælla	sealla	1	0	5	0
 
-spansk	spánskagiella	spánskkagiella	3	12	1	1
++spansk	spánskagiella	spánskkagiella	3	12	1	1
 
-andrespråk	nubbegiella	nubbigiella	148	46	44	16
++andrespråk	nubbegiella	nubbigiella	148	46	44	16
 
 depresjon	låssåmiella	lossamiella	3	0	2	0
 
-term	tærmma	tearbma	49	71	51	7
++term	tærmma	tearbma	49	71	51	7
 
 norm	nårmmå	norbma	30	0	16	0
 
-buljong	liebma	liepma	1	21	4	1
++buljong	liebma	liepma	1	21	4	1
 
-lån	loadna	loatna	111	13	90	1
++lån	lådna	loatna	111	13	90	1
 
 detalj	biedna	bietna	48	100	8	0
 
-stemme	jiedna	jietna	405	474	328	31
++stemme	jiedna	jietna	405	474	328	31
 
 aske	gudna	gutna	3	11	17	1
 
-pære	pera	peara	2	0	2	0
++pære	perra	peara	2	0	2	0
 
-sjø	merra	mearra	290	456	450	7
++sjø	merra	mearra	290	456	450	7
 
-vers	værssa	vearsa	6	15	6	1
++vers	værssa	vearsa	6	15	6	1
 
-nærhet	lahkavuohta	lahkavuohta	50	38	1	6
++nærhet	lahkavuohta	lahkavuohta	50	38	1	6
 
 likhet	åvtålágánvuohta	ovttalágánvuohta	85	0	1	0
 
 stillhet	jasskatvuohta	jaskatvuohta	13	0	13	0
 
-tospråklighet	guovtegielalasjvuohta	guovttegielalašvuohta	199	0	48	0
++tospråklighet	guovtegielakvuohta	guovttegielalašvuohta	199	0	48	0
 
 enighet	åvtåmielalasjvuohta	ovttamielalašvuohta	207	0	38	0
 
-kristendom	ristalasjvuohta	risttalašvuohta	18	1	34	0
++kristendom	risstalasjvuohta	risttalašvuohta	18	1	34	0
 
-offentlighet	almulasjvuohta	almmolašvuohta	66	14	48	13
++offentlighet	almulasjvuohta	almmolašvuohta	66	14	48	13
 
-litteratur	girjálasjvuohta	girjjálašvuohta	217	322	131	53
++litteratur	girjálasjvuohta	girjjálašvuohta	217	322	131	53
 
 anledning	dilálasjvuohta	dilálašvuohta	225	0	200	0
 
@@ -64,30 +65,30 @@ likhet	åvtåláhkásasjvuohta	ovttaláhkásašvuohta	85	0	1	0
 
 toleranse	gierddavasjvuohta	gierdavašvuohta	24	0	8	0
 
-e-post	e-poassta	e-poasta	202	8	59	0
++e-post	e-poassta	e-poasta	202	8	59	0
 
-tekst	tæksta	teaksta	207	1084	200	188
++tekst	tæksta	teaksta	207	1084	200	188
 
 press	detta	deatta	82	18	4	0
 
-elg	sarva	sarvva	25	0	13	0
++elg	sarvva	sarvva	25	0	13	0
 
 overskudd	badjebátsa	badjebáza	74	0	15	0
 
 underskudd	vuollebátsa	vuollebáza	64	0	11	0
 
-tunge	njuovtja	njuovčča	20	1	14	0
++tunge	njuovtja	njuovčča	20	1	14	0
 
 skjelett	dákterigge	dákteriggi	4	0	7	0
 
 åremål	mierreájge	mearreáigi	6	0	6	0
 
-framtid	boahtteájge	boahtteáigi	172	62	342	0
-fremtid	boahtteájge	boahtteáigi	166	62	342	0
++framtid	boahtteájge	boahtteáigi	172	62	342	0
++fremtid	boahtteájge	boahtteáigi	166	62	342	0
 
 dagtid	biejvveájge	beaiveáigi	5	0	1	0
 
-protokoll	bievddegirje	beavdegirji	176	4	62	0
++protokoll	bievddegirje	beavdegirji	176	4	62	0
 
 faktor	buvtadahkke	buvttadahkki	70	0	1	0
 
@@ -108,7 +109,7 @@ opptak	bádden	bádden	56	0	19	0
 
 oppvarming	liggen	liggen	48	0	11	0
 
-avgrensning	ráddjen	ráddjen	33	0	29	0
++avgrensning	ráddjim	ráddjen	33	0	29	0
 
 fritak	luvven	luvven	41	0	8	0
 
@@ -118,56 +119,56 @@ drap	gådden	goddin	5	0	29	0
 
 garnfiske	gållden	goldin	20	0	2	0
 
-flytting	sirdden	sirdin	98	0	87	0
++flytting	jåhtem	sirdin	98	0	87	0
 
-salg	vuovdden	vuovdin	214	0	136	0
++salg	vuovddem	vuovdin	214	0	136	0
 
 rykte	bieggen	beaggin	5	1	13	0
 
 ørn	goassken	goaskin	9	0	33	0
 
-liv	iellen	eallin	359	4	560	0
++liv	iellem	eallin	359	4	560	0
 
 brann	buollen	buollin	22	2	69	0
 
 skriving	tjállen	čállin	21	8	216	0
 
-tap	massen	massin	246	0	35	0
++tap	massem	massin	246	0	35	0
 
 frafall	hiejtten	heaitin	20	0	7	0
 avskjed	hiejtten	heaitin	5	0	7	0
 
 utslipp	luojtten	luoitin	51	0	13	0
 
-fremstilling	åvddånbukten	ovdanbuktin	22	0	54	0
++fremstilling	åvddånbuktem	ovdanbuktin	22	0	54	0
 uttrykk	åvddånbukten	ovdanbuktin	254	0	54	0
 framstilling	åvddånbukten	ovdanbuktin	29	0	54	0
 
-fødsel	riegádahtten	riegádahttin	55	0	15	0
++fødsel	riegádibme	riegádahttin	55	0	15	0
 
 spredning	gilvven	gilvin	34	0	13	0
 
-gåing	vádtsen	vázzin	0	0	42	0
++gåing	vádtsem	vázzin	0	0	42	0
 
-strikking	gådden	gođđin	2	0	6	0
++strikking	gådem	gođđin	2	0	6	0
 
-sjanger	sjáŋŋer	šáŋŋer	13	0	6	0
++sjanger	sjáŋŋar	šáŋŋer	13	0	6	0
 
-døgn	jánndur	jándor	20	63	48	16
++døgn	jánndur	jándor	20	63	48	16
 
-faktor	fáktur	fáktor	70	0	11	0
++faktor	fáktåvrrå	fáktor	70	0	11	0
 
 råvare	álggoávnas	álgoávnnas	22	0	2	0
 
-seng	sæŋŋgaguoras	seaŋgaguoras	10	0	1	0
++seng	sæŋŋga	seaŋgaguoras	10	0	1	0
 
-bryllup	hejat	heajat	6	0	25	0
++bryllup	hedja	heajat	6	0	25	0
 
 nærhet	lahkusat	lahkosat	50	0	28	0
 
 nattverd	iehkedismállásat	eahkedismállásat	5	0	16	0
 
-påske	bæssátjat	beassážat	21	0	137	0
++påske	bæssásj	beassážat	21	0	137	0
 
 sengetøy	gávnet	gávnnit	3	0	6	0
 
@@ -176,7 +177,7 @@ sengetøy	sæŋŋgagávnet	seaŋgagávnnit	3	0	1	0
 festlighet	messut	meassut	1	0	19	0
 messe	messut	meassut	4	0	19	0
 
-ansikt	muodut	muođut	14	1	19	0
++ansikt	muohto	muođut	14	1	19	0
 
 ansikt	tjalmát	čalmmát	14	0	2	0
 
@@ -187,14 +188,14 @@ våpen	værjjo	vearju	11	21	27	0
 
 toll	duollo	duollu	19	0	16	0
 
-dom	duobmo	duopmu	122	14	176	0
++dom	duobbmo	duopmu	122	14	176	0
 
-avskjed	ærro	earru	5	1	56	0
++avskjed	hivástahttem	earru	5	1	56	0
 
 reise	ræjsso	reaisu	415	6	12	1
 
 hindring	væhto	veahtu	27	0	1	0
 
-ljå	lissjá	liššá	1	1	2	0
++ljå	lissjá	liššá	1	1	2	0
 
 herkomst	såhkåduogásj	sohkaduogáš	6	0	2	0

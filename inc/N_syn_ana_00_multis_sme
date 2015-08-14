@@ -1,3 +1,4 @@
+# + = good
 
 avreise	máddo	vuolgga	4	144	117	0
 avreise	álggo	vuolgga	4	1026	117	0
@@ -26,20 +27,20 @@ monument	doarjja	bázzi	1	292	10	0
 monument	tsagge	bázzi	1	7	10	0
 
 vurdering	kritijkka	árvvoštallan	497	0	291	0
-vurdering	guoddalus	árvvoštallan	497	10	291	0
++vurdering	árvustallam	árvvoštallan	497	10	291	0
 
 oppvekst	åvddånibme	ahtanuššan	106	364	14	2
 oppvekst	sjaddo	ahtanuššan	106	189	14	2
 
-anbefaling	oajvvadus	rávven	53	213	23	2
++anbefaling	oajvvadus	rávven	53	213	23	2
 anbefaling	bagádus	rávven	53	87	23	0
 
-uttrykk	artikulasjåvnnå	cealkin	254	0	10	0
++uttrykk	moallánahka	cealkin	254	0	10	0
 
-dødsfall	jábbme	jápmin	8	3	63	1
++dødsfall	jábbmem	jápmin	8	3	63	1
 dødsfall	sårmme	jápmin	8	25	63	0
 
-fremstilling	åvddåsáhka	ovdanbuktin	22	0	54	0
++fremstilling	åvddåmbuktem	ovdanbuktin	22	0	54	0
 uttrykk	åvddåsáhka	ovdanbuktin	254	0	54	0
 fremstilling	presentasjåvnnå	ovdanbuktin	22	0	54	0
 uttrykk	presentasjåvnnå	ovdanbuktin	254	0	54	0
@@ -52,16 +53,16 @@ oppgang	sjaddo	goargŋun	8	189	4	0
 oppgang	lasádus	goargŋun	8	31	4	0
 
 ønske	miella	háliidus	688	876	7	1
-ønske	hállo	háliidus	688	78	7	3
++ønske	hállo	háliidus	688	78	7	3
 ønske	hibmo	háliidus	688	7	7	0
 
 utkast	oajvvadus	álgoevttohus	140	213	2	4
-utkast	árvvalus	álgoevttohus	140	51	2	0
++utkast	árvvalus	álgoevttohus	140	51	2	0
 
-fasthet	nanusvuohta	nannodat	3	0	1	0
++fasthet	nanusvuohta	nannodat	3	0	1	0
 fasthet	fábmo	nannodat	3	772	1	0
 
-bryllup	siebrre	heajat	6	187	25	0
++bryllup	hedja	heajat	6	187	25	0
 bryllup	riemut	heajat	6	0	25	0
 
 øyekast	lissta	geahčastat	1	99	17	0
@@ -71,9 +72,9 @@ blikk	åbbålasjgåvvå	geahčastat	15	0	17	0
 
 glimt	goavkke	geahčestat	8	0	2	0
 
-dagtid	biejvve	beaivet	5	2856	32	1
++dagtid	biejvve	beaivet	5	2856	32	1
 
-tjeneste	niejdda	biigot	406	294	3	0
++datter	niejdda	biigot	406	294	3	0
 tjeneste	niejdasj	biigot	406	4	3	0
 
 hypotese	gáddo	navdu	5	3	6	0
@@ -90,7 +91,7 @@ adferd	doajmma	meannu	8	1796	11	0
 atferd	dahko	meannu	12	342	11	0
 adferd	dahko	meannu	8	342	11	0
 
-hjem	sijdda	ruoktu	272	943	686	71
++hjem	sijdda	ruoktu	272	943	686	71
 hjem	bájkke	ruoktu	272	1554	686	2
 
 ytelse	siedja	buktu	17	11	6	0
@@ -104,7 +105,7 @@ behandling	terapija	dikšu	771	0	138	0
 musé	rádjo	dávvirvuorká	1	2	14	0
 
 forlik	lihtto	soahpamuš	12	119	144	7
-forlik	sjiehtadus	soahpamuš	12	137	144	7
++forlik	sjiehtadus	soahpamuš	12	137	144	7
 forlik	konvensjåvnnå	soahpamuš	12	198	144	2
 
 bebreidelse	kritijkka	moaitámuš	0	0	19	0

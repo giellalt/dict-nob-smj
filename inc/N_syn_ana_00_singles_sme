@@ -1,3 +1,4 @@
+# + = good
 
 tegn	signálla	mearka	101	26	238	0
 merke	signálla	mearka	194	26	238	0
@@ -91,13 +92,13 @@ framstilling	åvddåsáhka	ovdanbuktin	29	0	54	0
 
 beregning	addisjåvnnå	rehkenastin	133	0	16	0
 
-oppmerksomhet	berustibme	ávvir	108	233	238	1
++oppmerksomhet	berustibme	ávvir	108	233	238	1
 
-eventyr	myhta	cuvccas	30	0	8	0
++eventyr	subtsas	cuvccas	30	0	8	0
 
 joiketekst	javllamus	dajahus	1	174	9	0
 
-effekt	vájkudus	čuozahus	107	4	5	0
++effekt	vájkudus	čuozahus	107	4	5	0
 
 avfall	ráhpe	bázahus	25	4	71	0
 rest	ráhpe	bázahus	145	4	71	0
@@ -105,28 +106,28 @@ rest	ráhpe	bázahus	145	4	71	0
 ulempe	árro	hehttehus	48	17	34	0
 hinder	árro	hehttehus	88	17	34	0
 
-hindring	árro	veahtu/hehttehus	27	17	17	0
++hindring	hieredus	veahtu/hehttehus	27	17	17	0
 
-forskjell	differánssa	erohus	132	0	206	0
++forskjell	sieradus	erohus	132	0	206	0
 avvik	differánssa	erohus	118	0	206	0
 
-kunngjøring	deklarasjåvnnå	almmuhus	54	5	44	0
++kunngjøring	almodibme	almmuhus	54	5	44	0
 
-fortelling	histåvrrå	muitalus	79	433	174	5
++fortelling	subtsas	muitalus	79	433	174	5
 
 binding	Aktisasjvuohta	čanus	11	6	6	0
-sammenheng	Aktisasjvuohta	čanus	606	6	6	0
++sammenheng	aktijvuohta	čanus	606	6	6	0
 
-bekreftelse	dokumentasjåvnnå	duođaštus	24	4	99	0
-attest	dokumentasjåvnnå	duođaštus	15	4	99	0
++bekreftelse	duodastus	duođaštus	24	4	99	0
++attest	duodastus	duođaštus	15	4	99	0
 
 beregning	definisjåvnnå	meroštus	133	6	1	0
 
 riss	hábme	govadat	5	305	7	0
 
-dyktighet	máhtto	čehppodat	3	301	31	0
++dyktighet	máhtulasjvuohta	čehppodat	3	301	31	0
 
-avdeling	oasse	ossodat	293	1985	193	1
++avdeling	åssudahka	ossodat	293	1985	193	1
 
 masse	mierre	hivvodat	30	282	13	0
 
@@ -138,18 +139,18 @@ underskudd	vádne	váili/vádjit	64	46	9	0
 
 belastning	barggo	heavganit	26	2553	1	0
 
-pause	gasska	boddu	10	1447	51	0
++pause	båddå	boddu	10	1447	51	0
 
 runding	suormas	gierdu	0	18	7	0
 linebøyel	suormas	gierdu	0	18	7	0
 spektrum	suormas	gierdu	1	18	7	0
-sirkel	suormas	gierdu	5	18	7	0
++ring	suormas	gierdu	5	18	7	0
 
 etternavn	guddne	goargu	21	173	12	0
 
 tun	sadje	šillju	14	1490	87	0
 
-mindretall	minoritiehtta	uhcitlohku/unnitlohku	169	0	61	0
++mindretall	unneplåhko	uhcitlohku/unnitlohku	169	0	61	0
 
 ro	ráfe	leahpu	58	446	2	5
 
@@ -158,15 +159,15 @@ innleder	åvddåsáhka	álgosáhkavuorru	8	0	1	0
 
 hindring	girjásj	veahtu	27	93	1	0
 
-salgsvare	gálvvo	vuovdingálvu	1	66	2	0
++salgsvare	vuobddemgálvvo	vuovdingálvu	1	66	2	0
 
 ektefelle	guojmme	beallelaš	93	229	12	1
 
 kulde	ridne	buolaš	8	1	71	0
 
-omtanke	berustibme	ovddasmoraš	4	233	11	0
++omtanke	berustibme	ovddasmoraš	4	233	11	0
 
 noe å si	javllamus	dadjamuš	0	174	26	0
 innflytelse	javllamus	dadjamuš	186	174	26	0
 
-strev	doarro	rahčamuš	4	276	23	0
++strev	rahtjamus	rahčamuš	4	276	23	0

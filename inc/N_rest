@@ -1,9 +1,11 @@
+# + = good
+
 
 stykke	bihttá	gáhppálat	27	4	7	0
 
 stoff	ládde	mássá	29	140	2	0
 
-saksbehandlingsmåte	ássjegiehtadallamvuohke	áššemeannudanvuohki	1	0	2	0
++saksbehandlingsmåte	ássjegiehtadallamvuohke	áššemeannudanvuohki	1	0	2	0
 
 åndsverk	vuojŋŋandåjmadahka	vuoigŋadagus/vuoigŋaduodji	3	0	2	0
 åndsverk	vuojŋŋanásadus	vuoigŋadagus/vuoigŋaduodji	3	0	2	0
@@ -14,19 +16,19 @@ kostmønster	vuojddamsåddågirjos	biebmominsttar	4	0	1	0
 
 kjønnsrollemønster	sjiervveroallagirjos	sohkabealrollaminsttar	1	0	1	0
 
-framtid	boahtteájgge	boahtteáigi	172	276	342	61
-fremtid	boahtteájgge	boahtteáigi	166	276	342	84
++framtid	boahtteájgge	boahtteáigi	172	276	342	61
++fremtid	boahtteájgge	boahtteáigi	166	276	342	84
 
 kjennskap	dåbddåt	dovdat	76	989	666	150
 
 trase	trasiedja	spáitu/geinnodat	4	0	13	0
 
-fantasi	fantasiddja	miellagovahallan	6	0	1	0
++fantasi	fantasiddja	miellagovahallan	6	0	1	0
 
-parti	partiddja	bellodat	108	0	277	0
++parti	partiddja	bellodat	108	0	277	0
 
-eksem	eksiebma	ihtalanvihki	323	0	1	0
++eksem	eksiebma	ihtalanvihki	323	0	1	0
 
-redaktør	redakterra	doaimmaheaddji	22	3	77	1
++redaktør	redakterra	doaimmaheaddji	22	3	77	1
 
-majestet	majestiehtta	majesteahtta	8	0	0	0
++majestet	majestiehtta	majesteahtta	8	0	0	0
