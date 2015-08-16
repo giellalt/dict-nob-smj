@@ -1,6 +1,7 @@
+# + = good
 
-faktura	rieknik	rehket/guite	14	9	69	0
-faktura	máksemus	rehket/guite	14	1	69	0
++regning	rieknik	rehket/guite	14	9	69	0
++regning	máksemus	rehket/guite	14	1	69	0
 
 kontaktledd	gasskaladás	oktavuođalađas	2	1	1	0
 kontaktledd	tjanás	oktavuođalađas	2	37	1	0
@@ -9,7 +10,7 @@ selvhushold	iesjrádálasjvuohta	iešbirgejupmi	1	3	3	0
 selvhushold	luojvvo	iešbirgejupmi	1	44	3	0
 
 vevgrind	sasskam	njuikun	1	11	3	0
-vevgrind	snjissjkom	njuikun	1	2	3	0
++grindvev	snjissjkom	njuikun	1	2	3	0
 
 adferd	dåmadimvuohke	láhttenvuohki/láhtten/meannu	8	6	24	1
 adferd	dåmadibme	láhttenvuohki/láhtten/meannu	8	11	24	0
@@ -18,66 +19,66 @@ atferd	dåmadimvuohke	láhttenvuohki/láhtten/meannu	12	6	24	1
 atferd	dåmadibme	láhttenvuohki/láhtten/meannu	12	11	24	0
 
 eiendomsrett til jord	æjggo	eanaoamastanriekti	0	20	1	0
-eiendomsrett til jord	æjggumriektá	eanaoamastanriekti	0	1	1	0
++eiendomsrett til jord	ednamæjggumriektá	eanaoamastanriekti	0	1	1	0
 
 vilje	ájggom	dáhttu/áigumuš	83	41	283	1
-vilje	ájggomus	dáhttu/áigumuš	83	184	283	6
++hensikt	ájggomus	dáhttu/áigumuš	83	184	283	6
 
-stemme	tjuodja	suopman/jietna	405	46	208	0
++stemme	jiedna	suopman/jietna	405	46	208	0
 stemme	tåvnnå	suopman/jietna	405	6	208	0
 
 svepe	svihtja	spihčá	0	4	2	0
 svepe	ruosská	spihčá	0	5	2	0
 
-ulempe	duojkke	váivvádus/hehttehus	48	37	18	0
-ulempe	hieredibme	váivvádus/hehttehus	48	5	18	0
-ulempe	hárenis	váivvádus/hehttehus	48	1	18	0
++besvær	duojkke	váivvádus/hehttehus	48	37	18	0
++hindring	hieredibme	váivvádus/hehttehus	48	5	18	0
++hindring	hárenis	váivvádus/hehttehus	48	1	18	0
 
 bebreidelse	kritihkka	moaitámuš	0	10	19	0
-bebreidelse	luodjom	moaitámuš	0	23	19	0
++klage	luodjom	moaitámuš	0	23	19	0
 
-forseelse	mieddem	rihkus	2	25	11	0
++forseelse	mieddem	rihkus	2	25	11	0
 forseelse	mæddo	rihkus	2	19	11	0
 
-opprettelse	ásadibme	ásaheapmi	152	127	170	12
-opprettelse	vuododibme	ásaheapmi	152	28	170	0
++opprettelse	ásadibme	ásaheapmi	152	127	170	12
++grunnlegging	vuododibme	ásaheapmi	152	28	170	0
 opprettelse	álgadus	ásaheapmi	152	3	170	0
 
-ytelse	dåjmadahka	buktu/attus	17	75	4	0
-ytelse	ásadus	buktu/attus	17	315	4	0
++sekreteriat	dåjmadahka	buktu/attus	17	75	4	0
++arrangement	ásadus	buktu/attus	17	315	4	0
 
-sjanse	aktijvuohta	liiba	16	761	12	0
++sammengeng	aktijvuohta	liiba	16	761	12	0
 sjanse	svijmme	liiba	16	2	12	0
 sjanse	dármme	liiba	16	4	12	0
 
 pause	liejmme	boddu/boatka	10	1	28	0
-pause	friddjabåddå	boddu/boatka	10	14	28	0
++pause	båddå	boddu/boatka	10	14	28	0
 
 tjeneste	nejtsusj	biigot/reŋgot/bálvaleapmi/bálvalus	406	33	102	0
-tjeneste	næjttso	biigot/reŋgot/bálvaleapmi/bálvalus	406	262	102	0
++jente	næjttso	biigot/reŋgot/bálvaleapmi/bálvalus	406	262	102	0
 
-gave	vattáldahka	Ipmil láhji/skeaŋka/attáldat	68	104	36	16
++gave	vattáldahka	Ipmil láhji/skeaŋka/attáldat	68	104	36	16
 gave	værrovattáldahka	Ipmil láhji/skeaŋka/attáldat	68	7	36	0
 gave	vattástahka	Ipmil láhji/skeaŋka/attáldat	68	9	36	0
 gave	hálldeboallo	Ipmil láhji/skeaŋka/attáldat	68	3	36	0
 gave	ásadus	Ipmil láhji/skeaŋka/attáldat	68	315	36	0
 
-hjemmeoppgave	sijddabarggo	ruovttubihttá	0	19	1	0
++hjemmeoppgave	sijddabarggo	ruovttubihttá	0	19	1	0
 hjemmeoppgave	lækso	ruovttubihttá	0	2	1	0
 
 høve	aktijvuohta	liiba	18	761	12	0
 høve	åroj	liiba	18	233	12	0
 
 prøve	åtsådibme	hárjehallan/iskkus/geahččaleapmi/hárjehus/geahččalus/iskan	164	251	52	48
-prøve	gæhttjalibme	hárjehallan/iskkus/geahččaleapmi/hárjehus/geahččalus/iskan	164	172	52	13
-prøve	guoradallam	hárjehallan/iskkus/geahččaleapmi/hárjehus/geahččalus/iskan	164	442	52	1
++prøve	gæhttjalibme	hárjehallan/iskkus/geahččaleapmi/hárjehus/geahččalus/iskan	164	172	52	13
++undersøkelse	guoradallam	hárjehallan/iskkus/geahččaleapmi/hárjehus/geahččalus/iskan	164	442	52	1
 prøve	hárjjidallam	hárjehallan/iskkus/geahččaleapmi/hárjehus/geahččalus/iskan	164	32	52	0
 prøve	gæhttjalus	hárjehallan/iskkus/geahččaleapmi/hárjehus/geahččalus/iskan	164	3	52	0
 
 anbefaling	tsuojgodibme	ráva/neava/ávžžuhus/rávven/neavva	53	1	52	0
 anbefaling	dármme	ráva/neava/ávžžuhus/rávven/neavva	53	4	52	0
-anbefaling	bagádallam	ráva/neava/ávžžuhus/rávven/neavva	53	18	52	0
-anbefaling	tsuojggidus	ráva/neava/ávžžuhus/rávven/neavva	53	13	52	0
++veiledning	bagádallam	ráva/neava/ávžžuhus/rávven/neavva	53	18	52	0
++påpekning	tsuojggidus	ráva/neava/ávžžuhus/rávven/neavva	53	13	52	0
 anbefaling	ávttjimus	ráva/neava/ávžžuhus/rávven/neavva	53	1	52	0
 
 fremstilling	moallánahka	ovdanbuktin/govvideapmi	22	110	33	0
@@ -85,7 +86,7 @@ fremstilling	tjuorgastahka	ovdanbuktin/govvideapmi	22	3	33	0
 fremstilling	åvddånbuktemvuohke	ovdanbuktin/govvideapmi	22	34	33	3
 fremstilling	gåvvidibme	ovdanbuktin/govvideapmi	22	16	33	0
 fremstilling	lågådallam	ovdanbuktin/govvideapmi	22	86	33	1
-fremstilling	åvddånbuktem	ovdanbuktin/govvideapmi	22	173	33	13
++fremstilling	åvddånbuktem	ovdanbuktin/govvideapmi	22	173	33	13
 fremstilling	oahpásmahttem	ovdanbuktin/govvideapmi	22	1	33	0
 fremstilling	tjuorgas	ovdanbuktin/govvideapmi	22	18	33	0
 fremstilling	sárnos	ovdanbuktin/govvideapmi	22	8	33	0
@@ -103,7 +104,7 @@ henvisning	adræssa	čujuhus	52	34	95	3
 henvisning	sievvem	čujuhus	52	7	95	0
 henvisning	sievedus	čujuhus	52	2	95	0
 
-setning	moallánahka	cealkka/dajaldat	146	110	105	5
++setning	gárgadis	cealkka/dajaldat	146	110	105	5
 setning	åvddånbuktemvuohke	cealkka/dajaldat	146	34	105	0
 setning	moalgedimvuohke	cealkka/dajaldat	146	19	105	1
 setning	åvddånbuktem	cealkka/dajaldat	146	173	105	0
@@ -118,11 +119,11 @@ formulering	moallánahka	dajaldat	30	110	33	2
 formulering	åvddånbuktemvuohke	dajaldat	30	34	33	0
 formulering	åvddånbuktem	dajaldat	30	173	33	0
 
-restaurering	bisodibme	divodeapmi/ođasteapmi	36	32	22	0
++restaurering	åbddim	divodeapmi/ođasteapmi	36	32	22	0
 restaurering	hoajddo	divodeapmi/ođasteapmi	36	9	22	2
 
 vitalisering	ælládibme	ealáskahttin	17	1	37	1
-vitalisering	ælládahttem	ealáskahttin	17	2	37	0
++vitalisering	ælládahttem	ealáskahttin	17	2	37	0
 
 rekruttering	ásadibme	háhkan/besten	280	127	36	0
 rekruttering	ásadus	háhkan/besten	280	315	36	0
@@ -137,7 +138,7 @@ kjøring	jåhtulahka	vuodjin	29	10	122	0
 kjøring	jåhtålibme	vuodjin	29	4	122	0
 
 li	luohkka	hállan	34	1	53	0
-li	gávva	hállan	34	4	53	0
++bøy	gávva	hállan	34	4	53	0
 
 noe å si	moalgedibme	dadjamuš	0	41	26	0
 noe å si	vájkkudimfábmo	dadjamuš	0	7	26	0
@@ -145,31 +146,31 @@ noe å si	vájkkudimfábmo	dadjamuš	0	7	26	0
 prøveuttak	åtsådibme	iskosiidváldin/iskkus/geahččalanroggan	13	251	13	48
 prøveuttak	guoradallam	iskosiidváldin/iskkus/geahččalanroggan	13	442	13	1
 
-avvik	ærádis	spiehkasteapmi/erohus	118	4	107	0
++avvik	ærádis	spiehkasteapmi/erohus	118	4	107	0
 avvik	sieradus	spiehkasteapmi/erohus	118	160	107	8
 
 hovedtrekk	oajvvegiella	váldodovdomearka/váldosárggus/váldočuokkis	18	9	3	0
 hovedtrekk	oajvvemåhkke	váldodovdomearka/váldosárggus/váldočuokkis	18	13	3	0
 hovedtrekk	oajvveulmme	váldodovdomearka/váldosárggus/váldočuokkis	18	53	3	0
-hovedtrekk	oajvvetjuokkes	váldodovdomearka/váldosárggus/váldočuokkis	18	1	3	0
++hovedtrekk	oajvvetjuokkes	váldodovdomearka/váldosárggus/váldočuokkis	18	1	3	0
 
 fotball	tjiektjam	čiekčanspábba/spábbačiekčan	26	30	73	0
-fotball	bállotjiektjam	čiekčanspábba/spábbačiekčan	26	50	73	0
++fotball	bállotjiektjam	čiekčanspábba/spábbačiekčan	26	50	73	0
 
 frafall	hivástahttem	heaitin/luohpan	20	6	7	0
 frafall	hivás	heaitin/luohpan	20	14	7	0
 
 forskjell	ærádis	sierraláganvuohta/earuhus/erohus	132	4	71	0
-forskjell	sieradus	sierraláganvuohta/earuhus/erohus	132	160	71	19
++forskjell	sieradus	sierraláganvuohta/earuhus/erohus	132	160	71	19
 
-kontroll	váksjudibme	bearráigeahččan/kontrolla/bearráigeahčču/dárkkástus/dárkkistus/geahčču	327	4	27	0
++kontroll	dárkestibme	bearráigeahččan/kontrolla/bearráigeahčču/dárkkástus/dárkkistus/geahčču	327	4	27	0
 kontroll	åtsådibme	bearráigeahččan/kontrolla/bearráigeahčču/dárkkástus/dárkkistus/geahčču	327	251	27	0
 kontroll	guoradallam	bearráigeahččan/kontrolla/bearráigeahčču/dárkkástus/dárkkistus/geahčču	327	442	27	1
 
 hjem	tællta	ruoktu	272	51	686	0
-hjem	laddne	ruoktu	272	15	686	0
++hjem	sijdda	ruoktu	272	15	686	0
 
-studium	oahpposuorgge	lohkansuorgi	91	2	2	0
++studium	oahppo	lohkansuorgi	91	2	2	0
 studium	åhpadussuorgge	lohkansuorgi	91	11	2	0
 
 kondisjon	fábmogisvuohta	vuoibmi	13	11	35	0
@@ -181,13 +182,13 @@ ekskursjon	jåhtulahka	vánddardeapmi/olgomátki	5	10	148	0
 ekskursjon	jåhtålibme	vánddardeapmi/olgomátki	5	4	148	0
 
 person med barn	æjgátbielle	mánnáolmmoš	0	1	4	0
-person med barn	æjgát	mánnáolmmoš	0	584	4	0
++forelder	æjgát	mánnáolmmoš	0	584	4	0
 
 tun	goahteguorra	šillju	14	11	87	0
 tun	sjalljo	šillju	14	28	87	0
-tun	salljo	šillju	14	33	87	0
++tun	salljo	šillju	14	33	87	0
 
-ekteskap	avtadahka	náittosdilli/náittosvuohta/náittus	24	5	19	0
++ekteskap	gállasjvuohta	náittosdilli/náittosvuohta/náittus	24	5	19	0
 ekteskap	fiesstim	náittosdilli/náittosvuohta/náittus	24	50	19	0
 
 egenskap	sierralágásjvuohta	iešvuohta	17	5	54	0
@@ -197,28 +198,28 @@ selvhjelp	iesjrádálasjvuohta	iešbirgejupmi	2	3	3	0
 selvhjelp	luojvvo	iešbirgejupmi	2	44	3	0
 
 bryllup	fæssta	heajat	6	5	25	0
-bryllup	ávvudallam	heajat	6	97	25	0
++feiring	ávvudallam	heajat	6	97	25	0
 bryllup	jugálvis	heajat	6	9	25	2
 
 kamp mot hindringer	rahtjam	rahčan	0	32	45	0
-kamp mot hindringer	rahtjamus	rahčan	0	30	45	0
++strev	rahtjamus	rahčan	0	30	45	0
 
 tjener	virggeulmusj	bálvaleaddji/bálvá	15	1	19	0
 tjener	ámmátulmusj	bálvaleaddji/bálvá	15	3	19	0
 tjener	ámmátålmåj	bálvaleaddji/bálvá	15	8	19	0
 
 husdyr	buvve	šibit	43	5	64	0
-husdyr	slidor	šibit	43	21	64	0
++husdyr	slidor	šibit	43	21	64	0
 
-eventyr	båvva	cuvccas/máinnas/máinnastit	30	19	27	0
++eventyr	subtsas	cuvccas/máinnas/máinnastit	30	19	27	0
 eventyr	mujttalibme	cuvccas/máinnas/máinnastit	30	1	27	0
 
-levevilkår	iellemdille	eallineaktu	8	12	10	1
-levevilkår	viessomdille	eallineaktu	8	7	10	0
++levevilkår	iellemækto	eallineaktu	8	12	10	1
++levevilkår	viessomækto	eallineaktu	8	7	10	0
 
 peis	vuobnne	uvdna	1	16	11	0
 peis	gruvvo	uvdna	1	19	11	0
-peis	vuodná	uvdna	1	34	11	0
++ovn	vuodná	uvdna	1	34	11	0
 
 sameksistens	aktisasjiellem	ovttaseallin	15	1	9	0
 sameksistens	aktanviessom	ovttaseallin	15	2	9	1
@@ -227,36 +228,36 @@ fokus	kommentárra	fokus/guovdilastin/fuomášupmi/fokuseren	365	12	25	0
 fokus	várra	fokus/guovdilastin/fuomášupmi/fokuseren	365	53	25	0
 fokus	væhttsásvuohta	fokus/guovdilastin/fuomášupmi/fokuseren	365	4	25	0
 fokus	gávnadis	fokus/guovdilastin/fuomášupmi/fokuseren	365	5	25	0
-fokus	ájádus	fokus/guovdilastin/fuomášupmi/fokuseren	365	505	25	4
++tanke	ájádus	fokus/guovdilastin/fuomášupmi/fokuseren	365	505	25	4
 
 årssyklus	jahkegierdde	jahkodatvuogádat/jahkodatjorru/jahkodat	3	2	4	0
-årssyklus	jáhpe	jahkodatvuogádat/jahkodatjorru/jahkodat	3	20	4	1
+´årstid	jáhpe	jahkodatvuogádat/jahkodatjorru/jahkodat	3	20	4	1
 
-anskaffelsesvirksomhet	ásadibme	háhkandoaibma	1	127	1	0
++opprettelse	ásadibme	háhkandoaibma	1	127	1	0
 anskaffelsesvirksomhet	ásadus	háhkandoaibma	1	315	1	0
 
 stivhet	stajgukvuohta	stargatvuohta/stirdu	1	2	3	0
-stivhet	nanosvuohta	stargatvuohta/stirdu	1	10	3	0
++fasthet	nanosvuohta	stargatvuohta/stirdu	1	10	3	0
 
-effekt	boados	čuozahus/beaktu	107	270	9	1
-effekt	vájkkudus	čuozahus/beaktu	107	128	9	0
++effekt	resultat	čuozahus/beaktu	107	270	9	1
++effekt	vájkkudus	čuozahus/beaktu	107	128	9	0
 
 dialekt	moallánahka	suopman/dialeakta	40	110	45	0
-dialekt	hållåmvuohke	suopman/dialeakta	40	2	45	0
++dialekt	hållåmvuohke	suopman/dialeakta	40	2	45	0
 
 pågangsmot	sávrrudahka	áŋgirvuohta/gillilvuohta	3	8	5	0
 pågangsmot	barggomiella	áŋgirvuohta/gillilvuohta	3	2	5	0
 pågangsmot	sávresvuohta	áŋgirvuohta/gillilvuohta	3	18	5	0
 pågangsmot	barggoártta	áŋgirvuohta/gillilvuohta	3	1	5	0
-pågangsmot	arvusmahttem	áŋgirvuohta/gillilvuohta	3	38	5	0
-pågangsmot	måvtåstuhttem	áŋgirvuohta/gillilvuohta	3	3	5	0
++oppmuntring	arvusmahttem	áŋgirvuohta/gillilvuohta	3	38	5	0
++oppmuntring	måvtåstuhttem	áŋgirvuohta/gillilvuohta	3	3	5	0
 
-attest	duodastibme	bargoduođaštus/duođaštus	15	30	54	2
++attest	duodastibme	bargoduođaštus/duođaštus	15	30	54	2
 attest	vihtanasstem	bargoduođaštus/duođaštus	15	19	54	0
 
 tvist	rijddoássje	nággu/soahpameahttunvuohta	24	8	25	0
 tvist	rijddalibme	nággu/soahpameahttunvuohta	24	6	25	0
-tvist	rijddo	nággu/soahpameahttunvuohta	24	170	25	5
++tvist	rijddo	nággu/soahpameahttunvuohta	24	170	25	5
 
 joiketekst	åvddånbuktemvuohke	dajahus	1	34	9	0
 joiketekst	åvddånbuktem	dajahus	1	173	9	0
@@ -271,17 +272,17 @@ garnfiske	gåldåguolástibme	goldin/juoŋasteapmi/fierbmebivdu/mearragolgadeapm
 garnfiske	gåldåguollim	goldin/juoŋasteapmi/fierbmebivdu/mearragolgadeapmi/sáibmabivdu	20	0	3	0
 garnfiske	ráhkko	goldin/juoŋasteapmi/fierbmebivdu/mearragolgadeapmi/sáibmabivdu	20	0	3	0
 
-adferdsvanske	ulmutjahttemgássjelisvuohta	meannováttisvuohta/láhttenváddu/láhttenváttisvuohta	1	0	1	0
++adferdsvanske	ulmutjahttemgássjelisvuohta	meannováttisvuohta/láhttenváddu/láhttenváttisvuohta	1	0	1	0
 adferdsvanske	gássjelisvuohtaulmutjahttem	meannováttisvuohta/láhttenváddu/láhttenváttisvuohta	1	0	1	0
 
 inntjeningsevne	boahtovejulasjvuohta	dienasnákca/dinennákca/dienasvejolašvuohta/dinenvejolašvuohta	4	0	1	0
 inntjeningsevne	boahtomáhtukvuohta	dienasnákca/dinennákca/dienasvejolašvuohta/dinenvejolašvuohta	4	0	1	0
 
-selvstyre	autonomiddja	iešstivrejupmi/iešstivren	29	0	13	0
-selvstyre	suverenitiehtta	iešstivrejupmi/iešstivren	29	0	13	0
++autonomi	autonomiddja	iešstivrejupmi/iešstivren	29	0	13	0
++suverenitet	suverenitiehtta	iešstivrejupmi/iešstivren	29	0	13	0
 
-bebreidelse	gujddim	moaitámuš	0	0	19	0
-bebreidelse	gujdalvis	moaitámuš	0	0	19	0
++klage	gujddim	moaitámuš	0	0	19	0
++bebreidelse	gujdalvis	moaitámuš	0	0	19	0
 
 anerkjennelse	nanodibme	dohkkeheapmi/dohkkehus	102	0	51	0
 anerkjennelse	nanodus	dohkkeheapmi/dohkkehus	102	0	51	0
@@ -291,10 +292,10 @@ prognose	bájna	einnostus/vuordu/prognosa	12	0	3	0
 prognose	tsoavttsom	einnostus/vuordu/prognosa	12	0	3	0
 
 sammenbinding	sjåptjadibme	oktiičatnan	14	0	2	0
-sammenbinding	sjåpkadibme	oktiičatnan	14	0	2	0
++sammenbinding	sjåpkadibme	oktiičatnan	14	0	2	0
 
 anbefaling	tsuojgudis	ráva/neava/ávžžuhus/rávven/neavva	53	0	52	0
-anbefaling	hasodus	ráva/neava/ávžžuhus/rávven/neavva	53	0	52	0
++oppfordring	hasodus	ráva/neava/ávžžuhus/rávven/neavva	53	0	52	0
 
 samling	sjåptjadibme	čohkken/čoagganeapmi/čoakkáldat/čohkkehus/čoahkkaneapmi	115	0	28	0
 samling	sjåpkadibme	čohkken/čoagganeapmi/čoakkáldat/čohkkehus/čoahkkaneapmi	115	0	28	0
@@ -311,7 +312,7 @@ likviditetsforvaltning	máksemmáhttelisvuohta	máksinnákca	1	0	2	0
 rekruttering	háhkuhibme	háhkan/besten	280	0	36	0
 rekruttering	åttjulvis	háhkan/besten	280	0	36	0
 
-skriving	ornamænnta	čállin	21	1	216	0
++skriving	tjállem	čállin	21	1	216	0
 skriving	girjos	čállin	21	1	216	0
 skriving	rijmustus	čállin	21	0	216	0
 
@@ -325,11 +326,11 @@ gårdsbruk	slidorsujtto	oapmedoallu/dállodoallu/eanadállodoallu	55	0	9	0
 misbruk	biledibme	veagalváldin/boasttugeavaheapmi	8	0	8	0
 misbruk	nággoválldem	veagalváldin/boasttugeavaheapmi	8	0	8	0
 
-kulturforskjell	kultuvrravuosstebielle	kulturerohus	2	0	2	0
++kulturforskjell	kultuvrrasieradusá	kulturerohus	2	0	2	0
 kulturforskjell	kultuvravuosstebielle	kulturerohus	2	0	2	0
 
 innrapporteringssystem	diedádusvuogádahka	raporterenvuogádat	1	0	1	0
-innrapporteringssystem	diedádussystiebma	raporterenvuogádat	1	0	1	0
++innrapporteringssystem	diededussystiebma	raporterenvuogádat	1	0	1	0
 
 drivgarnfiske i sjøen	gåldåguolástibme	mearragolgadeapmi	0	0	1	0
 drivgarnfiske i sjøen	gåldåguollim	mearragolgadeapmi	0	0	1	0
@@ -359,14 +360,14 @@ kjøpekontrakt	oasestimsjiehtadus	oastinšiehtadus/gávpešiehtadus	3	0	2	0
 pågangsmot	vájmmelisvuohta	áŋgirvuohta/gillilvuohta	3	0	5	0
 pågangsmot	ratjástimártta	áŋgirvuohta/gillilvuohta	3	0	5	0
 
-attest	nanodibme	bargoduođaštus/duođaštus	15	0	54	0
++attest	duodastus	bargoduođaštus/duođaštus	15	0	54	0
 attest	tjårggidus	bargoduođaštus/duođaštus	15	0	54	0
 attest	nanodus	bargoduođaštus/duođaštus	15	0	54	0
 attest	nanostus	bargoduođaštus/duođaštus	15	0	54	0
 
 erverv	háhkuhibme	háhkan	30	0	66	0
-erverv	åttjulvis	háhkan	30	0	66	0
++anskaffelse	åttjulvis	háhkan	30	0	66	0
 
 kontrollkomité	bærrájgæhttjamnammadus	dárkkistanlávdegoddi/bearráigeahččanlávdegoddi	42	0	22	0
 kontrollkomité	dárkestimnammadus	dárkkistanlávdegoddi/bearráigeahččanlávdegoddi	42	0	22	0
-kontrollkomité	dárkastusnammadus	dárkkistanlávdegoddi/bearráigeahččanlávdegoddi	42	0	22	0
++kontrollkomité	dárkastusnammadus	dárkkistanlávdegoddi/bearráigeahččanlávdegoddi	42	0	22	0
