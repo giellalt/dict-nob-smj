@@ -1,3 +1,4 @@
+# @ = bad candidates
 
 referat	referáhtta	referáhta	0	5	2	0
 
@@ -5,15 +6,15 @@ narkotika	narkotihkka	narkotihkka	4	2	34	0
 
 drama	drámá	drámá	12	26	17	5
 
-skjema	skåvve	skovvi	90	26	50	0
+skjema	sjiebmá	skovvi	90	26	50	0
 
-rekvisita	dárbbo	dárbašat	1	1008	6	0
+@rekvisita	dárbbo	dárbašat	1	1008	6	0
 
 blad	lassta	lasta	23	32	27	2
 
 merknad	tsuojggidus	mearkkašeapmi/fuomášuhttin/cuiggodeapmi	231	13	8	4
 
-søknad	åhtså	ohcamuš	982	853	80	4
+søknad	åhtsåmus	ohcamuš	982	853	80	4
 
 språkprosjektsøknad	giellaprosjæktaåhtsåmus	giellaprošeaktaohcan	1	0	1	0
 
@@ -27,7 +28,7 @@ måned	mánno	mánnu	132	326	227	58
 
 fred	ráfe	ráfi	50	446	120	29
 
-skred	rihto	rihtu	8	1	35	0
+skred	rijddo	rihtu	8	1	35	0
 
 arbeid	barggo	bargu	3076	2553	2882	358
 
@@ -35,7 +36,7 @@ samarbeid	aktisasjbarggo	ovttasráđiid	1740	770	154	102
 
 grensekommunesamarbeid	rádjásuohkanaktisasjbarggo	rádjesuohkan	1	0	2	0
 
-fortid	preterihtta	preterihtta	30	0	10	0
+preteritum	preterihtta	preterihtta	30	0	10	0
 
 arbeidstid	barggoájgge	bargoáigi	24	13	19	3
 
@@ -45,19 +46,19 @@ kveld	iehket	eahket	43	260	168	3
 
 ild	dållå	dolla	16	523	104	9
 
-opphold	gasska	gaska	81	1447	1186	117
+@opphold	gasska	gaska	81	1447	1186	117
 
 pynteband	hærvvabádde	hearvabáddi	1	0	2	0
 
 land	ednam	eana	1607	1449	1389	89
 
-stand	ámmát	vuovdinbeavdi/seahtu	172	17	1	0
+@stand	ámmát	vuovdinbeavdi/seahtu	172	17	1	0
 
-bestand	nálle	nálli	54	8	49	0
+@bestand	nálle	nálli	54	8	49	0
 
 tilstand	dille	dilli	37	666	1257	83
 
-forstand	dájddo	dáidu	50	27	32	0
+@forstand	dájddo	dáidu	50	27	32	0
 
 avstand	gasska	gaska	55	1447	1186	117
 
@@ -65,7 +66,7 @@ medvind	miehtebiegga	miehtebiegga	5	12	5	0
 
 næringsfond	æládusfoannda	ealáhusfoanda	17	54	9	2
 
-hund	hårtte	horti	37	1	4	0
+hund	bena	horti	37	1	4	0
 
 komagbånd	vuotta	vuotta	1	3	6	0
 
@@ -79,7 +80,7 @@ jord	ednam	eananspábba/eanaspábba	611	1449	3	31
 
 fjord	vuodna	vuotna	254	1447	171	22
 
-tilbud	fálaldak	fálaldat	551	2	357	0
+tilbud	fálaldahka	fálaldat	551	2	357	0
 
 skolebibliotektilbud	skåvllågirjjevuorkkáfálaldahka	skuvlagirjerádjofálaldat	1	0	1	0
 
@@ -89,7 +90,7 @@ språkopplæringstilbud	giellaåhpadusfálaldahka	giellaoahpahanfálaldat/giella
 
 forbud	buorggo	gielddus/gieldu	82	32	30	0
 
-statsråd	stáhttadármme	stáhtaráđđi/stádaráđđi	182	0	36	0
+statsråd	stáhttaráde	stáhtaráđđi/stádaráđđi	182	0	36	0
 
 nød	hiehte	heahti	29	35	122	0
 
@@ -97,25 +98,25 @@ brød	lájbbe	láibi	13	219	38	26
 
 vidde	duottar	duottar	24	66	223	6
 
-glede	illo	illu	77	4	164	0
+glede	ávvo	illu	77	4	164	0
 
-hest som trekker vogn eller slede	vuoján	vuoján	0	11	30	0
+@hest som trekker vogn eller slede	vuoján	vuoján	0	11	30	0
 
-mengde	mierre	earri	45	282	236	0
+@mengde	mierre	earri	45	282	236	0
 
 bilde	gåvvå	govva	233	869	823	110
 
 finansieringskilde	ruhtagálldo	ruhtagáldu	5	0	5	0
 
-medvirkende	bielle	oasálaš	11	929	31	0
+@medvirkende	bielle	oasálaš	11	929	31	0
 
 hode	oajvve	oaivi	25	1336	177	13
 
-overhode	jådediddje	oaivámuš	10	221	13	0
+overhode	oajvve	oaivámuš	10	221	13	0
 
 gjerde	gárdde	gárdi	113	85	59	1
 
-høyde	alásj	aláš	73	0	19	0
+@høyde	alásj	aláš	73	0	19	0
 
 nåde	ármmo	árbmu	4	256	20	6
 
@@ -127,21 +128,21 @@ anklage	guoddalus	váidda	2	10	76	0
 
 unge	tjivgga	čivga	678	24	23	2
 
-husleie	viessolájggo	viessoláigu	32	0	15	0
+husleie	goahtelájggo	viessoláigu	32	0	15	0
 
 serie	rájddo	ráidu	17	46	84	1
 
 historie	histåvrrå	fearán/muitalus	341	433	98	50
 
-fortjenestemedalje	tjænsstamedállja	ánsomedállja	4	0	1	0
+fortjenestemedalje	ánssidusmedállja	ánsomedállja	4	0	1	0
 
-passasje	suohpa	suohpa	4	0	5	0
+@passasje	suohpa	suohpa	4	0	5	0
 
-slitasje	gållo	gollu	11	70	183	20
+@slitasje	gållo	gollu	11	70	183	20
 
 kake	gáhkko	gáhkku	6	77	30	3
 
-lykke	lihkko	lihkku	89	0	430	0
+lykke	vuorbbe	lihkku	89	0	430	0
 
 teaterstykke	teáhterbiehkke	teáhterčájálmas/teáhterbihttá	2	0	15	0
 
@@ -155,37 +156,37 @@ uke	vahkko	vahkku	301	355	1103	100
 
 lokale	ladnja	latnja	531	171	115	33
 
-samtale	sáhka	sártnodeapmi/ságastallan	105	632	77	4
+samtale	ságastallam	sártnodeapmi/ságastallan	105	632	77	4
 
 særavtale	sierrasjiehtadus	sierrašiehtadus	4	0	2	0
 
-regle	rijmma	hoahkan	412	24	3	5
+rim	rijmma	hoahkan	412	24	3	5
 
-hodeskalle	oajvveskálltjo	oaiveskálžu	3	0	12	0
+@hodeskalle	oajvveskálltjo	oaiveskálžu	3	0	12	0
 
-tilfelle	dáhpádus	dáhpáhus	271	157	333	15
+@tilfelle	dáhpádus	dáhpáhus	271	157	333	15
 
-rolle	sadje	sadji	455	1490	724	48
+rolle	roalla	sadji	455	1490	724	48
 
-hagebruksskole	gárddeadnemskåvllå	gilvvagárdeskuvla	4	0	2	0
+@hagebruksskole	gárddeadnemskåvllå	gilvvagárdeskuvla	4	0	2	0
 
-hule	tjiehpas	čiehpas	2	0	1	0
+@hule	tjiehpas	čiehpas	2	0	1	0
 
-kule	luodda	luođđa	17	70	14	0
+@kule	luodda	luođđa	17	70	14	0
 
 same	sábme	sápmi	11338	13172	17068	1236
 
 salme	sálmma	sálbma	29	277	61	41
 
-gamme	goahte	goahti	38	507	127	2
+gamme	gábmá	goahti	38	507	127	2
 
 optimisme	optimissma	mokta	13	0	80	0
 
-vane	vierro	vierru	5	0	85	0
+vane	dáhpe	vierru	5	0	85	0
 
-skjebne	vuorbbe	vuorbi	6	133	17	0
+@skjebne	vuorbbe	vuorbi	6	133	17	0
 
-scene	lávdde	lávdi	41	5	581	0
+@scene	lávdde	lávdi	41	5	581	0
 
 minne	mujtto	muitu	73	114	121	9
 
@@ -195,13 +196,13 @@ kolonne	rájddo	ráidu	13	46	84	0
 
 vitne	vihtan	vihtan	35	42	25	10
 
-evne	dájddo	dáidu	104	27	32	3
+evne	máhtukvuohta	dáidu	104	27	32	3
 
-knipe	vuorrádus	vuorrádus	2	1	1	0
+@knipe	vuorrádus	vuorrádus	2	1	1	0
 
-stolpe	tjuollda	čuolda	5	14	5	0
+@stolpe	tjuollda	čuolda	5	14	5	0
 
-hjørnestolpe	tsagge	čávgŋi	0	7	1	0
+@hjørnestolpe	tsagge	čávgŋi	0	7	1	0
 
 gruppe	juogos	joavku	527	379	951	65
 
@@ -213,35 +214,35 @@ tåre	ganjál	ganjal	4	27	12	2
 
 ære	guddne	gudni	19	173	104	2
 
-lære	oahppa	oahppa	1298	1617	620	182
+lære	oahppo	oahppa	1298	1617	620	182
 
-snøre	duorggo	duorgu	3	1	3	0
+snøre	snuorri	duorgu	3	1	3	0
 
 ledelse	stivrra	stivra	165	144	556	17
 
-anmeldelse	guoddalus	guoddalus	6	10	8	0
+anmeldelse	diededibme	guoddalus	6	10	8	0
 
-forbindelse	Aktisasjvuohta	čatnagas/ovttastus	880	6	11	0
+forbindelse	aktisasjvuohta	čatnagas/ovttastus	880	6	11	0
 
-bevegelse	jåhto	johtu	21	218	229	5
+@bevegelse	jåhto	johtu	21	218	229	5
 
 tannhelse	bádnevarresvuohta	bátnedearvvašvuohta	44	10	8	0
 
-medfølelse	miehtemiella	miehtemiella	3	0	7	0
+@medfølelse	miehtemiella	miehtemiella	3	0	7	0
 
 bestemmelse	mærrádus	mearrádus	478	323	843	115
 
 innholdsfortegnelse	sisadno	sisdoallologahallan	6	474	1	0
 
-kjennelse	diggemærrádus	diggemearrádus	10	0	1	0
+@kjennelse	diggemærrádus	diggemearrádus	10	0	1	0
 
 begynnelse	álggo	álgu	77	1026	966	25
 
 tillatelse	loahpe	lohpi	141	232	487	14
 
-engstelse	vuorrádus	vuorrádus	2	1	1	0
+@engstelse	vuorrádus	vuorrádus	2	1	1	0
 
-kulturutøvelse	kultuvrradoajmma	kulturdoaibman	61	0	1	8
+kulturutøvelse	kultuvrradåjmadibme	kulturdoaibman	61	0	1	8
 
 forståelse	dádjadus	ipmárdus	251	202	91	37
 
@@ -249,15 +250,15 @@ balanse	balánssa	balánsa	55	9	12	0
 
 kompetanse	máhtto	máhttu	865	301	536	33
 
-mose	darffe	darfi	18	1	11	0
+mose	sæmol	darfi	18	1	11	0
 
 rose	ruvsso	ruvsu	10	1	4	0
 
 interesse	berustibme	beroštus	490	233	32	31
 
-fiskeinteresse	guolástusberustibme	guolástanberoštupmi/guolástanberoštus	1	0	1	0
+fiskeinteresse	guolleberustibme	guolástanberoštupmi/guolástanberoštus	1	0	1	0
 
-presse	media	media	257	24	319	0
+presse	præssa	media	257	24	319	0
 
 hyse	jukso	juksu	16	5	3	1
 
@@ -273,7 +274,7 @@ fiskekvote	guollimkvåvttå	guolleearri	5	0	7	0
 
 hjerte	vájmmo	váibmu	27	299	130	17
 
-smerte	gihpo	gihpu	20	92	5	0
+smerte	bávtjas	gihpu	20	92	5	0
 
 læringsmåte	oahppamvuohke	oahppanvuohki	0	7	3	0
 
@@ -289,93 +290,93 @@ skoledag	skåvllåbiejvve	skuvlabeaivi	13	10	13	2
 
 hverdag	árgga	árga	71	64	63	0
 
-fag	fága	fága	812	14	600	0
+fag	fáhka	fága	812	14	600	0
 
-mellomfag	gasskafága	gaskafága	8	0	6	0
+mellomfag	gasskafáhka	gaskafága	8	0	6	0
 
 lag	juogos	joavku	313	379	951	36
 
 livsgrunnlag	iellemvuodo	eallinvuođđu/birgenláhki/birgenvuođđu	26	4	9	0
 
-folkeslag	ulmusjnálle	olmmošnálli	12	3	2	0
+folkeslag	ulmusjtjærdda	olmmošnálli	12	3	2	0
 
-anslag	definisjåvnnå	meroštus	32	6	1	0
+@anslag	definisjåvnnå	meroštus	32	6	1	0
 
 komag	gáma	čázet	5	81	4	0
 
-foredrag	åvddåsáhka	ovdasáhka	40	0	5	0
+foredrag	lågådallam	ovdasáhka	40	0	5	0
 
 vegg	siejnne	seaidni	17	47	44	14
 
-bolig	viesso	viessu	131	931	462	6
+bolig	goahte	viessu	131	931	462	6
 
 krig	soahte	soahti	96	9	197	0
 
 valg	válgga	válga	889	71	499	10
 
-forholdstallsvalg	dilletállaválgga	gorrelohkoválga	3	0	2	0
+@forholdstallsvalg	dilletállaválgga	gorrelohkoválga	3	0	2	0
 
 utvalg	nammadus	válljenmunni	649	152	13	34
 
-hovedutvalg	oajvvejuogos	váldolávdegoddi	10	3	18	0
+hovedutvalg	oajvvenammadus	váldolávdegoddi	10	3	18	0
 
-omfang	areálla	viidodat/mahtodat/birramihttu/gustonviidodat	129	407	17	0
+areal	areálla	viidodat/mahtodat/birramihttu/gustonviidodat	129	407	17	0
 
-omgang	vuorro	vuorru	84	100	441	11
+@omgang	vuorro	vuorru	84	100	441	11
 
-sang	lávllo	lávlu	66	74	181	4
+sang	lávlla	lávlu	66	74	181	4
 
-tang	dárra	debbot/stuollá/basttat/doaŋggat	6	0	1	0
+tang	dágge	debbot/stuollá/basttat/doaŋggat	6	0	1	0
 
-streng	suodna	suotna	70	8	7	1
+sene	suodna	suotna	70	8	7	1
 
 melding	diedádus	dieđáhus	388	129	162	54
 
-tilbakemelding	reaksjåvnnå	dávisteapmi	67	5	4	0
+reaksjon	reaksjåvnnå	dávisteapmi	67	5	4	0
 
 sending	sátta	sátta	15	57	77	0
 
-høvding	jådediddje	oaivámuš	5	221	13	0
+leder	jådediddje	oaivámuš	5	221	13	0
 
 språkbrukskartlegging	giellaadnoguoradallam	giellageavahankárten	0	0	0	0
 
-utbygging	huksen	huksen	207	0	316	0
+@utbygging	huksen	huksen	207	0	316	0
 
 energiutbygging	energiddjahuksen	energiijahuksen	3	0	1	0
 
 soneinndeling	guovllojuohko	johtolatjuohkin/guovlojuohkin	4	0	1	0
 
-regionsinndeling	guovllojuohko	guovlojuohkin	1	0	1	0
+regionsinndeling	regiåvnnåjuohko	guovlojuohkin	1	0	1	0
 
 finansmarkedsavdeling	ruhtadusmárnánåssudahka	ruhtadanossodat	1	0	1	0
 
 utvikling	åvddånibme	gárggiideapmi/gárgedus/ovddideapmi/ovdánahttin/ahtanuššan	2126	364	104	51
 
-belling	biddo	biddu	2	0	2	0
+belling	gámas	biddu	2	0	2	0
 
-likestilling	dásseárvvo	dásseárvu	344	12	178	6
+likestilling	dássádus	dásseárvu	344	12	178	6
 
-byråsjefstilling	ásadusjådediddjeámmát	doaimmahathoavdavirgi	1	0	1	0
+@byråsjefstilling	ásadusjådediddjeámmát	doaimmahathoavdavirgi	1	0	1	0
 
-hovedproblemstilling	oajvvegássjelisvuohtaámmát	váldočuolbma/váldočuolbmačilgehus	2	0	1	0
+hovedproblemstilling	oajvvetjuolmma	váldočuolbma/váldočuolbmačilgehus	2	0	1	0
 
-toppstilling	tjåhkkåámmát	njunušvirgi	1	0	1	0
+@toppstilling	tjåhkkåámmát	njunušvirgi	1	0	1	0
 
 ordning	ásadus	ortnet	539	315	346	0
 
-styringsordning	stivrraårnik	stivrenortnet	1	0	1	0
+styringsordning	stivrrimårnik	stivrenortnet	1	0	1	0
 
-betydning	tsuojggidus	mearkkašupmi	682	13	367	4
+@betydning	tsuojggidus	mearkkašupmi	682	13	367	4
 
 forening	siebrre	searvi	54	187	773	15
 
-bygning	visste	visti	239	19	204	0
+bygning	tsiekkadus	visti	239	19	204	0
 
 befolkning	álmmuk	álbmot	726	1286	1536	133
 
-virkning	vájkudus	váikkuhus	137	4	264	0
+virkning	vájkkudus	váikkuhus	137	4	264	0
 
-påvirkning	vájkudus	váikkuhus	38	4	264	0
+påvirkning	vájkkudus	váikkuhus	38	4	264	0
 
 økning	lasádus	lasáhus	396	31	75	4
 
@@ -383,11 +384,11 @@ spenning	geldulasjvuohta	gelddolašvuohta	10	3	4	0
 
 gjerning	dahko	dahku	5	342	100	9
 
-undervisning	åhpadus	oahpahus	443	1934	991	87
+undervisning	åhpadibme	oahpahus	443	1934	991	87
 
 opplysning	diehto	diehtu	246	1549	1622	111
 
-løsning	fasihtta	čoavddus/čovdojupmi	270	1	114	0
+løsning	tjoavdos	čoavddus/čovdojupmi	270	1	114	0
 
 oppfatning	dádjadus	ipmárdus	200	202	91	21
 
@@ -399,15 +400,15 @@ forvaltning	háldadus	hálddahus	1329	345	305	48
 
 bekostning	gållo	gollu	29	70	183	20
 
-tilknytning	Aktisasjvuohta	čanus/čatnaseapmi/gullevašvuohta	230	6	31	0
+tilknytning	aktisasjvuohta	čanus/čatnaseapmi/gullevašvuohta	230	6	31	0
 
-skråning	hállan	hállan	3	1	53	0
+@skråning	hállan	hállan	3	1	53	0
 
 nyskaping	innovasjåvnnå	ođđahutkan	42	11	6	0
 
 ring	suormas	gierdu	57	18	7	0
 
-forklaring	tjielgadus	čilgehus	43	27	169	1
+forklaring	tjielggidus	čilgehus	43	27	169	1
 
 forbedring	buorádus	buorádus	36	66	3	0
 
@@ -415,11 +416,11 @@ endring	rievddadus	rievdadus	805	81	135	22
 
 utfordring	hásstalus	hástalus	549	302	357	121
 
-differensiering	sirren	sirren	10	0	17	0
+@differensiering	sirren	sirren	10	0	17	0
 
-rasediskriminering	rasissma	nállevealaheapmi	12	24	9	0
+rasisme	rasissma	nállevealaheapmi	12	24	9	0
 
-organisering	ásadus	ortnet	284	315	346	1
+organisering	organisierim	ortnet	284	315	346	1
 
 teknologioverføring	teknologiddjasirddem	teknologiijafievrrideapmi/teknologiijagaskkusteapmi	2	0	1	0
 
@@ -427,13 +428,13 @@ ving	soadje	soadji	2	18	8	0
 
 lyng	daŋás	daŋas	51	3	13	2
 
-dialog	gasskasáhka	gaskasáhka	325	0	1	0
+dialog	dialåvggå	gaskasáhka	325	0	1	0
 
 marg	adám	siidoravda	3	7	1	0
 
 omsorg	berustibme	ovddasmoraš/fuolahus/ávvir/fuolaheapmi	219	233	86	0
 
-petroleumsøkonomi	gássaekonomiddja	petroleumekonomiija	1	0	1	0
+@petroleumsøkonomi	gássaekonomiddja	petroleumekonomiija	1	0	1	0
 
 teori	teoriddja	teoriija	19	45	51	2
 
@@ -447,31 +448,31 @@ likestillingssak	dássádusássje	dásseárvoášši	1	0	2	0
 
 fredningsvedtak	ráfájduhttemmærrádus	ráfáiduhttinmearrádus	2	0	2	0
 
-ryggtak	fágge	fággi	0	6	2	0
+@ryggtak	fágge	fággi	0	6	2	0
 
 tiltak	doajmma	doaibma	2092	1796	2251	231
 
-undervisningstiltak	åhpadusdoajmma	oahpahusdoaibmabidju	1	2	1	0
+undervisningstiltak	åhpadimdoajmma	oahpahusdoaibmabidju	1	2	1	0
 
 strek	sáhtso	sáhcu	11	13	6	0
 
-ryggsekk	lávkka	lávka	1	2	26	0
+ryggsekk	vuossa	lávka	1	2	26	0
 
-trafikk	jåhtålus	johtalus	46	0	22	0
+trafikk	trafihkka	johtalus	46	0	22	0
 
 overblikk	åbbålasjgåvvå	oppalašgeahčaldat/oppalašgeahčastat	2	0	2	0
 
-musikk	musijkka	musihkka	220	2	452	0
+musikk	musihkka	musihkka	220	2	452	0
 
 dramatikk	dramatihkka	dramatihkka	4	5	11	1
 
 politikk	politihkka	politihkket	355	371	30	18
 
-ornamentikk	ornamentijkka	hervendáidda/herven	3	0	5	0
+ornamentikk	ornamentihkka	hervendáidda/herven	3	0	5	0
 
-butikk	buvdda	buvda	17	4	41	0
+butikk	oases	buvda	17	4	41	0
 
-inntrykk	mujttogåvvå	muitogovva	41	0	1	0
+@inntrykk	mujttogåvvå	muitogovva	41	0	1	0
 
 melk	mielkke	mielki	34	146	56	2
 
@@ -489,15 +490,15 @@ fisk	guolle	guolli	156	451	428	11
 
 innlandsfisk	jávrreguolle	sáivaguolli	31	0	13	0
 
-russisk	ruossjagiella	ruoššagiella	102	9	13	0
+russisk språl	ruossjagiella	ruoššagiella	102	9	13	0
 
-finsk	suomagiella	suomagiella	154	138	201	29
+finsk språl	suomagiella	suomagiella	154	138	201	29
 
-åkerbruk	bælldoadnem	bealdodoallu	1	0	1	0
+@åkerbruk	bælldoadnem	bealdodoallu	1	0	1	0
 
-forbruk	manno	mannu	50	205	10	0
+@forbruk	manno	mannu	50	205	10	0
 
-stryk	guojkka	guoika	4	20	16	1
+stryk (i elv)	guojkka	guoika	4	20	16	1
 
 røyk	suovva	suovva	4	67	58	6
 
@@ -523,17 +524,17 @@ permisjonsregel	permisjåvnnånjuolgadus	virgelohpenjuolggadus	2	0	1	0
 
 mangel	vádne	vátni	207	46	17	1
 
-terskel	sjielmmá	šielbmá	9	7	3	0
+@terskel	sjielmmá	šielbmá	9	7	3	0
 
 himmel	almme	albmi	10	527	87	29
 
-eksempel	åvddåmærkka	ovdamearka	663	19	505	5
+eksempel	buojkulvis	ovdamearka	663	19	505	5
 
-brensel	muorra	muorra	32	360	170	9
+brensel	boalldemus	muorra	32	360	170	9
 
 hørsel	gullo	gullu	4	158	70	2
 
-profil	ålggogåvvå	olgogovva	38	0	1	0
+profil	profijlla	olgogovva	38	0	1	0
 
 smil	mådje	modji	9	11	17	0
 
@@ -543,23 +544,23 @@ antall	låhko	lohku	677	248	530	57
 
 reintall	boatsojlåhko	boazolohku	332	7	225	5
 
-manntall	jienastuslåhko	jienastuslohku	56	33	143	11
+manntall	ulmusjlåhko	jienastuslohku	56	33	143	11
 
 flertall	ieneplåhko	máŋggaidlohku	236	86	15	3
 
-intervall	gávdda	áigodat/interválla	1	19	164	1
+periode	gávdda	áigodat/interválla	1	19	164	1
 
-modell	málle	málle	130	80	108	0
+modell	modælla	málle	130	80	108	0
 
-høyfjell	tjierro	badjosat	9	1	3	0
+@høyfjell	tjierro	badjosat	9	1	3	0
 
 skjell	skálltjo	skálžu	9	4	6	0
 
-innvoll	tjoalle	čoalli	1	17	8	3
+tarm	tjoalle	čoalli	1	17	8	3
 
 gull	gålle	golli	19	154	168	3
 
-kål	gálla	gálla	1	6	7	0
+@kål	gálla	gálla	1	6	7	0
 
 spørsmål	gatjálvis	jearaldat	906	495	109	37
 
@@ -571,13 +572,13 @@ TV-program	tv-prográmma	TV-prográmma	1	13	9	0
 
 valgprogram	válggaprográmma	válgaprográmma	2	3	7	0
 
-medlem	lahtto	lahttu	664	1	281	0
+medlem	sebrulasj	lahttu	664	1	281	0
 
 malm	málmma	málbma	7	5	9	0
 
 rikdom	boanndudahka	riggodat	8	59	80	4
 
-eiendom	ednam	opmodat/giddodat/gittaopmodat	247	1449	44	0
+eiendom	æjggo	opmodat/giddodat/gittaopmodat	247	1449	44	0
 
 flom	dulvve	dulvi	6	31	31	0
 
@@ -585,19 +586,19 @@ skadeflom	vahágahttemdulvve	johkadulvi	1	0	1	0
 
 rom	ladnja	latnja	205	171	115	47
 
-storm	rihto	rihtu	14	1	35	0
+@storm	rihto	rihtu	14	1	35	0
 
-museum	musea	musea	462	20	345	0
+@museum	musea	musea	462	20	345	0
 
-medium	media	dieđihangaskaoapmi	109	24	3	0
+@medium	media	dieđihangaskaoapmi	109	24	3	0
 
 vurderingskriterium	árvustallamgájbbádus	árvvoštallaneaktu	1	0	1	0
 
-plenum	ållestjåhkanibme	dievasčoahkkin/ollesčoakkán/plenum/ollesčoahkkin	648	105	68	56
+@plenum	ållestjåhkanibme	dievasčoahkkin/ollesčoakkán/plenum/ollesčoahkkin	648	105	68	56
 
 drøm	niehko	niehku	10	55	83	3
 
-strøm	elektrisitiehtta	rávdnji/miehterávdnjái/rávdnjái/šleađga/elrávdnji	36	0	13	0
+strøm	strávve	rávdnji/miehterávdnjái/rávdnjái/šleađga/elrávdnji	36	0	13	0
 
 handlingsplan	doajmmapládna	doaibmaplána	222	115	146	50
 
@@ -611,17 +612,17 @@ rogn	skáhpe	skáhpi	14	2	6	0
 
 løgn	gieles	gielis	2	33	22	1
 
-kjørerein	vuoján	vuoján	8	11	30	0
+@kjørerein	vuoján	vuoján	8	11	30	0
 
 grein	oakse	oaksi	18	71	9	2
 
-magasin	lassta	bláđđi	12	32	42	0
+@magasin	lassta	bláđđi	12	32	42	0
 
 medisin	dálkas	dálkkas	28	202	57	74
 
 latin	latijnagiella	latiinnagiella	3	3	3	0
 
-trinn	tsiehkke	ceahkki	88	11	43	0
+@trinn	tsiehkke	ceahkki	88	11	43	0
 
 samfunn	sebrudahka	searvvuš	1257	1045	13	131
 
@@ -637,7 +638,7 @@ telefon	telefåvnnå	telefovdna	189	106	148	13
 
 region	guovllo	guovlu	269	1373	2084	227
 
-læreutdanningsregion	åhpadiddjeoahppaguovllo	oahpaheaddjeoahpporegiovdna	1	0	1	0
+lærerutdanningsregion	åhpadiddjeåhpadusguovllo	oahpaheaddjeoahpporegiovdna	1	0	1	0
 
 informasjon	diehto	diehtu	804	1549	1622	150
 
@@ -653,7 +654,7 @@ dokumentasjon	dokumentasjåvnnå	duođašteapmi/duođaštus	224	4	67	0
 
 presentasjon	presentasjåvnnå	ovdanbuktin/ovdanbuktojupmi	49	0	28	0
 
-luftforsvarsstasjon	ájmmosuodjalusstasjåvnnå	áibmosuodjalusstašuvdna	1	0	1	0
+luftforsvarsstasjon	ilmmesuodjalusstasjåvnnå	áibmosuodjalusstašuvdna	1	0	1	0
 
 situasjon	dille	dilli	434	666	1257	134
 
@@ -673,7 +674,7 @@ konvensjon	konvensjåvnnå	soahpamuš	428	198	144	36
 
 proporsjon	gasskavuohta	gorri	1	60	18	0
 
-søskenbarn	oarbbenmánná	vilbealle/oambealle/oarpmealle	5	0	7	0
+søskenbarn	oarbbenbielle	vilbealle/oambealle/oarpmealle	5	0	7	0
 
 garn	lájgge	láigi	60	24	12	0
 
@@ -685,21 +686,21 @@ bjørn	biernna	bierdna	47	282	6	2
 
 navn	namma	namma	292	1522	1035	198
 
-risiko	várra	várra	69	53	476	4
+@risiko	várra	várra	69	53	476	4
 
-tempo	fártta	leaktu/leahttu	7	5	44	0
+@tempo	fártta	leaktu/leahttu	7	5	44	0
 
 bro	råvve	šaldi	12	16	83	4
 
-selskap	siebrre	gávpevuođđudus/fitnodat/doalut/gávpelágádus	116	187	195	2
+selskap	vidnudahka	gávpevuođđudus/fitnodat/doalut/gávpelágádus	116	187	195	2
 
 reiselivsselskap	mannoæládusvidnudahka	mátkeealáhusfitnodat	1	0	3	0
 
-naturkunnskap	luonndomáhtto	luonddumáhttu	4	0	1	0
+naturkunnskap	luonndomáhtudahka	luonddumáhttu	4	0	1	0
 
 skimesterskap	tjuojggamgilpos	čuoigangilvvohallan	1	0	1	0
 
-verdensmesterskap	væráldavuojtteskáhppa	máilmmimeašttirvuođagilvu	3	0	1	0
+@verdensmesterskap	væráldavuojtteskáhppa	máilmmimeašttirvuođagilvu	3	0	1	0
 
 driftsenhetsbegrep	doajmmaavtadahkamoallánahka	doallodoaba	2	0	1	0
 
@@ -709,13 +710,13 @@ leksehjelp	sijddabarggoviehkke	leaksolohkanveahkki/leaksoveahkki	9	1	1	0
 
 kulp	jårmme	jorbmi	1	4	1	0
 
-kamp	doarro	doarru	74	276	21	2
+@kamp	doarro	doarru	74	276	21	2
 
 knapp	boallo	boallu	17	12	15	0
 
-forholdstallsprinsipp	dilletállaprinsihppa	gorrelohkoprinsihppa	2	0	1	0
+@forholdstallsprinsipp	dilletállaprinsihppa	gorrelohkoprinsihppa	2	0	1	0
 
-kropp	gårut	gorut	30	5	43	0
+kropp	rumáj	gorut	30	5	43	0
 
 pupp	tjidtje	čižži	0	0	10	0
 
@@ -727,7 +728,7 @@ far	áhttje	áhčči	206	1200	341	70
 
 bestefar	áddjá	áddjá	12	270	136	10
 
-ungkar	boaresbárnne	boaresbárdni	1	0	6	0
+@ungkar	boaresbárnne	boaresbárdni	1	0	6	0
 
 næringsseminar	æládusseminárra	ealáhusseminára	1	0	1	0
 
@@ -737,7 +738,7 @@ ansvar	åvdåsvásstádus	geatnegasvuohta	1149	647	205	78
 
 forsvar	suodjalus	suodjalus	167	28	112	5
 
-kobber	viejkke	veaiki	6	0	11	0
+@kobber	viejkke	veaiki	6	0	11	0
 
 fadder	fáttar	fáttar	4	8	5	5
 
@@ -747,29 +748,29 @@ alder	ahke	ahki	175	489	204	3
 
 skulder	oalgge	oalgi	4	95	37	1
 
-livsledsager	guojmme	guoibmi	1	229	72	8
+livsledsager	iellemguojmme	guoibmi	1	229	72	8
 
 jeger	bivdde	bivdi	18	53	310	1
 
-innbygger	ásse	ássi	102	1	189	0
+@innbygger	ásse	ássi	102	1	189	0
 
 sanger	lávllo	lávlu	22	74	181	2
 
-tilhenger	jårre	jorri	6	0	11	0
+@tilhenger	jårre	jorri	6	0	11	0
 
-finger	suormma	suorbma	8	1	18	1
+finger	tjuvdde	suorbma	8	1	18	1
 
-pekefinger	tjuvdde	čuvdi	1	55	2	0
+@pekefinger	tjuvdde	čuvdi	1	55	2	0
 
-tommelfinger	bielgge	bealgi	2	5	3	0
+tommelfinger	bielggetjuvdde	bealgi	2	5	3	0
 
 eier	æjgát	eaiggát	231	584	164	13
 
-deltaker	oassevállde	oasseváldi	98	17	95	0
+deltaker	oassálasste	oasseváldi	98	17	95	0
 
 søker	åhttse	ohcci	389	69	182	5
 
-fotballspiller	tjiektje	čiekči	1	27	148	0
+fotballspiller	bállotjiektje	čiekči	1	27	148	0
 
 meddommer	viehkkeduobmár	veahkkeduopmár	2	0	2	0
 
@@ -777,13 +778,13 @@ sommer	giesse	geassi	253	433	697	24
 
 bærer	guodde	guoddi	43	104	38	3
 
-ordfører	báhkojådediddje	ságadoalli/sátnejođiheaddji/ságajođiheaddji	82	11	160	0
+ordfører	suohkanoajvve	ságadoalli/sátnejođiheaddji/ságajođiheaddji	82	11	160	0
 
-offiser	soahtehærrá	soahtehearrá	2	0	2	0
+@offiser	soahtehærrá	soahtehearrá	2	0	2	0
 
 skolegenser	skåvllågensar	skuvlabáidi	1	0	1	0
 
-russer	ruossja	ruošša	15	108	295	15
+@russer	ruossja	ruošša	15	108	295	15
 
 dikter	diktatjálle	diktačálli	2	7	10	0
 
@@ -795,13 +796,13 @@ vinter	dálvve	dálvi	297	266	311	4
 
 oter	tjievres	čeavrris	9	10	4	0
 
-mønster	málle	málle	36	80	108	0
+mønster	skándda	málle	36	80	108	0
 
 søster	oabbá	oabbá	12	141	85	4
 
 datter	niejdda	nieida	24	294	493	38
 
-utøver	doalle	doalli	118	0	17	0
+@utøver	doalle	doalli	118	0	17	0
 
 næringskombinasjonsutøver	æláduskombinasjåvnnådåjmadiddje	lotnolasealáhusjoavku	1	0	0	0
 
@@ -809,7 +810,7 @@ gevir	tjoarvve	čoarvi	1	35	30	4
 
 skolekorridor	skåvllågáŋŋga	skuvlafeaskkir	1	0	1	0
 
-noe å takke for	gijtto	giitámuš	0	100	1	0
+takk	gijtto	giitámuš	0	100	1	0
 
 bestemor	áhkko	áhkku	30	227	182	11
 
@@ -817,41 +818,41 @@ rettskildefaktor	riektágálldofaktåvrrå	riektegáldobealli	2	0	1	0
 
 helsesektor	varresvuohtasuorgge	dearvvasvuođasuorgi/dearvvašvuođasuorgi	7	0	5	5
 
-alvor	duohtavuohta	duohtavuohta	39	36	115	0
+sannhet	duohtavuohta	duohtavuohta	39	36	115	0
 
 natur	luonndo	luondu	531	1095	1081	109
 
 temperatur	temperatuvrra	temperatuvra	36	31	21	7
 
-menystruktur	fállostruktuvrra	fállostruktuvra	1	0	1	0
+@menystruktur	fállostruktuvrra	fállostruktuvra	1	0	1	0
 
 kultur	kultuvrra	kultuvra	3594	2616	2301	470
 
 pelsdyr	návdde	návdi	8	13	28	0
 
-rovdyr	návdde	návdi	104	13	28	0
+rovdyr	urudis	návdi	104	13	28	0
 
 år	jahke	jahki	3453	3006	3519	460
 
 vilkår	ækto	eaktu	363	92	1193	23
 
-lår	badjeváhkká	badjeváhkká	2	0	1	0
+lår	tjibbe	badjeváhkká	2	0	1	0
 
-fødselsår	riegádahttemhávve	riegádanjahki	3	0	1	0
+fødselsår	riegádumjáhke	riegádanjahki	3	0	1	0
 
-nyttår	ådåsjahke	ođđajahki	11	0	173	1
+nyttår	ådåjahke	ođđajahki	11	0	173	1
 
-nyår	ådåsjahke	ođđajahki	6	0	173	0
+nyår	ådåjahke	ođđajahki	6	0	173	0
 
 bær	muorjje	muorji	67	47	28	2
 
-oppgjør	addisjåvnnå	loahpparehket/rehkenastin	21	0	8	0
+@oppgjør	addisjåvnnå	loahpparehket/rehkenastin	21	0	8	0
 
 generaldirektør	oajvvedirekterra	váldodirektevra	1	0	1	0
 
-nyhetsdirektør	sáhkadirekterra	ođasdirektevra	1	0	0	0
+nyhetsdirektør	ådåsdirekterra	ođasdirektevra	1	0	0	0
 
-ras	rihto	rihtu	18	1	35	0
+ras	rijddo	rihtu	18	1	35	0
 
 nes	njárgga	njárga	11	19	19	1
 
@@ -867,21 +868,21 @@ praksis	barggoduogásj	bargoduogáš	296	0	5	0
 
 pels	náhkkebivtas	náhkkebivttas	1	0	2	0
 
-finans	ruhtavárre	ruhtavárri	125	0	2	0
+finans	finánnsa	ruhtavárri	125	0	2	0
 
-sans	dájddo	dáidu	6	27	32	1
+@sans	dájddo	dáidu	6	27	32	1
 
-respons	reaksjåvnnå	dávisteapmi	12	5	4	0
+@respons	reaksjåvnnå	dávisteapmi	12	5	4	0
 
 kors	ruossa	ruossa	17	90	32	14
 
-oljeressurs	gássaresurssa	oljoresursa	1	0	1	0
+@oljeressurs	gássaresurssa	oljoresursa	1	0	1	0
 
-fiskeriressurs	guolleresurssa	guolástanriggodat	5	0	1	0
+fiskeriressurs	guolástusresurssa	guolástanriggodat	5	0	1	0
 
 klimagass	dálkádahkagássa	dálkkádatgássa	20	0	2	3
 
-madrass	guoddá	guoddá	1	85	26	2
+madrass	madrássa	guoddá	1	85	26	2
 
 verdenskonferanseprosess	væráltkonferánssaprosæssa	máilmmikonferánsaproseassa	1	0	1	1
 
@@ -889,19 +890,19 @@ læringsprosess	oahppamprosæssa	oahppanproseassa	2	0	4	0
 
 kryss	ruossa	ruossa	24	90	32	8
 
-sats	máksomierre	máksomearri	73	6	12	3
+@sats	máksomierre	máksomearri	73	6	12	3
 
-innsats	energiddja	rahčan/bijus/searat/árjabidjan/áŋgiruššan/árja/viggamuš/rahčamuš/árjjalašvuohta	294	0	38	0
+@innsats	energiddja	rahčan/bijus/searat/árjabidjan/áŋgiruššan/árja/viggamuš/rahčamuš/árjjalašvuohta	294	0	38	0
 
 nålehus	nállogoahte	nállogoahti	1	0	1	0
 
-grus	tjievrra	čievra	7	5	13	0
+@grus	tjievrra	čievra	7	5	13	0
 
 lys	tjuovgga	čuovga	158	554	110	24
 
-fjøs	buvrre	buvri	16	1	5	0
+fjøs	fiekse	buvri	16	1	5	0
 
-mandat	vállde	váldi	202	2	926	0
+mandat	mandáhtta	váldi	202	2	926	0
 
 mat	biebbmo	biebmu	483	698	284	31
 
@@ -909,9 +910,9 @@ serviceapparat	dievnastusapparáhtta	bálvalusapparáhta/bálvalusapparáhtta	0	
 
 direktorat	direktoráhtta	direktoráhtta	69	17	35	10
 
-resultat	skierres	boađus	249	0	379	0
+resultat	boados	boađus	249	0	379	0
 
-ugildhet	habilitiehtta	bealátkeahtesvuohta	4	0	4	0
+habilitet	habilitiehtta	bealátkeahtesvuohta	4	0	4	0
 
 trygghet	dårvvo	dorvu	60	87	44	2
 
@@ -923,13 +924,13 @@ mulighet	vejulasjvuohta	vejolašvuohta	777	62	803	36
 
 utdannelsesmulighet	åhpadusmáhttelisvuohta	oahppanvejolašvuohta	1	1	1	0
 
-tilhørighet	solidaritiehtta	oktiigullevašvuohta	97	0	13	0
+@tilhørighet	solidaritiehtta	oktiigullevašvuohta	97	0	13	0
 
-samhørighet	solidaritiehtta	oktiigullevašvuohta	12	0	13	0
+solidaritet	solidaritiehtta	oktiigullevašvuohta	12	0	13	0
 
-forsiktighet	várra	várra	5	53	476	4
+@forsiktighet	várra	várra	5	53	476	4
 
-rettighet	rievtesvuohta	riekti/vuođđoriekti	813	456	281	57
+rettighet	riektá	riekti/vuođđoriekti	813	456	281	57
 
 menneskerettighet	almasjrievtesvuohta	olmmošvuoigatvuohta	94	3	98	12
 
@@ -939,7 +940,7 @@ programvirksomhet	prográmmadoajmma	prográmmadoaibma	2	0	2	0
 
 øvingsvirksomhet	hárjjidallamdoajmma	hárjehallandoaibma	1	0	1	0
 
-kombinasjonsvirksomhet	kombinasjåvnnå	lotnolasdoaibma	3	12	3	0
+kombinasjonsvirksomhet	kombinasjåvnnådoajmma	lotnolasdoaibma	3	12	3	0
 
 bokbussvirksomhet	girjjebussadoajmma	girjebussedoaibma	1	0	1	0
 
@@ -955,17 +956,17 @@ identitet	identitiehtta	identitehta	290	0	209	0
 
 kraft	fábmo	fámolašvuohta	298	772	1	6
 
-bærende kraft	tsagge	čávgŋi	0	7	1	0
+@bærende kraft	tsagge	čávgŋi	0	7	1	0
 
 arbeidskraft	barggofábmo	bargofápmu	43	0	6	4
 
-avgift	vierro	divat	96	0	65	0
+@avgift	vierro	divat	96	0	65	0
 
-pensjonsavgift	ruhtadivut	penšuvdnadivat	1	0	0	0
+@pensjonsavgift	ruhtadivut	penšuvdnadivat	1	0	0	0
 
 småindustribedrift	smávvaindustriddjavidnudahka	smávvaindustriijafitnodat	1	0	1	0
 
-kombinasjonsdrift	kombinasjåvnnå	lotnolasdoaibma	12	12	3	0
+kombinasjonsdrift	kombinasjåvnnåvidnudahka	lotnolasdoaibma	12	12	3	0
 
 skrift	tjála	čála	38	147	34	7
 
@@ -975,7 +976,7 @@ tidsskrift	ájggetjála	áigečála	12	33	41	1
 
 luft	ájmmo	áibmu	39	81	74	0
 
-bit	bihttá	bihttá	19	4	143	0
+bit	biehkke	bihttá	19	4	143	0
 
 tillit	dårvvo	dorvu	62	87	44	2
 
@@ -983,13 +984,13 @@ jakt	bivddo	bivdu	204	86	386	7
 
 makt	fábmo	fápmu	46	772	295	32
 
-fullmakt	vállde	váldi	116	2	926	0
+@fullmakt	vállde	váldi	116	2	926	0
 
 minoritetsspråkspakt	unneplågogiellalihtto	unnitlogugiellasoahpamuš	1	0	1	0
 
-kontrakt	konvensjåvnnå	soahpamuš	40	198	144	2
+kontrakt	kontrákta	soahpamuš	40	198	144	2
 
-affekt	moarre	moarri	1	101	8	0
+@affekt	moarre	moarri	1	101	8	0
 
 bokprosjekt	girjjeprosjækta	girjeprošeakta	2	1	3	1
 
@@ -999,15 +1000,15 @@ slekt	fuolkke	fuolki	112	138	73	4
 
 respekt	respækta	gudnejahttin/áktejupmi/árvvusatnin/vuhtiiváldin/gudnevuollegašvuohta/gudnečájeheapmi/doahttaleapmi	103	0	6	0
 
-insekt	divrre	divri	8	8	18	0
+@insekt	divrre	divri	8	8	18	0
 
 undersøkelsesplikt	guoradallamvælggo	iskkadangeatnegasvuohta/iskangeatnegasvuohta/guorahallangeatnegasvuohta	1	0	1	0
 
 taushetsplikt	sjávodisvuohtavælggo	jávohisvuođageatnegasvuohta/jávohisvuođabággu/jávohisvuođageasku	27	0	4	0
 
-mulkt	sáhkko	sáhkku	7	13	39	0
+@mulkt	sáhkko	sáhkku	7	13	39	0
 
-tidspunkt	ájggemuddo	áigemuddu	106	0	3	0
+@tidspunkt	ájggemuddo	áigemuddu	106	0	3	0
 
 utgangspunkt	vuododille	vuođđodilli	398	0	1	0
 
@@ -1017,11 +1018,11 @@ lukt	hádja	hádja	5	9	19	0
 
 frykt	ballo	ballu	30	112	90	6
 
-helt	åvddågåvvå	sáŋgár	530	47	12	0
+helt	mihtok	sáŋgár	530	47	12	0
 
 representant	ájras	ovddasteaddji	842	271	216	32
 
-pasient	buohttse	buohcci	298	0	236	0
+pasient	pasiænnta	buohcci	298	0	236	0
 
 engasjement	berustibme	áŋgiruššan	127	233	119	4
 
@@ -1047,15 +1048,15 @@ hest	vuoján	vuoján	19	11	30	0
 
 gjest	guosse	guossi	21	204	193	4
 
-sokneprest	suohkanbáhppa	suohkanbáhppa	6	5	33	1
+@sokneprest	suohkanbáhppa	suohkanbáhppa	6	5	33	1
 
-hogst	murren	murren	10	0	13	0
+hogst	muorrim	murren	10	0	13	0
 
-vedhogst	murren	murren	2	0	13	0
+vedhogst	muorrim	murren	2	0	13	0
 
 vekst	sjaddo	šaddu	184	189	137	13
 
-blomst	rásse	rássi	7	59	49	2
+blomst	giedjek	rássi	7	59	49	2
 
 brunst	ragát	ragat	10	126	8	0
 
@@ -1063,9 +1064,9 @@ høst	tjaktja	čakča	265	302	460	22
 
 katt	gáhtto	gáhttu	1	195	4	1
 
-salmeskatt	sálmmaværro	sálbmašiella	1	0	1	0
+salmeskatt	sálmmadávver	sálbmašiella	1	0	1	0
 
-kulturskatt	kultuvrraværro	kulturárdna	1	0	1	0
+kulturskatt	kultuvrradávver	kulturárdna	1	0	1	0
 
 natt	idja	idja	48	318	167	4
 
@@ -1077,13 +1078,13 @@ uttalelsesrett	javllamusriektá	cealkinriekti	1	0	1	0
 
 medvirkningsrett	oassálasstemriektá	mielváikkuhanvuoigatvuohta	1	0	1	0
 
-styringsrett	stivrrariektá	stivrenvuoigatvuohta	2	0	1	0
+styringsrett	stivrrimriektá	stivrenvuoigatvuohta	2	0	1	0
 
 organisasjonsrett	organisasjåvnnåriektá	organiserenvuoigatvuohta	0	0	0	0
 
 byrett	stádariektá	gávpotriekti	1	0	1	0
 
-tegnsett	tjála	čállinmearkavuogádat/čálamearkačoahkki/mearkavuogádat/čállinmearkkat	20	147	2	0
+@tegnsett	tjála	čállinmearkavuogádat/čálamearkačoahkki/mearkavuogádat/čállinmearkkat	20	147	2	0
 
 gløtt	goavkke	goavki	2	0	1	0
 
@@ -1097,11 +1098,11 @@ furu	biehtse	beahci	14	174	44	0
 
 hav	áhpe	áhpi	184	56	52	2
 
-dyregrav	bivddorågge	bivdoroggi	1	6	5	2
+@dyregrav	bivddorågge	bivdoroggi	1	6	5	2
 
 stav	soabbe	soabbi	14	62	16	1
 
-småskoleelev	smáveskåvllåoahppe	smávvaskuvlaoahppi	1	0	1	0
+småskoleelev	smávskåvllåoahppe	smávvaskuvlaoahppi	1	0	1	0
 
 brev	girjje	breava	305	1661	9	6
 
@@ -1129,9 +1130,9 @@ barnehagelov	mánájgárddeláhka	mánáidgárdeláhka	19	3	11	3
 
 skarv	skárffa	skárfa	2	6	3	0
 
-meny	fállo	fállu	31	7	120	0
+@meny	fállo	fállu	31	7	120	0
 
-fartøy	vanntsa	skiipa	118	232	43	3
+båt	vanntsa	skiipa	118	232	43	3
 
 nivå	dásse	dássi	655	320	650	117
 
