@@ -1,8 +1,9 @@
+# + = good candidates
 
-bedra	biehttet	beahttit	1	106	28	2
++bedra	biehttet	beahttit	1	106	28	2
 bedra	biehttit	beahttit	1	0	28	0
 
-vedta	mierredit	mearridit	582	1180	1384	231
++vedta	mierredit	mearridit	582	1180	1384	231
 vedta	dåhkkidit	dohkkehit/mearridit	582	384	1090	77
 
 frita	tjoavddet	luvvet	18	157	37	0
@@ -10,10 +11,10 @@ frita	luojttet	luvvet	18	356	37	0
 
 anta	gáddet	navdit/einnostit	72	165	80	0
 anta	jáhkket	navdit/einnostit	72	1033	80	5
-anta	árvvedit	árvidit	72	212	52	1
++anta	árvvedit	árvidit	72	212	52	1
 anta	doajvvut	doaivut	72	0	211	0
 
-gjenta	gærdodit	hoahkat	15	11	8	0
++gjenta	gærddot	hoahkat	15	11	8	0
 gjenta	gierddut	hoahkat	15	0	8	0
 
 avta	gæhppánit	geahppánit	9	6	30	1
@@ -23,50 +24,50 @@ be	sihtat	sihtat	346	1948	72	13
 be	bivddet	dáhttut/rohkadallat/átnut	346	188	124	0
 be	hálijdit	dáhttut	346	119	311	0
 be	ájggut	dáhttut	346	0	311	0
-be	gåhttjut	gohččut	346	0	385	0
++be	gåhttjot	gohččut	346	0	385	0
 
-utvide	vijdedit	viiddidit	172	118	174	17
++utvide	vijdedit	viiddidit	172	118	174	17
 utvide	buoredit	buoredit	172	311	6	0
-utvide	stuoredit	stuoridit	172	35	67	7
++utvide	stuoredit	stuoridit	172	35	67	7
 utvide	vijddánit	viidánit	172	11	15	0
 
-gjelde	guosskat	guoskat	1413	517	665	103
++gjelde	guosskat	guoskat	1413	517	665	103
 gjelde	gullu	gáldet	1413	494	6	0
 
 melde	almmadit	albmadit	236	0	5	0
-melde	diededit	dieđihit	236	531	556	31
++melde	diededit	dieđihit	236	531	556	31
 
 holde	dåladit	doalahit	441	0	276	0
 holde	gåtsadit	hehttet	441	2	117	0
-holde	ásadit	hehttet/dollet	441	1097	129	6
++arrangere	ásadit	hehttet/dollet	441	1097	129	6
 
 opprettholde	dåladit	doalahit	271	0	276	0
-opprettholde	bisodit	seailluhit	271	403	149	46
++opprettholde	bisodit	seailluhit	271	403	149	46
 
-binde	tjadnat	čatnat	69	484	228	28
++binde	tjadnat	čatnat	69	484	228	28
 binde	gåddet	gođđit	69	218	29	0
 
 anmode	bivddet	bivdit	37	188	738	6
-anmode	ávttjit	ávžžuhit	37	51	300	7
++anmode	gåhttjot	ávžžuhit	37	51	300	7
 
-myrde	gåddet	sorbmet	1	218	7	0
++myrde	gåddet	sorbmet	1	218	7	0
 myrde	gåddålit	sorbmet	1	14	7	0
 
-treffe	dejvadit	deaivvadit	116	14	393	1
++treffe	iejvvit	deaivvadit	116	14	393	1
 treffe	vuojnnalit	deaivat/deaivvadit	116	10	397	0
 
-beklage	njimmurit	šállošit/váidalit	26	2	72	0
++beklage	vájvahit	šállošit/váidalit	26	2	72	0
 beklage	nimmurit	nimmorit	26	0	4	0
 
 anklage	vájddet	sivahallat	2	16	38	0
 anklage	ássjáskuhttet	sivahallat	2	0	38	0
-anklage	guoddalit	guoddalit	2	91	57	2
++anklage	guoddalit	guoddalit	2	91	57	2
 
 ødelegge	vahágahttet	billistit/biđget	40	72	55	1
-ødelegge	biledit	bilidit	40	7	62	0
++ødelegge	bæjsstet	bilidit	40	7	62	0
 
 ligge	livvadit	livvadit	441	6	3	0
-ligge	vællánit	veallánit	441	0	3	0
++ligge	vellahit	veallánit	441	0	3	0
 
 hogge	tjuollat	čuollat	8	140	29	1
 hogge	tsábbmet	meaidit	8	89	1	0
@@ -87,40 +88,40 @@ bringe	buktet	buktit	88	1110	711	21
 bringe	doalvvut	doalvut	88	1	192	0
 
 påpeke	vuosedit	čujuhit	151	1076	484	14
-påpeke	dættodit	cuiggodit/cuiget/cuoigut/čujuhit	151	250	166	6
++påpeke	tsuojggit	cuiggodit/cuiget/cuoigut/čujuhit	151	250	166	6
 
 snakke	hállat	hállat	325	0	282	0
-snakke	ságastit	hoallat/humadit/humahallat/ságastit/hupmat	325	1190	119	145
++snakke	sáhkadit	hoallat/humadit/humahallat/ságastit/hupmat	325	1190	119	145
 snakke	suomastit	suomastit	325	13	173	1
 snakke	dárustit	dárustit	325	68	9	0
 snakke	sámástit	sámástit	325	361	85	27
 snakke	sárnnut	sárdnut	325	1	62	0
 
-takke	gijttet	giitit	52	239	115	52
++takke	gijttet	giitit	52	239	115	52
 takke	gijttalit	giitalit	52	1	6	0
 
-trekke	giesset	rohttet/rávdat/gessot/jiellat	246	434	17	3
++trekke	giesset	rohttet/rávdat/gessot/jiellat	246	434	17	3
 trekke	vuorbbádit	vuorbádit	246	52	43	22
 trekke	gæssádit	geassádit	246	11	63	0
 
 kikke	guovladit	guovlladit	2	17	6	0
-kikke	guovllalit	guovlalit	2	0	6	0
++kikke	guovllat	guovlalit	2	0	6	0
 
 klikke	bávkedit	coahkkalit	11	0	5	0
-klikke	dieddelit	deaddilit	11	8	58	0
++klikke	dieddelit	deaddilit	11	8	58	0
 
-trykke	dieddet	deattašit/prentet	20	27	16	0
++trykke	dieddet	deattašit/prentet	20	27	16	0
 trykke	dieddelit	deaddilit	20	8	58	0
 
-uttrykke	javllat	ovdanbuktit/hupmat	199	4291	217	5
++uttrykke	javllat	ovdanbuktit/hupmat	199	4291	217	5
 uttrykke	buvtadit	ovdanbuktit	199	118	167	1
 uttrykke	báhkkudit	báhkkodit	199	0	11	0
 uttrykke	dåbdådit	ovdanbuktit/hupmat	199	2	217	0
 
-banke	tsábbmet	huškut/dearpat/čoalkalit/čoalkit	29	89	8	0
++banke	tsábbmet	huškut/dearpat/čoalkalit/čoalkit	29	89	8	0
 banke	goalkkalit	goalkalit	29	16	1	0
 
-innskrenke	gártjedit	gáržžidit	22	17	108	2
++innskrenke	gártjedit	gáržžidit	22	17	108	2
 innskrenke	gárttjut	gáržut	22	0	8	0
 
 tenke	ájádallat	jurdilit/smiehttat/smiehtadit	149	384	63	14
@@ -129,49 +130,49 @@ tenke	usjudit	jurdilit/smiehttat/smiehtadit	149	255	63	12
 sparke	tjiektjat	čiekčat	5	99	419	1
 sparke	tjievtjastit	čievččastit	5	6	15	1
 
-merke	vuohttet	merket/vávjit/merkot/fuopmášit/dárkot/fuomášit/mearkut	194	26	64	0
++merke	merkahit	merket/vávjit/merkot/fuopmášit/dárkot/fuomášit/mearkut	194	26	64	0
 merke	gávnadit	fuomášit	194	207	211	0
 
-forsterke	nanusmahttet	nanosmahttit	43	3	18	0
++forsterke	nannit	nanosmahttit	43	3	18	0
 forsterke	gievrrodit	gievrudit	43	69	8	0
 
-påvirke	bájnnet	čuohcat/čuohcit	188	161	123	9
++påvirke	bájnnet	čuohcat/čuohcit	188	161	123	9
 påvirke	håladit	čuohcat/čuohcit	188	1	123	0
-påvirke	vájkudit	váikkuhit	188	61	797	7
++påvirke	vájkudit	váikkuhit	188	61	797	7
 
-orke	vissjat	viššat	4	119	50	1
++orke	vissjat	viššat	4	119	50	1
 orke	nagádit	veadjit	4	30	81	1
 
 dyrke	gilvvet	gilvit	32	2	141	0
-dyrke	sjaddadit	šaddadit	32	309	304	24
++dyrke	sjaddadit	šaddadit	32	309	304	24
 
 tørke	gåjkkådit	goikadit	14	30	18	9
 tørke	sihkastit	sihkastit	14	12	13	0
 tørke	sihkkut	sihkkut	14	0	68	0
 
 ønske	sihtat	sihtat	688	1948	72	111
-ønske	sávvat	sávvat	688	255	411	36
++ønske	sávvat	sávvat	688	255	411	36
 ønske	hálijdit	dáhttut	688	119	311	13
 ønske	ájggut	dáhttut	688	0	311	0
 
-beherske	máhttet	máhttit	60	4857	620	46
++beherske	máhttet	máhttit	60	4857	620	46
 beherske	háldatjit	hálddašit	60	0	886	0
 
-bruke	adnet	ávkkástallat/lávet	2028	3245	214	306
++bruke	adnet	ávkkástallat/lávet	2028	3245	214	306
 bruke	gålådit	golahit	2028	13	49	2
 
-stryke	njávkkat	njávkat	72	29	8	7
++stryke	njávkkat	njávkat	72	29	8	7
 stryke	njávkadit	njávkkadit	72	7	5	0
 stryke	sihkkut	sihkkut	72	0	68	0
 
 røyke	bårgodit	borgguhit	9	0	37	0
-røyke	suovastit	suovastit	9	71	8	0
++røyke	suovastit	suovastit	9	71	8	0
 
 søke	åhtsålit	ohcalit	523	67	63	2
-søke	åhtsåt	ohcat	523	1946	1372	129
++søke	åhtsåt	ohcat	523	1946	1372	129
 
 forsøke	vikkadit	vikkahit	91	3	18	0
-forsøke	gæhttjalit	iskkadit/viggat	91	849	134	13
++forsøke	gæhttjalit	iskkadit/viggat	91	849	134	13
 
 anbefale	ævtodit	rávvet	90	48	79	0
 anbefale	ávttjit	rávvet	90	51	79	0
@@ -179,10 +180,10 @@ anbefale	ávttjit	rávvet	90	51	79	0
 male	bådnet	ferdnet/málet/verdnet	12	14	17	0
 male	sihkastit	sihkastit	12	12	13	0
 
-tale	sárnnedit	sárdnidit	290	386	47	4
++tale	hållat	sárdnidit	290	386	47	4
 tale	sárnnut	sárdnut	290	1	62	0
 
-betale	mákset	bálkáhit/lotnut	168	461	105	8
++betale	mákset	bálkáhit/lotnut	168	461	105	8
 betale	bálkkit	bálkáhit	168	39	49	0
 
 omtale	javllat	ságaškuššat/válddahallat/máinnašit	159	4291	38	1
@@ -192,110 +193,110 @@ omtale	mujttalit	muitalit	159	19	1997	0
 omtale	subtsastit	ságaškuššat/válddahallat/máinnašit	159	1033	38	2
 
 avtale	sjiehttat	šiehttat	574	166	114	25
-avtale	sjiehtadit	šiehtadit	574	167	99	24
++avtale	sjiehtadit	šiehtadit	574	167	99	24
 
-dele	juohket	juohkit	1075	483	451	66
++dele	juohket	juohkit	1075	483	451	66
 dele	juogadit	juogadit	1075	165	162	36
 
 tildele	juohket	juohkit	286	483	451	45
-tildele	juogadit	juogadit	286	165	162	21
-tildele	juollodit	juolludit	286	284	517	51
++tildele	juogadit	juogadit	286	165	162	21
++tildele	juollodit	juolludit	286	284	517	51
 
 dvele	ájádallat	smiehtadit	1	384	17	0
 dvele	usjudit	smiehtadit	1	255	17	0
 
 kvele	hávkkadit	hávkadit	3	11	7	1
-kvele	buvedit	buvihit	3	0	2	0
++kvele	buvvet	buvihit	3	0	2	0
 
-kle	nuoladit	nuoladit	43	26	5	4
-kle	gárvodit	gárvodit	43	68	37	2
+kle av seg	nuoladit	nuoladit	43	26	5	4
+kle	på seg	gárvodit	gárvodit	43	68	37	2
 
-utvikle	åvddånahttet	gárget/gárgedit/gárggiidit	1779	1244	27	225
++utvikle	åvddånahttet	gárget/gárgedit/gárggiidit	1779	1244	27	225
 utvikle	åvdedit	ovddidit	1779	782	1564	84
-utvikle	åvddånit	ovdánit	1779	623	821	136
++utvikle	åvddånit	ovdánit	1779	623	821	136
 
 skille	tjuolldet	rátkkašit/sirret/erohallat/earuhit/rátkit/spiehkkasit/botket	131	135	30	1
 skille	sierranit	sierranit	131	6	7	0
 skille	ærránit	earránit	131	18	31	1
 
-skylle	dåjddet	doidit	2	31	5	0
++skylle	dåjddet	doidit	2	31	5	0
 skylle	dåjddelit	doidilit	2	2	1	0
 
-gjemme	tjiehkat	čiehkat	4	79	66	3
++gjemme	tjiehkat	čiehkat	4	79	66	3
 gjemme	tjiegadit	čiegadit	4	34	33	0
 gjemme	tjiehkádit	čiehkádit	4	24	11	1
 
 glemme	vajáldahttet	vajáldahttit	19	4	27	0
-glemme	vajálduhttet	vajálduhttit	19	98	50	10
++glemme	vajálduhttet	vajálduhttit	19	98	50	10
 
 fremme	buvtadit	ovdanbuktit	790	118	167	1
-fremme	åvdedit	ovddidit	790	782	1564	117
++fremme	åvdedit	ovddidit	790	782	1564	117
 
-skremme	balldet	surgehit/suorggahit/balddáhallat/gavdnjet	11	24	9	0
++skremme	balldet	surgehit/suorggahit/balddáhallat/gavdnjet	11	24	9	0
 skremme	balldalit	baldalit	11	3	3	0
 
 komme	sjaddat	šaddat	1467	2600	2202	158
 komme	ållet	máhccat/ilbmat/joavdat	1467	1336	93	10
-komme	boahtet	máhccat/ilbmat/joavdat	1467	4105	93	118
++komme	boahtet	máhccat/ilbmat/joavdat	1467	4105	93	118
 komme	soajttet	máhccat/ilbmat/joavdat	1467	355	93	5
 
 ordne	rádjat	rádjat	120	688	64	0
-ordne	ásadit	ordnet/stellet	120	1097	70	1
++ordne	ásadit	ordnet/stellet	120	1097	70	1
 ordne	lágedit	lágidit	120	20	889	0
 
-finne	gávnnat	gávdnat	916	2091	1360	264
++finne	gávnnat	gávdnat	916	2091	1360	264
 finne	dádjadit	dádjadit	916	889	13	1
 finne	gávnadit	gávnnahit	916	207	231	3
 
-skinne	tjuovggat	čuovgat	16	372	106	6
++skinne	guojddet	čuovgat	16	372	106	6
 skinne	bájtatjit	báittašit	16	0	1	0
 
-skjønne	dádjadit	ipmirdit/áddet/árvidit	49	889	231	48
++skjønne	dádjadit	ipmirdit/áddet/árvidit	49	889	231	48
 skjønne	árvvedit	árvidit	49	212	52	0
 
-åpne	rahpat	rahpat	222	433	596	76
++åpne	rahpat	rahpat	222	433	596	76
 åpne	rahpasit	rahpasit	222	33	53	5
 åpne	tsakkastit	leahkastit	222	11	3	0
 åpne	rabástit	rabastit	222	179	186	35
 åpne	liehkkut	leahkkut	222	0	7	0
 
 verne	ráfájduhttet	ráfáidahttit	196	34	23	6
-verne	suodjalit	suodjalit	196	270	287	48
++verne	suodjalit	suodjalit	196	270	287	48
 
-løsne	luovvanit	luovvanit	71	13	12	0
++løsne	luovvit	luovvanit	71	13	12	0
 løsne	tjoavddásit	čoavdásit	71	1	7	0
 
-låne	luojkkat	luoikat	71	94	58	4
++låne	luojkkat	luoikat	71	94	58	4
 låne	luojkadit	luoikkahit	71	23	28	0
 
 skape	dahkat	dahkat	435	4217	2182	308
 skape	sjivnnjedit	duddjot/bohciidahttit/hutkat/hábmet	435	134	109	10
 skape	buvtedit	buvttihit	435	1	13	0
 
-kjempe	rahtjat	rahčat	23	204	123	6
++kjempe	rahtjat	rahčat	23	204	123	6
 kjempe	tjuoladit	čuolahit	23	22	1	0
 kjempe	doarrut	doarrut	23	4	68	0
 
 klippe	vadjat	vadjat	5	7	5	0
 klippe	tjuohppat	čuohppat	5	78	78	0
-klippe	biesskedit	beaskidit	5	24	3	0
++klippe	biesskedit	beaskidit	5	24	3	0
 
 slippe	biesstet	biestit	53	47	35	1
-slippe	luojttet	biestit/luoitit	53	356	76	5
++slippe	bessat	biestit/luoitit	53	356	76	5
 
-krype	tjágŋat	čákŋat	3	136	13	0
++krype	biehket	čákŋat	3	136	13	0
 krype	guokkardit	guokkardit	3	5	2	0
 
 håpe	sávvat	sávvat	63	255	411	13
-håpe	doajvvut	doaivut	63	0	211	0
++håpe	doajvvut	doaivut	63	0	211	0
 
-kjøpe	oasstet	oastit	166	368	520	40
++kjøpe	oasstet	oastit	166	368	520	40
 kjøpe	oastedit	oasttihit	166	0	1	0
 
-løpe	viehkat	viehkat	64	564	99	1
++løpe	viehkat	viehkat	64	564	99	1
 løpe	viegadit	viegahit	64	17	5	0
 
-bevare	bisodit	seailudit/seailluhit/gáhttet/seailut	291	403	111	136
++bevare	bisodit	seailudit/seailluhit/gáhttet/seailut	291	403	111	136
 bevare	suodjalit	suodjalit	291	270	287	32
 
 forsvare	gádjalit	gádjalit	34	0	1	0
@@ -304,105 +305,105 @@ forsvare	bælostit	bealuštit	34	65	73	5
 
 forandre	muhttet	muktit	28	316	2	0
 forandre	nuppástuhttet	muktit	28	1	2	0
-forandre	rievdadit	muktit	28	25	2	0
++forandre	rievddat	muktit	28	25	2	0
 
 endre	nuppástuhttet	muktit/nuppástuvvat/rievdat/earáhuhttit/earáhuvvat	634	1	75	1
-endre	rievdadit	muktit/nuppástuvvat/rievdat/earáhuhttit/earáhuvvat	634	25	75	3
++endre	rievddat	muktit/nuppástuvvat/rievdat/earáhuhttit/earáhuvvat	634	25	75	3
 
-hindre	tsaggat	caggat	113	42	59	0
++hindre	hieredit	caggat	113	42	59	0
 hindre	iesstadit	hehttet/heađuštit	113	0	72	0
 
-forhindre	tsaggat	caggat	34	42	59	0
++forhindre	hieredit	caggat	34	42	59	0
 forhindre	gåtsadit	hehttet	34	2	117	0
 forhindre	maŋŋunit	ájihit	34	13	9	0
 
-oppfordre	hásstet	hástit	80	13	11	1
++oppfordre	hásstet	hástit	80	13	11	1
 oppfordre	hástodit	hásttuhit	80	0	10	0
 oppfordre	ávttjit	ávžžuhit	80	51	300	8
 
-utfordre	hásstet	hástit	121	13	11	0
++utfordre	hasodit	hástit	121	13	11	0
 utfordre	hástodit	hásttuhit	121	0	10	0
 utfordre	ávttjit	ávžžuhit	121	51	300	5
 utfordre	hásstalit	hástalit	121	159	134	29
 
-vurdere	árvustallat	veardidit	857	783	73	72
++vurdere	árvustallat	veardidit	857	783	73	72
 vurdere	buohtastahttet	veardidit	857	320	73	10
 
 markere	vuosedit	čujuhit	83	1076	484	15
 markere	ávvudit	ávvudit	83	282	272	36
 
-etablere	ásadit	cegget	821	1097	202	44
++etablere	ásadit	cegget	821	1097	202	44
 etablere	vuododit	cegget	821	256	202	1
 
 informere	guládit	gulahit	86	495	293	42
 informere	mujttalit	muitalit	86	19	1997	0
-informere	subtsastit	muitalit	86	1033	1997	22
++informere	subtsastit	muitalit	86	1033	1997	22
 
-referere	referierit	refereret	26	6	8	5
++referere	referierit	refereret	26	6	8	5
 referere	sitierit	bájuhit/refereret	26	1	8	0
 
-inspirere	arvusmahttet	movttiidahttit	17	151	154	23
++inspirere	arvusmahttet	movttiidahttit	17	151	154	23
 inspirere	oajvvadit	oaivadit	17	384	17	0
 
 registrere	ájttsat	áicat	316	242	38	1
 registrere	tjáledit	čálihit	316	531	67	11
 
-publisere	almodit	publiseret/almmuhit	212	353	302	27
++publisere	almodit	publiseret/almmuhit	212	353	302	27
 publisere	publisierit	publiseret	212	0	2	0
 
 kritisere	árvustallat	vávjit/cuiggodit	8	783	48	0
 kritisere	moajttet	vávjit/cuiggodit	8	8	48	0
-kritisere	lájttet	vávjit/cuiggodit	8	56	48	0
++kritisere	lájttet	vávjit/cuiggodit	8	56	48	0
 
 redusere	njiejddet	uhccudit	353	1	1	0
 redusere	siesstet	uhccudit	353	30	1	0
 redusere	gártjedit	gáržžidit	353	17	108	1
 redusere	vuoledit	vuolidit	353	43	76	1
 redusere	oanedit	oanidit	353	26	22	0
-redusere	unnedit	unnidit	353	70	346	9
++redusere	unnedit	unnidit	353	70	346	9
 redusere	giehpedit	geahpedit/geahpidit	353	85	70	21
 redusere	uhtsedit	uhcidit	353	2	32	0
 redusere	binnodit	uhccudit	353	1	1	0
 redusere	unnut	unnut	353	0	59	0
 
-oppdatere	ådåsmahttet	áigeguovdilastit/áigádit/dievasmahttit	74	24	7	1
++oppdatere	ådåsmahttet	áigeguovdilastit/áigádit/dievasmahttit	74	24	7	1
 oppdatere	ållidit	dievasmahttit	74	283	17	0
 oppdatere	ådåstit	ođastit	74	66	101	2
 
-orientere	diededit	dieđihit	96	531	556	30
++orientere	diededit	dieđihit	96	531	556	30
 orientere	orientierit	orienteret	96	0	3	0
 
 montere	dahppat	giddet	8	47	116	4
 montere	dabrridit	giddet	8	0	116	0
 montere	dabrrit	giddet	8	4	116	0
 
-akseptere	dåhkkidit	dohkkehit/aksepteret	94	384	398	74
++akseptere	dåhkkidit	dohkkehit/aksepteret	94	384	398	74
 akseptere	akseptierit	aksepteret	94	0	1	0
 
-justere	justierit	justeret	35	0	2	0
++justere	justierit	justeret	35	0	2	0
 justere	divostit	muddet/dárkilastit	35	0	49	0
 justere	divvut	divvut	35	0	205	0
 
-instruere	bagádit	bagadit	12	218	106	11
++instruere	bagádit	bagadit	12	218	106	11
 instruere	instruierit	instrueret	12	0	2	0
 
 sikre	tjårggit	váfistit/dáhkidit	1420	31	47	4
 sikre	suodjalit	suodjalit	1420	270	287	28
-sikre	nannit	nannet	1420	930	755	190
++sikre	nannit	nannet	1420	930	755	190
 
-klore	ruohkkat	ruohkkat	1	8	3	0
++klore	ruohkkat	ruohkkat	1	8	3	0
 klore	gattsastit	gaccastit	1	0	1	0
 klore	gadtsut	gazzut	1	0	4	0
 
 spre	juohket	lávdat/háddjet/leavvat/biđget	42	483	25	2
 spre	gilvvet	lávdat/háddjet/leavvat/biđget	42	2	25	0
-spre	háddjit	háddjet	42	2	11	0
++spre	hádjet	háddjet	42	2	11	0
 
 spørre	gahtjat	gahčat	78	787	33	11
-spørre	gatjádit	gažadit	78	813	26	11
++spørre	gatjádit	gažadit	78	813	26	11
 spørre	jæskádit	gulaskuddat	78	2	197	0
 
-oppmuntre	arvusmahttet	movttiidahttit	25	151	154	14
++oppmuntre	arvusmahttet	movttiidahttit	25	151	154	14
 oppmuntre	alodit	giktalit/movttiidahttit	25	63	81	0
 
 fyre	tsahkkidit	ligget	8	26	32	0
@@ -413,39 +414,39 @@ erklære	guládit	gulahit	38	495	293	42
 
 gjennomføre	dievddet	ollašuhttit	830	182	186	4
 gjennomføre	ållidit	ollašuhttit	830	283	186	8
-gjennomføre	tjadádit	čađahit	830	777	779	139
++gjennomføre	tjadádit	čađahit	830	777	779	139
 
 utføre	doajmmat	doaibmat	138	1226	1272	93
-utføre	dåjmadit	doaimmahit/doaibmat	138	278	872	13
++utføre	dåjmadit	doaimmahit/doaibmat	138	278	872	13
 
-høre	gullat	gullat	355	2605	1598	163
++høre	gullat	gullat	355	2605	1598	163
 høre	gulldalit	guldalit	355	592	181	40
 høre	gullustit	gullostit	355	0	10	0
 høre	gulástit	gulastit	355	2	4	0
 høre	gullát	gullát	355	166	234	6
 
 gjøre	barggat	bargat	1428	2744	3141	186
-gjøre	dahkat	dahkat	1428	4217	2182	391
++gjøre	dahkat	dahkat	1428	4217	2182	391
 
-kunngjøre	diededit	dieđihit	41	531	556	28
-kunngjøre	almodit	almmuhit	41	353	602	23
++kunngjøre	diededit	dieđihit	41	531	556	28
++kunngjøre	almodit	almmuhit	41	353	602	23
 kunngjøre	guládit	gulahit	41	495	293	42
 
-smøre	vuojddat	vuoidat	6	53	20	5
++smøre	vuojddat	vuoidat	6	53	20	5
 smøre	njuvddet	njuvdit	6	3	3	0
 
-berøre	guosskat	guoskat	239	517	665	77
++berøre	guosskat	guoskat	239	517	665	77
 berøre	guoskadit	guoskkahit	239	54	54	6
 
-se	gæhttjat	gaivát	2730	2123	3	49
++se	gæhttjat	gaivát	2730	2123	3	49
 se	guovllat	guovlat	2730	294	389	16
 se	vuojnnet	gaivát	2730	2353	3	81
 se	gehtjadit	gaivát	2730	231	3	11
 
 lese	lågådit	logadit/logahit	370	194	31	0
-lese	låhkåt	lohkat	370	1847	3101	192
++lese	låhkåt	lohkat	370	1847	3101	192
 
-reise	mannat	mannat	415	1851	1627	59
++reise	mannat	mannat	415	1851	1627	59
 reise	vuolgget	mátkkoštit	415	690	133	3
 reise	jåhtet	mátkkoštit	415	646	133	0
 reise	tjuottjáldahttet	mátkkoštit	415	0	133	0
@@ -453,83 +454,83 @@ reise	tjuottjadit	čuoččahit	415	56	5	0
 reise	jåhtålit	mátkkoštit	415	20	133	0
 
 spise	bårådit	boradit	40	29	78	0
-spise	bårråt	borrat	40	872	384	29
++spise	bårråt	borrat	40	872	384	29
 
 avvise	gåmedit	biehttalit	38	2	107	0
 avvise	hilggut	hilgut	38	0	141	0
 
-vokse	sjaddat	šaddat	82	2600	2202	150
++vokse	sjaddat	šaddat	82	2600	2202	150
 vokse	stuoredit	stuorrut	82	35	67	1
 vokse	lasedit	stuorrut	82	403	67	0
 vokse	vijddut	viidut	82	0	10	0
 
-bremse	gåtsadit	goazahit	10	2	5	0
++bremse	gåhtsat	goazahit	10	2	5	0
 bremse	gåtsastit	goazastit	10	0	4	0
 
-stanse	bisijdit	bissehit/dollet	25	1	160	0
++stanse	ganugit	bissehit/dollet	25	1	160	0
 stanse	årostit	bissehit/dollet	25	0	160	0
 
 begrense	gártjedit	gáržžidit	159	17	108	3
-begrense	ráddjit	ráddjet	159	52	133	21
++begrense	ráddjit	ráddjet	159	52	133	21
 
-opplyse	almodit	čuvget	57	353	67	0
++opplyse	almodit	čuvget	57	353	67	0
 opplyse	subtsastit	čuvget	57	1033	67	1
 
 blåse	bieggat	bieggat	4	69	16	1
 blåse	biekkadit	biekkadit	4	0	6	0
 blåse	båsådit	bosádit	4	0	5	0
 blåse	biekkastit	biekkastit	4	19	4	1
-blåse	båssut	bossut	4	0	23	0
++blåse	båssot	bossut	4	0	23	0
 
-tillate	suovvat	suovvat	60	70	44	0
++tillate	dibddet	suovvat	60	70	44	0
 tillate	diktet	diktit	60	114	133	0
 tillate	diktit	diktit	60	7	133	0
 
 bekrefte	tjårggit	dáhkidit	81	31	72	0
 bekrefte	nannit	nannet	81	930	755	148
-bekrefte	duodastit	dáhkidit	81	314	72	5
++bekrefte	duodastit	dáhkidit	81	314	72	5
 
 skifte	lånodit	lotnahuvvat/lonohallat	40	1	18	0
 skifte	målsudit	molssodit	40	73	4	0
-skifte	målssut	molsut	40	0	67	0
++skifte	målssot	molsut	40	0	67	0
 
 løfte	låktet	lovttohallat/bajidit/loktestit	79	1	35	0
 løfte	bajedit	bajidit	79	187	100	0
 løfte	stuoredit	bajidit	79	35	100	0
 løfte	lasedit	bajidit	79	403	100	0
 
-slite	rahtjat	rahčat	24	204	123	5
++slite	rahtjat	rahčat	24	204	123	5
 slite	vuolgget	ravget	24	690	5	0
 slite	vájbbadit	váibadit	24	3	11	1
 slite	gajkedit	gaikkehit	24	10	6	0
 slite	ravggut	ravgut	24	0	1	0
 slite	gajkkut	gaikut	24	8	48	0
 
-slakte	njuovvat	njuovvat	62	76	227	12
++slakte	njuovvat	njuovvat	62	76	227	12
 slakte	njuovadit	njuovadit	62	14	7	0
 
 frakte	vuodjet	vuojihit	23	242	12	0
 frakte	giesedit	geasehit	23	18	27	0
 frakte	fievrridit	vuojihit	23	0	12	0
 
-frykte	ballat	ballat	29	244	307	5
++frykte	ballat	ballat	29	244	307	5
 frykte	baládit	baladit	29	0	6	0
 
-hente	viedtjat	viežžat	83	320	251	22
++hente	viedtjat	viežžat	83	320	251	22
 hente	viedtjalit	viežžalit	83	7	7	0
 
 innhente	viedtjat	viežžat	61	320	251	12
 innhente	tjoahkkit	joksat/viežžat/čohkket	61	285	198	16
-innhente	jåksåt	joksat	61	440	53	5
++innhente	jåksåt	joksat	61	440	53	5
 
-vente	vuorddet	vuordit	72	423	582	46
++vente	vuorddet	vuordit	72	423	582	46
 vente	vievddet	veavdit	72	0	1	0
 vente	vuordatjit	vuorddašit	72	32	25	3
 
-starte	álgget	álgit	271	670	774	54
++starte	álgget	álgit	271	670	774	54
 starte	álgadit	álggahit	271	401	841	31
 
-miste	láhppet	láhppit	74	84	69	7
++miste	láhppet	láhppit	74	84	69	7
 miste	masset	massit	74	93	215	8
 miste	biesstet	biestit	74	47	35	0
 miste	besadit	beasahit	74	1	74	0
@@ -537,54 +538,54 @@ miste	ribádit	ribahit	74	2	36	0
 miste	manádit	manahit	74	105	42	0
 
 brette	máhtsastit	máhcastit	2	1	2	0
-brette	máhttsut	máhccut	2	0	3	0
++brette	máhttset	máhccut	2	0	3	0
 
 opprette	álgadit	álggahit	323	401	841	25
-opprette	ásadit	cegget	323	1097	202	26
++opprette	ásadit	cegget	323	1097	202	26
 opprette	vuododit	cegget	323	256	202	1
 
-sette	biedjat	bidjat	1022	1502	1398	94
++sette	biedjat	bidjat	1022	1502	1398	94
 sette	bårddet	bordit	1022	7	10	0
 sette	gilvvet	gilvit	1022	2	141	0
 sette	biedjalit	bidjalit	1022	3	11	0
 
 oversette	jårggålahttet	jorgalahttit	97	0	23	0
-oversette	jårggålit	jorgalit	97	494	259	59
++oversette	jårggålit	jorgalit	97	494	259	59
 
-fortsette	joarkket	bissut/joatkit	529	385	359	37
++fortsette	joarkket	bissut/joatkit	529	385	359	37
 fortsette	bissut	bissut	529	7	244	0
 
 slutte	luohpat	luohpat	150	4	35	0
-slutte	hiejttet	heaitit	150	396	370	24
++slutte	hiejttet	heaitit	150	396	370	24
 slutte	guorrasit	guorrasit	150	180	32	7
 
-avslutte	låhpadit	loahpahit/heaittihit	160	79	256	11
++avslutte	låhpadit	loahpahit/heaittihit	160	79	256	11
 avslutte	hiejtedit	heaittihit	160	73	247	8
 
 putte	tsåggålit	coggalit	2	9	16	0
-putte	tsåggåt	coggat	2	87	64	3
++putte	tsåggåt	coggat	2	87	64	3
 
 bytte	lånodit	lonohallat	34	1	35	0
-bytte	målssut	molsut	34	0	67	0
++bytte	målssut	molsut	34	0	67	0
 
-beskytte	suodjalit	suodjalit	65	270	287	28
-beskytte	várjjalit	várjalit	65	120	41	12
++beskytte	suodjalit	suodjalit	65	270	287	28
++beskytte	várjjalit	várjalit	65	120	41	12
 
 støtte	doarjjalit	doarjalit	1449	0	6	0
 støtte	doarjjut	doarjut	1449	1	461	0
 
 nyte	vásedit	muosáhit/návddašit	23	138	59	0
-nyte	návdatjit	návddašit	23	0	90	0
++nyte	návddahit	návddašit	23	0	90	0
 
 bryte	gággat	gággat	35	9	5	0
-bryte	doadjet	boatkanit/rihkkut/heaibut/botket	35	135	55	16
++bryte	doadjet	boatkanit/rihkkut/heaibut/botket	35	135	55	16
 bryte	fággádit	fággádit	35	13	3	0
 
 bøte	duoggŋat	duogŋat	15	4	4	0
 bøte	tjiktet	čivttašit/čivttadit	15	4	1	0
 
 intervjue	gatjádit	gažadit	32	813	26	0
-intervjue	jæskádit	jearahallat	32	2	103	0
++intervjue	ságájdahttet	jearahallat	32	2	103	0
 
 true	nihttet	vuohkadit/uhkidit	50	20	11	4
 true	ájttet	vuohkadit/uhkidit	50	155	11	30
@@ -601,67 +602,67 @@ heve	lånodit	bajidit	45	1	100	0
 oppheve	gåmedit	gomihit	39	2	13	0
 oppheve	hiejtedit	heaittihit	39	73	247	6
 
-drive	vuodjet	golgat/rievdat/ádjit/vuojehit/jođálmahttit	370	242	73	2
++drive	vuodjet	golgat/rievdat/ádjit/vuojehit/jođálmahttit	370	242	73	2
 drive	dåjmadit	golgat/rievdat/ádjit/vuojehit/jođálmahttit	370	278	73	6
 drive	jådedit	jođihit	370	365	999	34
 drive	vuojedit	vuojehit	370	14	43	2
 drive	vuodjelit	vuodjelit	370	62	2	0
 drive	gålggåt	golgat	370	127	44	10
 
-skrive	tjállet	čálihit/čállit/čálašit	359	2503	501	181
++skrive	tjállet	čálihit/čállit/čálašit	359	2503	501	181
 skrive	tjáledit	čálihit	359	531	67	18
 skrive	tjálatjit	čálašit	359	14	8	0
 
 skjelve	slibárdit	livzzistit/darrat	1	0	1	0
 skjelve	doargestit	doarggistit	1	23	11	0
 
-skyve	duvddet	duvdit	11	19	44	1
++skyve	dæssalit	duvdit	11	19	44	1
 skyve	håjggådit	hoigadit	11	26	14	0
 skyve	duvddelit	duvdilit	11	0	10	0
 skyve	dådjålit	dodjalit	11	4	2	0
 skyve	håjggåt	hoigat	11	26	11	0
 
-fornye	ådåsmahttet	ođastit/ođasmahttit	47	24	135	1
++fornye	ådåsmahttet	ođastit/ođasmahttit	47	24	135	1
 fornye	ådåstit	ođastit	47	66	101	3
 
-uttrykke sin misnøye	njimmurit	nimmorit	0	2	4	0
++uttrykke sin misnøye	njimmurit	nimmorit	0	2	4	0
 uttrykke sin misnøye	nimmurit	nimmorit	0	0	4	0
 
-gi	vaddet	skeŋket	2678	2297	28	161
++gi	vaddet	skeŋket	2678	2297	28	161
 gi	juollodit	skeŋket	2678	284	28	9
 
 vri	jårådit	jorahit	9	3	12	0
 vri	bånjåstit	bonjastit	9	0	5	0
-vri	bådnjåt	botnjat	9	10	21	1
++vri	bådnjåt	botnjat	9	10	21	1
 
 tro	gáddet	navdit	243	165	106	0
-tro	jáhkket	navdit	243	1033	106	43
++tro	jáhkket	navdit	243	1033	106	43
 tro	jáhkedit	jáhkihit	243	67	8	1
 tro	åsskut	oskut	243	0	126	0
 tro	doajvvut	doaivut	243	0	211	0
 
 fødes	sjaddat	šaddat	4	2600	2202	144
-fødes	riegádit	riegádit	4	289	204	17
++fødes	riegádit	riegádit	4	289	204	17
 
 snu	jårggålahttet	jorggihit/máhccat	17	0	84	0
-snu	jårggålit	jorggihit/máhccat	17	494	84	0
++snu	jårggålit	jorggihit/máhccat	17	494	84	0
 
 gå	mannat	mannat	1076	1851	1627	78
 gå	luohpat	luohpat	1076	4	35	0
 gå	manedit	manihit	1076	3	1	0
 gå	vádtselit	vázzilit	1076	0	21	0
-gå	vádtsát	vázzát	1076	280	48	3
++gå	vádtsát	vázzát	1076	280	48	3
 
-unngå	garvvet	eastat/vealtat	98	49	20	3
++unngå	garvvet	eastat/vealtat	98	49	20	3
 unngå	iesstadit	eastat/vealtat	98	0	20	0
 
 nå	åledit	juksat/ollit/noddet	2568	32	684	2
 nå	buvtedit	buvttihit	2568	1	13	0
-nå	jåksåt	joksat	2568	440	53	19
++nå	jåksåt	joksat	2568	440	53	19
 
 oppnå	åledit	juksat	298	32	84	1
 oppnå	oadtjut	oažžut	298	0	3771	0
-oppnå	jåksåt	joksat	298	440	53	13
++oppnå	jåksåt	joksat	298	440	53	13
 
 oppstå	båhtsijdit	bohciidit	72	1	48	0
 oppstå	tjuodtjelit	čuožžilit	72	277	87	0
