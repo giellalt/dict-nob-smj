@@ -1,39 +1,40 @@
+# @ = bad candidates 
 
-forsvinne	hælbbat	healbat	28	0	2	0
+forsvinne	gáhtot	healbat	28	0	2	0
 
-suse	juhtsat	juhcat	4	12	1	0
+bråke	juhtsat	juhcat	4	12	1	0
 
 forsvinne	gájddat	gáidat	28	34	18	0
 
-stotre	vavddat	vavdat	1	0	2	0
-stamme	vavddat	vavdat	36	0	2	0
+stotre	dehpudit	vavdat	1	0	2	0
+stamme	mahkkulit	vavdat	36	0	2	0
 
-herje	spedjat	speadjat	3	7	32	0
+ødelegge	spedjat	speadjat	3	7	32	0
 
-forsvinne	jávkkat	jávkat	28	2	179	0
+@forsvinne	jávkkat	jávkat	28	2	179	0
 
 utnytte	ávkástallat	ávkkástallat	202	150	173	13
 
-strømme	márrat	márrat	5	7	3	0
+bruse	márrat	márrat	5	7	3	0
 
 våge	duosstat	duostat	12	285	141	15
 
-våge	arvvat	arvat	12	1	72	0
+@våge	arvvat	arvat	12	1	72	0
 
-suse	sjuvvat	šuvvat	4	0	5	0
+@suse	sjuvvat	šuvvat	4	0	5	0
 
-vantrives	ahkedussjat	ahkiduššat	1	0	2	0
+kjede seg	ahkedussjat	ahkiduššat	1	0	2	0
 
 arve	árbbit	árbet	18	25	20	4
 
-henge	harttsit	harcet	41	0	2	0
+@henge	harttsit	harcet	41	0	2	0
 
 kastrere	gálldit	gáldet	4	0	6	0
 
-skjerpe	tjavggit	čavget	13	16	42	1
+@skjerpe	tjavggit	čavget	13	16	42	1
 stramme	tjavggit	čavget	6	16	42	1
 
-besøke	gallit	gallet	117	0	182	0
+besøke	guossidit	gallet	117	0	182	0
 
 utforme	hábbmit	hábmet	192	269	251	58
 
@@ -43,58 +44,58 @@ slipe	slijppit	šliipet	1	0	1	0
 
 kommentere	kommentierit	kommenteret	48	7	74	2
 
-skjenke	njårrit	njorret	15	0	4	0
+skjenke	snjårrat	njorret	15	0	4	0
 
-tømme	gurrit	gurret	11	0	37	0
+@tømme	gurrit	gurret	11	0	37	0
 
-krysse	russit	russet	30	0	5	0
+@krysse	russit	russet	30	0	5	0
 
-kartlegge	gárttit	gártet	96	0	65	0
+@kartlegge	gárttit	gártet	96	0	65	0
 
 kartlegge	kárttit	kártet	96	41	115	19
 
 laste	lásstit	lástet	23	0	2	0
 
-formane	rávvit	rávvet	1	76	79	1
+bestille	rávvit	rávvet	1	76	79	1
 
-stotre	vavdadit	vavddadit	1	0	1	0
-stamme	vavdadit	vavddadit	36	0	1	0
+@stotre	vavdadit	vavddadit	1	0	1	0
+@stamme	vavdadit	vavddadit	36	0	1	0
 
-tjore	vieddit	veaddit	1	9	7	0
+vake	vieddit	veaddit	1	9	7	0
 
-vare	binndit	bindit	2834	0	1	0
+@vare	binndit	bindit	2834	0	1	0
 
-inngå	lihtudit	lihtodit	318	42	5	1
+avtale	lihtudit	lihtodit	318	42	5	1
 
-blø	varddit	vardit	2	0	6	0
+blø	varddet	vardit	2	0	6	0
 
 bøye	såjådit	sojahit	7	37	72	1
 
-underskrive	vuollájtjállit	vuolláičállit	24	0	66	0
+underskrive	vuollájtjállet	vuolláičállit	24	0	66	0
 
-dø	jábmit	jápmit	48	0	215	0
+dø	jábmet	jápmit	48	0	215	0
 
-lenke	goallustit	goallostit	21	0	8	0
+@lenke	goallustit	goallostit	21	0	8	0
 
-samordne	åvtåstahttit	ovttastahttit	131	0	104	0
-forene	åvtåstahttit	ovttastahttit	25	0	104	0
+@samordne	åvtåstahttit	ovttastahttit	131	0	104	0
+@forene	åvtåstahttit	ovttastahttit	25	0	104	0
 
-pumpe	båhtjit	bohčit	3	0	7	0
+@pumpe	båhtjit	bohčit	3	0	7	0
 
 finnes	gávnnut	gávdnot	524	1019	513	142
 
-skryte	rámmput	rámpot	4	3	21	0
+rose	rámmpot	rámpot	4	3	21	0
 
-synke	vuodjut	vuodjut	20	0	40	0
+synke	vuodjot	vuodjut	20	0	40	0
 
-skjenke	læjkkut	leaikut	15	0	2	0
+@skjenke	læjkkut	leaikut	15	0	2	0
 
-tømre	tsæhkkut	ceahkkut	1	0	3	0
+@tømre	tsæhkkut	ceahkkut	1	0	3	0
 
-overleve	sejlut	seailut	31	0	151	0
+@overleve	sejlut	seailut	31	0	151	0
 
-begjære	ádnut	átnut	15	0	26	0
+be om	ádnot	átnut	15	0	26	0
 
-beite	guohtut	guohtut	518	0	318	0
+beite	guohtot	guohtut	518	0	318	0
 
-ankomme	sæjvvut	seaivut	4	0	20	0
+ankomme	boahtet	seaivut	4	0	20	0
