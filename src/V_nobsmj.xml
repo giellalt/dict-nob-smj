@@ -5336,7 +5336,5386 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bedra</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">biehttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vedta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">mierredit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">anta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">árvvedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gjenta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gærddot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">be</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåhttjot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utvide</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vijdedit</t>
+        <t pos="V">stuoredit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gjelde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guosskat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">melde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">diededit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">arrangere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ásadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">opprettholde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bisodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">binde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjadnat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">anmode</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåhttjot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">myrde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">treffe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">iejvvit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">beklage</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vájvahit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">anklage</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guoddalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ødelegge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bæjsstet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ligge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vellahit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">påpeke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tsuojggit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">snakke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sáhkadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">takke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gijttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">trekke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">giesset</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kikke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guovllat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">klikke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dieddelit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">trykke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dieddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">uttrykke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">javllat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">banke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tsábbmet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">innskrenke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gártjedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">merke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">merkahit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forsterke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">nannit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">påvirke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vájkudit</t>
+        <t pos="V">bájnnet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">orke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vissjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">dyrke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sjaddadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ønske</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sávvat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">beherske</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">máhttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bruke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">adnet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">stryke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">njávkkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">røyke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">suovastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">søke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">åhtsåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forsøke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gæhttjalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hållat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">betale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">mákset</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">avtale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sjiehtadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">dele</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">juohket</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tildele</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">juollodit</t>
+        <t pos="V">juogadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kvele</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">buvvet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utvikle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">åvddånahttet</t>
+        <t pos="V">åvddånit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skylle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dåjddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gjemme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjiehkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">glemme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vajálduhttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fremme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">åvdedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skremme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">balldet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">komme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">boahtet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ordne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ásadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">finne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gávnnat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skinne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guojddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skjønne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dádjadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">åpne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">rahpat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">verne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">suodjalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">løsne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">luovvit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">låne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">luojkkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kjempe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">rahtjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">klippe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">biesskedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">slippe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bessat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">krype</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">biehket</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">håpe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">doajvvut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kjøpe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">oasstet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">løpe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">viehkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bevare</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bisodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forandre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">rievddat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">endre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">rievddat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">hindre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hieredit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forhindre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hieredit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oppfordre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hásstet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utfordre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hasodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vurdere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">árvustallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">etablere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ásadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">informere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">subtsastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">referere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">referierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">inspirere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">arvusmahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">publisere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">almodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kritisere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">lájttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">redusere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">unnedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oppdatere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ådåsmahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">orientere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">diededit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">akseptere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dåhkkidit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">justere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">justierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">instruere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bagádit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sikre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">nannit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">klore</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ruohkkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">spre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hádjet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">spørre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gatjádit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oppmuntre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">arvusmahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gjennomføre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjadádit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utføre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dåjmadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">høre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gullat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gjøre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dahkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kunngjøre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">almodit</t>
+        <t pos="V">diededit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">smøre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuojddat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">berøre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guosskat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">se</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gæhttjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lese</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">låhkåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">reise</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">mannat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">spise</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bårråt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vokse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sjaddat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bremse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåhtsat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">stanse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ganugit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">begrense</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ráddjit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">opplyse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">almodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">blåse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">båssot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tillate</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dibddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bekrefte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">duodastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skifte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">målssot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">slite</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">rahtjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">slakte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">njuovvat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">frykte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ballat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">hente</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">viedtjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">innhente</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">jåksåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vente</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuorddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">starte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">álgget</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">miste</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">láhppet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">brette</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">máhttset</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">opprette</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ásadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sette</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">biedjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oversette</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">jårggålit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fortsette</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">joarkket</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">slutte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hiejttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">avslutte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">låhpadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">putte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tsåggåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bytte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">målssut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">beskytte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">várjjalit</t>
+        <t pos="V">suodjalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">nyte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">návddahit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bryte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">doadjet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">intervjue</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ságájdahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">drive</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuodjet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skrive</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjállet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skyve</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dæssalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fornye</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ådåsmahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">uttrykke sin misnøye</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">njimmurit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vaddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vri</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bådnjåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tro</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">jáhkket</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fødes</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">riegádit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">snu</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">jårggålit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vádtsát</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">unngå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">garvvet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">nå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">jåksåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oppnå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">jåksåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">henge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gahtsahit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ta imot</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">duosstot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">unngå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vielldet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tie</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">årrot sjávot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tolke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dålkkut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ramle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">jårråt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skrive</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjállet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bety</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">merkahit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">beskrive</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåvvit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">viske</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sihkkot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fjerne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gádodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">dømme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">duobbmit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">mene</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">miejnnit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ane</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">árvvedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">råde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ráddit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">foreslå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">oajvvadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">formode</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">árvvalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">begrense</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ráddjit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">definere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">definierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forsvinne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gáhtot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tørre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">duosstat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">intervjue</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ságájdahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lyse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjuovggat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">syde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">råhtjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fosse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">burssjot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">rådføre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">rádádallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">undersøke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guoradallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">drøfte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dágástallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">felle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vierddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">pusse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">skuorrot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">putte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tsåggåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">avbryte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">boarkkit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">rose</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">rámmpot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forbli</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bissot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">motsette</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuosteldit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">videreføre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bisodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gå i mot</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuosteldit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">begrense</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ráddjit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">definere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">definierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">dø</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">jábmet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">flytte på</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sirddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">blø</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">varddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">beskylde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sivádit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">diskutere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dágástallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utnytte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ávkástallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forklare</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjielggit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">beregne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">merustit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">trampe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">duolmmot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">dele</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">juohket</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">frotelle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">subtsastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">nevne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">nammadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">si</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">javllat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">høre til</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gullut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">opprette</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">álgadit</t>
+        <t pos="V">ásadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">grunnlegge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuododit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bryte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">doadjet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">løse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjuolldet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gjøre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dahkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">frostå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dádjadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">finne opp</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gávnadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bry seg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">berustit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">foreslå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ævtodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">formane</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ávttjit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sikre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">nannit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">garantere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">duodastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">styrke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">nannit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">beskytte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">suodjalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forsikre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">duodastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tenke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ájádallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">anta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">árvvedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skremme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">balldet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">opphøre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hiejttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">påpeke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dættodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">feire</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ávvudit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">påvise</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuosedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vise</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuosedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">glede</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ávvudit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">følge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjuovvot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kombinere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">kombinerit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">løpe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">viehkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">drepe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">hugge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjuollat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">undertrykke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">njiejddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">si</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">javllat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oppnevne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">nammadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">omhandle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guosskat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ville</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sihtat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ivareta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bisodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">foreslå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ævtodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">beholde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">anodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sáddit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vende om</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">jårggålit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">hevde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjuottjodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lyde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">jegadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skaffe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">åttjudit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oppdage</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ájttsat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">jage</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">oagodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">klage</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gujddit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ledsage</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dålvudit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skattlegge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">værrodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gravlegge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hávddádit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">pålegge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåhttjut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">berolige</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">oadjodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">selge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuobddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">velge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">válljit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bevilge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">juollodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fange</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">giddit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forlenge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guhkedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">trenge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dárbahit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ringe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">riŋŋgut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tvinge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">nággit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">synge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">lávllot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">terge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hárddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sørge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">surggat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lyge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gielestit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">eie</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">æjggot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">veie</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">viehkkit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kvie</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåvvat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skje</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dáhpáduvvat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">peke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">giejgget</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">preke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sárnnedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">like</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">lijkkut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">dekke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåbttjåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">knekke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">doadjet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">strekke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vanádit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">nikke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">nihkkut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">slukke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">jáddat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tråkke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">duolmmot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">koke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">duolldat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vaske</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bassat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">granske</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guoradallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">våke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåhtset</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">påtale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">lájttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">stable</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bårddot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">formidle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gaskostit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">stjele</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">suoládit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">smile</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">måjudit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">hvile</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuojŋastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">avvikle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hiejtedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forenkle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">giehpedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kalle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåhtjudit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">telle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">låhkåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tilfredsstille</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">duhtadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fylle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dievddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tåle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gierddat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">føle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dåbddåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bli flau</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hehpanit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">klemme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">fármastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">stemme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">jienastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bestemme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">mierredit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forekomme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dáhpáduvvat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fremkomme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">åvddånboahtet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">glømme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vajáldahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">rømme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">báhtarit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">nærme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">lahkanit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sammenligne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">buohtastahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">godkjenne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dåhkkidit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">erkjenne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">miededit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">brenne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">boalldet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tenne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tsahkkidit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vinne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuojttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kunne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">máhttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">begynne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">álgget</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fjerne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gádodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">omfavne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">fármastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">følge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">doalvvot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">savne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">åhtsålit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">nevne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">nammadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tape</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">masset</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">angripe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">validit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">hjelpe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">viehkedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">dempe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vájddodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">rope</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjuorvvot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lappe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">duoggŋat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tappe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gålgådit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">klype</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tsibrrit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">re opp</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">láhtjet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">klare</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">nahkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">spare</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">siesstet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">rydde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">rádjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">svare</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vásstedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forbedre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">buoredit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ekskludere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ålgodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vise</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuosedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fungere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">doajmmat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">endre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">rievddat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">finansiere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ruhtadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">differensiere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">differensierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lønne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bálkkit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">nominere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">nominierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">disponere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">disponierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">returnere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">máhtsadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">operere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">operierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">konsentrere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">konsentrierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kommunisere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">kommunisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">plassere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">biedjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">interessere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">berustit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">poengtere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dættodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">invitere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåhttjot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">presentere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">presentierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">representere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">åvdåstit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">levere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">buktet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">avlevere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">buktet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">motivere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">arvusmahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">servere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guossodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">feire</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ávvudit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">narre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">biehttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bære</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guoddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">innebære</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">merkahit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vise</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuosedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">undervise</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">åhpadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skjøre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjuohppat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">danse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dánssut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">overse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">badjelgæhttjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vasse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gállet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">belyse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjalmostit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">låse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">lássit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forlate</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guodet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">prate</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sáhkadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">leite</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">åhtsåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vite</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">diehtet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forvente</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuorddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">pynte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hiervvit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forkorte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">oanedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">belaste</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">noadodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">puste</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuojŋŋat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">omfatte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåbttjåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oppfatte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåbttjåt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">flette</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bárggeldit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">opprette</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ásadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">nedsette</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">nammadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ansette</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">virgádit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utsette</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">maŋedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">foreslå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ævtodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">avsette</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hiejtedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">hive</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">håjggådit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lytte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gulldalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bruke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">adnet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vaddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">begrave</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hávddádit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fremheve</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dættodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">leve</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">iellet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kreve</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gájbbedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">beskrive</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåvvidit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">love</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">loabedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sove</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">oadet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">prøve</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gæhttjalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kontrollere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dárkestit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tøye</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vanádit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utgi</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">almodit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">re opp</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">láhtjet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">slutte seg sammen</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sæbrrat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skysse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">suvddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lede</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">jådedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">samle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjoahkkit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bo</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">årrot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">høre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gullat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">oppleve</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vásedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">slåss</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">doarrot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fremme åvdedit</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ovddidit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forby</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">buorggot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fly</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">girddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">betale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">mákset</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">avslå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hilggot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">stå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjuodtjot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">klare</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">nahkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forstå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dádjadit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">røve</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">rievvot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">pines</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bijnástuvvat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">anklage</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guoddalit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fange</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">giddit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">leie</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">lájggit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">feste</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">fiesstit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">leke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ståhkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">undertrykke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">niejddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skjenke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">snjårray</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">koordinere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">koordinierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ankomme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">boahtet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sy</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">goarrot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tømme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">duobbmit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">tjene</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dievnastit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">stabilisere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">stabilisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">plage</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vájvedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">trampe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">duolmmot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sage</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sáhkkut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ivareta</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">bissot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sjokkere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">alvvaduhttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">regne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">rassjot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forelese</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">lågådit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">standardisere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">standardisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">nøytralisere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">nøytralisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">stabilisere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">stabilisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">passere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vásset</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kjøre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuodjet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forstyrre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vájvedit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">framtre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">åvddånboahtet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">pløye</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sállat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">be</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gåhttjot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">lengte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">åhtsålit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forbause</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">oavddot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">underskrive</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuollájtjálley</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">øve</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hárjjidallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skåne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">árjjot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">plages</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vájvástuvvat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">sitere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">sitierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">integrere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">avtastahttet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">systematisere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">systematisierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ferdiggjøres</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ålliduvvat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">undersøke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guoradallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forsvinne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gáhtot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bråke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">juhtsat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forsvinne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gájddat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">stamme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">mahkkulit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">stotre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dehpudit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ødelegge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">spedjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utnytte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ávkástallat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bruse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">márrat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">våge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">duosstat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kjede seg</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ahkedussjat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">arve</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">árbbit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kastrere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gálldit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">stramme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">tjavggit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">besøke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guossidit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utforme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">hábbmit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">planlegge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">plánit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">slipe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">slijppit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kommentere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">kommentierit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skjenke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">snjårrat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">kartlegge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">kárttit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">laste</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">lásstit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bestille</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">rávvit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vake</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vieddit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">avtale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">lihtudit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">blø</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">varddet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bøye</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">såjådit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">underskrive</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuollájtjállet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">dø</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">jábmet</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">finnes</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gávnnut</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">rose</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">rámmpot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">synke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vuodjot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">be om</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">ádnot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">beite</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guohtot</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">ankomme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">boahtet</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
+bekrefte ::: nannit
+bekrefte ::: tjårggit
+anbefale ::: ævtodit
+anbefale ::: ávttjit
+bruke ::: gålådit
+klikke ::: bávkedit
+kikke ::: guovladit
+utelukke ::: håjggådit
+utelukke ::: várrodit
+bøte ::: duoggŋat
+bøte ::: tjiktet
+bevare ::: suodjalit
+verne ::: ráfájduhttet
+utvise ::: gåhttjot
+myrde ::: gåddålit
+oppfordre ::: hástodit
+oppfordre ::: ávttjit
+utnytte ::: gålådit
+slakte ::: njuovadit
+begrense ::: gártjedit
+avstå ::: luobadit
+avstå ::: lijggodit
+betale ::: bálkkit
+støtte ::: doarjjalit
+støtte ::: doarjjut
+redusere ::: siesstet
+redusere ::: gártjedit
+redusere ::: oanedit
+redusere ::: binnodit
+redusere ::: giehpedit
+redusere ::: njiejddet
+redusere ::: unnut
+redusere ::: uhtsedit
+redusere ::: vuoledit
+vedta ::: dåhkkidit
+innhente ::: tjoahkkit
+innhente ::: viedtjat
+vurdere ::: buohtastahttet
+forsere ::: intensivierit
+overtale ::: håladit
+oversette ::: jårggålahttet
+stige ::: lassánit
+stige ::: badjánit
+stige ::: stuoredit
+stige ::: lasedit
+kle av seg ::: nuoladit
+hilse ::: javllat
+slippe ::: biesstet
+svinge ::: måhkåstit
+løpe ::: viegadit
+ønske ::: sihtat
+ønske ::: ájggut
+ønske ::: hálijdit
+påpeke ::: vuosedit
+skape ::: sjivnnjedit
+skape ::: dahkat
+skape ::: buvtedit
+forfølge ::: doarredit
+forfølge ::: oagodit
+utvide ::: buoredit
+utvide ::: vijddánit
+takke ::: gijttalit
+smitte ::: tjágŋat
+smitte ::: guokkardit
+true ::: ájttet
+true ::: nihttet
+anta ::: gáddet
+anta ::: doajvvut
+anta ::: jáhkket
+pumpe ::: båhtjit
+anmode ::: bivddet
+etterspørre ::: åtsådit
+uttrykke sin misnøye ::: nimmurit
+klore ::: gadtsut
+klore ::: gattsastit
+diskutere ::: sárnnedit
+diskutere ::: sárnnut
+hanskes ::: vuosstálasstet
+gi ::: juollodit
+sette ::: bårddet
+sette ::: biedjalit
+sette ::: gilvvet
+reise ::: jåhtålit
+reise ::: tjuottjadit
+reise ::: tjuottjáldahttet
+reise ::: jåhtet
+reise ::: vuolgget
+erklære ::: guládit
+erklære ::: javllat
+ligge ::: livvadit
+stotre ::: vavdadit
+utforme ::: sjivnnjedit
+utforme ::: buvtedit
+overleve ::: várjjaluvvat
+overleve ::: sejlut
+tillate ::: diktet
+tillate ::: diktit
+stanse ::: årostit
+fraskrive ::: besadit
+gå i mot ::: vuosstálasstet
+spre ::: juohket
+spre ::: gilvvet
+bringe ::: doalvvut
+bringe ::: buktet
+påløpe ::: tjoagget
+lenke ::: goallustit
+oppmuntre ::: alodit
+tenke ::: usjudit
+tenke ::: ájádallat
+samordne ::: sajájduhttet
+samordne ::: inkorporerit
+samordne ::: åvtåstahttit
+dømme ::: duobbmidallat
+oppstå ::: båhtsijdit
+oppstå ::: tjuodtjelit
+opprette ::: álgadit
+opprette ::: vuododit
+kritisere ::: moajttet
+kritisere ::: árvustallat
+melde ::: almmadit
+heve ::: bajedit
+heve ::: låktet
+heve ::: lånodit
+heve ::: stuoredit
+heve ::: lasedit
+involvere ::: salástit
+involvere ::: sisŋedit
+oppheve ::: hiejtedit
+oppheve ::: gåmedit
+lese ::: lågådit
+merke ::: gávnadit
+omtale ::: guoskadit
+omtale ::: javllat
+omtale ::: mujttalit
+omtale ::: subtsastit
+omtale ::: nammadit
+stryke ::: njávkadit
+stryke ::: sihkkut
+anslå ::: gáddet
+dø ::: gávtjerdit
+dø ::: lulestit
+dø ::: sårmmiduvvat
+dø ::: máhtsedit
+klistre ::: dabrridit
+ramme ::: guoskadit
+ramme ::: håladit
+snu ::: jårggålahttet
+vente ::: vievddet
+vente ::: vuordatjit
+søke ::: åhtsålit
+livberge ::: ieledit
+nå ::: åledit
+nå ::: buvtedit
+skjelve ::: slibárdit
+skjelve ::: doargestit
+drive ::: vuojedit
+drive ::: gålggåt
+drive ::: jådedit
+drive ::: vuodjelit
+drive ::: dåjmadit
+løsne ::: tjoavddásit
+ryste ::: balldalit
+kle ::: på seg
+sparke ::: tjiektjat
+sparke ::: tjievtjastit
+oppnå ::: oadtjut
+oppnå ::: åledit
+markere ::: vuosedit
+markere ::: ávvudit
+våge ::: arvvat
+videreføres ::: vihpat
+fornye ::: ådåstit
+åpne ::: tsakkastit
+åpne ::: rabástit
+åpne ::: rahpasit
+åpne ::: liehkkut
+ordne ::: rádjat
+ordne ::: lágedit
+forandre ::: nuppástuhttet
+forandre ::: muhttet
+trekke ::: gæssádit
+trekke ::: vuorbbádit
+skrive ::: tjálatjit
+skrive ::: tjáledit
+avslutte ::: hiejtedit
+anklage ::: ássjáskuhttet
+anklage ::: vájddet
+berøre ::: guoskadit
+berøre ::: guosskat
+håpe ::: doajvvot
+håpe ::: sávvat
+kjempe ::: doarrut
+kjempe ::: tjuoladit
+blåse ::: biekkastit
+blåse ::: biekkadit
+blåse ::: bieggat
+blåse ::: båsådit
+forhindre ::: gåtsadit
+forhindre ::: maŋŋunit
+avtale ::: sjiehttat
+så ::: sjattadahttet
+så ::: bårddot
+utføre ::: doajmmat
+skinne ::: bájtatjit
+holde ::: gåtsadit
+holde ::: dåladit
+forsvinne ::: jávkkat
+forsvinne ::: murddet
+se ::: guovllat
+se ::: vuojnnet
+se ::: gehtjadit
+fortrenge ::: nuppástit
+påvise ::: dættodit
+unngå ::: iesstadit
+hente ::: viedtjalit
+beherske ::: háldatjit
+slutte ::: guorrasit
+slutte ::: luohpat
+orke ::: nagádit
+be ::: sihtat
+be ::: ájggut
+be ::: hálijdit
+be ::: bivddet
+tømre ::: tsæhkkut
+overraske ::: imájdit
+ødelegge ::: vahágahttet
+bedra ::: biehttit
+skjerpe ::: tjavggit
+antyde ::: gietjedit
+kvele ::: hávkkadit
+beregne ::: rassjot
+forsøke ::: vikkadit
+skyte ::: tsævkkat
+skyte ::: skuorrit
+skyte ::: tjuoggut
+smøre ::: njuvddet
+spørre ::: gahtjat
+spørre ::: jæskádit
+drøfte ::: guoskadit
+nedprioritere ::: duolmmot
+nedprioritere ::: badjelgæhttjat
+tolke ::: tjielggit
+dele ::: juogadit
+bre ::: gilvvet
+gjenta ::: gierddut
+bytte ::: lånodit
+krype ::: guokkardit
+opplyse ::: subtsastit
+avvise ::: hilggut
+avvise ::: gåmedit
+gjennomføre ::: ållidit
+gjennomføre ::: dievddet
+avverge ::: rassjut
+skyve ::: håjggåt
+skyve ::: håjggådit
+skyve ::: dådjålit
+skyve ::: duvddelit
+frykte ::: baládit
+frita ::: luojttet
+frita ::: tjoavddet
+banke ::: goalkkalit
+forene ::: åvtåstahttit
+utrydde ::: jávkkadit
+tro ::: gáddet
+tro ::: doajvvut
+tro ::: jáhkedit
+tro ::: åsskut
+kunngjøre ::: guládit
+vare ::: binndit
+finne ::: dádjadit
+finne ::: gávnadit
+male ::: bådnet
+male ::: sihkastit
+omhandle ::: gåvådit
+omhandle ::: subtsastit
+starte ::: álgadit
+publisere ::: publisierit
+undervurdere ::: duolmmot
+svekkes ::: hedjunit
+brøle ::: gilljut
+glitre ::: guogadit
+glitre ::: jillalit
+nulle ::: sihkastit
+henge ::: harttsit
+henge ::: libjudit
+snakke ::: sárnnut
+snakke ::: hállat
+snakke ::: dárustit
+snakke ::: suomastit
+snakke ::: sámástit
+bryte ::: gággat
+bryte ::: fággádit
+tale ::: sárnnut
+oppdatere ::: ådåstit
+oppdatere ::: ållidit
+løfte ::: bajedit
+løfte ::: låktet
+løfte ::: stuoredit
+løfte ::: lasedit
+registrere ::: tjáledit
+registrere ::: ájttsat
+treffe ::: vuojnnalit
+dvele ::: usjudit
+dvele ::: ájádallat
+synke ::: gahttjat
+frakte ::: fievrridit
+frakte ::: giesedit
+frakte ::: vuodjet
+høre ::: gulldalit
+høre ::: gullát
+høre ::: gullustit
+høre ::: gulástit
+gjemme ::: tjiegadit
+gjemme ::: tjiehkádit
+justere ::: divvut
+justere ::: divostit
+granske nøye ::: váksjut
+dyrke ::: gilvvet
+innskrenke ::: gárttjut
+bemerke ::: tjálestit
+montere ::: dabrridit
+montere ::: dabrrit
+montere ::: dahppat
+gjelde ::: gullu
+lovfeste ::: nannit
+miste ::: manádit
+miste ::: besadit
+miste ::: biesstet
+miste ::: masset
+miste ::: ribádit
+sikre ::: tjårggit
+sikre ::: suodjalit
+beskylde ::: ássjáskuhttet
+beskylde ::: vájddet
+instruere ::: instruierit
+ferde ::: jåhtålit
+respektere ::: ásadit
+respektere ::: lijkkustit
+klippe ::: tjuohppat
+klippe ::: vadjat
+referere ::: sitierit
+utfordre ::: hásstalit
+utfordre ::: hástodit
+utfordre ::: ávttjit
+blø ::: biedjalit
+tie ::: sjávvunahttet
+fødes ::: sjaddat
+gjøre ::: barggat
+kjøpe ::: oastedit
+komme ::: ållet
+komme ::: soajttet
+komme ::: sjaddat
+forsikre ::: hisstet
+forsikre ::: tjårggit
+skjønne ::: árvvedit
+utslette ::: jávkkadit
+hindre ::: iesstadit
+krysse ::: russit
+begjære ::: ánodit
+begjære ::: gåhttjut
+begjære ::: bivddet
+opphøre ::: goaredit
+opphøre ::: bisánit
+opphøre ::: tjuottjastit
+opphøre ::: rassjut
+opphøre ::: årostit
+opphøre ::: ganugaddat
+opphøre ::: bisijdit
+putte ::: tsåggålit
+tildele ::: juohket
+opprettholde ::: dåladit
+gå ::: vádtselit
+gå ::: manedit
+gå ::: mannat
+gå ::: luohpat
+fortsette ::: bissut
+beklage ::: nimmurit
+stamme ::: vavdadit
+inspirere ::: oajvvadit
+binde ::: gåddet
+spise ::: bårådit
+orientere ::: orientierit
+endre ::: nuppástuhttet
+skremme ::: balldalit
+suse ::: sjuvvat
+brøyte ::: bålltut
+informere ::: guládit
+informere ::: mujttalit
+trykke ::: dieddelit
+vokse ::: stuoredit
+vokse ::: vijddut
+vokse ::: lasedit
+skifte ::: lånodit
+skifte ::: målsudit
+glemme ::: vajáldahttet
+tømme ::: gurrit
+røre ::: guoskadit
+bremse ::: gåtsastit
+røyke ::: bårgodit
+skryte ::: májnudit
+klapre ::: tsålkedit
+klapre ::: gålkudallat
+låne ::: luojkadit
+utvikle ::: åvdedit
+stange ::: nårddåt
+stange ::: doarrut
+trampe ::: duolmastit
+avbryte ::: sieraduhttet
+avbryte ::: fággádallat
+avbryte ::: gággat
+avbryte ::: ærránit
+avbryte ::: sierranit
+avbryte ::: fággádit
+fremme ::: buvtadit
+synse ::: gáddet
+synse ::: árvvalit
+synse ::: jáhkedit
+synse ::: miejnnit
+nyte ::: vásedit
+slite ::: gajkkut
+slite ::: vuolgget
+slite ::: gajkedit
+slite ::: vájbbadit
+slite ::: ravggut
+garantere ::: tjårggit
+kastrere ::: guosskat
+fyre ::: dållidit
+fyre ::: tsahkkidit
+påvirke ::: vájkudit
+påvirke ::: bájnnet
+påvirke ::: håladit
+avta ::: gæhppánit
+avta ::: vájddut
+tørke ::: gåjkkådit
+tørke ::: sihkkut
+tørke ::: sihkastit
+opparbeide ::: háhkuhit
+kartlegge ::: gárttit
+grave ::: goajvvut
+grave ::: skurbbat
+brette ::: máhtsastit
+akseptere ::: akseptierit
+hogge ::: tsábbmet
+hogge ::: tjuolastit
+hogge ::: tjuollat
+forhåndsgranske ::: gehtjadit
+etablere ::: vuododit
+skylle ::: dåjddelit
+intervjue ::: gatjádit
+skille ::: tjuolldet
+skille ::: ærránit
+skille ::: sierranit
+vri ::: jårådit
+vri ::: bånjåstit
+forsterke ::: gievrrodit
+skjenke ::: læjkkut
+forsvare ::: várjjalit
+forsvare ::: gádjalit
+forsvare ::: bælostit
+uttrykke ::: buvtadit
+uttrykke ::: báhkkudit
+uttrykke ::: dåbdådit
 montere ::: tjoaggut
 blande ::: sehkanit
 meisle ::: ferrat
