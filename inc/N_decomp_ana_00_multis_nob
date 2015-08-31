@@ -1,0 +1,374 @@
+
+veksttilskudd	sjaddodoarjja	stuorrundoarjja	1	0	0	0
+veksttilskudd	sjattodoarjja	stuorrundoarjja	1	0	0	0
+
+musikkverksted	musihkadivudahka	musihkkabádji	1	0	1	0
+musikkverksted	musijkadivudahka	musihkkabádji	1	0	1	0
+musikkverksted	musihkkadivudahka	musihkkabádji	1	0	1	0
+musikkverksted	musijkkadivudahka	musihkkabádji	1	0	1	0
+musikkverksted	musihkadivudak	musihkkabádji	1	0	1	0
+musikkverksted	musijkadivudak	musihkkabádji	1	0	1	0
+musikkverksted	musihkkadivudak	musihkkabádji	1	0	1	0
+musikkverksted	musijkkadivudak	musihkkabádji	1	0	1	0
+
+oljevernarbeid	oalljosuodjalibme	oljogáhttenbargu	1	0	0	0
+oljevernarbeid	ulljosuodjalibme	oljogáhttenbargu	1	0	0	0
+oljevernarbeid	oalljosuodjalus	oljogáhttenbargu	1	0	0	0
+
+befolkningsfond	álmmukfoannda	veagadatfoanda	1	0	0	0
+befolkningsfond	álmmukruhtavuorkká	veagadatfoanda	1	0	0	0
+
+forhandlingsbord	sjiehtadallamabievdde	šiehtadallanbeavdi	1	0	1	0
+forhandlingsbord	sjiehtadallambievdde	šiehtadallanbeavdi	1	0	1	0
+
+radiotilbud	radiofálaldahka	rádiofálaldat	2	0	1	0
+radiotilbud	rádiofálaldahka	rádiofálaldat	2	0	1	0
+
+garnfiskeforbud	viermmeguollimbuorggo	fierbmebivdogielddus	1	0	1	0
+garnfiskeforbud	viermmeguollimbuorgulvis	fierbmebivdogielddus	1	0	1	0
+
+forvaltningsråd	háldadusráde	hálddašanráva	1	0	1	0
+forvaltningsråd	háldadusdármme	hálddašanráva	1	0	1	0
+
+pasientskade	pasiænntabiledibme	pasieantavahát	1	0	1	0
+pasientskade	pasiænntavahágahttem	pasieantavahát	1	0	1	0
+
+høstbeiteområde	tjaktjaguohtomednam	čakčaguohtuneana	2	0	1	0
+høstbeiteområde	tjavtjaguohtomednam	čakčaguohtuneana	2	0	1	0
+høstbeiteområde	tjaktjaguohtomguovllo	čakčaguohtuneana	2	0	1	0
+
+sektorområde	suorggesuorgge	sektorsuorgi	3	0	1	0
+sektorområde	suorgesuorgge	sektorsuorgi	3	0	1	0
+sektorområde	suorggeguovllo	sektorsuorgi	3	0	1	0
+sektorområde	suorgeguovllo	sektorsuorgi	3	0	1	0
+
+forhandlingsområde	sjiehtadallamasuorgge	šiehtadallansuorgi	1	0	1	0
+forhandlingsområde	sjiehtadallamsuorgge	šiehtadallansuorgi	1	0	1	0
+forhandlingsområde	sjiehtadallamaguovllo	šiehtadallansuorgi	1	0	1	0
+forhandlingsområde	sjiehtadallamguovllo	šiehtadallansuorgi	1	0	1	0
+
+omstillingsområde	nuppástuhttemsuorgge	nuppástuhttinsuorgi	1	0	1	0
+omstillingsområde	nuppástuhttemguovllo	nuppástuhttinsuorgi	1	0	1	0
+
+minoritetsspråksområde	unneplågogiellasuorgge	minoritehtagiellaguovlu	0	0	0	0
+minoritetsspråksområde	unneplågogiellaguovllo	minoritehtagiellaguovlu	0	0	0	0
+
+universitetsområde	universitehttasuorgge	universitehtašillju	1	0	1	0
+universitetsområde	universitehttaguovllo	universitehtašillju	1	0	1	0
+
+mandatområde	mandáhttasuorgge	mandáhtaguovlu	6	0	1	0
+mandatområde	mandáhttaguovllo	mandáhtaguovlu	6	0	1	0
+
+hjemfylke	sijddafylkka	ruovttufylka	2	0	1	0
+hjemfylke	sijdafylkka	ruovttufylka	2	0	1	0
+
+samfunnsrolle	sebrudahkaroalla	servodatrolla	1	0	1	0
+samfunnsrolle	sebrudakroalla	servodatrolla	1	0	1	0
+
+oljekrone	oalljokråvnnå	oljoruvdno	1	0	0	0
+oljekrone	ulljokråvnnå	oljoruvdno	1	0	0	0
+
+nøkkelgruppe	tjåvdajuogos	čoavddajoavku	1	0	1	0
+nøkkelgruppe	tjoavddagajuogos	čoavddajoavku	1	0	1	0
+
+forhandlingsgruppe	sjiehtadallamajuogos	šiehtadallanjoavku	1	0	5	0
+forhandlingsgruppe	sjiehtadallamjuogos	šiehtadallanjoavku	1	0	5	0
+
+stipendreise	stipendamanno	stipeandamátki	1	0	1	0
+stipendreise	stipænndamanno	stipeandamátki	1	0	1	0
+
+hjemreise	sijddamanno	ruovttomátki	3	0	2	0
+hjemreise	sijdamanno	ruovttomátki	3	0	2	0
+
+pasientreise	pasientamanno	pasieantamátki	1	0	1	0
+pasientreise	patientamanno	pasieantamátki	1	0	1	0
+pasientreise	pasiænntamanno	pasieantamátki	1	0	1	0
+
+kollektivreise	kollektijvamanno	kollektiivamátki	1	0	1	0
+kollektivreise	kollektijvvamanno	kollektiivamátki	1	0	1	0
+
+befolkningsundersøkelse	álmmukåtsådibme	álbmotiskkadeapmi/álbmotguorahallan/álbmotdutkamuš	2	0	1	0
+befolkningsundersøkelse	álmmukguoradallam	álbmotiskkadeapmi/álbmotguorahallan/álbmotdutkamuš	2	0	1	0
+
+ungdomsundersøkelse	nuorraåtsådibme	nuoraidiskkadeapmi/nuoraidguorahallan	1	0	1	0
+ungdomsundersøkelse	nuoraguoradallam	nuoraidiskkadeapmi/nuoraidguorahallan	1	0	1	0
+ungdomsundersøkelse	nuorraguoradallam	nuoraidiskkadeapmi/nuoraidguorahallan	1	0	1	0
+
+eierinteresse	åmastiddjeberustibme	oamasteaddjiberoštupmi	2	0	1	0
+eierinteresse	æjgátberustibme	oamasteaddjiberoštupmi	2	0	1	0
+
+sektorinteresse	suorggeberustibme	sektorberoštupmi/suorgeberoštus	1	0	1	0
+sektorinteresse	suorgeberustibme	sektorberoštupmi/suorgeberoštus	1	0	1	0
+
+handelsinteresse	oasestimeberustibme	gávpeberoštus	1	0	1	0
+handelsinteresse	oasestimberustibme	gávpeberoštus	1	0	1	0
+
+månedsskifte	mánnomålssusibme	mánnomolsun	3	0	1	0
+månedsskifte	mánnojuohko	mánnomolsun	3	0	1	0
+
+medlemsliste	sebrulattjalissta	lahttolistu/lahttolista	5	0	1	0
+medlemsliste	sebrulasjlissta	lahttolistu/lahttolista	5	0	1	0
+
+reisemåte	manovuohke	johtinvuohki	1	0	1	0
+reisemåte	mannovuohke	johtinvuohki	1	0	1	0
+
+stiloppgave	stijladahkamus	stiilabargu	1	0	1	0
+stiloppgave	stijlladahkamus	stiilabargu	1	0	1	0
+
+skidag	sabegabiejvve	čuoiganbeaivi	1	0	1	0
+skidag	sabekbiejvve	čuoiganbeaivi	1	0	1	0
+
+referansegrunnlag	referensavuodo	refereansavuođđu	0	0	1	0
+referansegrunnlag	referánssavuodo	refereansavuođđu	0	0	1	0
+
+forhandlingsgrunnlag	sjiehtadallamavuodo	šiehtadallanvuođđu	1	0	1	0
+forhandlingsgrunnlag	sjiehtadallamvuodo	šiehtadallanvuođđu	1	0	1	0
+
+studentgrunnlag	studentavuodo	studeantavuođđu	1	0	1	0
+studentgrunnlag	studænntavuodo	studeantavuođđu	1	0	1	0
+
+hjerneslag	vuojŋamsládja	vuoiŋŋaščaskkástat	1	0	1	0
+hjerneslag	vuojŋŋamajuogos	vuoiŋŋaščaskkástat	1	0	1	0
+hjerneslag	vuojŋamjuogos	vuoiŋŋaščaskkástat	1	0	1	0
+
+bevilgningsforslag	juollodimeoajvvadus	juolludanevttohus/juolludusevttohus/juolludanárvalus	2	0	1	0
+bevilgningsforslag	ruhtajuollodimeoajvvadus	juolludanevttohus/juolludusevttohus/juolludanárvalus	2	0	1	0
+bevilgningsforslag	juollodimoajvvadus	juolludanevttohus/juolludusevttohus/juolludanárvalus	2	0	1	0
+bevilgningsforslag	ruhtajuollodimoajvvadus	juolludanevttohus/juolludusevttohus/juolludanárvalus	2	0	1	0
+
+tekstforslag	tækstaoajvvadus	teakstaevttohus	1	0	1	0
+tekstforslag	tevstaoajvvadus	teakstaevttohus	1	0	1	0
+
+forhandlingsutvalg	sjiehtadallamanammadus	šiehtadallanlávdegoddi/šiehtadanlávdegoddi	11	0	4	0
+forhandlingsutvalg	sjiehtadallamnammadus	šiehtadallanlávdegoddi/šiehtadanlávdegoddi	11	0	4	0
+
+forvaltningssammenheng	háldadusgasskavuohta	hálddašanoktavuohta	2	0	1	0
+forvaltningssammenheng	háldadusaktijvuohta	hálddašanoktavuohta	2	0	1	0
+
+årsakssammenheng	sivvagasskavuohta	sivvaoktavuohta	2	0	1	0
+årsakssammenheng	sivvaaktijvuohta	sivvaoktavuohta	2	0	1	0
+
+samfunnssammenheng	sebrudahkagasskavuohta	servodatoktavuohta	3	0	1	0
+samfunnssammenheng	sebrudakgasskavuohta	servodatoktavuohta	3	0	1	0
+samfunnssammenheng	sebrudahkaaktijvuohta	servodatoktavuohta	3	0	1	0
+samfunnssammenheng	sebrudakaktijvuohta	servodatoktavuohta	3	0	1	0
+
+gjeldsforhandling	vielggesjiehtadallam	vealgešiehtadallan	5	0	2	0
+gjeldsforhandling	vielgesjiehtadallam	vealgešiehtadallan	5	0	2	0
+
+musikkutvikling	musihkkaåvddånibme	musihkkaovddideapmi	4	0	1	0
+musikkutvikling	musihkkaåvddånahttem	musihkkaovddideapmi	4	0	1	0
+
+utdanningsveiledning	åhpadusbagádallam	oahpahusbagadallan/oahpahusrávven	1	0	1	0
+utdanningsveiledning	åhpadusbagádus	oahpahusbagadallan/oahpahusrávven	1	0	1	0
+
+medlemsforening	sebrulattjasiebrre	lahttosearvi	2	0	1	0
+medlemsforening	sebrulasjsiebrre	lahttosearvi	2	0	1	0
+
+forhandlingsløsning	sjiehtadallamatjoavdos	šiehtadusčoavddus/šiehtadallančoavddus	2	0	1	0
+forhandlingsløsning	sjiehtadallamtjoavdos	šiehtadusčoavddus/šiehtadallančoavddus	2	0	1	0
+
+finansieringsløsning	ruhtadimetjoavdos	ruhtadančoavddus	1	0	1	0
+finansieringsløsning	ruhtadimtjoavdos	ruhtadančoavddus	1	0	1	0
+
+distribusjonsløsning	juogadimetjoavdos	vuovdinčoavddus/doaimmahančoavddus	1	0	1	0
+distribusjonsløsning	juogadimtjoavdos	vuovdinčoavddus/doaimmahančoavddus	1	0	1	0
+
+konfliktløsning	rijddotjoavdos	riidočoavdin/nággočoavdin	6	0	3	0
+konfliktløsning	rijdotjoavdos	riidočoavdin/nággočoavdin	6	0	3	0
+
+nettløsning	nehtatjoavdos	neahttačoavddus	4	0	2	0
+nettløsning	næhttatjoavdos	neahttačoavddus	4	0	2	0
+
+internettløsning	internehtatjoavdos	interneahttačoavddus	1	0	1	0
+internettløsning	internæhttatjoavdos	interneahttačoavddus	1	0	1	0
+
+eierforvaltning	åmastiddjeháldadus	oamastanhálddašeapmi	1	0	1	0
+eierforvaltning	æjgátháldadus	oamastanhálddašeapmi	1	0	1	0
+
+sykkelvei	syhkkalarahte	sihkkelastinbálggis	1	0	1	0
+sykkelvei	syhkalrahte	sihkkelastinbálggis	1	0	1	0
+
+musikktiltak	musihkadoajmma	musihkkadoaibmabidju	4	0	1	0
+musikktiltak	musijkadoajmma	musihkkadoaibmabidju	4	0	1	0
+musikktiltak	musihkkadoajmma	musihkkadoaibmabidju	4	0	1	0
+musikktiltak	musijkkadoajmma	musihkkadoaibmabidju	4	0	1	0
+musikktiltak	musihkkadåjmalasjvuohta	musihkkadoaibmabidju	4	0	1	0
+
+oppfølgingstiltak	oatsodimedoajmma	čuovvolandoaibmabidju	2	0	0	0
+oppfølgingstiltak	oatsodimdoajmma	čuovvolandoaibmabidju	2	0	0	0
+
+restaureringstiltak	åbddimdoajmma	divodandoaibmabidju	1	0	1	0
+restaureringstiltak	åbddimdåjmalasjvuohta	divodandoaibmabidju	1	0	1	0
+
+handelspolitikk	oasestimepolitihkka	gávpepolitihkka	3	0	1	0
+handelspolitikk	oasestimpolitihkka	gávpepolitihkka	3	0	1	0
+handelspolitikk	oasestimepolitijkka	gávpepolitihkka	3	0	1	0
+handelspolitikk	oasestimpolitijkka	gávpepolitihkka	3	0	1	0
+
+handelsjordbruk	oasestimeednambarggo	gávpeeanadoallu/gávpeeanandoallu	1	0	1	0
+handelsjordbruk	oasestimednambarggo	gávpeeanadoallu/gávpeeanandoallu	1	0	1	0
+
+scenespråk	siednagiella	lávdegiella	1	0	1	0
+scenespråk	sienagiella	lávdegiella	1	0	1	0
+
+lærespråk	oahpogiella	oahppangiella	1	0	1	0
+lærespråk	oahppogiella	oahppangiella	1	0	1	0
+
+handelsspråk	oasestimegiella	gávpegiella	1	0	1	0
+handelsspråk	oasestimgiella	gávpegiella	1	0	1	0
+
+pressebesøk	pressaguosse	preassagalledeapmi	1	0	1	0
+pressebesøk	præssaguosse	preassagalledeapmi	1	0	1	0
+
+statsrådssal	stáhttarádeladnja	stáhtaráđđesále	1	0	0	0
+statsrådssal	stáhttarádehuonaj	stáhtaráđđesále	1	0	0	0
+
+netthandel	nehtaoasestibme	neahttagávppašeapmi	1	0	1	0
+netthandel	næhttaoasestibme	neahttagávppašeapmi	1	0	1	0
+
+merkeregel	mærkkanjuolgadus	merkennjuolggadus	1	0	1	0
+merkeregel	merkanjuolgadus	merkennjuolggadus	1	0	1	0
+
+kjønnsforskjell	sjiervesieradus	sohkabealerohus	2	0	1	0
+kjønnsforskjell	sjiervvesieradus	sohkabealerohus	2	0	1	0
+
+turistformål	turistaulmme	turistaáigumuš	1	0	0	0
+turistformål	turisstaulmme	turistaáigumuš	1	0	0	0
+
+kvinnespørsmål	nissunulmusjgatjálvis	nissonášši	4	0	3	0
+kvinnespørsmål	nissungatjálvis	nissonášši	4	0	3	0
+
+permisjonsspørsmål	virggeloahpegatjálvis	virgelohpeášši	1	0	1	0
+permisjonsspørsmål	permisjåvnnågatjálvis	virgelohpeášši	1	0	1	0
+
+oljerikdom	oaljoboanndudahka	oljoriggodat	1	0	1	0
+oljerikdom	oalljoboanndudahka	oljoriggodat	1	0	1	0
+oljerikdom	ulljoboanndudahka	oljoriggodat	1	0	1	0
+oljerikdom	uljoboanndudahka	oljoriggodat	1	0	1	0
+oljerikdom	oaljoboanndudak	oljoriggodat	1	0	1	0
+oljerikdom	oalljoboanndudak	oljoriggodat	1	0	1	0
+oljerikdom	ulljoboanndudak	oljoriggodat	1	0	1	0
+oljerikdom	uljoboanndudak	oljoriggodat	1	0	1	0
+
+kommunesamfunn	suohkanasebrudahka	gielddaservodat	1	0	0	0
+kommunesamfunn	suohkansebrudahka	gielddaservodat	1	0	0	0
+kommunesamfunn	suohkanasebrudak	gielddaservodat	1	0	0	0
+kommunesamfunn	suohkansebrudak	gielddaservodat	1	0	0	0
+
+helseregion	varresvuodaguovllo	dearvvasvuođaregiovdna	5	0	1	0
+helseregion	varresvuohtaguovllo	dearvvasvuođaregiovdna	5	0	1	0
+
+turistregion	turistaguovllo	mátkeguovlu	1	0	1	0
+turistregion	turisstaguovllo	mátkeguovlu	1	0	1	0
+
+vekstregion	sjaddoguovllo	lassánanregiovdna	1	0	1	0
+vekstregion	sjattoguovllo	lassánanregiovdna	1	0	1	0
+
+nøkkelinformasjon	tjåvdadiehto	čoavddadiehtu	1	0	1	0
+nøkkelinformasjon	tjoavddagadiehto	čoavddadiehtu	1	0	1	0
+
+kultursituasjon	kultuvrradille	kulturdilálašvuohta	1	0	1	0
+kultursituasjon	kultuvradille	kulturdilálašvuohta	1	0	1	0
+
+forhandlingssituasjon	sjiehtadallamadille	šiehtadallandilli	2	0	1	0
+forhandlingssituasjon	sjiehtadallamdille	šiehtadallandilli	2	0	1	0
+
+eierfunksjon	åmastiddjefunksjåvnnå	oamastandoaibma	1	0	1	0
+eierfunksjon	æjgátfunksjåvnnå	oamastandoaibma	1	0	1	0
+
+ressursvern	resursasuodjalibme	resursasuodjaleapmi	3	0	0	0
+ressursvern	ressursasuodjalibme	resursasuodjaleapmi	3	0	0	0
+ressursvern	resurssasuodjalibme	resursasuodjaleapmi	3	0	0	0
+ressursvern	ressurssasuodjalibme	resursasuodjaleapmi	3	0	0	0
+ressursvern	resursasuodjalus	resursasuodjaleapmi	3	0	0	0
+ressursvern	ressursasuodjalus	resursasuodjaleapmi	3	0	0	0
+ressursvern	resurssasuodjalus	resursasuodjaleapmi	3	0	0	0
+ressursvern	ressurssasuodjalus	resursasuodjaleapmi	3	0	0	0
+
+ressurshensyn	resursavieledus	resursavuhtiiváldin	2	0	1	0
+ressurshensyn	ressursavieledus	resursavuhtiiváldin	2	0	1	0
+ressurshensyn	resurssavieledus	resursavuhtiiváldin	2	0	1	0
+ressurshensyn	ressurssavieledus	resursavuhtiiváldin	2	0	1	0
+
+konsulentselskap	konsulentavidnudahka	konsuleantafitnodat	2	0	2	0
+konsulentselskap	konsulænntavidnudahka	konsuleantafitnodat	2	0	2	0
+konsulentselskap	konsulentavidnudak	konsuleantafitnodat	2	0	2	0
+
+eieransvar	åmastiddjeåvdåsvásstádus	eaiggáduššanovddasvástádus	2	0	1	0
+eieransvar	æjgátåvdåsvásstádus	eaiggáduššanovddasvástádus	2	0	1	0
+
+handelspartner	oasestimeguojmme	gávpeverdde/gávpeguoibmi/gávpeoasálaš	3	0	1	0
+handelspartner	oasestimguojmme	gávpeverdde/gávpeguoibmi/gávpeoasálaš	3	0	1	0
+
+oljeressurser	oaljoresurssa	oljoopmodat	0	0	1	0
+oljeressurser	oalljoresurssa	oljoopmodat	0	0	1	0
+oljeressurser	ulljoresurssa	oljoopmodat	0	0	1	0
+oljeressurser	uljoresurssa	oljoopmodat	0	0	1	0
+oljeressurser	oaljoressurssa	oljoopmodat	0	0	1	0
+oljeressurser	oalljoressurssa	oljoopmodat	0	0	1	0
+oljeressurser	ulljoressurssa	oljoopmodat	0	0	1	0
+oljeressurser	uljoressurssa	oljoopmodat	0	0	1	0
+
+høstsemester	tjaktjajahkebielle	čakčalohkanbadji	2	0	2	0
+høstsemester	tjavtjajahkebielle	čakčalohkanbadji	2	0	2	0
+høstsemester	tjaktjasemester	čakčalohkanbadji	2	0	2	0
+høstsemester	tjavtjasemester	čakčalohkanbadji	2	0	2	0
+
+kvalitetsregister	kvalitiehtaregistar	kvalitehtaregisttar	1	0	1	0
+kvalitetsregister	kvalitehtaregistar	kvalitehtaregisttar	1	0	1	0
+kvalitetsregister	kvalitiehttaregistar	kvalitehtaregisttar	1	0	1	0
+kvalitetsregister	kvalitæhttaregistar	kvalitehtaregisttar	1	0	1	0
+kvalitetsregister	kvalitæhttalågos	kvalitehtaregisttar	1	0	1	0
+
+pasientregister	pasientaregistar	pasieantaregisttar	1	0	1	0
+pasientregister	patientaregistar	pasieantaregisttar	1	0	1	0
+pasientregister	pasiænntaregistar	pasieantaregisttar	1	0	1	0
+pasientregister	pasiænntalågos	pasieantaregisttar	1	0	1	0
+
+urfolkslitteratur	iemeálmmukgirjálasjvuohta	eamiálbmotgirjjálašvuohta	1	0	1	0
+urfolkslitteratur	álggoálmmukgirjálasjvuohta	eamiálbmotgirjjálašvuohta	1	0	1	0
+
+oljeressurs	oaljoresurssa	oljoresursa	1	0	1	0
+oljeressurs	oalljoresurssa	oljoresursa	1	0	1	0
+oljeressurs	ulljoresurssa	oljoresursa	1	0	1	0
+oljeressurs	uljoresurssa	oljoresursa	1	0	1	0
+oljeressurs	oaljoressurssa	oljoresursa	1	0	1	0
+oljeressurs	oalljoressurssa	oljoresursa	1	0	1	0
+oljeressurs	ulljoressurssa	oljoresursa	1	0	1	0
+oljeressurs	uljoressurssa	oljoresursa	1	0	1	0
+
+forhandlingsresultat	sjiehtadallamaboados	šiehtadusboađus/šiehtadallanboađus	8	0	2	0
+forhandlingsresultat	sjiehtadallamboados	šiehtadusboađus/šiehtadallanboađus	8	0	2	0
+
+finansieringsmulighet	ruhtadimevejulasjvuohta	ruhtadanvejolašvuohta	3	0	2	0
+finansieringsmulighet	ruhtadimvejulasjvuohta	ruhtadanvejolašvuohta	3	0	2	0
+
+reisevirksomhet	manodoajmma	mátkedoaibma	7	0	2	0
+reisevirksomhet	mannodoajmma	mátkedoaibma	7	0	2	0
+
+handelsvirksomhet	oasestimedoajmma	gávpedoaibma	1	0	4	0
+handelsvirksomhet	oasestimdoajmma	gávpedoaibma	1	0	4	0
+
+turistvirksomhet	turistadoajmma	turistadoaibma	2	0	2	0
+turistvirksomhet	turisstadoajmma	turistadoaibma	2	0	2	0
+
+ungdomsbedrift	nuoravidnudahka	nuoraidfitnodat	5	0	3	0
+ungdomsbedrift	nuorravidnudahka	nuoraidfitnodat	5	0	3	0
+ungdomsbedrift	nuoravidnudak	nuoraidfitnodat	5	0	3	0
+ungdomsbedrift	nuorravidnudak	nuoraidfitnodat	5	0	3	0
+
+sykehusdrift	skihppijviesodoajmma	buohcceviessodoaibma	1	0	1	0
+sykehusdrift	skihppijviessodoajmma	buohcceviessodoaibma	1	0	1	0
+
+leieinntekt	lájggoboahto	láigodienas	7	0	1	0
+leieinntekt	lájggosisboahto	láigodienas	7	0	1	0
+
+ungdomsarrangement	nuorraásadibme	nuoraiddoalut	1	0	1	0
+ungdomsarrangement	nuorraásadus	nuoraiddoalut	1	0	1	0
+
+foreningsliv	siebreiellem	searvedoaibma	1	0	3	0
+foreningsliv	siebrreiellem	searvedoaibma	1	0	3	0
+
+ekspertnivå	ássjedåbddedásse	ekspeartadássi	1	0	0	0
+ekspertnivå	ássjediehttedásse	ekspeartadássi	1	0	0	0

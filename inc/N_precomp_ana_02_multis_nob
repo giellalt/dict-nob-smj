@@ -1,0 +1,154 @@
+
+strimmel (kjøtt o.l.)	sárdde	?????	0	1	0	0
+strimmel (kjøtt o.l.)	sárgge	?????	0	5	0	0
+
+brød)	sárdde	?????	0	1	0	0
+brød)	sárgge	?????	0	5	0	0
+
+båt (appelsin)	sárdde	?????	0	1	0	0
+båt (appelsin)	sárgge	?????	0	5	0	0
+
+arbeidstilsyn (person fra arbeidstilsynet)	barggobærrájgæhttje	?????	0	0	0	0
+arbeidstilsyn (person fra arbeidstilsynet)	barggogæhttje	?????	0	0	0	0
+
+bad	lávgudahka	?????	9	2	0	0
+bad	lávggo	?????	9	1	0	0
+
+fremmed	vieroj	?????	70	4	0	0
+fremmed	vieres	?????	70	17	0	0
+
+side	sijddo	?????	1468	22	0	0
+side	doares	?????	1468	24	0	0
+
+ulykke	vuorbedisvuohta	roassu/lihkohisvuohta/lihkuhisvuohta	17	17	40	0
+ulykke	vahágahttem	roassu/lihkohisvuohta/lihkuhisvuohta	17	27	40	0
+ulykke	vahágis	roassu/lihkohisvuohta/lihkuhisvuohta	17	6	40	0
+
+stykke	sárdde	gáhppálat	27	1	7	0
+stykke	sárgge	gáhppálat	27	5	7	0
+
+yrke	viddnofáhka	fidnu/fidnosuorgi	114	42	57	0
+yrke	ámmát	fidnu/fidnosuorgi	114	17	57	0
+
+felle	guojmme	?????	600	229	0	0
+felle	vádá	?????	600	64	0	0
+felle	váhtá	?????	600	81	0	0
+
+telne	vuollo	?????	0	6	0	0
+telne	vuolos	?????	0	1	0	0
+
+finne	vitta	?????	916	2	0	0
+finne	suobmelasj	?????	916	7	0	0
+
+rype	rievsak	giron/rievssat	37	22	68	0
+rype	åres	giron/rievssat	37	22	68	0
+
+rase	almasjtjærdda	?????	29	4	0	0
+rase	nálle	?????	29	8	0	0
+
+innevendig takflate	rábevuolle	?????	0	1	0	0
+innevendig takflate	ráhpe	?????	0	4	0	0
+
+ekte	párra	?????	107	4	0	0
+ekte	gállasj	?????	107	31	0	0
+
+bytte	lånudibme	?????	34	1	0	0
+bytte	lånudallam	?????	34	6	0	0
+
+stang	stággo	?????	23	2	0	0
+stang	hålggå	?????	23	10	0	0
+
+megling	såbadallam	soabaheapmi	9	3	4	0
+megling	såbadahttem	soabaheapmi	9	1	4	0
+
+mekling	såbadallam	soabaheapmi	14	3	4	0
+mekling	såbadahttem	soabaheapmi	14	1	4	0
+
+formaning	tsuojgodibme	ráva	1	1	160	0
+formaning	vágodibme	ráva	1	2	160	0
+formaning	tsuojggidus	ráva	1	13	160	0
+
+åpning	rájgge	rahpan/loapmi/goavki/latnja	85	58	60	0
+åpning	álgadibme	rahpan/loapmi/goavki/latnja	85	69	60	0
+
+tilpasning	sjiehtadibme	heivehus/heiveheapmi	129	2	43	0
+tilpasning	hiebadahttem	heivehus/heiveheapmi	129	6	43	0
+
+begrensning	gártjedibme	gáržžádus/gáržžideapmi	55	1	11	0
+begrensning	ráddjim	gáržžádus/gáržžideapmi	55	1	11	0
+
+regulering	regulierimpládna	?????	214	10	0	0
+regulering	dulvvadibme	?????	214	19	0	0
+
+storting	stuorradigge	?????	492	27	0	0
+storting	stuorradikke	?????	492	12	0	0
+
+trekk	gæsán	sárggus/jiella/skoađas/ruvgaleapmi/máksin/olggoš	67	2	16	0
+trekk	gæsso	sárggus/jiella/skoađas/ruvgaleapmi/máksin/olggoš	67	1	16	0
+
+kapital	ruhtaåbmudahka	?????	74	1	0	0
+kapital	kapitálla	?????	74	16	0	0
+
+forfall	bæjssko	?????	28	8	0	0
+forfall	bæjssto	?????	28	1	0	0
+
+landsmann	rijkaguojmme	?????	1	1	0	0
+landsmann	álmmukguojmme	?????	1	1	0	0
+landsmann	viesátguojmme	?????	1	1	0	0
+
+funn	gávnadis	gávnnus	101	5	11	0
+funn	gávnos	gávnnus	101	5	11	0
+funn	gávnadus	gávnnus	101	2	11	0
+
+etternavn	berajnamma	goargu	21	2	12	0
+etternavn	maŋepnamma	goargu	21	3	12	0
+
+fotballkamp	tjiektjam	spábbačiekčan	1	30	146	0
+fotballkamp	bállotjiektjam	spábbačiekčan	1	50	146	0
+
+bar	bárra	?????	607	1	0	0
+bar	goahttse	?????	607	10	0	0
+
+lager	vuorkudahka	?????	58	1	0	0
+lager	vuorkká	?????	58	27	0	0
+
+sykepleier	skihppijsujtár	buohccedikšu/buohccedivššár	18	4	15	0
+sykepleier	sujttár	buohccedikšu/buohccedivššár	18	12	15	0
+
+spiller	tjuojadiddje	?????	73	8	0	0
+spiller	tjiektje	?????	73	27	0	0
+spiller	tjuojanis	?????	73	1	0	0
+
+lever	sárdde	?????	117	1	0	0
+lever	sárgge	?????	117	5	0	0
+
+ur	kloahkka	?????	1132	70	0	0
+ur	kurssa	?????	1132	265	0	0
+ur	kloahkko	?????	1132	1	0	0
+
+vestlig lett bris	aládakråda	?????	0	0	0	0
+vestlig lett bris	alátråda	?????	0	0	0	0
+
+ornament	ornamænnta	?????	1	1	0	0
+ornament	girjos	?????	1	1	0	0
+
+fart	valludahka	?????	20	1	0	0
+fart	fártta	?????	20	5	0	0
+
+kast	råssa	?????	10	1	0	0
+kast	virro	?????	10	4	0	0
+
+rest	bátsudis	bázahus	145	5	71	0
+rest	bátsev	bázahus	145	2	71	0
+
+skive (kjøtt	sárdde	?????	0	1	0	0
+skive (kjøtt	sárgge	?????	0	5	0	0
+
+lov	skåvllåláhka	?????	1514	5	0	0
+lov	hievedus	?????	1514	59	0	0
+
+høy	ájvve	?????	665	10	0	0
+høy	allaskåvllå	?????	665	232	0	0
+
+høgnivå	allakdásse	?????	0	0	0	0
+høgnivå	alukdásse	?????	0	0	0	0

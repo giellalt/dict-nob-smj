@@ -1,0 +1,297 @@
+
+faktura	rieknik	rehket/guite	14	9	69	0
+faktura	máksemus	rehket/guite	14	1	69	0
+
+opphold	guhkkudahka	boddu/orrun/ádji/gaska	81	38	336	0
+opphold	båddå	boddu/orrun/ádji/gaska	81	222	336	2
+opphold	friddjabåddå	boddu/orrun/ádji/gaska	81	14	336	0
+
+bestand	tjærdda	máttodat/nálli/máddodat	54	91	19	0
+bestand	almasjtjærdda	máttodat/nálli/máddodat	54	4	19	0
+bestand	álmmukguojmme	máttodat/nálli/máddodat	54	1	19	0
+
+forstand	máhtudahka	dáidu	50	703	32	0
+forstand	máhtukvuohta	dáidu	50	68	32	1
+forstand	vuojŋam	dáidu	50	18	32	0
+
+gård	båndorsijdda	dállu	104	13	217	0
+gård	ståhpe	dállu	104	2	217	0
+gård	ednambarggo	dállu	104	85	217	0
+
+selhud	nuorjjonáhkke	njuorjjonáhkki	1	0	2	0
+selhud	nuorjonáhkke	njuorjjonáhkki	1	0	2	0
+
+mengde	gráda	earri	45	28	236	0
+mengde	tjuorgga	earri	45	55	236	0
+mengde	moalla	earri	45	6	236	0
+mengde	ulmme	earri	45	1070	236	0
+mengde	vuobman	earri	45	12	236	0
+mengde	tjuokkes	earri	45	11	236	0
+mengde	kvåvttå	earri	45	4	236	2
+
+medvirkende	oassevállde	oasálaš	11	17	31	0
+medvirkende	oassálasste	oasálaš	11	488	31	2
+medvirkende	oasseæjgát	oasálaš	11	0	31	0
+
+høyde	dievvágiehtje	aláš/allodat	73	0	17	0
+høyde	rájdam	aláš/allodat	73	3	17	0
+høyde	tjåhkom	aláš/allodat	73	0	17	0
+høyde	låptudis	aláš/allodat	73	6	17	0
+
+vilje	hállo	dáhttu/áigumuš	83	78	283	2
+vilje	ájggomus	dáhttu/áigumuš	83	184	283	6
+
+kjele	stádtjo	biđusruitu/bánno/gievdni	1	15	4	0
+kjele	skiello	biđusruitu/bánno/gievdni	1	30	4	0
+
+skjebne	loadda	eallinvuorbi/vuorbi	6	0	10	0
+skjebne	oasse	eallinvuorbi/vuorbi	6	1985	10	0
+
+ulempe	duojkke	váivvádus/hehttehus	48	37	18	0
+ulempe	hieredibme	váivvádus/hehttehus	48	5	18	0
+ulempe	hárenis	váivvádus/hehttehus	48	1	18	0
+ulempe	hieredus	váivvádus/hehttehus	48	10	18	1
+
+firkantet ramme av tre	sjielmmá	lassá	0	7	114	0
+firkantet ramme av tre	uksasjielmmá	lassá	0	0	114	0
+
+selvstyre	autonomiddja	iešstivrejupmi/iešstivren	29	0	13	0
+selvstyre	suverenitiehtta	iešstivrejupmi/iešstivren	29	0	13	0
+
+opprinnelse	riegádimbájkke	vuolgga/álgu/álgovuolgga/ruohtas	24	1	276	0
+opprinnelse	fuolkke	vuolgga/álgu/álgovuolgga/ruohtas	24	138	276	0
+opprinnelse	vuododille	vuolgga/álgu/álgovuolgga/ruohtas	24	0	276	0
+opprinnelse	måjvve	vuolgga/álgu/álgovuolgga/ruohtas	24	10	276	0
+opprinnelse	duogos	vuolgga/álgu/álgovuolgga/ruohtas	24	6	276	0
+
+engstelse	gártjesvuohta	vuorrádus	2	16	1	0
+engstelse	bállo	vuorrádus	2	110	1	0
+
+ytelse	dåjmadahka	buktu/attus	17	75	4	0
+ytelse	ásadus	buktu/attus	17	315	4	0
+
+sjanse	fálaldahka	liiba	16	300	12	0
+sjanse	aktijvuohta	liiba	16	761	12	0
+sjanse	vejulasjvuohta	liiba	16	62	12	1
+
+anslag	ásadibme	meroštallan/meroštus/álggaheapmi	32	127	54	0
+anslag	vuododibme	meroštallan/meroštus/álggaheapmi	32	28	54	0
+anslag	sulástibme	meroštallan/meroštus/álggaheapmi	32	1	54	0
+anslag	álggomuddo	meroštallan/meroštus/álggaheapmi	32	0	54	0
+anslag	álgadus	meroštallan/meroštus/álggaheapmi	32	3	54	0
+anslag	tjielggidus	meroštallan/meroštus/álggaheapmi	32	104	54	0
+
+bidrag	ruhtadoarjja	buktu/biebmoruhta/juolludeapmi/doarjja	147	73	371	3
+bidrag	dåjmadahka	buktu/biebmoruhta/juolludeapmi/doarjja	147	75	371	1
+bidrag	doarjodiddje	buktu/biebmoruhta/juolludeapmi/doarjja	147	7	371	0
+bidrag	viehkke	buktu/biebmoruhta/juolludeapmi/doarjja	147	672	371	12
+bidrag	juollodibme	buktu/biebmoruhta/juolludeapmi/doarjja	147	92	371	10
+bidrag	ruhtajuollodibme	buktu/biebmoruhta/juolludeapmi/doarjja	147	7	371	0
+bidrag	oatsodibme	buktu/biebmoruhta/juolludeapmi/doarjja	147	13	371	0
+bidrag	biebbmomávsálvis	buktu/biebmoruhta/juolludeapmi/doarjja	147	0	371	0
+bidrag	ásadus	buktu/biebmoruhta/juolludeapmi/doarjja	147	315	371	0
+
+innlegg	replihkka	álgosáhkavuorru/sáhkavuorru/ovdasáhka/sátnevuorru	119	11	21	0
+innlegg	hålla	álgosáhkavuorru/sáhkavuorru/ovdasáhka/sátnevuorru	119	564	21	4
+innlegg	álggotjála	álgosáhkavuorru/sáhkavuorru/ovdasáhka/sátnevuorru	119	2	21	0
+innlegg	álgadiddje	álgosáhkavuorru/sáhkavuorru/ovdasáhka/sátnevuorru	119	29	21	0
+innlegg	álggooasse	álgosáhkavuorru/sáhkavuorru/ovdasáhka/sátnevuorru	119	0	21	0
+innlegg	lågådallam	álgosáhkavuorru/sáhkavuorru/ovdasáhka/sátnevuorru	119	86	21	0
+innlegg	sárnos	álgosáhkavuorru/sáhkavuorru/ovdasáhka/sátnevuorru	119	8	21	2
+innlegg	álgadus	álgosáhkavuorru/sáhkavuorru/ovdasáhka/sátnevuorru	119	3	21	0
+innlegg	nammadus	álgosáhkavuorru/sáhkavuorru/ovdasáhka/sátnevuorru	119	152	21	0
+
+TV-sending	sátta	TV-sátta	3	57	6	0
+TV-sending	ådåssátta	TV-sátta	3	0	6	0
+
+radiosending	sátta	rádiosátta	4	57	6	0
+radiosending	ådåssátta	rádiosátta	4	0	6	0
+
+utbygging	bivgge	stuorideapmi/huksen	207	0	160	0
+utbygging	tsiekkadus	stuorideapmi/huksen	207	129	160	0
+
+skadevirkning	vuorbedisvuohta	vahátváikkuhus	8	17	1	0
+skadevirkning	biledibme	vahátváikkuhus	8	0	1	0
+skadevirkning	vahágahttem	vahátváikkuhus	8	27	1	0
+
+bevoktning	dárkestibme	geahčču	3	14	21	0
+bevoktning	gæhttjo	geahčču	3	23	21	1
+
+skråning	hålla	hállan	3	564	53	0
+skråning	gávva	hállan	3	4	53	0
+
+li	hålla	hállan	34	564	53	0
+li	gávva	hállan	34	4	53	0
+li	lasstavuobme	hállan	34	0	53	0
+
+flokk	famillja	eallu/joavku/čora	73	39	384	0
+flokk	goahteulmutja	eallu/joavku/čora	73	0	384	0
+flokk	goahtevehka	eallu/joavku/čora	73	0	384	0
+flokk	fuolkke	eallu/joavku/čora	73	138	384	0
+flokk	goahte	eallu/joavku/čora	73	507	384	0
+flokk	beraj	eallu/joavku/čora	73	76	384	0
+flokk	tjårrågasj	eallu/joavku/čora	73	0	384	0
+flokk	barggojuogos	eallu/joavku/čora	73	120	384	1
+flokk	nammadus	eallu/joavku/čora	73	152	384	1
+flokk	barggonammadus	eallu/joavku/čora	73	0	384	0
+
+krok	viŋkal	roahkki/nurki/čiehka/faggi	9	0	11	0
+krok	náhpo	roahkki/nurki/čiehka/faggi	9	0	11	0
+
+gårdsbruk	båndorsijdda	oapmedoallu/dállodoallu/eanadállodoallu	55	13	9	0
+gårdsbruk	ednambarggo	oapmedoallu/dállodoallu/eanadállodoallu	55	85	9	0
+
+misbruk	vahágahttem	veagalváldin/boasttugeavaheapmi	8	27	8	0
+misbruk	vierredahko	veagalváldin/boasttugeavaheapmi	8	28	8	1
+
+fakkel	tjuovgga	spáiddar	1	554	4	0
+fakkel	sålbbetjuovgga	spáiddar	1	0	4	0
+fakkel	biejvvetjuovgga	spáiddar	1	10	4	0
+fakkel	guojta	spáiddar	1	0	4	0
+fakkel	skidde	spáiddar	1	6	4	0
+fakkel	sassne	spáiddar	1	55	4	0
+fakkel	gintal	spáiddar	1	54	4	0
+fakkel	guojttem	spáiddar	1	10	4	0
+fakkel	lámmpo	spáiddar	1	14	4	0
+fakkel	tjuovgas	spáiddar	1	65	4	0
+
+ball	bállotjiektjam	spábba	12	50	232	0
+ball	giehtabállo	spábba	12	0	232	0
+
+skall	skilla	garra/skálžu	7	0	227	0
+skall	bárkko	garra/skálžu	7	13	227	0
+
+utmål	moalla	mihtádus	9	6	4	0
+utmål	ulmme	mihtádus	9	1070	4	0
+
+skrål	gádja	riedja/huikkas/gadja/rieibmu/válla	1	0	5	0
+skrål	mielle	riedja/huikkas/gadja/rieibmu/válla	1	3	5	0
+
+skolehjem	internáhtta	skuvlaruoktu	4	53	1	0
+skolehjem	skåvllåinternáhtta	skuvlaruoktu	4	1	1	0
+
+sykdom	snuohpa	buohcu/jápmindávda/dávda/buozalmas/buozanvuohta/vihki/buozalmasvuohta	105	37	19	0
+sykdom	boastovuohta	buohcu/jápmindávda/dávda/buozalmas/buozanvuohta/vihki/buozalmasvuohta	105	9	19	0
+sykdom	gålggevihke	buohcu/jápmindávda/dávda/buozalmas/buozanvuohta/vihki/buozalmasvuohta	105	0	19	0
+sykdom	biledibme	buohcu/jápmindávda/dávda/buozalmas/buozanvuohta/vihki/buozalmasvuohta	105	0	19	0
+sykdom	hevvanibme	buohcu/jápmindávda/dávda/buozalmas/buozanvuohta/vihki/buozalmasvuohta	105	0	19	0
+sykdom	májnne	buohcu/jápmindávda/dávda/buozalmas/buozanvuohta/vihki/buozalmasvuohta	105	0	19	0
+sykdom	vahágahttem	buohcu/jápmindávda/dávda/buozalmas/buozanvuohta/vihki/buozalmasvuohta	105	27	19	0
+
+kjørerein	boatsoj	vuoján	8	672	30	0
+kjørerein	bánul	vuoján	8	0	30	0
+
+spann	gárre	spánnja/lihtti/eappir	1	46	8	0
+spann	fádi	spánnja/lihtti/eappir	1	8	8	0
+spann	skiello	spánnja/lihtti/eappir	1	30	8	0
+
+sinn	árvvalibme	miella/miellaláhki	8	21	476	0
+sinn	ussjolmis	miella/miellaláhki	8	11	476	0
+sinn	ájádus	miella/miellaláhki	8	505	476	2
+
+landskap	suorgge	eanadat	70	175	23	0
+landskap	ednam	eanadat	70	1449	23	2
+landskap	luonndo	eanadat	70	1095	23	8
+landskap	guovllo	eanadat	70	1373	23	0
+landskap	værált	eanadat	70	985	23	1
+
+kamp	åvdedibme	doarrun/rahčan/heaibu/riidaleapmi/gilvu/doarru/rahčamuš	74	17	76	0
+kamp	rahtjam	doarrun/rahčan/heaibu/riidaleapmi/gilvu/doarru/rahčamuš	74	32	76	2
+kamp	gilpustallam	doarrun/rahčan/heaibu/riidaleapmi/gilvu/doarru/rahčamuš	74	29	76	0
+kamp	gilppom	doarrun/rahčan/heaibu/riidaleapmi/gilvu/doarru/rahčamuš	74	0	76	0
+kamp	gilpos	doarrun/rahčan/heaibu/riidaleapmi/gilvu/doarru/rahčamuš	74	38	76	2
+kamp	rahtjamus	doarrun/rahčan/heaibu/riidaleapmi/gilvu/doarru/rahčamuš	74	30	76	1
+
+ungkar	nuorra	boaresbárdni	1	1266	6	0
+ungkar	fuorkke	boaresbárdni	1	0	6	0
+ungkar	bárnne	boaresbárdni	1	856	6	0
+ungkar	fuorkásj	boaresbárdni	1	0	6	0
+
+pådriver	doarjja	ovddasduvdi/láidesteaddji/duvdda	33	292	7	0
+pådriver	dirigænnta	ovddasduvdi/láidesteaddji/duvdda	33	5	7	0
+
+komfyr	vuobnne	gievkkanuvdna	1	16	1	0
+komfyr	vuodná	gievkkanuvdna	1	34	1	1
+
+utstyr	barggovædtsaga	reaidu/bierggas/bargobierggas/dávvir	95	0	43	0
+utstyr	diŋŋga	reaidu/bierggas/bargobierggas/dávvir	95	12	43	1
+utstyr	oabme	reaidu/bierggas/bargobierggas/dávvir	95	274	43	1
+utstyr	barggovædtsak	reaidu/bierggas/bargobierggas/dávvir	95	2	43	0
+utstyr	giehtaræjddo	reaidu/bierggas/bargobierggas/dávvir	95	4	43	0
+utstyr	æjggo	reaidu/bierggas/bargobierggas/dávvir	95	20	43	0
+utstyr	biebbmo	reaidu/bierggas/bargobierggas/dávvir	95	698	43	1
+utstyr	mannogálvvo	reaidu/bierggas/bargobierggas/dávvir	95	0	43	0
+utstyr	árvvo	reaidu/bierggas/bargobierggas/dávvir	95	530	43	0
+utstyr	nævvo	reaidu/bierggas/bargobierggas/dávvir	95	36	43	5
+utstyr	viehkkenævvo	reaidu/bierggas/bargobierggas/dávvir	95	69	43	6
+
+oppgjør	sulástibme	loahpparehket/rehkenastin	21	1	8	0
+oppgjør	rieknik	loahpparehket/rehkenastin	21	9	8	0
+oppgjør	tjoahkkájbiedjam	loahpparehket/rehkenastin	21	0	8	0
+oppgjør	máksemus	loahpparehket/rehkenastin	21	1	8	0
+
+riss	sárgastahka	govadat	5	6	7	0
+riss	modælla	govadat	5	19	7	0
+riss	tjuorgas	govadat	5	18	7	0
+riss	girjos	govadat	5	1	7	0
+riss	tjuohpadus	govadat	5	0	7	0
+
+fokus	berustibme	fokus/guovdilastin/fuomášupmi/fokuseren	365	233	25	2
+fokus	ájádus	fokus/guovdilastin/fuomášupmi/fokuseren	365	505	25	4
+
+kamerat	vidnudahka	skibir/olbmážat/olmmái/skihpár/verdde/guoibmi/ustit	5	110	84	0
+kamerat	tjuovudiddje	skibir/olbmážat/olmmái/skihpár/verdde/guoibmi/ustit	5	0	84	0
+kamerat	párrabielle	skibir/olbmážat/olmmái/skihpár/verdde/guoibmi/ustit	5	0	84	0
+kamerat	gállasjguojmme	skibir/olbmážat/olmmái/skihpár/verdde/guoibmi/ustit	5	31	84	0
+kamerat	iellemguojmme	skibir/olbmážat/olmmái/skihpár/verdde/guoibmi/ustit	5	0	84	0
+kamerat	årromguojmme	skibir/olbmážat/olmmái/skihpár/verdde/guoibmi/ustit	5	0	84	0
+kamerat	fárroguojmme	skibir/olbmážat/olmmái/skihpár/verdde/guoibmi/ustit	5	1	84	0
+kamerat	gállasj	skibir/olbmážat/olmmái/skihpár/verdde/guoibmi/ustit	5	31	84	0
+kamerat	gállasjålmåj	skibir/olbmážat/olmmái/skihpár/verdde/guoibmi/ustit	5	1	84	0
+kamerat	tjuovvo	skibir/olbmážat/olmmái/skihpár/verdde/guoibmi/ustit	5	369	84	0
+kamerat	goahteæjgát	skibir/olbmážat/olmmái/skihpár/verdde/guoibmi/ustit	5	2	84	0
+
+tilhørighet	aktisasjvuohta	oktiigullevašvuohta	97	184	13	2
+tilhørighet	identitiehtta	oktiigullevašvuohta	97	0	13	0
+
+stivhet	nanosvuohta	stargatvuohta/stirdu	1	10	3	0
+stivhet	nanusvuohta	stargatvuohta/stirdu	1	0	3	0
+
+hoft	tjibbe	čoarbbealli	1	1	4	0
+hoft	nårås	čoarbbealli	1	2	4	0
+
+pågangsmot	måvtugisvuohta	áŋgirvuohta/gillilvuohta	3	2	5	0
+pågangsmot	roahkkatvuohta	áŋgirvuohta/gillilvuohta	3	0	5	0
+pågangsmot	berustibme	áŋgirvuohta/gillilvuohta	3	233	5	0
+pågangsmot	arvusmahttem	áŋgirvuohta/gillilvuohta	3	38	5	0
+pågangsmot	måvtåstuhttem	áŋgirvuohta/gillilvuohta	3	3	5	0
+
+koffert	væssko	koaffar	1	2	4	0
+koffert	giehtavæssko	koaffar	1	0	4	0
+
+skurlast	ássjesuorgge	ávnnas	1	6	116	0
+skurlast	ábnas	ávnnas	1	138	116	14
+
+målsetting	moalla	juksanmearri	272	6	8	0
+målsetting	ulmme	juksanmearri	272	1070	8	24
+målsetting	mierre	juksanmearri	272	282	8	0
+målsetting	mihtto	juksanmearri	272	259	8	0
+
+fangst	guollebivddo	bivdin	208	19	49	0
+fangst	guolástus	bivdin	208	58	49	0
+
+trekk	mákso	máksin	67	140	51	0
+trekk	bálkká	máksin	67	156	51	1
+
+isolasjon	jiella	skoađas	5	2	2	0
+trekk	sierravuohta	skoađas	67	1	2	0
+isolasjon	ålgusj	skoađas	5	82	2	0
+trekk	sirren	skoađas	67	0	2	0
+
+innlegg	sáhka	sáhkavuorru	119	632	70	0
+innlegg	sárnne	sáhkavuorru	119	155	70	0
+innlegg	hállan	sáhkavuorru	119	1	70	0
+
+bidrag	siedja	buktu	147	11	6	0
+bidrag	vierkka	buktu	147	7	6	0
+bidrag	várkka	buktu	147	0	6	0

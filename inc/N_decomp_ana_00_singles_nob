@@ -1,0 +1,368 @@
+
+framstillingskostnad	åvddånbuktemgållo	buvttadanvuohki	2	0	2	0
+
+fremstillingskostnad	åvddånbuktemgållo	ovdanbuktingollu	2	0	1	0
+
+omstillingskostnad	nuppástuhttemgållo	nuppástuhttingollu	1	0	1	0
+
+planleggingstilskudd	plánimdoarjja	plánendoarjja	1	0	1	0
+
+folkehelsearbeid	álmmukvarresvuohtabarggo	álbmotdearvvašvuođabargu	25	0	3	0
+
+markedsarbeid	márnánbarggo	vuovdalanbargu/márkanbargu	7	0	1	0
+
+anleggsarbeid	ásadusbarggo	rusttetbargu/ráhkadusbargu/huksehusbargu	3	0	1	0
+
+omstillingsarbeid	nuppástuhttembarggo	nuppástuhttinbargu	7	0	5	0
+
+barnevernsarbeid	mánájsuodjalusbarggo	mánáidsuodjalusbargu/mánáidsuodjalanbargu	1	0	1	0
+
+grenseforhold	rádjádille	rádjeášši	1	0	1	0
+
+markedsforhold	márnándille	márkanbealli/márkandilálašvuohta	4	0	1	0
+
+næringsforhold	æládusdille	ealátdilálašvuohta	2	0	1	0
+
+eiendomsforhold	æjggodille	eanaeaiggáduššanbealli	2	0	1	0
+
+reisestipend	mannostipænnda	mátkestipeanda	2	0	3	0
+
+førskoletilbud	åvddåskåvllåfálaldahka	ovdaskuvlafálaldat	1	0	1	0
+
+pressetilbud	præssafálaldahka	preassafálaldat	2	0	1	0
+
+velferdstilbud	álkkádusfálaldahka	čálgofálaldat	9	0	2	0
+
+formidlingstilbud	åvddånbuktemfálaldahka	gaskkustanfálaldat	1	0	1	0
+
+barnevernstilbud	mánájsuodjalusfálaldahka	mánáidsuodjalusfálaldat/mánáidsuodjalanfálaldat	1	0	1	0
+
+sykehustilbud	skihppijviessofálaldahka	buohccedikšunfálaldat	1	0	0	0
+
+reiselivstilbud	mannoæládusfálaldahka	mátkeeallinealáhusfálaldat/mátkeealáhusfálaldat	2	0	1	0
+
+stipendperiode	stipænndagávdda	stipeandaáigodat	4	0	2	0
+
+produksjonsmetode	buvtadusmetåvddå	buvttadanvuohki	2	0	2	0
+
+skoleferie	skåvllåloahpe	skuvlaluopmu	1	0	1	0
+
+ungdomskampanje	nuorrakampánnja	nuoraidáŋgiruššan	1	0	1	0
+
+tidslinje	ájggelinnja	áigelinnjá	1	0	1	0
+
+seminarrekke	seminárrarájddo	semináraráidu	2	0	1	0
+
+nabofylke	ráddnáfylkka	ránnjáfylka	1	0	1	0
+
+fjellsame	várresábme	duottarsápmi	11	0	1	0
+
+helsekrone	varresvuohtakråvnnå	dearvvašvuođaruhta	1	0	1	0
+
+omstillingsevne	nuppástuhttemmáhtukvuohta	nuppástuhttindáidu	3	0	1	0
+
+planleggingsgruppe	plánimjuogos	plánenjoavku	1	0	2	0
+
+folkerettsgruppe	álmmukriektájuogos	álbmotriektejoavku	16	0	5	0
+
+samebevegelse	sábmegåhttsåm	sámelihkadus	2	0	4	0
+
+reisevaneundersøkelse	mannodáhpe	johtinvierroiskkadallan	1	0	1	0
+
+garnfiskebestemmelse	viermmeguollimmærrádus	sáimmastanmearrádus/sáibmamearrádus	1	0	1	0
+
+papirbestemmelse	páhpermærrádus	bábermearrádus	1	0	1	0
+
+grunnlovsbestemmelse	vuodoláhkamærrádus	vuođđoláhkamearrádus	4	0	4	0
+
+naturopplevelse	luonndovásádus	luondduvásihus/luonddumuosáhus	3	0	1	0
+
+helseforståelse	varresvuohtadádjadus	dearvvašvuođaipmárdus	1	0	1	0
+
+læringsforståelse	oahppamdádjadus	oahppanáddejupmi	1	0	1	0
+
+sektorgrense	suorggerádjá	sektorrádjá	2	0	1	0
+
+eiendomsgrense	æjggorádjá	opmodatrádjá	1	0	1	0
+
+mineralinteresse	minerállaberustibme	minerálaberoštus	1	0	1	0
+
+naturverninteresse	luondosuoddjimberustibme	luonddugáhttenberoštupmi	1	0	1	0
+
+havbruksinteresse	merraæládusberustibme	mearradoalloberoštus	1	0	1	0
+
+nordfylkemøte	nuorttafylkka	davvifylkkaidčoahkkin	1	0	0	0
+
+pressemøte	præssatjåhkanibme	preassačoahkkin	2	0	1	0
+
+stiftelsesmøte	vuododustjåhkanibme	ásahančoahkkin/vuođđudančoahkkin	2	0	3	0
+
+planleggingsmøte	plánimtjåhkanibme	plánenčoahkkin	0	0	1	0
+
+drøftingsmøte	árvvaladdamtjåhkanibme	suokkardallančoahkkin	3	0	1	0
+
+vedtaksmøte	mærrádustjåhkanibme	mearridančoahkkin	1	0	1	0
+
+nettmøte	næhttatjåhkanibme	neahttačoahkkin	3	0	1	0
+
+velferdsoppgave	álkkádusdahkamus	čálgodoaibma/čálgobargu	1	0	1	0
+
+grunnlovsdag	vuodoláhkabiejvve	vuođđoláhkabeaivi	1	0	1	0
+
+lærefag	oahppofáhka	oahpahallanfága	3	0	1	0
+
+markedsgrunnlag	márnánvuodo	márkanvuođđu	3	0	1	0
+
+formuesgrunnlag	åbmudahkavuodo	opmodatvuođđu	1	0	0	0
+
+nabolag	ráddnájuogos	ránnjágoddi	3	0	1	0
+
+fredningsforslag	ráfájduhttemoajvvadus	ráfáiduhttinevttohus/ráfáiduhttinárvalus	0	0	1	0
+
+grunnlovsforslag	vuodoláhkaoajvvadus	vuođđoláhkaevttohus/vuođđoláhkaárvalus	1	0	1	0
+
+representantforslag	ájrasoajvvadus	ovddastusevttohas	1	0	1	0
+
+utdanningsvalg	åhpadusválgga	oahppoválljen	2	0	1	0
+
+markedsutvalg	márnánnammadus	márkanlávdegoddi	6	0	2	0
+
+radiosending	radiosátta	rádiosátta	4	0	6	0
+
+næringsplanlegging	æládusplánim	ealáhusplánen	2	0	1	0
+
+bedriftsplanlegging	vidnudahkaplánim	fitnodatplánen	3	0	1	0
+
+søknadsbehandling	åhtsåmusgiehtadallam	ohcanmeannudeapmi	6	0	2	0
+
+realitetsbehandling	realitiehttagiehtadallam	realitehtameannudeapmi	8	0	1	0
+
+skadevirkning	vahágahttemvájkkudus	vahátváikkuhus	8	0	1	0
+
+kvoteøkning	kvåvttålasádus	earrelassáneapmi	1	0	1	0
+
+verdiøkning	árvvolasádus	árvostuorrun	2	0	0	0
+
+rektorutdanning	rektoråhpadus	rektoroahppu	1	0	1	0
+
+velferdsutdanning	álkkádusåhpadus	čálgooahppu	1	0	1	0
+
+folkeskoleundervisning	álmmukskåvllååhpadibme	álbmotskuvlaoahpahus	1	0	0	0
+
+forvaltningsløsning	háldadustjoavdos	hálddašančoavddus	2	0	1	0
+
+eiendomsforvaltning	æjggoháldadus	opmodathálddašeapmi	5	0	2	0
+
+merkeregistrering	mærkkatjáledibme	mearkaregistreren	1	0	1	0
+
+førskoleopplæring	åvddåskåvllååhpadus	ovdaskuvlaoahpahus	1	0	1	0
+
+politikeropplæring	politihkkáråhpadus	politihkaroahppu	1	0	1	0
+
+ungdomssatsing	nuorraåvdedibme	nuoraidáŋgiruššan	2	0	1	0
+
+issmelting	jiegŋajáffo	jieŋaidsuddan	1	0	0	0
+
+markedsverdi	márnánárvvo	márkanárvu	6	0	2	0
+
+opplevelsesverdi	vásádusárvvo	vásihusárvu	1	0	1	0
+
+luftvei	ájmmorahte	vuoiŋŋahatbohcci	3	0	1	0
+
+næringskombinasjonsvedtak	æláduskombinasjåvnnåmærrádus	lotnolasealáhusmearrádus	0	0	0	0
+
+forvaltningsbibliotek	háldadusgirjjevuorkká	hálddahusgirjerádju/hálddašangirjerájus/hálddašangirjerádju/hálddašanbibliotehka	3	0	1	0
+
+hverdagspolitikk	árggapolitihkka	árgabeaivepolitihkka	1	0	0	0
+
+hjertebank	vájmmobáŋŋka	julkkas	0	0	1	0
+
+tallbank	låhkobáŋŋka	lohkobáŋku	1	0	1	0
+
+lekespråk	stågangiella	stoahkangiella/duhkoraddangiella	4	0	1	0
+
+ungdomsfestival	nuorrafestiválla	nuoraidfestivála	0	0	1	0
+
+studenttall	studænntalåhko	studeantalohku	2	0	3	0
+
+betalingsmodell	máksomodælla	máksinmálle	1	0	1	0
+
+forvaltningskontroll	háldadusdárkestibme	hálddašanbearráigeahčču	1	0	1	0
+
+ressurskontroll	resurssadárkestibme	resursadárkkisteapmi	3	0	0	0
+
+kvalitetskontroll	kvalitæhttadárkestibme	kvaliteahttadárkkisteapmi	2	0	0	0
+
+skoleformål	skåvllåulmme	skuvlaáigumuš	1	0	1	0
+
+næringsutviklingsformål	æládusåvddånahttemulmme	ealáhusovddidanulbmil	2	0	1	0
+
+kystformål	merragáddeulmme	riddoulbmil	1	0	0	0
+
+jernbanespørsmål	ruovdderahtegatjálvis	ruovdemáđiigažaldat	1	0	0	0
+
+helsespørsmål	varresvuohtagatjálvis	dearvvašvuođaášši	2	0	1	0
+
+velferdsspørsmål	álkkádusgatjálvis	čálgoášši	1	0	1	0
+
+fordelingsspørsmål	juohkogatjálvis	juogadanášši/juogadangažaldat	2	0	1	0
+
+holdningsspørsmål	miellaguoddogatjálvis	miellaguoddogažaldat	1	0	1	0
+
+eiendomsspørsmål	æjggogatjálvis	eaiggáduššangažaldat	1	0	1	0
+
+naboeiendom	ráddnáæjggo	ránnjáeana	1	0	0	0
+
+planleggingsorgan	plánimorgádna	plánenorgána	1	0	0	0
+
+samfunnsmedisin	sebrudahkadálkas	servodatmedisiidna	4	0	1	0
+
+merkesmann	mærkkaålmåj	mearkaalmmái	1	0	1	0
+
+omstillingslønn	nuppástuhttembálkká	nuppástuhttinbálká	6	0	3	0
+
+medlemsorganisasjon	sebrulasjorganisasjåvnnå	miellahttosearvi/lahttoorganisašuvdna	2	0	2	0
+
+folkehelsesituasjon	álmmukvarresvuohtadille	álbmotdearvvašvuođadilli	1	0	1	0
+
+læremiddelsituasjon	oahpponævvodille	oahpponeavvodilli	6	0	8	0
+
+markedssituasjon	márnándille	márkandilli/vuovdalandilli/márkandilálašvuohta	14	0	3	0
+
+læringssituasjon	oahppamdille	oahppandilli	4	0	2	0
+
+internatsituasjon	internáhttadille	internáhttadilálašvuohta	1	0	1	0
+
+folkerettskommisjon	álmmukriektákommisjåvnnå	álbmotriektekommišuvdna	1	0	1	0
+
+statsrådseksjon	stáhttarádeåssudahka	stáhtaráđđesekšuvdna	0	0	1	0
+
+nøkkelfunksjon	tjåvdafunksjåvnnå	čoavddadoaibma	1	0	1	0
+
+saksbehandlerfunksjon	ássjegiehtadallefunksjåvnnå	áššemeannudandoaibma/áššemeannudeaddjidoaibma	1	0	1	0
+
+politikkutviklerfunksjon	politihkkaåvddånahtte	politihkkaovddidandoaibma	1	0	1	0
+
+betalingsinstitusjon	máksoinstitusjåvnnå	máksinásahus	1	0	1	0
+
+medlemsinstitusjon	sebrulasjinstitusjåvnnå	miellahttoorganisašuvdna	1	0	1	0
+
+nabobarn	ráddnámánná	ránnjámánná	1	0	1	0
+
+markedskunnskap	márnánmáhtudahka	márkanmáhtolašvuohta	2	0	1	0
+
+sekretærhjelp	tjálleviehkke	čálliveahkki	3	0	1	0
+
+betalingsprinsipp	máksoprinsihppa	máksinprinsihppa	0	0	1	0
+
+planleggingsseminar	plánimseminárra	plánenseminára	1	0	1	0
+
+utdanningsseminar	åhpadusseminárra	oahpposeminára	1	0	1	0
+
+ungdomspolitiker	nuorrapolitihkkár	nuoraidpolitihkar	1	0	1	0
+
+pressesenter	præssaguovdásj	preassaguovddáš	4	0	1	0
+
+nasjonalparksenter	álmmukmiehttseguovdásj	álbmotmeahcceguovddáš	8	0	2	0
+
+turistsenter	turisstaguovdásj	turistaguovddáš	5	0	4	0
+
+markedsvilkår	márnánækto	márkaneaktu	1	0	1	0
+
+læringsvilkår	oahppamækto	oahppandilálašvuohta	1	0	1	0
+
+vekstvilkår	sjaddoækto	šaddandilli	1	0	1	0
+
+reisearrangør	mannoásadiddje	mátkefitnodat	1	0	2	0
+
+utdanningskvalitetspris	åhpaduskvalitæhtta	oahppokvalitehtabálkkašupmi	1	0	1	0
+
+salmevers	sálmmaværssa	sálbmavearsa	4	0	1	0
+
+opplevelsesressurs	vásádusresurssa	muosáhanvalljodat	1	0	1	0
+
+utviklingsressurs	åvddånahttemresurssa	buvttadanresursa	0	0	1	0
+
+vannkraftressurs	tjáhtjefábmoresurssa	čáhcefápmoresursa	1	0	1	0
+
+lærlingplass	viddnooahppesadje	oahpahallisadji	3	0	1	0
+
+mandatplass	mandáhttasadje	mandáhttasadji	1	0	1	0
+
+endringsprosess	rievddadusprosæssa	rievdadusproseassa/nuppástuhttinproseassa/rievdanproseassa	5	0	2	0
+
+lærekandidat	oahppokandidáhtta	oahpaheaddjekandidáhtta	14	0	1	0
+
+statsrådssekretariat	stáhttarádedåjmadahka	stáhtaráđđečállingoddi	1	0	1	0
+
+grensetraktat	rádjátraktáhtta	rádjesoahpamuš/rádjasoahpamuš	7	0	2	0
+
+skoleresultat	skåvllåboados	skuvlaboađus	1	0	1	0
+
+kringkastingsvirksomhet	sáddimdoajmma	sáddehatdoaibma	2	0	1	0
+
+eiendomsvirksomhet	æjggodoajmma	opmodatdoaibma	1	0	1	0
+
+papirkvalitet	páhperkvalitæhtta	báberkvaliteahtta	5	0	0	0
+
+utdanningskapasitet	åhpadusmáhtukvuohta	oahppokapasitehta	1	0	0	0
+
+lærekraft	oahppofábmo	oahpponákca	2	0	1	0
+
+lærerkraft	åhpadiddjefábmo	oahpahusnákca/oahpahannákca	4	0	1	0
+
+vekstkraft	sjaddofábmo	šaddanfápmu/ahtanuššanfápmu	3	0	1	0
+
+eiendomsdrift	æjggodoajmma	opmodatdoaibma	2	0	1	0
+
+kvotejakt	kvåvttåbivddo	earrebivdu	3	0	2	0
+
+søknadsplikt	åhtsåmusvælggo	ohcangeatnegasvuohta	1	0	1	0
+
+nabodistrikt	ráddnáguovllo	ránnjáorohat	3	0	3	0
+
+ungdomsrepresentant	nuorraájras	nuoraidovddasteaddji	1	0	1	0
+
+studentrepresentant	studænntaájras	studeantalahttu/studeantaovddasteaddji	1	0	1	0
+
+svarprosent	vásstádusprosænnta	vástidanproseanta	4	0	1	0
+
+vedtakstekst	mærrádustæksta	mearrádusteaksta	1	0	1	0
+
+sametingsdebatt	sámediggeságastallam	sámediggedigaštallan	1	0	0	0
+
+rettighetsdebatt	riektáságastallam	vuoigatvuođadigaštallan	2	0	1	0
+
+reisebudsjett	mannobudsjæhtta	mátkkoštanbušeahtta	0	0	1	0
+
+vegnett	rahtenæhtta	geaidnofierpmádat	6	0	2	0
+
+språkalternativ	giellaalternatijvva	giellamolssaeaktu	3	0	1	0
+
+timebehov	tijmmadárbbo	diibmodárbu	0	0	1	0
+
+helsebehov	varresvuohtadárbbo	dearvvašvuođadárbu	1	0	1	0
+
+folkehelsebehov	álmmukvarresvuohtadárbbo	álbmotdearvvašvuođadárbu	1	0	1	0
+
+endringsbehov	rievddadusdárbbo	rievdadusdárbu	1	0	1	0
+
+kompetansehevingsbehov	máhtudaklåpptimdárbbo	gelbbolašvuođadárbu	2	0	3	0
+
+rentenivå	rænntodásse	reantodássi	3	0	2	0
+
+symbolnivå	symbåvllådásse	symboladássi/govastatdássi	1	0	1	0
+
+saksbehandlernivå	ássjegiehtadalledásse	áššegieđahallidássi	3	0	0	0
+
+statsrådsnivå	stáhttarádedásse	stáhtaráđđedássi	1	0	0	0
+
+hovedfagsnivå	oajvvefáhkadásse	váldofágadássi	8	0	2	0
+
+avdelingsnivå	åssudahkadásse	ossodatdássi	2	0	1	0
+
+medvirkningsnivå	oassálasstemdásse	váikkuhandássi	1	0	1	0
+
+øvingsnivå	hárjjidallamdásse	hárjehallandássi	1	0	1	0
+
+bedriftsnivå	vidnudahkadásse	fitnodatdássi	1	0	1	0
