@@ -1,3 +1,4 @@
+# lots of good candidates here, only a few bad ones marked with @
 
 framstillingskostnad	åvddånbuktemgållo	buvttadanvuohki	2	0	2	0
 
@@ -11,7 +12,7 @@ folkehelsearbeid	álmmukvarresvuohtabarggo	álbmotdearvvašvuođabargu	25	0	3	0
 
 markedsarbeid	márnánbarggo	vuovdalanbargu/márkanbargu	7	0	1	0
 
-anleggsarbeid	ásadusbarggo	rusttetbargu/ráhkadusbargu/huksehusbargu	3	0	1	0
+@anleggsarbeid	ásadusbarggo	rusttetbargu/ráhkadusbargu/huksehusbargu	3	0	1	0
 
 omstillingsarbeid	nuppástuhttembarggo	nuppástuhttinbargu	7	0	5	0
 
@@ -47,7 +48,7 @@ produksjonsmetode	buvtadusmetåvddå	buvttadanvuohki	2	0	2	0
 
 skoleferie	skåvllåloahpe	skuvlaluopmu	1	0	1	0
 
-ungdomskampanje	nuorrakampánnja	nuoraidáŋgiruššan	1	0	1	0
+ungdomskampanje	nuorajkampánnja	nuoraidáŋgiruššan	1	0	1	0
 
 tidslinje	ájggelinnja	áigelinnjá	1	0	1	0
 
@@ -67,7 +68,7 @@ folkerettsgruppe	álmmukriektájuogos	álbmotriektejoavku	16	0	5	0
 
 samebevegelse	sábmegåhttsåm	sámelihkadus	2	0	4	0
 
-reisevaneundersøkelse	mannodáhpe	johtinvierroiskkadallan	1	0	1	0
+reisevaneundersøkelse	mannodáhpeguoradallam	johtinvierroiskkadallan	1	0	1	0
 
 garnfiskebestemmelse	viermmeguollimmærrádus	sáimmastanmearrádus/sáibmamearrádus	1	0	1	0
 
@@ -91,11 +92,11 @@ naturverninteresse	luondosuoddjimberustibme	luonddugáhttenberoštupmi	1	0	1	0
 
 havbruksinteresse	merraæládusberustibme	mearradoalloberoštus	1	0	1	0
 
-nordfylkemøte	nuorttafylkka	davvifylkkaidčoahkkin	1	0	0	0
+nordfylkemøte	nuorttafylkkatjåhkanibme	davvifylkkaidčoahkkin	1	0	0	0
 
 pressemøte	præssatjåhkanibme	preassačoahkkin	2	0	1	0
 
-stiftelsesmøte	vuododustjåhkanibme	ásahančoahkkin/vuođđudančoahkkin	2	0	3	0
+stiftelsesmøte	vuododimtjåhkanibme	ásahančoahkkin/vuođđudančoahkkin	2	0	3	0
 
 planleggingsmøte	plánimtjåhkanibme	plánenčoahkkin	0	0	1	0
 
@@ -115,7 +116,7 @@ markedsgrunnlag	márnánvuodo	márkanvuođđu	3	0	1	0
 
 formuesgrunnlag	åbmudahkavuodo	opmodatvuođđu	1	0	0	0
 
-nabolag	ráddnájuogos	ránnjágoddi	3	0	1	0
+@nabolag	ráddnájuogos	ránnjágoddi	3	0	1	0
 
 fredningsforslag	ráfájduhttemoajvvadus	ráfáiduhttinevttohus/ráfáiduhttinárvalus	0	0	1	0
 
@@ -123,7 +124,7 @@ grunnlovsforslag	vuodoláhkaoajvvadus	vuođđoláhkaevttohus/vuođđoláhkaárva
 
 representantforslag	ájrasoajvvadus	ovddastusevttohas	1	0	1	0
 
-utdanningsvalg	åhpadusválgga	oahppoválljen	2	0	1	0
+utdanningsvalg	åhpadusválggim	oahppoválljen	2	0	1	0
 
 markedsutvalg	márnánnammadus	márkanlávdegoddi	6	0	2	0
 
@@ -161,13 +162,13 @@ politikeropplæring	politihkkáråhpadus	politihkaroahppu	1	0	1	0
 
 ungdomssatsing	nuorraåvdedibme	nuoraidáŋgiruššan	2	0	1	0
 
-issmelting	jiegŋajáffo	jieŋaidsuddan	1	0	0	0
+@issmelting	jiegŋajáffo	jieŋaidsuddan	1	0	0	0
 
 markedsverdi	márnánárvvo	márkanárvu	6	0	2	0
 
 opplevelsesverdi	vásádusárvvo	vásihusárvu	1	0	1	0
 
-luftvei	ájmmorahte	vuoiŋŋahatbohcci	3	0	1	0
+@luftvei	ájmmorahte	vuoiŋŋahatbohcci	3	0	1	0
 
 næringskombinasjonsvedtak	æláduskombinasjåvnnåmærrádus	lotnolasealáhusmearrádus	0	0	0	0
 
@@ -175,13 +176,13 @@ forvaltningsbibliotek	háldadusgirjjevuorkká	hálddahusgirjerádju/hálddašang
 
 hverdagspolitikk	árggapolitihkka	árgabeaivepolitihkka	1	0	0	0
 
-hjertebank	vájmmobáŋŋka	julkkas	0	0	1	0
+@hjertebank	vájmmobáŋŋka	julkkas	0	0	1	0
 
 tallbank	låhkobáŋŋka	lohkobáŋku	1	0	1	0
 
-lekespråk	stågangiella	stoahkangiella/duhkoraddangiella	4	0	1	0
+lekespråk	ståhkamgiella	stoahkangiella/duhkoraddangiella	4	0	1	0
 
-ungdomsfestival	nuorrafestiválla	nuoraidfestivála	0	0	1	0
+ungdomsfestival	nuorajfestiválla	nuoraidfestivála	0	0	1	0
 
 studenttall	studænntalåhko	studeantalohku	2	0	3	0
 
@@ -321,7 +322,7 @@ søknadsplikt	åhtsåmusvælggo	ohcangeatnegasvuohta	1	0	1	0
 
 nabodistrikt	ráddnáguovllo	ránnjáorohat	3	0	3	0
 
-ungdomsrepresentant	nuorraájras	nuoraidovddasteaddji	1	0	1	0
+ungdomsrepresentant	nuorajájras	nuoraidovddasteaddji	1	0	1	0
 
 studentrepresentant	studænntaájras	studeantalahttu/studeantaovddasteaddji	1	0	1	0
 
@@ -329,9 +330,9 @@ svarprosent	vásstádusprosænnta	vástidanproseanta	4	0	1	0
 
 vedtakstekst	mærrádustæksta	mearrádusteaksta	1	0	1	0
 
-sametingsdebatt	sámediggeságastallam	sámediggedigaštallan	1	0	0	0
+sametingsdebatt	sámediggedágástallam	sámediggedigaštallan	1	0	0	0
 
-rettighetsdebatt	riektáságastallam	vuoigatvuođadigaštallan	2	0	1	0
+rettighetsdebatt	riektádágástallam	vuoigatvuođadigaštallan	2	0	1	0
 
 reisebudsjett	mannobudsjæhtta	mátkkoštanbušeahtta	0	0	1	0
 

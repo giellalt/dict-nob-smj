@@ -1,55 +1,56 @@
+# @ = bad candidates
 
 finnefondssøknad	sámefoanndaåhtsåmus	sámefoandaohcamuš	1	0	0	0
 
-enkeltsøknad	ájnegisåhtsåm	eaŋkilohcamuš	2	0	1	0
+@enkeltsøknad	ájnegisåhtsåm	eaŋkilohcamuš	2	0	1	0
 
 storfehold	stuorbårresujtto	šibitdoallu	1	0	18	0
 
-studieopphold	åhpadusårro	oahppogalledeapmi	1	0	0	0
+studieopphold	åhpadusbåddå	oahppogalledeapmi	1	0	0	0
 
-terminalforhold	terminállavijor	termináladilli	1	0	1	0
+terminalforhold	terminálladille	termináladilli	1	0	1	0
 
 oljesand	ulljosáttoj	oljosáttu	1	0	1	0
 
-rypestand	åresdálvve	rievssatmáddodat	1	0	2	0
+@rypestand	åresdálvve	rievssatmáddodat	1	0	2	0
 
-samiskstipend	sábmestipænnda	sámegielstipeanda	1	0	1	0
+samiskstipend	sámestipænnda	sámegielstipeanda	1	0	1	0
 
-velferdstilbud	álkkádusskåvllåfálaldahka	čálgofálaldat	9	0	2	0
+velferdstilbud	álkkádusfálaldahka	čálgofálaldat	9	0	2	0
 
-formidlingstilbud	åvddånbuktemskåvllåfálaldahka	gaskkustanfálaldat	1	0	1	0
+formidlingstilbud	åvddånbuktemfálaldahka	gaskkustanfálaldat	1	0	1	0
 
-saksmengde	ássjegiehtadallamvehka	áššehivvodat	6	0	2	0
+@saksmengde	ássjegiehtadallamvehka	áššehivvodat	6	0	2	0
 
 trusselbilde	ájttogåvvå	áittagovva	2	0	1	0
 
-tidslinje	ájggebarggosuorgge	áigelinnjá	1	0	1	0
+@tidslinje	ájggebarggosuorgge	áigelinnjá	1	0	1	0
 
-gjeldsfelle	vielggeváhtá	vealggáidupmi	1	0	1	0
+@gjeldsfelle	vielggeváhtá	vealggáidupmi	1	0	1	0
 
 undervisningstime	åhpadustijmma	oahpahusdiibmu/oahpahandiibmu/oahppodiibmu	7	0	3	0
 
 offerholme	værrosuollusj	sieidesuolu/oaffarsuolu	1	0	1	0
 
-randsone	várroguovllo	ravdaavádat	4	0	2	0
+@randsone	várroguovllo	ravdaavádat	4	0	2	0
 
 virkemiddelsone	vájkkudusguovllo	gaskaoapmebiire	1	0	0	0
 
-oppholdssone	årroguovllo	orrunsadji	0	0	28	0
+@oppholdssone	årroguovllo	orrunsadji	0	0	28	0
 
-meglergruppe	såbadallebarggojuogos	soabahanjoavku	1	0	1	0
+meglergruppe	såbadallejuogos	soabahanjoavku	1	0	1	0
 
 standardvare	standárddagálvvo	standárdagálvu	1	0	1	0
 
 idrettsstyre	valástallamráddidus	valáštallanstivra	1	0	2	0
 
-enkeltreise	ájnegismannodoarjja	eaŋkilmátki	0	0	0	0
+@enkeltreise	ájnegismannodoarjja	eaŋkilmátki	0	0	0	0
 
-plenumsledelse	ållesstivrra	dievasčoahkkinjođiheaddji/dievasčoahkkinjođihangoddi	43	0	11	0
+@plenumsledelse	ållesstivrra	dievasčoahkkinjođiheaddji/dievasčoahkkinjođihangoddi	43	0	11	0
 
-idrettsbevegelse	valástallamgåhttse	valáštallanlihkadus	2	0	1	0
+idrettsbevegelse	valástallamgåhttsåm	valáštallanlihkadus	2	0	1	0
 
-profesjonsforståelse	suorggedádjadus	profešuvdnaáddejupmi/profešuvdnaipmárdus	2	0	1	0
+profesjonsforståelse	profesjåvnnådádjadus	profešuvdnaáddejupmi/profešuvdnaipmárdus	2	0	1	0
 
 sosialkonferanse	sosiállakonferánssa	sosiálakonferánsa	1	0	2	0
 
@@ -57,222 +58,222 @@ arrangørkonferanse	ásadiddjekonferánssa	lágideaddjekonferánsa	1	0	1	0
 
 næringslivskonferanse	æládusiellemkonferánssa	ealáhuskonferánsa	1	0	1	0
 
-ledelseskompetanse	stivrramáhtudahka	jođihangealbu	1	0	1	0
+ledelseskompetanse	jådedimmáhtudahka	jođihangealbu	1	0	1	0
 
-innsigelseskompetanse	vuossteháhkomáhtto	vuosttaldangelbbolašvuohta	2	0	0	0
+@innsigelseskompetanse	vuossteháhkomáhtto	vuosttaldangelbbolašvuohta	2	0	0	0
 
-formuesmasse	åbmudahkahávdde	opmodatvalljodat	1	0	1	0
+@formuesmasse	åbmudahkahávdde	opmodatvalljodat	1	0	1	0
 
 totalkvote	ålleskvåvttå	oppalašearri/ollesearri	7	0	1	0
 
-ankerfeste	áŋkerbierŋes	fággi	2	0	2	0
+@ankerfeste	áŋkerbierŋes	fággi	2	0	2	0
 
-stiftelsesmøte	vuododusdigge	ásahančoahkkin/vuođđudančoahkkin	2	0	3	0
+stiftelsesmøte	vuododimtjåhkanibme	ásahančoahkkin/vuođđudančoahkkin	2	0	3	0
 
-nettverksmøte	værmádahkadigge	fierpmádatčoahkkin	14	0	5	0
+nettverksmøte	værmádahkatjåhkanibme	fierpmádatčoahkkin	14	0	5	0
 
 livsnerve	viessomnærvva	váldosuotna	2	0	1	0
 
-idrettsfag	valástallamfáhkaterminologiddja	valáštallanfága	2	0	2	0
+idrettsfag	valástallamfáhka	valáštallanfága	2	0	2	0
 
-enkeltfag	ájnegisfáhkaterminologiddja	oktagasfága	2	0	1	0
+@enkeltfag	ájnegisfáhkaterminologiddja	oktagasfága	2	0	1	0
 
-representasjonsbolig	åvdåstusviesso	ovddastusásodat	0	0	0	0
+@representasjonsbolig	åvdåstusviesso	ovddastusásodat	0	0	0	0
 
-fortgang	åvddåvádtse	hoahpuheapmi	11	0	1	0
+@fortgang	åvddåvádtse	hoahpuheapmi	11	0	1	0
 
 idrettsmelding	valástallamdiededibme	valáštallandieđáhus	2	0	1	0
 
-næringsplanlegging	æláduspládnaplánim	ealáhusplánen	2	0	1	0
+næringsplanlegging	æládusplánim	ealáhusplánen	2	0	1	0
 
-linjebygging	suorggeåvddånahttem	linnjáhuksen	1	0	1	0
+@linjebygging	suorggeåvddånahttem	linnjáhuksen	1	0	1	0
 
-veibygging	væddjaåvddånahttem	geaidnohuksen	10	0	6	0
+@veibygging	væddjaåvddånahttem	geaidnohuksen	10	0	6	0
 
-nettverksbygging	værmádahkaåvddånahttem	fierpmádathuksen/fierpmádatduddjon	29	0	5	0
+@nettverksbygging	værmádahkaåvddånahttem	fierpmádathuksen/fierpmádatduddjon	29	0	5	0
 
-tekstbygging	tækstaåvddånahttem	teakstahuksen	4	0	1	0
+@tekstbygging	tækstaåvddånahttem	teakstahuksen	4	0	1	0
 
-undertrykking	vuolepdæddalibme	duolbman	6	0	7	0
+@undertrykking	vuolepdæddalibme	duolbman	6	0	7	0
 
 studentbetaling	studænntamáksem	studeantamáksámuš	1	0	1	0
 
-plenumsbehandling	ållesássjegiehtadallam	dievasčoahkkinmeannudeapmi/plenumgieđahallan	6	0	1	0
+@plenumsbehandling	ållesássjegiehtadallam	dievasčoahkkinmeannudeapmi/plenumgieđahallan	6	0	1	0
 
-helkroppsmåling	ållesrumáj	ollesrumašiskkadeapmi	1	0	0	0
+@helkroppsmåling	ållesrumáj	ollesrumašiskkadeapmi	1	0	0	0
 
-strømledning	strávvebåhttså	fápmojođas	1	0	4	0
+@strømledning	strávvebåhttså	fápmojođas	1	0	4	0
 
-læringordning	åhpadusdoarjjaårnik	fidnooahppoortnet	3	0	1	0
+@læringordning	åhpadusdoarjjaårnik	fidnooahppoortnet	3	0	1	0
 
-innsigelsesordning	vuossteháhkodoarjjaårnik	vuosttaldanortnet	1	0	0	0
+@innsigelsesordning	vuossteháhkodoarjjaårnik	vuosttaldanortnet	1	0	0	0
 
-tettstedsbefolkning	tjoahkkebájkkeulmusj	čoahkkebáikeálbmot	2	0	1	0
+tettstedsbefolkning	tjoahkkebájkkeálmmuk	čoahkkebáikeálbmot	2	0	1	0
 
 folkeskoleundervisning	álmmukskåvllåoahppo	álbmotskuvlaoahpahus	1	0	0	0
 
 standardløsning	standárddatjoavdos	standárdačoavddus	1	0	1	0
 
-samiskløsning	sábmetjoavdos	sámegielčoavddus	1	0	1	0
+samiskløsning	sámetjoavdos	sámegielčoavddus	1	0	1	0
 
 nettverksorganisering	værmádahkaorganisierim	fierpmádatorganiseren	1	0	1	0
 
-husdyrnæring	slidoræládusåvddånahttem	šibitealáhus	1	0	1	0
+husdyrnæring	slidoræládus	šibitealáhus	1	0	1	0
 
-totalkolesterolverdi	ålleskolesteråvllå	kolesterolaárvu	1	0	1	0
+@totalkolesterolverdi	ålleskolesteråvllå	kolesterolaárvu	1	0	1	0
 
-opplevelsesverdi	vásádushadde	vásihusárvu	1	0	1	0
+opplevelsesverdi	vásádusárvvo	vásihusárvu	1	0	1	0
 
-flaggsak	slávggáássjegiehtadallam	leavgaášši	1	0	1	0
+@flaggsak	slávggáássjegiehtadallam	leavgaášši	1	0	1	0
 
-lotterisak	vuorbbádusássjegiehtadallam	vuorbádanášši	1	0	0	0
+lotterisak	vuorbbádusássje	vuorbádanášši	1	0	0	0
 
-innsigelsessak	vuossteháhkoássjegiehtadallam	vuostecealkka/vuosttaldanášši	2	0	1	0
+@innsigelsessak	vuossteháhkoássjegiehtadallam	vuostecealkka/vuosttaldanášši	2	0	1	0
 
-valgordningssak	válgganjuolgadusássje	válgaortnetášši	1	0	1	0
+valgordningssak	válggaårnikássje	válgaortnetášši	1	0	1	0
 
-enkeltsak	ájnegisássjegiehtadallam	bođuášši/eaŋkilášši	18	0	3	0
+@enkeltsak	ájnegisássjegiehtadallam	bođuášši/eaŋkilášši	18	0	3	0
 
-boskikk	årrodáhpe	ássanvierru	1	0	1	0
+boskikk	årromdáhpe	ássanvierru	1	0	1	0
 
-hverdagspolitikk	árggaguovllopolitihkka	árgabeaivepolitihkka	1	0	0	0
+hverdagspolitikk	árggapolitihkka	árgabeaivepolitihkka	1	0	0	0
 
-idrettspolitikk	valástallamguovllopolitihkka	falástallanpolitihkka/valáštallanpolitihkka	1	0	1	0
+idrettspolitikk	valástallampolitihkka	falástallanpolitihkka/valáštallanpolitihkka	1	0	1	0
 
-helmelk	ájlismielkke	čielgamielki	1	0	1	0
+@helmelk	ájlismielkke	čielgamielki	1	0	1	0
 
-vassverk	tjáhtjeværmádahka	čáhcehoidu	1	0	1	0
+@vassverk	tjáhtjeværmádahka	čáhcehoidu	1	0	1	0
 
-utdanningsnettverk	åhpadiddjeåhpadusværmádahka	oahpahusfierpmádat/oahpahusfierbmi	2	0	1	0
+utdanningsnettverk	åhpadusværmádahka	oahpahusfierpmádat/oahpahusfierbmi	2	0	1	0
 
-enkeltbruk	ájnegisbarggo	eaŋkildoallu	1	0	1	0
+@enkeltbruk	ájnegisbarggo	eaŋkildoallu	1	0	1	0
 
-boligvirkemiddel	viessovájkkudus	ássandoaibma	1	0	1	0
+@boligvirkemiddel	viessovájkkudus	ássandoaibma	1	0	1	0
 
-dagligvarehandel	árggagálvvooasestibme	dállodoallogávpi	1	0	1	0
+@dagligvarehandel	árggagálvvooasestibme	dállodoallogávpi	1	0	1	0
 
 undervisningstimetall	åhpadustijmmalåhko	oahpahusdiibmolohku	1	0	1	0
 
-nasjonalregnskapstall	álmmukruhtalåhko	nationálarehketdoallolohku	1	0	0	0
+@nasjonalregnskapstall	álmmukruhtalåhko	nationálarehketdoallolohku	1	0	0	0
 
 idrettsmodell	valástallamvuohke	valáštallanmodealla	1	0	0	0
 
-helgefyll	ájllekdevdadis	vahkkoloahpajuhkan	1	0	1	0
+@helgefyll	ájllekdevdadis	vahkkoloahpajuhkan	1	0	1	0
 
-skolebibliotekprogram	skåvllååvddånahttemprográmma	skuvlagirjerádjoprográmma	1	0	1	0
+skolebibliotekprogram	skåvllågirjjevuorkkáprográmma	skuvlagirjerádjoprográmma	1	0	1	0
 
 undervisningssykehjem	åhpadusskihppijsijdda	oahpahusbuohcceruoktu	5	0	1	0
 
 skolehjem	skåvllåviesso	skuvlaruoktu	4	0	1	0
 
-idrettsungdom	valástallamnuorajskåvllå	valáštallannuorra	2	0	1	0
+idrettsungdom	valástallamnuorra	valáštallannuorra	2	0	1	0
 
-folkehelsesykdom	álmmukvarresvuohtavihke	álbmotdearvvašvuođadávda	0	0	1	0
+folkehelsesykdom	álmmukvarresvuohtadávdda	álbmotdearvvašvuođadávda	0	0	1	0
 
 infeksjonssykdom	vuolssjedávdda	logahasdávda	1	0	1	0
 
-enkeltsykdom	ájnegisvihke	bođudávda	1	0	1	0
+@enkeltsykdom	ájnegisvihke	bođudávda	1	0	1	0
 
 minoritetspublikum	unneplåhkogæhttje	unnitálbmotgeahčči	1	0	1	0
 
 lærerskoleeksamen	åhpadiddjeskåvllåeksábma	oahpaheaddjeskuvlaeksámen	1	0	0	0
 
-studiedesign	åhpadushábmedibme	dutkanhápmi	1	0	1	0
+@studiedesign	åhpadushábmedibme	dutkanhápmi	1	0	1	0
 
-pinsevenn	ájlistahkaguojmme	hellodatustit	1	0	4	0
+@pinsevenn	ájlistahkaguojmme	hellodatustit	1	0	4	0
 
-studielån	åhpadusluojkkam	studieloatna/oahppoloatna	23	0	4	0
+studielån	åhpaduslådna	studieloatna/oahppoloatna	23	0	4	0
 
-boliglån	viessoluojkkam	visteloatna	1	0	1	0
+boliglån	goahtelådna	visteloatna	1	0	1	0
 
-startlån	álggolådna	álggahanloatna	4	0	2	0
+@startlån	álggolådna	álggahanloatna	4	0	2	0
 
-prosjektregnskap	åvddånahttemprosjæktaruhtalåhko	prošeaktarehketdoallu	36	0	11	0
+@prosjektregnskap	åvddånahttemprosjæktaruhtalåhko	prošeaktarehketdoallu	36	0	11	0
 
-verdensmesterskap	væráltgilpos	máilmmimeašttirvuođagilvu	3	0	1	0
+@verdensmesterskap	væráltgilpos	máilmmimeašttirvuođagilvu	3	0	1	0
 
 sosialseminar	sosiállaseminárra	sosiálaseminára	2	0	1	0
 
-utdanningsseminar	åhpadiddjeåhpadusseminárra	oahpposeminára	1	0	1	0
+utdanningsseminar	åhpadusseminárra	oahpposeminára	1	0	1	0
 
-styringsansvar	stivrravásstádus	stivrenovddasvástádus	4	0	1	0
+styringsansvar	stivrrimåvdåsvásstádus	stivrenovddasvástádus	4	0	1	0
 
-feltleder	suorggejådediddje	gieddejođiheaddji	2	0	1	0
+@feltleder	suorggejådediddje	gieddejođiheaddji	2	0	1	0
 
-oljeressurser	ulljoresurssaháldadus	oljoopmodat	0	0	1	0
+@oljeressurser	ulljoresurssaháldadus	oljoopmodat	0	0	1	0
 
-nasjonalteater	álmmukteáhter	našuvnnalašteáhter	6	0	0	0
+@nasjonalteater	álmmukteáhter	našuvnnalašteáhter	6	0	0	0
 
-prosjektteater	åvddånahttemprosjæktateáhtar	prošeaktateáhter	1	0	1	0
+prosjektteater	prosjæktateáhtar	prošeaktateáhter	1	0	1	0
 
 skolemester	skåvllåvuojtte	skuvlameašttir	4	0	1	0
 
 sameskolemester	sámeskåvllåvuojtte	sámeskuvlaolmmái	1	0	1	0
 
-utdanningsminister	åhpadiddjeåhpadusministar	oahpahusministtar	5	0	6	0
+utdanningsminister	åhpadiddjeministar	oahpahusministtar	5	0	6	0
 
-kraftverkssektor	ásadussuorgge	fápmoráhkkanussuorgi	1	0	1	0
+@kraftverkssektor	ásadussuorgge	fápmoráhkkanussuorgi	1	0	1	0
 
-flåtestruktur	vanntsahábme	fanasstruktuvra	3	0	1	0
+@flåtestruktur	vanntsahábme	fanasstruktuvra	3	0	1	0
 
-styringsstruktur	stivrrahábmekvåvttå	stivrenstruktuvra	5	0	2	0
+@styringsstruktur	stivrrahábmekvåvttå	stivrenstruktuvra	5	0	2	0
 
-fartøystruktur	vanntsahábme	fanasstruktuvra	1	0	1	0
+@fartøystruktur	vanntsahábme	fanasstruktuvra	1	0	1	0
 
 olje-eventyr	ulljo-subtsas	oljomáinnasdilli	1	0	0	0
 
-feltutstyr	suorggevædtsak	gieddereaidu/giedderusttet	2	0	1	0
+@feltutstyr	suorggevædtsak	gieddereaidu/giedderusttet	2	0	1	0
 
-læringsvilkår	åhpadusdille	oahppandilálašvuohta	1	0	1	0
+læringsvilkår	åhpadusækto	oahppandilálašvuohta	1	0	1	0
 
-utdanningskvalitetspris	åhpadiddjeåhpaduskvalitæhtta	oahppokvalitehtabálkkašupmi	1	0	1	0
+utdanningskvalitetspris	åhpaduskvalitæhtta	oahppokvalitehtabálkkašupmi	1	0	1	0
 
-sportspris	valástallamhievedibme	valáštallanhaddi	0	0	1	0
+@sportspris	valástallamhievedibme	valáštallanhaddi	0	0	1	0
 
-idrettspris	valástallamhievedibme	valáštallanbálkkašupmi/valáštallibálkkašupmi/falástallanbálkkašupmi	4	0	1	0
+@idrettspris	valástallamhievedibme	valáštallanbálkkašupmi/valáštallibálkkašupmi/falástallanbálkkašupmi	4	0	1	0
 
-oljeressurs	ulljoresurssaháldadus	oljoresursa	1	0	1	0
+@oljeressurs	ulljoresurssaháldadus	oljoresursa	1	0	1	0
 
-opplevelsesressurs	vásádusresurssaháldadus	muosáhanvalljodat	1	0	1	0
+@opplevelsesressurs	vásádusresurssaháldadus	muosáhanvalljodat	1	0	1	0
 
-utviklingsressurs	åvddånahttemresurssaháldadus	buvttadanresursa	0	0	1	0
+@utviklingsressurs	åvddånahttemresurssaháldadus	buvttadanresursa	0	0	1	0
 
-vannkraftressurs	tjáhtjefábmoresurssaháldadus	čáhcefápmoresursa	1	0	1	0
+@vannkraftressurs	tjáhtjefábmoresurssaháldadus	čáhcefápmoresursa	1	0	1	0
 
-lærlingplass	viddnooahppesalljo	oahpahallisadji	3	0	1	0
+@lærlingplass	viddnooahppesalljo	oahpahallisadji	3	0	1	0
 
 sykkelinnsats	syhkalratjástibme	sihkkeláŋgiruššan	1	0	0	0
 
 urfolksfokus	álggoálmmukguovdásj	álgoálbmotfokus	1	0	1	0
 
-originalmanus	álggománus	originálamánus	6	0	2	0
+@originalmanus	álggománus	originálamánus	6	0	2	0
 
-lærekandidat	åhpadiddjekandidáhtta	oahpaheaddjekandidáhtta	14	0	1	0
+@lærekandidat	åhpadiddjekandidáhtta	oahpaheaddjekandidáhtta	14	0	1	0
 
-innsigelsesmyndighet	vuossteháhkofábmogisvuohta	cealkinváldi	8	0	1	0
+@innsigelsesmyndighet	vuossteháhkofábmogisvuohta	cealkinváldi	8	0	1	0
 
-kringkastingsvirksomhet	sáddimbarggo	sáddehatdoaibma	2	0	1	0
+@kringkastingsvirksomhet	sáddimbarggo	sáddehatdoaibma	2	0	1	0
 
-boenhet	årojavtadahka	ássanovttadat	4	0	1	0
+@boenhet	årojavtadahka	ássanovttadat	4	0	1	0
 
 friluftsaktivitet	ålggoaktivitæhtta	olgunastindoaibma	1	0	1	0
 
-nasjonalprodukt	álmmukgálvvo	bruttoálbmotbuvttadus	1	0	1	0
+@nasjonalprodukt	álmmukgálvvo	bruttoálbmotbuvttadus	1	0	1	0
 
-kringkastingsfelt	sáddimdajvva	áibmomediasuorgi	1	0	1	0
+@kringkastingsfelt	sáddimdajvva	áibmomediasuorgi	1	0	1	0
 
-studentrepresentant	studænntaájrra	studeantalahttu/studeantaovddasteaddji	1	0	1	0
+studentrepresentant	studænntaájras	studeantalahttu/studeantaovddasteaddji	1	0	1	0
 
-utstillingskonsept	vuosádusoajvvadus	čájáhusáigumuš	1	0	1	0
+@utstillingskonsept	vuosáduskonsæppta	čájáhusáigumuš	1	0	1	0
 
-villsau	åjdåsávttsa	villasávza	2	0	1	0
+@villsau	åjdåsávttsa	villasávza	2	0	1	0
 
 standardbrev	standárddagirjje	standárdareive	1	0	1	0
 
-bokollektiv	årojkollektijvva	ássankollektiiva	2	0	1	0
+bokollektiv	årromkollektijvva	ássankollektiiva	2	0	1	0
 
-vannressurslov	tjáhtjeresurssaháldadus	čáhceresursaláhka	3	0	1	0
+@vannressurslov	tjáhtjeresurssaháldadus	čáhceresursaláhka	3	0	1	0
 
-styringsverktøy	stivrranævvo	stivrengaskaoapmi/stivrenneavvu/stivrenreaidu	10	0	2	0
+styringsverktøy	stivrrimnævvo	stivrengaskaoapmi/stivrenneavvu/stivrenreaidu	10	0	2	0
 
-luftfartøy	ájmmovanntsa	áibmofievru	3	0	1	0
+@luftfartøy	ájmmovanntsa	áibmofievru	3	0	1	0
