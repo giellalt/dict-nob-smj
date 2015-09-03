@@ -1,3 +1,4 @@
+# + = good
 
 medlemsblad	sebrulattjalassta	miellahttobláđđi	1	0	1	0
 medlemsblad	sebrulasjlassta	miellahttobláđđi	1	0	1	0
@@ -6,42 +7,42 @@ ungdomsblad	nuoralassta	nuoraidbláđđi	4	0	5	0
 ungdomsblad	nuorralassta	nuoraidbláđđi	4	0	5	0
 
 boligforhold	goadedille	ásodatdilálašvuohta	1	0	1	0
-boligforhold	goahtedille	ásodatdilálašvuohta	1	0	1	0
++boligforhold	goahtedille	ásodatdilálašvuohta	1	0	1	0
 
 rovdyrskade	urudisbiledibme	meahcieallivahát/boraspirevahát	3	0	7	0
-rovdyrskade	urudisvahágahttem	meahcieallivahát/boraspirevahát	3	0	7	0
++rovdyrskade	urudisvahágahttem	meahcieallivahát/boraspirevahát	3	0	7	0
 
-knivbelte	nijbbeavve	niibeboagán	1	0	1	0
++knivbelte	nijbbeavve	niibeboagán	1	0	1	0
 knivbelte	nijbeavve	niibeboagán	1	0	1	0
 
-rovdyrproblematikk	urudisproblematihkka	boraspireváttisvuohta/boraspirehástalus	5	0	4	0
++rovdyrproblematikk	urudisproblematihkka	boraspireváttisvuohta/boraspirehástalus	5	0	4	0
 rovdyrproblematikk	urudisproblematijkka	boraspireváttisvuohta/boraspirehástalus	5	0	4	0
 
 boligpolitikk	goadepolitihkka	ássanpolitihkka	2	0	1	0
-boligpolitikk	goahtepolitihkka	ássanpolitihkka	2	0	1	0
++boligpolitikk	goahtepolitihkka	ássanpolitihkka	2	0	1	0
 boligpolitikk	goadepolitijkka	ássanpolitihkka	2	0	1	0
 boligpolitikk	goahtepolitijkka	ássanpolitihkka	2	0	1	0
 
-ungdomshjem	nuorasijdda	nuoraidruoktu	1	0	2	0
++ungdomshjem	nuorajsijdda	nuoraidruoktu	1	0	2	0
 ungdomshjem	nuorrasijdda	nuoraidruoktu	1	0	2	0
 
-regelproduksjon	njuolgadusbuvtadibme	njuolggadusbuvttadeapmi	1	0	1	0
++regelproduksjon	njuolgadusbuvtadibme	njuolggadusbuvttadeapmi	1	0	1	0
 regelproduksjon	njuolgadusbuvtadus	njuolggadusbuvttadeapmi	1	0	1	0
 
 husdyrproduksjon	slihturabuvtadibme	šibitbuvttadeapmi/šibitbuvttadus	3	0	1	0
-husdyrproduksjon	slidorbuvtadibme	šibitbuvttadeapmi/šibitbuvttadus	3	0	1	0
++husdyrproduksjon	slidorbuvtadibme	šibitbuvttadeapmi/šibitbuvttadus	3	0	1	0
 husdyrproduksjon	slihturabuvtadus	šibitbuvttadeapmi/šibitbuvttadus	3	0	1	0
 husdyrproduksjon	slidorbuvtadus	šibitbuvttadeapmi/šibitbuvttadus	3	0	1	0
 
 gjennomsnittsalder	gasskamiereahke	gaskamearreahki/gaskamearálašahki	12	0	1	0
-gjennomsnittsalder	gasskamierreahke	gaskamearreahki/gaskamearálašahki	12	0	1	0
++gjennomsnittsalder	gasskamierreahke	gaskamearreahki/gaskamearálašahki	12	0	1	0
 
 stemmemottaker	jiednavuosstájvállde	jietnavuostáiváldi	13	0	1	0
-stemmemottaker	jiednaduossto	jietnavuostáiváldi	13	0	1	0
++stemmemottaker	jienastimduossto	jietnavuostáiváldi	13	0	1	0
 stemmemottaker	jienaduossto	jietnavuostáiváldi	13	0	1	0
 
 husdyrsektor	slihturasuorgge	šibitsektor	1	0	0	0
-husdyrsektor	slidorsuorgge	šibitsektor	1	0	0	0
++husdyrsektor	slidorsuorgge	šibitsektor	1	0	0	0
 
 oljeeventyr	oaljosubtsas	oljohistorjá/oljomáinnasdilli	1	0	1	0
 oljeeventyr	oalljosubtsas	oljohistorjá/oljomáinnasdilli	1	0	1	0
@@ -49,11 +50,11 @@ oljeeventyr	ulljosubtsas	oljohistorjá/oljomáinnasdilli	1	0	1	0
 oljeeventyr	uljosubtsas	oljohistorjá/oljomáinnasdilli	1	0	1	0
 
 boligpris	goadehadde	stohpohaddi	1	0	1	0
-boligpris	goahtehadde	stohpohaddi	1	0	1	0
++boligpris	goahtehadde	stohpohaddi	1	0	1	0
 boligpris	goahtegudnebálkká	stohpohaddi	1	0	1	0
 
 referansepunkt	referensatjuokkes	čujuhusčuokkis	1	0	0	0
-referansepunkt	referánssatjuokkes	čujuhusčuokkis	1	0	0	0
++referansepunkt	referánssatjuokkes	čujuhusčuokkis	1	0	0	0
 
 oppfølgingspunkt	oatsodimetjuokkes	čuovvolančuokkis	2	0	1	0
 oppfølgingspunkt	oatsodimtjuokkes	čuovvolančuokkis	2	0	1	0

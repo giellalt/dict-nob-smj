@@ -1,3 +1,4 @@
+# @ = bad
 
 boligmarked	goahtemárnán	viessomárkan	3	0	1	0
 
@@ -9,7 +10,7 @@ tidslinje	ájggesáhtso	áigelinnjá	1	0	1	0
 
 stridsevne	rijddomáhtukvuohta	soahtenákca	1	0	0	0
 
-ledelseskompetanse	stivrramáhtto	jođihangealbu	1	0	1	0
+ledelseskompetanse	stivrrimmáhtudahka	jođihangealbu	1	0	1	0
 
 eventyrhefte	subtsasgirjásj	máinnasgihpa	1	0	1	0
 
@@ -29,7 +30,7 @@ husdyrnæring	slidoræládus	šibitealáhus	1	0	1	0
 
 boligvirkemiddel	goahtevájkkudimnævvo	ássandoaibma	1	0	1	0
 
-åremål	ájrroulmme	mearreáigi	6	0	6	0
+@åremål	ájrroulmme	mearreáigi	6	0	6	0
 
 rovdyrspørsmål	urudisgatjálvis	boraspiregažaldat/boraspirečuolbma/boraspireášši	1	0	1	0
 
@@ -37,11 +38,11 @@ skolehjem	skåvllåsijdda	skuvlaruoktu	4	0	1	0
 
 stemmeproblem	jiednagássjelisvuohta	jietnaváddu	1	0	1	0
 
-medisinstudium	dálkasoahppo	doavtterskuvla/medisiidnaoahppu	1	0	1	0
+medisinstudium	medisijnnaoahppo	doavtterskuvla/medisiidnaoahppu	1	0	1	0
 
 praksisstudium	hárjjidallamoahppo	práksisoahppu	1	0	0	0
 
-skolesanglærereksamen	skåvllålávlla	skuvlalávlunoahpaheaddjeeksámen	1	0	0	0
+@skolesanglærereksamen	skåvllålávlla	skuvlalávlunoahpaheaddjeeksámen	1	0	0	0
 
 prosessvann	prosæssajávrre	proseassačáhci	1	0	1	0
 
@@ -51,14 +52,14 @@ parlamentsfunksjon	parlamænntafunksjåvnnå	parlameantadoaibma	1	0	1	0
 
 boliglån	goahtelådna	visteloatna	1	0	1	0
 
-farskap	áhttjeskáhppa	áhččivuohta	3	0	2	0
+farskap	áhttjevuohta	áhččivuohta	3	0	2	0
 
-protokollkontor	bievddegirjekontåvrrå	protokollakantuvra	1	0	1	0
+protokollkontor	bievddegirjjekontåvrrå	protokollakantuvra	1	0	1	0
 
 samtaleprosess	ságastallamprosæssa	ságastallanproseassa	0	0	1	0
 
-lærerkraft	skåvlikfábmo	oahpahusnákca/oahpahannákca	4	0	1	0
+@lærerkraft	skåvlikfábmo	oahpahusnákca/oahpahannákca	4	0	1	0
 
 flyttsameslekt	jåhttesábmefuolkke	johttisámisohka	1	0	1	0
 
-samepresident	sábmepresidænnta	sámepresideanta	1	0	1	0
+samepresident	sámepresidænnta	sámepresideanta	1	0	1	0
