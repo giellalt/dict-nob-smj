@@ -1,5 +1,6 @@
+# @ = bad candidates
 
-            	referáhtta	referáhta	0	5	2	0
+referat            	referáhtta	referáhta	0	5	2	0
 
 husleiekostnad	goahtelájggogållo	viessoláigogollu	2	0	1	0
 
@@ -7,7 +8,7 @@ feriemåned	loahpemánno	luopmománnu	1	0	1	0
 
 strategiarbeid	ájggomusbarggo	strategiijabargu	2	0	1	0
 
-pionerarbeid	njunnjutjabarggo	ovddasmannibargu	2	0	1	0
+@pionerarbeid	njunnjutjabarggo	ovddasmannibargu	2	0	1	0
 
 fornyelsesarbeid	ådåstuhttembarggo	ođasmahttinbargu	1	0	3	0
 
@@ -15,13 +16,13 @@ publikumsarbeid	gæhttjebarggo	gehččiiddikšu	1	0	1	0
 
 pasientsikkerhetsarbeid	pasiænntasihkarvuohtabarggo	pasieantadorvvolašvuođabargu	1	0	1	0
 
-fortid	preterihtta	preterihtta	30	0	10	0
+preteritum	preterihtta	preterihtta	30	0	10	0
 
 deltakerland	oassálassteednam	oassálastiriika	1	0	1	0
 
-stand	virgge	seahtu	172	301	2	1
+stilling	virgge	seahtu	172	301	2	1
 
-slagord	sládjabáhko	čurvestat/čuoládat/čuoládatsátni/čuorvvassátni	4	0	1	0
+@slagord	sládjabáhko	čurvestat/čuoládat/čuoládatsátni/čuorvvassátni	4	0	1	0
 
 døgntilbud	jánndurfálaldahka	jándorfálaldat	1	0	1	0
 
@@ -35,13 +36,13 @@ formannskapsperiode	åvddånammadusgávdda	ovdagoddeáigodat	2	0	1	0
 
 treningsmetode	hárjjidallammetåvddå	hárjehallanvuohki	1	0	1	0
 
-kafémetode	kafeametåvddå	kafeavuohki	1	0	1	0
+kafémetode	kafémetåvddå	kafeavuohki	1	0	1	0
 
-merkegjerde	mærkkagárdde	mearkungárdi	2	0	1	0
+merkegjerde	mierkkimgárdde	mearkungárdi	2	0	1	0
 
 helseområde	varresvuohtasuorgge	dearvvasvuođasuorgi	1	0	2	0
 
-saltvannsområde	sálltejávrre	sáltečáhceguovlu	1	0	1	0
+saltvannsområde	sálltetjáhtjeguovllo	sáltečáhceguovlu	1	0	1	0
 
 mage	tjoajvve	čoavji/gopmut	13	54	16	2
 
@@ -49,17 +50,17 @@ kandidatrekkefølge	kandidáhttavuorro	evttohasortnetvuorru	1	0	1	0
 
 ungdomsleke	nuorrastågan	nuoraidriemut	1	0	1	0
 
-saltvannfiske	sálltejávrre	sáltečáhcebivdu	1	0	1	0
+saltvannfiske	sálltejávrreguollim	sáltečáhcebivdu	1	0	1	0
 
-regle	rijmma	hoahkan	412	24	3	5
+rim	rijmma	hoahkan	412	24	3	5
 
 valgtingsstemme	válggadiggejiedna	válgadiggejietna	2	0	1	0
 
-rutine	dáhpe	rutiidna/bargodáhpi/vierru/bargomálle	42	668	27	9
+rutine	rutijnna	rutiidna/bargodáhpi/vierru/bargomálle	42	668	27	9
 
-vurderingsevne	árvustallamdájddomáhtukvuohta	árvvoštallannákca	1	0	2	0
+vurderingsevne	árvustallammáhtukvuohta	árvvoštallannákca	1	0	2	0
 
-hjørnestolpe	vuodo	čávgŋi	0	1376	1	0
+@hjørnestolpe	vuodo	čávgŋi	0	1376	1	0
 
 turistbrosjyre	turisstagirjásj	turistabábir	1	0	0	0
 
@@ -71,9 +72,9 @@ endringsledelse	rievddadusstivrra	rievdadanjođiheapmi	1	0	0	0
 
 tollbestemmelse	tullamærrádus	duollomearrádus	1	0	1	0
 
-garnbestemmelse	lájggemærrádus	sáibmamearrádus	1	0	1	0
+@garnbestemmelse	lájggemærrádus	sáibmamearrádus	1	0	1	0
 
-årsgodtgjørelse	jahkemákso	jahkebuhtadus	10	0	6	0
+@årsgodtgjørelse	jahkemákso	jahkebuhtadus	10	0	6	0
 
 rolleforståelse	roalladádjadus	rollaáddejupmi	1	0	1	0
 
@@ -81,15 +82,15 @@ kjønnsbalanse	sjiervvebalánssa	sohkabealdássedeaddu/sohkabealledeaddu/sohkabe
 
 driftsbalanse	doajmmabalánssa	jođihanbalánsa	1	0	0	0
 
-markedskompetanse	márnánmáhtto	márkangelbbolašvuohta/márkangealbu	3	0	1	0
+markedskompetanse	márnánmáhtudahka	márkangelbbolašvuohta/márkangealbu	3	0	1	0
 
-planleggingskompetanse	plánimmáhtto	plánenmáhttu	1	0	1	0
+planleggingskompetanse	plánimmáhtudahka	plánenmáhttu	1	0	1	0
 
-formidlingskompetanse	åvddånbuktemmáhtto	gaskkustangelbbolašvuohta	1	0	1	0
+formidlingskompetanse	åvddånbuktemmáhtudahka	gaskkustangelbbolašvuohta	1	0	1	0
 
 valgforskningskompetanse	válggadutkammáhtudahka	válgadutkangelbbolašvuohta	1	0	1	0
 
-forskriftskompetanse	njuolgadustjálamáhtto	láhkaásahusgelbbolašvuohta	3	0	1	0
+forskriftskompetanse	njuolgadustjálamáhtudahka	láhkaásahusgelbbolašvuohta	3	0	1	0
 
 publikumsmesse	gæhttjemæsso	álbmotmeassu	1	0	1	0
 
@@ -97,21 +98,21 @@ minoritetsinteresse	minoritiehttaberustibme	veahádatberoštus	1	0	1	0
 
 seikvote	sájddekvåvttå	sáideearri	1	0	1	0
 
-ønskeliste	hállolissta	sávvanlista	1	0	0	0
+ønskeliste	sávvamlissta	sávvanlista	1	0	0	0
 
 helseministermøte	varresvuohtaministartjåhkanibme	dearvvašvuođaministtarčoahkkin	2	0	1	0
 
 kulturministermøte	kultuvrraministartjåhkanibme	kulturministtarčoahkkin	1	0	1	0
 
-oppstartsmøte	álggomuddotjåhkanibme	álggahančoahkkin	4	0	3	0
+oppstartsmøte	álgadimtjåhkanibme	álggahančoahkkin	4	0	3	0
 
-debattmøte	ságastallamtjåhkanibme	digaštallančoahkkin	1	0	1	0
+debattmøte	dágástallamtjåhkanibme	digaštallančoahkkin	1	0	1	0
 
 fristdag	ájggemierrebiejvve	áigemearrebeaivi	1	0	1	0
 
 naturressursgrunnlag	luonndoresurssavuodo	luondduresursavuođđu	1	0	1	0
 
-konjunkturomslag	konjunktuvrraålgusj	konjunkturnuppástus	1	0	0	0
+konjunkturomslag	konjunktuvrranuppástuhttem	konjunkturnuppástus	1	0	0	0
 
 mindretallsforslag	unneplåhkooajvvadus	uhcitloguárvalus/unnitloguevttohus	2	0	1	0
 
@@ -123,23 +124,23 @@ godtgjørelsesutvalg	máksonammadus	buhtaduslávdegoddi	0	0	1	0
 
 representasjonsutvalg	åvdåstusnammadus	ovddastanjuogus	1	0	0	0
 
-omfang	areálla	viidodat/mahtodat/birramihttu/gustonviidodat	129	407	17	0
+areal	areálla	viidodat/mahtodat/birramihttu/gustonviidodat	129	407	17	0
 
-gang	vádtsem	guhkes feaskkir/feaskkir/johtu/geardi/váccáhat/vázzin/hávvi	879	65	116	0
+@gang	vádtsem	guhkes feaskkir/feaskkir/johtu/geardi/váccáhat/vázzin/hávvi	879	65	116	0
 
-streng	suodna	suotna	70	8	7	1
+sene	suodna	suotna	70	8	7	1
 
-tilbakemelding	reaksjåvnnå	dávisteapmi	67	5	4	0
+reaksjon	reaksjåvnnå	dávisteapmi	67	5	4	0
 
-høvding	jådediddje	oaivámuš	5	221	13	0
+leder	jådediddje	oaivámuš	5	221	13	0
 
 kystsoneplanlegging	merraguovlloplánim	riddoavádatplánen	2	0	1	0
 
-kompetanseplanlegging	máhttoplánim	gealboplánen/máhttoplánen	1	0	1	0
+kompetanseplanlegging	máhtudakplánim	gealboplánen/máhttoplánen	1	0	1	0
 
-vannplanlegging	jávrreplánim	čáhceplánen	1	0	0	0
+vannplanlegging	tjáhtjeplánim	čáhceplánen	1	0	0	0
 
-kompetansekartlegging	máhttoguoradallam	gelbbolašvuođakárten	1	0	1	0
+kompetansekartlegging	máhtudakguoradallam	gelbbolašvuođakárten	1	0	1	0
 
 kvoteanbefaling	kvåvttåoajvvadus	earreráva	1	0	1	0
 
@@ -149,15 +150,15 @@ manntallsutvikling	ulmusjlåhkoåvddånibme	jienastusloguovdáneapmi	1	1	1	0
 
 forestilling	vuosádus	čájálmas/tiida/jáhkku/govahallan	27	230	56	1
 
-byråsjefstilling	ásadusjådediddjevirgge	doaimmahathoavdavirgi	1	0	1	0
+@byråsjefstilling	ásadusjådediddjevirgge	doaimmahathoavdavirgi	1	0	1	0
 
 mindretallsinnstilling	unneplåhkoárvvalus	uhcitloguárvalus/unnitloguárvalus	3	0	1	0
 
-toppstilling	tjåhkkåvirgge	njunušvirgi	1	0	1	0
+toppstilling	njunjosvirgge	njunušvirgi	1	0	1	0
 
 utstilling	vuosádus	čájáhus	46	230	212	15
 
-samling	tjåhkanibme	čohkken/čoagganeapmi/čoakkáldat/čohkkehus/čoahkkaneapmi	115	364	28	10
+møte	tjåhkanibme	čohkken/čoagganeapmi/čoakkáldat/čohkkehus/čoahkkaneapmi	115	364	28	10
 
 volumøkning	vuobmanlasádus	hivvodatlassáneapmi	1	0	1	0
 
@@ -167,7 +168,7 @@ folkeregisteropplysning	álmmuklåhkodiehto	álbmotregisttardiehtu	1	0	1	0
 
 kompromissløsning	såhpamustjoavdos	kompromissačoavddus	1	0	1	0
 
-retning	suorgge	guvlui/guovlu/háltái/hálti	385	175	655	5
+retning	guovllo	guvlui/guovlu/háltái/hálti	385	175	655	5
 
 forretning	oases	gávpi	85	223	179	1
 
@@ -183,7 +184,7 @@ grunnlovsendring	vuodoláhkarievddadus	vuođđoláhkarievdadus	1	0	1	0
 
 konfliktvurdering	rijddoárvustallamdájddo	riidoárvvoštallan	2	0	1	0
 
-rasediskriminering	rasissma	nállevealaheapmi	12	24	9	0
+rasisme	rasissma	nállevealaheapmi	12	24	9	0
 
 skoleorganisering	skåvllåorganisierim	skuvlalágideapmi	1	0	1	0
 
@@ -203,15 +204,15 @@ minoritetspolitikk	minoritiehttapolitihkka	unnitlogupolitihkka/minoritehtapoliti
 
 identitetsuttrykk	identitiehttaåvddånbuktemvuohke	identitehtaolggosbuktin	1	0	0	0
 
-nabofolk	ráddnáalmasjtjærdda	ránnjáálbmot	2	0	1	0
+nabofolk	ráddnáálmmuk	ránnjáálbmot	2	0	1	0
 
-nettverk	lájgge	fierbmi	192	24	57	0
+nettverk	værmádahka	fierbmi	192	24	57	0
 
-samisk	sámegiella	sámegiella	15525	3291	2394	1422
+samisk språk	sámegiella	sámegiella	15525	3291	2394	1422
 
-russisk	ruossjagiella	ruoššagiella	102	9	13	0
+russisk språk	ruossjagiella	ruoššagiella	102	9	13	0
 
-finsk	suomagiella	suomagiella	154	138	201	29
+finsk språk	suomagiella	suomagiella	154	138	201	29
 
 åkerbruk	bælldoadno	bealdodoallu	1	0	1	0
 
@@ -225,7 +226,7 @@ forsøk	gæhttjalibme	geahččalandoaibma/geahččaladdan/geahččaleapmi/viggam
 
 sakskostnadsregel	ássjegållonjuolgadus	áššegollomearrádus	1	0	1	0
 
-sirkel	suormas	gierdu	5	18	7	0
+sirkel	gievlle	gierdu	5	18	7	0
 
 nordområdeprofil	nuorttaguovlloprofijlla	davviguovlluprofiila	1	0	1	0
 
@@ -233,7 +234,7 @@ søknadsantall	åhtsåmuslåhko	ohcamušlohku	1	0	1	0
 
 samemanntall	sábmeulmusjlåhko	sámi jienastuslohku	77	0	0	0
 
-intervall	gávdda	áigodat/interválla	1	19	164	1
+periode	gávdda	áigodat/interválla	1	19	164	1
 
 tidstabell	ájggetabælla	áigetabealla	1	0	1	0
 
@@ -245,9 +246,9 @@ valgprotokoll	válggabievddegirje	válgabeavdegirji	1	0	1	0
 
 forhandlingsprotokoll	sjiehtadallambievddegirje	šiehtadallanbeavdegirji/ráđđádallanbeavdegirji	3	0	1	0
 
-innvoll	tjoalle	čoalli	1	17	8	3
+tarm	tjoalle	čoalli	1	17	8	3
 
-sidemål	doaresmoalla	oalgegiella/siidogiella	9	0	2	0
+@sidemål	doaresmoalla	oalgegiella/siidogiella	9	0	2	0
 
 metodespørsmål	metåvddågatjálvis	metodagažaldat	1	0	1	0
 
@@ -257,11 +258,11 @@ veteranspørsmål	veterádnagatjálvis	veteránaášši	1	0	0	0
 
 minoritetsforskningsprogram	minoritiehttaguoradallamprográmma	minoritehtadutkanprográmma	1	0	1	0
 
-planleggingssystem	plánimvuohke	plánenvuogádat	1	0	1	0
+planleggingssystem	plánimvuogádahka	plánenvuogádat	1	0	1	0
 
-betalingssystem	máksovuohke	máksinvuogádat	1	0	1	0
+betalingssystem	máksemvuogádahka	máksinvuogádat	1	0	1	0
 
-sametingssystem	sámediggevuohke	sámediggevuogádat	14	0	6	0
+sametingssystem	sámediggevuogádahka	sámediggevuogádat	14	0	6	0
 
 samfunnsfagterm	sebrudakfáhkatærmma	servodatfágatearbma	2	0	1	2
 
@@ -273,23 +274,23 @@ forvaltningsterm	háldadustærmma	hálddahustearbma	1	0	1	0
 
 diskusjonsforum	dágástallamságastallamsadje	digaštallanlatnja	2	0	1	0
 
-kompetanseorgan	máhttoorgádna	gelbbolašvuođaorgána	1	0	1	0
+kompetanseorgan	máhtudakorgádna	gelbbolašvuođaorgána	1	0	1	0
 
 selskapsorgan	vidnudahkaorgádna	gávpevuođđudusorgána	1	0	1	0
 
 kystsoneplan	merraguovllopládna	riddoavádatplána	4	0	1	0
 
-restaureringsplan	åbddimájggom	ovddeštanplána	1	0	1	0
+restaureringsplan	åbddimpládna	ovddeštanplána	1	0	1	0
 
-orden	årnik	ortnet	84	143	346	25
+ordning	årnik	ortnet	84	143	346	25
 
 bensin	bensijnna	bensiidna	8	14	32	0
 
-venn	guojmme	skibir/verdde/ustit	59	229	50	0
+venn	ráddna	skibir/verdde/ustit	59	229	50	0
 
 tollregion	tullaguovllo	duolloguovlu	1	0	1	0
 
-læreutdanningsregion	åhpadiddjeoahppaguovllo	oahpaheaddjeoahpporegiovdna	1	0	1	0
+lærerutdanningsregion	åhpadiddjeoahppoguovllo	oahpaheaddjeoahpporegiovdna	1	0	1	0
 
 kjønnsdokumentasjon	sjiervvedokumentasjåvnnå	sohkabealduođaštus	1	0	1	0
 
@@ -303,9 +304,9 @@ meklingsfunksjon	såbadahttemfunksjåvnnå	soabahandoaibma	1	0	1	0
 
 prinsippdiskusjon	prinsihppadágástallam	prinsihppadigaštallan	1	0	1	0
 
-kompetanseinstitusjon	máhttoinstitusjåvnnå	gelbbolašvuođaásahus/máhttolágádus	2	0	1	0
+kompetanseinstitusjon	máhtudakinstitusjåvnnå	gelbbolašvuođaásahus/máhttolágádus	2	0	1	0
 
-søvn	oadem	oađđin	7	52	30	0
+soving	oadem	oađđin	7	52	30	0
 
 jernbanetilsyn	ruovdderahtegæhttjo	ruovdemáđiibearráigeahčču	1	0	0	0
 
@@ -321,27 +322,27 @@ redskap	ræjddo	reaidu	107	65	47	29
 
 plateselskap	pláhttavidnudahka	skearrofitnodat	2	0	4	0
 
-regnskap	harvveskáhppa	rehketdoallu	294	0	113	0
+@regnskap	harvveskáhppa	rehketdoallu	294	0	113	0
 
 flyttsamekunnskap	jåhttesábmemáhtudahka	johttisámeoahppu/johttisámemáhttu	6	0	1	0
 
-forfatterskap	tjálleskáhppa	girječállin	5	0	8	0
+@forfatterskap	tjálleskáhppa	girječállin	5	0	8	0
 
-kompetansebegrep	máhttomoallánahka	gelbbolašvuođadoaba	1	0	1	0
+kompetansebegrep	máhtudakmoallánahka	gelbbolašvuođadoaba	1	0	1	0
 
 nyskapingsbegrep	innovasjåvnnåmoallánahka	hutkandoaba	0	0	0	0
 
 svangerskapspenger	iesselisvuohtaruhta	áhpehisvuođaruhta	2	0	1	0
 
-reineier	bánulæjgát	boazoisit/badjeolmmoš/boazoeaiggát/boazodoalli	227	0	110	0
+reineier	boahttsuæjgát	boazoisit/badjeolmmoš/boazoeaiggát/boazodoalli	227	0	110	0
 
-søknadspartner	åhtsåmusiellemguojmme	ohcanoasálaš	1	0	1	0
+søknadspartner	åhtsåmusguojmme	ohcanoasálaš	1	0	1	0
 
-verdiskaper	árvvosjivnnjediddje	árvoduojár	2	0	1	0
+@verdiskaper	árvvosjivnnjediddje	árvoduojár	2	0	1	0
 
-søndagsskolelærer	ájllekskåvllåoahppo	sotnabeaiskuvlaoahpaheaddji	1	0	1	0
+søndagsskolelærer	ájllekskåvllååhpadiddje	sotnabeaiskuvlaoahpaheaddji	1	0	1	0
 
-noe å takke for	gijtto	giitámuš	0	100	1	0
+takk	gijtto	giitámuš	0	100	1	0
 
 påvirkningsfaktor	vájkkudusfaktåvrrå	váikkuhanbealli	1	0	1	0
 
@@ -349,13 +350,13 @@ minoritetskultur	minoritiehttakultuvrra	minoritehtakultuvra	2	0	0	0
 
 hår	vuoppta	guolga/vuoktačalbmi/siehppa/vuokta	12	37	12	2
 
-glas	glássa	láse	3	16	37	0
+glass	glássa	láse	3	16	37	0
 
-tollpraksis	toalljabarggoduogásj	duollovierru	1	0	0	0
+tollpraksis	tulladáhpe	duollovierru	1	0	0	0
 
-forvaltningspraksis	háldadusbarggoduogásj	hálddašangeavahus/hálddašangeavat	8	0	2	0
+forvaltningspraksis	háldadusdáhpe	hálddašangeavahus/hálddašangeavat	8	0	2	0
 
-konsultasjonspraksis	konsultasjåvnnåbarggoduogásj	konsultašuvdnageavahus	2	0	1	0
+konsultasjonspraksis	konsultasjåvnnådáhpe	konsultašuvdnageavahus	2	0	1	0
 
 timetallsressurs	tijmmalåhkoresurssa	diibmolohkoresursa	1	0	0	0
 
@@ -367,17 +368,17 @@ organiseringsprosess	organisierimprosæssa	organiserenproseassa	1	0	1	0
 
 hus	goahte	gárdin/stohpu/visti/viessu/visoš/dállu	279	507	203	20
 
-lærebokmanus	oahppogirjjemánus	oahppogirjemánus	0	0	1	0
+@lærebokmanus	oahppogirjjemánus	oahppogirjemánus	0	0	1	0
 
-passus	javllamus	cealkin	4	174	10	0
+@passus	javllamus	cealkin	4	174	10	0
 
-Nordvestlandet	nuorttavæssta	oarjeriddu	1	0	2	0
+@Nordvestlandet	nuorttavæssta	oarjeriddu	1	0	2	0
 
-ugildhet	habilitiehtta	bealátkeahtesvuohta	4	0	4	0
+habilitet	habilitiehtta	bealátkeahtesvuohta	4	0	4	0
 
 vedtaksmyndighet	mærrádusfábmogisvuohta	mearrádusváldi	11	0	1	0
 
-samhørighet	solidaritiehtta	oktiigullevašvuohta	12	0	13	0
+solidaritet	solidaritiehtta	oktiigullevašvuohta	12	0	13	0
 
 minoritetsrettighet	minoritiehttariektá	veahádatvuoigatvuohta/minoritehtavuoigatvuohta	1	0	1	0
 
@@ -387,7 +388,7 @@ anskaffelsesvirksomhet	ásadusdoajmma	háhkandoaibma	1	0	1	0
 
 næringskombinasjonsvirksomhet	æláduskombinasjåvnnådoajmma	lotnolasealáhusdoaibma	1	0	2	0
 
-forvaltningsenhet	háldadusavtadahka	hálddašanovttadat	2	0	1	0
+forvaltningsenhet	háldadimavtadahka	hálddašanovttadat	2	0	1	0
 
 administrasjonsenhet	háldadusavtadahka	hálddahusovttadat	1	0	1	0
 
@@ -397,7 +398,7 @@ pasienttilfredshet	pasiænntadudálasjvuohta	buohcceduhtavašvuohta/buhcciidduht
 
 bostedskvalitet	årromsadjekvalitæhtta	ássankvaliteahtta	1	0	0	0
 
-bærende kraft	vuodo	čávgŋi	0	1376	1	0
+@bærende kraft	vuodo	čávgŋi	0	1376	1	0
 
 hjemreiseutgift	sijddamannogållo	ruovttumátkegollu	1	0	1	0
 
@@ -419,21 +420,21 @@ termutviklingsprosjekt	tærmmaåvddånahttemprosjækta	tearbmaovdánahttinproše
 
 nyskapingsprosjekt	innovasjåvnnåprosjækta	ođđahutkanprošeakta	1	0	1	0
 
-språkvitaliseringsprosjekt	giellaælládahttem	giellaealáskuhttinprošeakta	1	1	1	0
+språkvitaliseringsprosjekt	giellaælládahttemprosjækta	giellaealáskuhttinprošeakta	1	1	1	0
 
 nabodialekt	ráddnáhållåmvuohke	siidaguoibmesuopman	1	0	1	0
 
-tidspunkt	ájggetjuorgga	áigemuddu	106	0	3	0
+@tidspunkt	ájggetjuorgga	áigemuddu	106	0	3	0
 
-kulturprodukt	kultuvrragálvvo	kulturbuvtta	2	0	1	0
+kulturprodukt	kultuvrrabuvtadus	kulturbuvtta	2	0	1	0
 
-opplevelsesprodukt	vásádusgálvvo	vásihusbuvtta/vásáhusbuvtta	2	0	1	0
+opplevelsesprodukt	vásádusbuvtadus	vásihusbuvtta/vásáhusbuvtta	2	0	1	0
 
-utmarksprodukt	miehttsegálvvo	meahccebuvtta	5	0	2	0
+utmarksprodukt	miehttsebuvtadus	meahccebuvtta	5	0	2	0
 
 reiselivsprodukt	mannoæládusgálvvo	mátkeeallinealáhusbuvtta/mátkeealáhusbuvtta/mátkkoštanbuvtta	5	0	1	0
 
-kartprodukt	kárttagálvvo	kártabuvtta	1	0	0	0
+kartprodukt	kárttabuvtadus	kártabuvtta	1	0	0	0
 
 turistprodukt	turisstagálvvo	turistabuvtta	0	0	1	0
 
@@ -441,9 +442,9 @@ vegtransport	rahtefievrro	geaidnofievrrideapmi	1	0	1	0
 
 manntallsvekst	ulmusjlåhkoåvddånibme	jienastusloguovdáneapmi	1	1	1	0
 
-vannforekomst	jávrregávnos	čáhceriggodat/čáhcegávdnoštupmi	1	0	1	0
+vannforekomst	tjáhtjegávnos	čáhceriggodat/čáhcegávdnoštupmi	1	0	1	0
 
-selskapsskatt	vidnudahkadávver	fitnodatvearru	1	0	1	0
+selskapsskatt	vidnudahkaværro	fitnodatvearru	1	0	1	0
 
 søknadsblankett	åhtsåmusblankæhtta	ohcanblankeahtta	1	0	1	0
 
@@ -453,7 +454,7 @@ minoritetsrett	minoritiehttarievtesvuohta	unnitlohkoriekti	1	0	0	0
 
 storfekjøtt	stuorbårrebierggo	oamebiergu/šibitbiergu/vuovssábiergu	3	0	1	0
 
-praksisbrev	barggoduogásjgirjje	hárjehallireive	1	0	1	0
+praksisbrev	hárjjidallamgirjje	hárjehallireive	1	0	1	0
 
 minoritetsperspektiv	minoritiehttaperspektijvva	unnitlohkoperspektiiva	1	0	0	0
 
@@ -463,7 +464,7 @@ utviklingsverktøy	åvddånahttemnævvo	ovddidangaskaoapmi	1	0	1	0
 
 vurderingsverktøy	árvustallamnævvo	árvvoštallanreaidu	0	0	1	0
 
-fartøy	vanntsa	skiipa	118	232	43	3
+båt	vanntsa	skiipa	118	232	43	3
 
 partinivå	partiddjadásse	bellodatdássi	0	0	0	0
 
