@@ -1,144 +1,145 @@
+# + = good
 
-ekstra	duodde	?????	141	557	0	0
-ekstra	lasse	?????	141	212	0	0
++ekstra	duodde	?????	141	557	0	0
++ekstra	lasse	?????	141	212	0	0
 
-bad	báda	?????	9	21	0	0
++bad	báda	?????	9	21	0	0
 bad	lávggom	?????	9	7	0	0
 
-opphold	åroj	boddu/orrun/ádji/gaska	81	233	336	0
-opphold	årro	boddu/orrun/ádji/gaska	81	1053	336	1
++opphold (på et sted)	åroj	boddu/orrun/ádji/gaska	81	233	336	0
++opphold (på et sted)	årro	boddu/orrun/ádji/gaska	81	1053	336	1
 
 innland	jávrre	siseana	103	318	36	0
-innland	sisednam	siseana	103	16	36	2
++innland	sisednam	siseana	103	16	36	2
 
 forbund	siebrre	?????	29	187	0	0
-forbund	lihtto	?????	29	119	0	0
++forbund	lihtto	?????	29	119	0	0
 
 verd	ielle	?????	179	425	0	1
 verd	iellem	?????	179	871	0	1
-verd	árvvo	?????	179	530	0	0
++verdi	árvvo	?????	179	530	0	0
 verd	værált	?????	179	985	0	61
 
 nattverd	skallo	eahkedismállásat	5	71	16	3
-nattverd	iehkedismáles	eahkedismállásat	5	80	16	12
++nattverd	iehkedismáles	eahkedismállásat	5	80	16	12
 
-gård	sijdda	dállu	104	943	217	4
++gård	sijdda	dállu	104	943	217	4
 gård	goahte	dállu	104	507	217	3
 
-hud	náhkke	?????	8	29	0	0
-hud	lijkke	?????	8	35	0	0
++pels	náhkke	?????	8	29	0	0
++hud	lijkke	?????	8	35	0	0
 
 slede	dåjmadiddje	reahka	12	104	27	0
 slede	jådediddje	reahka	12	221	27	0
-slede	gieris	reahka	12	32	27	1
++slede	gieris	reahka	12	32	27	1
 
-side	bielle	?????	1468	929	0	47
++side	bielle	?????	1468	929	0	47
 side	oasse	?????	1468	1985	0	11
 side	bieles	?????	1468	648	0	37
 
-skinnende	guojtte	?????	2	6	0	0
++skinnende	guojtte	?????	2	6	0	0
 skinnende	bájtte	?????	2	3	0	0
 
 verde	ielle	?????	172	425	0	1
 verde	iellem	?????	172	871	0	1
-verde	værált	?????	172	985	0	61
++verden	værált	?????	172	985	0	61
 
-skuffe	gåjvun	?????	9	15	0	0
++skuffe	gåjvun	?????	9	15	0	0
 skuffe	goajvvo	?????	9	26	0	0
 
-penge	ruhta	?????	71	480	0	9
++penge	ruhta	?????	71	480	0	9
 penge	ruhtta	?????	71	258	0	0
-penge	biednik	?????	71	206	0	3
++penge	biednik	?????	71	206	0	3
 
 studie	låhkåm	?????	259	374	0	5
-studie	oahppo	?????	259	353	0	1
-studie	åhpadus	?????	259	1934	0	4
++studie	oahppo	?????	259	353	0	1
++studie	åhpadus	?????	259	1934	0	4
 
-kampanje	kampánnja	kampánja/ávžžuhusdoaibma/kampánnja/áŋggirdeapmi	38	4	7	1
++kampanje	kampánnja	kampánja/ávžžuhusdoaibma/kampánnja/áŋggirdeapmi	38	4	7	1
 kampanje	ratjástibme	kampánja/ávžžuhusdoaibma/kampánnja/áŋggirdeapmi	38	34	7	5
 
-yrke	virgge	fidnu/fidnosuorgi	114	301	57	0
-yrke	barggo	fidnu/fidnosuorgi	114	2553	57	1
++yrke	virgge	fidnu/fidnosuorgi	114	301	57	0
++yrke	barggo	fidnu/fidnosuorgi	114	2553	57	1
 yrke	viddno	fidnu/fidnosuorgi	114	140	57	0
 
-mørke	sjævnnjat	seavdnjadas	21	92	12	0
-mørke	sjievnnjet	seavdnjadas	21	144	12	4
++mørke	sjævnnjat	seavdnjadas	21	92	12	0
++mørke	sjievnnjet	seavdnjadas	21	144	12	4
 
 kjele	pánna	biđusruitu/bánno/gievdni	1	5	4	0
-kjele	giebbme	biđusruitu/bánno/gievdni	1	10	4	0
++kjele	giebbme	biđusruitu/bánno/gievdni	1	10	4	0
 kjele	giebnne	biđusruitu/bánno/gievdni	1	6	4	0
 
 finne	sábme	?????	916	13172	0	34
 finne	sáme	?????	916	16345	0	33
 
-fare	nieda	várra/sorbmi	17344	64	241	1
-fare	vádá	várra/sorbmi	17344	64	241	5
-fare	váhtá	várra/sorbmi	17344	81	241	29
++nød	nieda	várra/sorbmi	17344	64	241	1
++fare	vádá	várra/sorbmi	17344	64	241	5
++fare	váhtá	várra/sorbmi	17344	81	241	29
 
 nyre	nihta	?????	1	2	0	0
-nyre	månem	?????	1	7	0	0
++nyre	månem	?????	1	7	0	0
 
 skjære	skiri	?????	13	7	0	0
-skjære	skirri	?????	13	37	0	0
++skjære	skirri	?????	13	37	0	0
 
-bukse	båkså	?????	3	19	0	1
++bukse	båkså	?????	3	19	0	1
 bukse	båvså	?????	3	22	0	1
 
 lidelse	dávdda	gillámuš	18	68	11	0
-lidelse	skihpudahka	gillámuš	18	63	11	0
++sykdom	skihpudahka	gillámuš	18	63	11	0
 lidelse	vihke	gillámuš	18	103	11	0
 
-utvidelse	vijdedibme	viiddideapmi	131	3	48	2
-utvidelse	stuoredibme	viiddideapmi	131	8	48	1
++utvidelse	vijdedibme	viiddideapmi	131	3	48	2
++utvidelse	stuoredibme	viiddideapmi	131	8	48	1
 
-bevegelse	gåhttse	johtu/lihkadus/lihkastat	21	98	86	0
-bevegelse	gåhttsåm	johtu/lihkadus/lihkastat	21	158	86	1
++bevegelse	labudibme	johtu/lihkadus/lihkastat	21	98	86	0
++vekkelse	gåhttsom	johtu/lihkadus/lihkastat	21	158	86	1
 
 komse	gierkam	?????	2	4	0	0
-komse	gierkav	?????	2	4	0	0
++komse	gierkav	?????	2	4	0	0
 
 masse	vehka	mássá/hivvodat	30	24	7	0
 masse	hávdde	mássá/hivvodat	30	118	7	0
 
 sommerbeite	giesse	?????	97	433	0	0
-sommerbeite	giesseguohtom	?????	97	11	0	1
++sommerbeite	giesseguohtom	?????	97	11	0	1
 
 tjeneste	virgge	biigot/reŋgot/bálvaleapmi/bálvalus	406	301	102	0
 tjeneste	dievnno	biigot/reŋgot/bálvaleapmi/bálvalus	406	42	102	7
-tjeneste	dievnastus	biigot/reŋgot/bálvaleapmi/bálvalus	406	250	102	66
++tjeneste	dievnastus	biigot/reŋgot/bálvaleapmi/bálvalus	406	250	102	66
 tjeneste	varresvuodadievnastus	biigot/reŋgot/bálvaleapmi/bálvalus	406	38	102	1
 
 utgave	vattos	?????	40	152	0	1
-utgave	almodus	?????	40	37	0	1
++utgave	almodus	?????	40	37	0	1
 
 anlegg	rustik	ráhkadus/attáldat/rusttet	201	11	51	2
-anlegg	ásadus	ráhkadus/attáldat/rusttet	201	315	51	0
+++´anlegg	ásadus	ráhkadus/attáldat/rusttet	201	315	51	0
 
-sakkyndig	ássjedåbdde	?????	23	33	0	3
-sakkyndig	ássjediehtte	?????	23	26	0	0
++sakkyndig	ássjedåbdde	?????	23	33	0	3
++sakkyndig	ássjediehtte	?????	23	26	0	0
 
 ansvarlig	vásstediddje	?????	220	49	0	4
-ansvarlig	åvdåsvásstediddje	?????	220	210	0	23
++ansvarlig	åvdåsvásstediddje	?????	220	210	0	23
 
-overgang	sirddem	rasttildeapmi/molsun/rievdanáigodat/rasttideapmi/badjelmanahat/sirdašupmi	115	83	5	0
++overgang	sirddem	rasttildeapmi/molsun/rievdanáigodat/rasttideapmi/badjelmanahat/sirdašupmi	115	83	5	0
 overgang	gasskamuddo	rasttildeapmi/molsun/rievdanáigodat/rasttideapmi/badjelmanahat/sirdašupmi	115	5	5	1
 
 motgang	vuosstemannam	?????	2	2	0	0
-motgang	vuosstemanno	?????	2	3	0	0
++motgang	vuosstemanno	?????	2	3	0	0
 
-utgang	loahppa	?????	276	159	0	0
++utgang	loahppa	?????	276	159	0	0
 utgang	uksa	?????	276	204	0	0
 utgang	vuodo	?????	276	1376	0	0
 utgang	ålggo	?????	276	243	0	0
 
 lang	guhkkeájgge	?????	505	0	0	1
-lang	guhkke	?????	505	551	0	23
++lang	guhkke	?????	505	551	0	23
 
-formidling	gaskostibme	gaskkusteapmi	154	13	47	4
++formidling	gaskostibme	gaskkusteapmi	154	13	47	4
 formidling	åvddånbuktem	gaskkusteapmi	154	173	47	6
 
-behandling	dálkudibme	meannudanrutiidna/gieđahallan/meannudeapmi/dikšu/meannudannjuolggadus/meannudus/dálkkodeapmi	771	76	62	20
-behandling	giehtadallam	meannudanrutiidna/gieđahallan/meannudeapmi/dikšu/meannudannjuolggadus/meannudus/dálkkodeapmi	771	83	62	22
++behandling	dálkudibme	meannudanrutiidna/gieđahallan/meannudeapmi/dikšu/meannudannjuolggadus/meannudus/dálkkodeapmi	771	76	62	20
++behandling	giehtadallam	meannudanrutiidna/gieđahallan/meannudeapmi/dikšu/meannudannjuolggadus/meannudus/dálkkodeapmi	771	83	62	22
 behandling	ássjegiehtadallam	meannudanrutiidna/gieđahallan/meannudeapmi/dikšu/meannudannjuolggadus/meannudus/dálkkodeapmi	771	22	62	4
 behandling	sujtto	meannudanrutiidna/gieđahallan/meannudeapmi/dikšu/meannudannjuolggadus/meannudus/dálkkodeapmi	771	335	62	86
 
@@ -146,51 +147,51 @@ utdeling	juogadibme	?????	17	25	0	0
 utdeling	juohkem	?????	17	38	0	0
 
 betydning	sisadno	mearkkašupmi	682	474	367	4
-betydning	merkadus	mearkkašupmi	682	6	367	2
++betydning	merkadus	mearkkašupmi	682	6	367	2
 betydning	mierkkidus	mearkkašupmi	682	5	367	2
 betydning	sisanádus	mearkkašupmi	682	14	367	2
 
-forskning	åtsådibme	dutkan/dutkamuš	837	251	370	60
++forskning	dutkam	dutkan/dutkamuš	837	251	370	60
 forskning	guoradallam	dutkan/dutkamuš	837	442	370	8
 
 søkning	lassánibme	?????	7	43	0	0
 søkning	lasádus	?????	7	31	0	0
 
-åpning	rahpam	rahpan/loapmi/goavki/latnja	85	73	60	3
++åpning	rahpam	rahpan/loapmi/goavki/latnja	85	73	60	3
 åpning	álggo	rahpan/loapmi/goavki/latnja	85	1026	60	1
 
-vandring	vájaldibme	?????	12	47	0	1
++vandring	vájaldibme	?????	12	47	0	1
 vandring	vájaldus	?????	12	7	0	0
 
-læring	oahppam	?????	138	121	0	0
++læring	oahppam	?????	138	121	0	0
 læring	oahppo	?????	138	353	0	0
 læring	åhpadus	?????	138	1934	0	2
 
-erklæring	javllamus	julggaštus	97	174	72	0
++erklæring	javllamus	julggaštus	97	174	72	0
 erklæring	duodastus	julggaštus	97	104	72	0
 
 lesing	låhkke	lohkan	37	642	286	19
-lesing	låhkåm	lohkan	37	374	286	29
++lesing	låhkåm	lohkan	37	374	286	29
 
 satsing	doajmma	rahčan/áŋgiruššan/viggamuš	305	1796	59	4
-satsing	vuorodibme	rahčan/áŋgiruššan/viggamuš	305	62	59	16
++satsing	vuorodibme	rahčan/áŋgiruššan/viggamuš	305	62	59	16
 
-sak	ássje	?????	2537	1441	0	89
++sak	ássje	?????	2537	1441	0	89
 sak	ássjegiehtadallam	?????	2537	22	0	2
 
 lek	ståhka	stoahka/stoagus	58	68	26	8
-lek	stoagos	stoahka/stoagus	58	34	26	1
++lek	stoagos	stoahka/stoagus	58	34	26	1
 
-svik	bæhttogisvuohta	?????	3	6	0	0
-svik	biehttem	?????	3	8	0	0
++svik	bæhttogisvuohta	?????	3	6	0	0
++svik	biehttem	?????	3	8	0	0
 
 blikk	gehtjastahka	geahčastat	15	4	17	1
 blikk	gehtjastibme	geahčastat	15	2	17	2
 
-stokk	sjielmmá	?????	1	7	0	0
++dørstokk	sjielmmá	?????	1	7	0	0
 stokk	ráksá	?????	1	6	0	0
 
-bukk	hábres	?????	5	17	0	0
++bukk	hábres	?????	5	17	0	0
 bukk	sarves	?????	5	7	0	0
 
 kok	málle	?????	15	80	0	0
@@ -209,70 +210,70 @@ all	dievas	?????	1852	171	0	1
 all	ålles	?????	1852	1687	0	6
 
 spill	tjuodja	speallu/spilla	31	46	20	0
-spill	spella	speallu/spilla	31	24	20	4
++spill	spælla	speallu/spilla	31	24	20	4
 spill	stoagos	speallu/spilla	31	34	20	0
 
 troll	tjivgga	?????	30	24	0	0
 troll	ihtja	?????	30	47	0	0
-troll	stállo	?????	30	140	0	0
++troll	stállo	?????	30	140	0	0
 
 skyll	bålås	?????	1	3	0	0
 skyll	bållå	?????	1	3	0	0
 
-sol	biejvve	?????	116	2856	0	12
-sol	bæjvásj	?????	116	97	0	0
++sol	biejvve	?????	116	2856	0	12
++sol	bæjvásj	?????	116	97	0	0
 
-kål	kålla	kálla/gálla	1	6	4	0
++kål	kålla	kálla/gálla	1	6	4	0
 kål	lihtte	kálla/gálla	1	36	4	0
 
-heim	sijdda	?????	20	943	0	3
++heim	sijdda	?????	20	943	0	3
 heim	viesso	?????	20	931	0	1
 
 form	vuohke	?????	412	516	0	3
-form	hábme	?????	412	305	0	20
++form	hábme	?????	412	305	0	20
 
 museum	musedja	dávvirvuorká/musea	462	86	179	19
-museum	dávvervuorkká	dávvirvuorká/musea	462	161	179	38
++museum	dávvervuorkká	dávvirvuorká/musea	462	161	179	38
 
 sentrum	guovdda	?????	53	139	0	0
-sentrum	guovdásj	?????	53	823	0	1
++sentrum	guovdásj	?????	53	823	0	1
 
 preken	sárnnedibme	?????	10	21	0	0
-preken	sárnne	?????	10	155	0	5
++preken	sárnne	?????	10	155	0	5
 
 skitten	duolvva	?????	3	18	0	0
-skitten	duolvas	?????	3	9	0	0
++skitten	duolvas	?????	3	9	0	0
 
-bunn	båddne	?????	16	11	0	1
++bunn	båddne	?????	16	11	0	1
 bunn	árre	?????	16	14	0	0
 
 bo	girjje	?????	599	1661	0	0
-bo	åroj	?????	599	233	0	5
++bo	åroj	?????	599	233	0	5
 bo	årro	?????	599	1053	0	20
 
-begrep	moallánahka	doaba	105	110	115	34
++begrep	moallánahka	doaba	105	110	115	34
 begrep	báhko	doaba	105	1522	115	7
 
-grop	gåhpe	?????	2	8	0	0
++grop	gåhpe	?????	2	8	0	0
 grop	goabrre	?????	2	2	0	0
 
 oppkjøp	oassto	?????	4	4	0	0
-oppkjøp	oastos	?????	4	3	0	0
++oppkjøp	oastos	?????	4	3	0	0
 
-beløp	ruhta	submi	214	480	131	1
++beløp	ruhta	submi	214	480	131	1
 beløp	ruhtta	submi	214	258	131	0
 
-under	vuolle	?????	2399	564	0	16
++under	vuolle	?????	2399	564	0	16
 under	vuolep	?????	2399	70	0	2
 
 innbygger	ulmusj	ássi	102	2325	189	2
-innbygger	viesát	ássi	102	96	189	15
++innbygger	viesát	ássi	102	96	189	15
 
-mottaker	vuosstájvállde	dustton/dusten/vuostáiváldi	130	26	14	3
++mottaker	vuosstájvállde	dustton/dusten/vuostáiváldi	130	26	14	3
 mottaker	duossto	dustton/dusten/vuostáiváldi	130	122	14	3
 
 utøver	bargge	doalli	118	489	17	0
-utøver	dåjmadiddje	doalli	118	104	17	0
++utøver	dåjmadiddje	doalli	118	104	17	0
 
 leir	rájrre	?????	19	15	0	0
 leir	åroj	?????	19	233	0	2
@@ -282,46 +283,46 @@ for	álggo	?????	39565	1026	0	16
 for	åvddå	?????	39565	1714	0	126
 
 tørr	gåjkke	?????	25	52	0	1
-tørr	gåjkes	?????	25	47	0	1
++tørr	gåjkes	?????	25	47	0	1
 
 ur	vuodo	?????	1132	1376	0	0
 ur	álggo	?????	1132	1026	0	0
 
 dyr	ielle	?????	222	425	0	0
 dyr	judo	?????	222	8	0	2
-dyr	judos	?????	222	120	0	5
++dyr	judos	?????	222	120	0	5
 
 motbør	vuosstemannam	?????	2	2	0	0
-motbør	vuosstemanno	?????	2	3	0	0
++motbør	vuosstemanno	?????	2	3	0	0
 
-myndighet	fábmudahka	eiseváldi/váldi	847	93	695	38
-myndighet	oajvve	eiseváldi/váldi	847	1336	695	99
++myndighet	fábmudahka	eiseváldi/váldi	847	93	695	38
++myndighet	oajválasj	eiseváldi/váldi	847	1336	695	99
 
 urettferdighet	vádnarievtesferdukvuohta	?????	2	7	0	0
-urettferdighet	rievtesferdugahtesvuohta	?????	2	1	0	1
++urettferdighet	rievtesferdugahtesvuohta	?????	2	1	0	1
 
-ærlighet	duodalasjvuohta	?????	2	3	0	0
++ærlighet	duodalasjvuohta	?????	2	3	0	0
 ærlighet	rievtugisvuohta	?????	2	4	0	0
 
 menighet	biedna	searvegoddi	26	100	112	0
-menighet	tjoaggulvis	searvegoddi	26	536	112	143
++menighet	tjoaggulvis	searvegoddi	26	536	112	143
 
-framdrift	åvddånibme	?????	29	364	0	1
++framdrift	åvddånibme	?????	29	364	0	1
 framdrift	barggo	?????	29	2553	0	3
 
 kontakt	aktijvuohta	?????	426	761	0	22
-kontakt	guládallam	?????	426	483	0	4
++kontakt	guládallam	?????	426	483	0	4
 
-start	álgadibme	?????	123	69	0	0
-start	álggo	?????	123	1026	0	4
++oppstart	álgadibme	?????	123	69	0	0
++start	álggo	?????	123	1026	0	4
 
 ekspert	ássjedåbdde	áššedovdi	65	33	69	4
-ekspert	ássjediehtte	áššedovdi	65	26	69	5
++ekspert	ássjediehtte	áššedovdi	65	26	69	5
 
-fest	fæssta	?????	15	5	0	1
-fest	ávvudallam	?????	15	97	0	1
++fest	fæssta	?????	15	5	0	1
++feiring	ávvudallam	?????	15	97	0	1
 
-tørst	gåjkko	?????	2	3	0	0
++tørst	gåjkko	?????	2	3	0	0
 tørst	vájnno	?????	2	6	0	0
 
 øst	bielle	?????	237	929	0	0
@@ -330,17 +331,17 @@ tørst	vájnno	?????	2	6	0	0
 krutt	rukta	?????	1	2	0	0
 krutt	ruvtta	?????	1	2	0	0
 
-halv	bielle	?????	135	929	0	1
++halv	bielle	?????	135	929	0	1
 halv	bieles	?????	135	648	0	0
 
 erverv	doajmma	háhkan	30	1796	66	1
 erverv	viddno	háhkan	30	140	66	0
 
 komité	juogos	?????	393	379	0	0
-komité	nammadus	?????	393	152	0	2
++komité	nammadus	?????	393	152	0	2
 
 marg i tre	vájmmo	váimmus	0	299	25	1
-nav	vájmmo	váimmus	10	299	25	1
++hjerte	vájmmo	váimmus	10	299	25	1
 kjerne	vájmmo	váimmus	39	299	25	1
 marg i tre	vájmos	váimmus	0	62	25	1
 nav	vájmos	váimmus	10	62	25	1
