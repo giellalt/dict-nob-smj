@@ -1,3 +1,4 @@
+# + = good candidates
 
 veksttilskudd	sjaddoruhtta	stuorrundoarjja	1	0	0	0
 veksttilskudd	sjattoruhtta	stuorrundoarjja	1	0	0	0
@@ -6,21 +7,21 @@ innlandsbygd	jávrreguollimsijdda	siseatnangilli	1	0	1	0
 innlandsbygd	jávrreguollimbájkke	siseatnangilli	1	0	1	0
 
 markedsarbeid	márnándoajmma	vuovdalanbargu/márkanbargu	7	0	1	0
-markedsarbeid	márnánpládnabarggo	vuovdalanbargu/márkanbargu	7	0	1	0
++markedsarbeid	márnánbarggo	vuovdalanbargu/márkanbargu	7	0	1	0
 markedsarbeid	márnánåvddånahttembarggo	vuovdalanbargu/márkanbargu	7	0	1	0
 markedsarbeid	márnánbálkká	vuovdalanbargu/márkanbargu	7	0	1	0
 
 anleggsarbeid	rustigabarggo	rusttetbargu/ráhkadusbargu/huksehusbargu	3	0	1	0
-anleggsarbeid	rustikbarggo	rusttetbargu/ráhkadusbargu/huksehusbargu	3	0	1	0
++anleggsarbeid	rustikbarggo	rusttetbargu/ráhkadusbargu/huksehusbargu	3	0	1	0
 
 omstillingsarbeid	nuppástuhttemdoajmma	nuppástuhttinbargu	7	0	5	0
-omstillingsarbeid	nuppástuhttempládnabarggo	nuppástuhttinbargu	7	0	5	0
++omstillingsarbeid	nuppástuhttembarggo	nuppástuhttinbargu	7	0	5	0
 omstillingsarbeid	nuppástuhttemåvddånahttembarggo	nuppástuhttinbargu	7	0	5	0
 omstillingsarbeid	nuppástuhttembálkká	nuppástuhttinbargu	7	0	5	0
 
 barnevernsarbeid	mánájsuodjalusdoajmma	mánáidsuodjalusbargu/mánáidsuodjalanbargu	1	0	1	0
 barnevernsarbeid	mánnásuodjalusdoajmma	mánáidsuodjalusbargu/mánáidsuodjalanbargu	1	0	1	0
-barnevernsarbeid	mánájsuodjaluspládnabarggo	mánáidsuodjalusbargu/mánáidsuodjalanbargu	1	0	1	0
+barnevernsarbeid	mánájsuodjalusbarggo	mánáidsuodjalusbargu/+mánáidsuodjalanbargu	1	0	1	0
 barnevernsarbeid	mánnásuodjaluspládnabarggo	mánáidsuodjalusbargu/mánáidsuodjalanbargu	1	0	1	0
 barnevernsarbeid	mánájsuodjalusåvddånahttembarggo	mánáidsuodjalusbargu/mánáidsuodjalanbargu	1	0	1	0
 barnevernsarbeid	mánnásuodjalusåvddånahttembarggo	mánáidsuodjalusbargu/mánáidsuodjalanbargu	1	0	1	0
@@ -32,10 +33,10 @@ studieopphold	låhkåmåroj	oahppogalledeapmi	1	0	0	0
 studieopphold	oahppoårro	oahppogalledeapmi	1	0	0	0
 
 grenseforhold	rádjedille	rádjeášši	1	0	1	0
-grenseforhold	rádjávijor	rádjeášši	1	0	1	0
++grenseforhold	rádjávijor	rádjeášši	1	0	1	0
 
 boligforhold	goadevijor	ásodatdilálašvuohta	1	0	1	0
-boligforhold	goahtevijor	ásodatdilálašvuohta	1	0	1	0
++boligforhold	goahtevijor	ásodatdilálašvuohta	1	0	1	0
 
 motstand	måvtugisvuohtavehka	vuostálastit/vuosteháhku/caggan/vuostálastin/vuosttaldeapmi	49	0	35	0
 motstand	roahkkatvuohtavehka	vuostálastit/vuosteháhku/caggan/vuostálastin/vuosttaldeapmi	49	0	35	0
@@ -47,33 +48,33 @@ egenverd	oabmeárvvo	iešárvu/iešárvodovdu	1	0	2	0
 egenverd	oabmeværált	iešárvu/iešárvodovdu	1	0	2	0
 
 pressetilbud	præssadoarjjaskåvllåfálaldahka	preassafálaldat	2	0	1	0
-pressetilbud	præssaskåvllåfálaldahka	preassafálaldat	2	0	1	0
++pressetilbud	præssafálaldahka	preassafálaldat	2	0	1	0
 
 radiotilbud	radioskåvllåfálaldahka	rádiofálaldat	2	0	1	0
-radiotilbud	rádioskåvllåfálaldahka	rádiofálaldat	2	0	1	0
++radiotilbud	rádiofálaldahka	rádiofálaldat	2	0	1	0
 
 barnevernstilbud	mánnáåhpadusfálaldahka	mánáidsuodjalusfálaldat/mánáidsuodjalanfálaldat	1	0	1	0
 barnevernstilbud	mánnáfálaldahka	mánáidsuodjalusfálaldat/mánáidsuodjalanfálaldat	1	0	1	0
-barnevernstilbud	mánájsuodjalusskåvllåfálaldahka	mánáidsuodjalusfálaldat/mánáidsuodjalanfálaldat	1	0	1	0
++barnevernstilbud	mánájsuodjalusfálaldahka	mánáidsuodjalusfálaldat/mánáidsuodjalanfálaldat	1	0	1	0
 barnevernstilbud	mánnásuodjalusskåvllåfálaldahka	mánáidsuodjalusfálaldat/mánáidsuodjalanfálaldat	1	0	1	0
 
 reiselivstilbud	mannofálaldahka	mátkeeallinealáhusfálaldat/mátkeealáhusfálaldat	2	0	1	0
 reiselivstilbud	mannoåhpadusfálaldahka	mátkeeallinealáhusfálaldat/mátkeealáhusfálaldat	2	0	1	0
-reiselivstilbud	mannoæládusskåvllåfálaldahka	mátkeeallinealáhusfálaldat/mátkeealáhusfálaldat	2	0	1	0
++reiselivstilbud	mannoæládusfálaldahka	mátkeeallinealáhusfálaldat/mátkeealáhusfálaldat	2	0	1	0
 
 scenekunsttilbud	siednafálaldahka	lávdedáiddafálaldat	1	0	1	0
 scenekunsttilbud	siednaåhpadusfálaldahka	lávdedáiddafálaldat	1	0	1	0
-scenekunsttilbud	siednadájddaskåvllåfálaldahka	lávdedáiddafálaldat	1	0	1	0
++scenekunsttilbud	siednadájddafálaldahka	lávdedáiddafálaldat	1	0	1	0
 
 selhud	nuorjjolijkke	njuorjjonáhkki	1	0	2	0
 selhud	nuorjolijkke	njuorjjonáhkki	1	0	2	0
 
 hovedinntektskilde	oajvveboahtogálldo	váldosisaboahtu	1	0	1	0
-hovedinntektskilde	oajvvesisboahtogálldo	váldosisaboahtu	1	0	1	0
++hovedinntektskilde	oajvvesisboahtogálldo	váldosisaboahtu	1	0	1	0
 
 hytteområde	hyhtosadje	bartaguovlu/bartabáiki	9	0	4	0
 hytteområde	hyhttosadje	bartaguovlu/bartabáiki	9	0	4	0
-hytteområde	hyhttobájkke	bartaguovlu/bartabáiki	9	0	4	0
++hytteområde	hyhttobájkke	bartaguovlu/bartabáiki	9	0	4	0
 hytteområde	hyhtoguohtomednam	bartaguovlu/bartabáiki	9	0	4	0
 hytteområde	hyhttoguohtomednam	bartaguovlu/bartabáiki	9	0	4	0
 hytteområde	hyhtoednam	bartaguovlu/bartabáiki	9	0	4	0
@@ -81,19 +82,19 @@ hytteområde	hyhttoednam	bartaguovlu/bartabáiki	9	0	4	0
 
 forhandlingsområde	sjiehtadallamasadje	šiehtadallansuorgi	1	0	1	0
 forhandlingsområde	sjiehtadallamsadje	šiehtadallansuorgi	1	0	1	0
-forhandlingsområde	sjiehtadallambájkke	šiehtadallansuorgi	1	0	1	0
++forhandlingsområde	sjiehtadallamsuorgge	šiehtadallansuorgi	1	0	1	0
 forhandlingsområde	sjiehtadallamaednam	šiehtadallansuorgi	1	0	1	0
 forhandlingsområde	sjiehtadallamednam	šiehtadallansuorgi	1	0	1	0
 forhandlingsområde	sjiehtadallamaguohtomednam	šiehtadallansuorgi	1	0	1	0
 forhandlingsområde	sjiehtadallamguohtomednam	šiehtadallansuorgi	1	0	1	0
 
-omstillingsområde	nuppástuhttemsadje	nuppástuhttinsuorgi	1	0	1	0
++omstillingsområde	nuppástuhttemsuorgge	nuppástuhttinsuorgi	1	0	1	0
 omstillingsområde	nuppástuhttembájkke	nuppástuhttinsuorgi	1	0	1	0
 omstillingsområde	nuppástuhttemednam	nuppástuhttinsuorgi	1	0	1	0
 omstillingsområde	nuppástuhttemguohtomednam	nuppástuhttinsuorgi	1	0	1	0
 
 mandatområde	gåhtjodusbarggosuorgge	mandáhtaguovlu	6	0	1	0
-mandatområde	mandáhttasadje	mandáhtaguovlu	6	0	1	0
++mandatområde	mandáhttaguovllo	mandáhtaguovlu	6	0	1	0
 mandatområde	mandáhttabájkke	mandáhtaguovlu	6	0	1	0
 mandatområde	mandáhttaednam	mandáhtaguovlu	6	0	1	0
 mandatområde	mandáhttaguohtomednam	mandáhtaguovlu	6	0	1	0
@@ -104,34 +105,34 @@ menneskeføde	almasjriektáriegádahttem	olbmoborramuš	2	0	1	0
 oljepenge	oaljoruhtta	oljoruhta	2	0	1	0
 oljepenge	oalljoruhtta	oljoruhta	2	0	1	0
 
-læremiddelpedagogikkstudie	oahpponævvopedagogihkkaoahppo	oahpponeavvopedagogihkkaoahppu	1	0	0	0
++læremiddelpedagogikkstudie	oahpponævvopedagogihkkaoahppo	oahpponeavvopedagogihkkaoahppu	1	0	0	0
 læremiddelpedagogikkstudie	oahpponævvopedagogijkkaoahppo	oahpponeavvopedagogihkkaoahppu	1	0	0	0
 
-skoleferie	skåvllågirjjeloahpe	skuvlaluopmu	1	0	1	0
++skoleferie	skåvllåloahpe	skuvlaluopmu	1	0	1	0
 skoleferie	skåvllågirjjevuorkkáloahpe	skuvlaluopmu	1	0	1	0
 
 vevlinje	sjnjissjkomalinnja	čuoldinsuorgi	2	0	1	0
 vevlinje	sjnjissjkomlinnja	čuoldinsuorgi	2	0	1	0
 vevlinje	sjnjissjkomasuorgge	čuoldinsuorgi	2	0	1	0
-vevlinje	sjnjissjkomsuorgge	čuoldinsuorgi	2	0	1	0
++vevlinje	sjnjissjkomsuorgge	čuoldinsuorgi	2	0	1	0
 
-hjemfylke	sijddafylkkavæddja	ruovttufylka	2	0	1	0
++hjemfylke	sijddafylkka	ruovttufylka	2	0	1	0
 hjemfylke	sijddafylkkabelludahka	ruovttufylka	2	0	1	0
 hjemfylke	sijddafylkkapládna	ruovttufylka	2	0	1	0
 hjemfylke	sijddafylkapládna	ruovttufylka	2	0	1	0
 
-nabofylke	ráddnáfylkkavæddja	ránnjáfylka	1	0	1	0
++nabofylke	ráddnáfylkka	ránnjáfylka	1	0	1	0
 nabofylke	ráddnáfylkkabelludahka	ránnjáfylka	1	0	1	0
 nabofylke	ráddnáfylkkapládna	ránnjáfylka	1	0	1	0
 nabofylke	ráddnáfylkapládna	ránnjáfylka	1	0	1	0
 
 hovedskille	oajvveærro	váldoearru	1	0	1	0
-hovedskille	oajvvejuogádis	váldoearru	1	0	1	0
++hovedskille	oajvvejuogádis	váldoearru	1	0	1	0
 
 leirskole	rájrreskåvllågirjje	leairaskuvlaoahpahus	5	0	1	0
 leirskole	rájrreskåvllågirjjevuorkká	leairaskuvlaoahpahus	5	0	1	0
 
-handelsskole	oasseskåvllågirjje	gávpeskuvla	2	0	2	0
++handelsskole	oasseskåvllå	gávpeskuvla	2	0	2	0
 handelsskole	oasesskåvllågirjje	gávpeskuvla	2	0	2	0
 handelsskole	oasseskåvllågirjjevuorkká	gávpeskuvla	2	0	2	0
 handelsskole	oasesskåvllågirjjevuorkká	gávpeskuvla	2	0	2	0
@@ -139,32 +140,32 @@ handelsskole	oasesskåvllågirjjevuorkká	gávpeskuvla	2	0	2	0
 undervisningstime	oahpodijmma	oahpahusdiibmu/oahpahandiibmu/oahppodiibmu	7	0	3	0
 undervisningstime	oahppodijmma	oahpahusdiibmu/oahpahandiibmu/oahppodiibmu	7	0	3	0
 undervisningstime	oahpotijmma	oahpahusdiibmu/oahpahandiibmu/oahppodiibmu	7	0	3	0
-undervisningstime	oahppotijmma	oahpahusdiibmu/oahpahandiibmu/oahppodiibmu	7	0	3	0
++undervisningstime	åhpadustijmma	oahpahusdiibmu/oahpahandiibmu/oahppodiibmu	7	0	3	0
 
 diskusjonsemne	dágástallamfáhka	ságastallanfáddá	1	0	2	0
 diskusjonsemne	dágástallamfáddá	ságastallanfáddá	1	0	2	0
 
-planleggingsgruppe	plánimjuohko	plánenjoavku	1	0	2	0
++planleggingsgruppe	plánimjuogos	plánenjoavku	1	0	2	0
 planleggingsgruppe	plánimbarggojuohko	plánenjoavku	1	0	2	0
 
 forhandlingsgruppe	sjiehtadallamajuohko	šiehtadallanjoavku	1	0	5	0
-forhandlingsgruppe	sjiehtadallamjuohko	šiehtadallanjoavku	1	0	5	0
++forhandlingsgruppe	sjiehtadallamjuogos	šiehtadallanjoavku	1	0	5	0
 forhandlingsgruppe	sjiehtadallamabarggojuohko	šiehtadallanjoavku	1	0	5	0
 forhandlingsgruppe	sjiehtadallambarggojuohko	šiehtadallanjoavku	1	0	5	0
 
-hjemreise	sijddamannodoarjja	ruovttomátki	3	0	2	0
++hjemreise	sijddamanno	ruovttomátki	3	0	2	0
 hjemreise	sijdamannodoarjja	ruovttomátki	3	0	2	0
 
-heimreise	sijddamannodoarjja	ruovttomátki	2	0	2	0
++heimreise	sijddamanno	ruovttomátki	2	0	2	0
 heimreise	sijdamannodoarjja	ruovttomátki	2	0	2	0
 
 pasientreise	pasientamannodoarjja	pasieantamátki	1	0	1	0
 pasientreise	patientamannodoarjja	pasieantamátki	1	0	1	0
-pasientreise	pasiænntamannodoarjja	pasieantamátki	1	0	1	0
++pasientreise	pasiænntamanno	pasieantamátki	1	0	1	0
 
 hudlidelse	náhkkedávdda	liikeváddu	1	0	1	0
 hudlidelse	lijkeskihpudahka	liikeváddu	1	0	1	0
-hudlidelse	lijkkeskihpudahka	liikeváddu	1	0	1	0
++hudlidelse	lijkkeskihpudahka	liikeváddu	1	0	1	0
 hudlidelse	lijkevihke	liikeváddu	1	0	1	0
 hudlidelse	lijkkevihke	liikeváddu	1	0	1	0
 hudlidelse	lijkeskihpudak	liikeváddu	1	0	1	0
@@ -181,7 +182,7 @@ skolekonferanse	skåvllågirjjevuorkkákonferánssa	skuvlakonferánsa	16	0	6	0
 
 beløpsgrense	ruhtarádje	submerádjá	5	0	0	0
 beløpsgrense	ruhttarádje	submerádjá	5	0	0	0
-beløpsgrense	ruhtarádjá	submerádjá	5	0	0	0
++beløpsgrense	ruhtarádjá	submerádjá	5	0	0	0
 beløpsgrense	ruhttarádjá	submerádjá	5	0	0	0
 
 eierinteresse	niehkeberustibme	oamasteaddjiberoštupmi	2	0	1	0
@@ -190,7 +191,7 @@ eierinteresse	niehkkeberustibme	oamasteaddjiberoštupmi	2	0	1	0
 hovedtjeneste	oajvevirgge	váldobálvalus	1	0	1	0
 hovedtjeneste	oajvvevirgge	váldobálvalus	1	0	1	0
 hovedtjeneste	oajvevarresvuodadievnastus	váldobálvalus	1	0	1	0
-hovedtjeneste	oajvvevarresvuodadievnastus	váldobálvalus	1	0	1	0
++hovedtjeneste	oajvvedievnastus	váldobálvalus	1	0	1	0
 hovedtjeneste	oajvveámmát	váldobálvalus	1	0	1	0
 
 sentralbordtjeneste	resepsjåvnnådievnno	telefonguovddášbálvalus	1	0	1	0
@@ -198,12 +199,12 @@ sentralbordtjeneste	resepsjåvnnådievnastus	telefonguovddášbálvalus	1	0	1	0
 
 skoletjeneste	skåvllågirjjedievnno	skuvlabálvalus	1	0	1	0
 skoletjeneste	skåvllågirjjevuorkkádievnno	skuvlabálvalus	1	0	1	0
-skoletjeneste	skåvllågirjjedievnastus	skuvlabálvalus	1	0	1	0
++skoletjeneste	skåvllådievnastus	skuvlabálvalus	1	0	1	0
 skoletjeneste	skåvllågirjjevuorkkádievnastus	skuvlabálvalus	1	0	1	0
 
 kompetansetjeneste	máhtudahkavirgge	gelbbolašvuođabálvalus	1	0	0	0
 kompetansetjeneste	máhttodievnno	gelbbolašvuođabálvalus	1	0	0	0
-kompetansetjeneste	máhtudahkavarresvuodadievnastus	gelbbolašvuođabálvalus	1	0	0	0
++kompetansetjeneste	máhtudahkadievnastus	gelbbolašvuođabálvalus	1	0	0	0
 kompetansetjeneste	máhttodievnastus	gelbbolašvuođabálvalus	1	0	0	0
 
 pressetjeneste	præssadoarjjavirgge	preassabálvalus	2	0	1	0
@@ -211,23 +212,23 @@ pressetjeneste	pressavirgge	preassabálvalus	2	0	1	0
 pressetjeneste	præssavirgge	preassabálvalus	2	0	1	0
 pressetjeneste	præssadoarjjavarresvuodadievnastus	preassabálvalus	2	0	1	0
 pressetjeneste	pressavarresvuodadievnastus	preassabálvalus	2	0	1	0
-pressetjeneste	præssavarresvuodadievnastus	preassabálvalus	2	0	1	0
++pressetjeneste	præssadievnastus	preassabálvalus	2	0	1	0
 pressetjeneste	præssadoarjjaámmát	preassabálvalus	2	0	1	0
 pressetjeneste	præssaámmát	preassabálvalus	2	0	1	0
 
 rutetjeneste	ruktovirgge	ruktobálvalus/ruvttobálvalus	2	0	1	0
 rutetjeneste	ruvtovirgge	ruktobálvalus/ruvttobálvalus	2	0	1	0
-rutetjeneste	ruktovarresvuodadievnastus	ruktobálvalus/ruvttobálvalus	2	0	1	0
++rutetjeneste	ruktodievnastus	ruktobálvalus/ruvttobálvalus	2	0	1	0
 rutetjeneste	ruvtovarresvuodadievnastus	ruktobálvalus/ruvttobálvalus	2	0	1	0
 rutetjeneste	ruktoámmát	ruktobálvalus/ruvttobálvalus	2	0	1	0
 
 persontrafikktjeneste	persåvnnåtrafihkkadievnno	olmmošfievrredanbálvalus	1	0	1	0
-persontrafikktjeneste	persåvnnåtrafihkkadievnastus	olmmošfievrredanbálvalus	1	0	1	0
++persontrafikktjeneste	persåvnnåtrafihkkadievnastus	olmmošfievrredanbálvalus	1	0	1	0
 
 læremiddeltjeneste	oahppamnævvovirgge	oahpponeavvobálvalus	1	0	1	0
 læremiddeltjeneste	oahpponævvovirgge	oahpponeavvobálvalus	1	0	1	0
 læremiddeltjeneste	oahppamnævvovarresvuodadievnastus	oahpponeavvobálvalus	1	0	1	0
-læremiddeltjeneste	oahpponævvovarresvuodadievnastus	oahpponeavvobálvalus	1	0	1	0
++læremiddeltjeneste	oahpponævvodievnastus	oahpponeavvobálvalus	1	0	1	0
 læremiddeltjeneste	oahppamnævvoámmát	oahpponeavvobálvalus	1	0	1	0
 læremiddeltjeneste	oahpponævvoámmát	oahpponeavvobálvalus	1	0	1	0
 
@@ -244,14 +245,14 @@ telefontjeneste	skuolkandievnastus	telefonbálvalus/telefovdnabálvalus	1	0	1	0
 omvisningstjeneste	oahpestimedievnno	oahpistanbálvalus	1	0	1	0
 omvisningstjeneste	oahpestimdievnno	oahpistanbálvalus	1	0	1	0
 omvisningstjeneste	oahpestimedievnastus	oahpistanbálvalus	1	0	1	0
-omvisningstjeneste	oahpestimdievnastus	oahpistanbálvalus	1	0	1	0
++omvisningstjeneste	oahpestimdievnastus	oahpistanbálvalus	1	0	1	0
 
 ungdomstjeneste	nuoravirgge	nuoraidbálvalus	1	0	1	0
 ungdomstjeneste	nuorravirgge	nuoraidbálvalus	1	0	1	0
 ungdomstjeneste	nuorajskåvllåvirgge	nuoraidbálvalus	1	0	1	0
 ungdomstjeneste	nuoravarresvuodadievnastus	nuoraidbálvalus	1	0	1	0
 ungdomstjeneste	nuorravarresvuodadievnastus	nuoraidbálvalus	1	0	1	0
-ungdomstjeneste	nuorajskåvllåvarresvuodadievnastus	nuoraidbálvalus	1	0	1	0
++ungdomstjeneste	nuorajdievnastus	nuoraidbálvalus	1	0	1	0
 ungdomstjeneste	nuorraámmát	nuoraidbálvalus	1	0	1	0
 ungdomstjeneste	nuorajskåvllåámmát	nuoraidbálvalus	1	0	1	0
 
@@ -260,17 +261,17 @@ regnskapstjeneste	ruhttavirgge	rehketdoallobálvalus	1	0	1	0
 regnskapstjeneste	ruhtalåhkovirgge	rehketdoallobálvalus	1	0	1	0
 regnskapstjeneste	ruhtavarresvuodadievnastus	rehketdoallobálvalus	1	0	1	0
 regnskapstjeneste	ruhttavarresvuodadievnastus	rehketdoallobálvalus	1	0	1	0
-regnskapstjeneste	ruhtalåhkovarresvuodadievnastus	rehketdoallobálvalus	1	0	1	0
++regnskapstjeneste	ruhtalåhkodievnastus	rehketdoallobálvalus	1	0	1	0
 regnskapstjeneste	ruhtaámmát	rehketdoallobálvalus	1	0	1	0
 regnskapstjeneste	ruhttaámmát	rehketdoallobálvalus	1	0	1	0
 regnskapstjeneste	ruhtalåhkoámmát	rehketdoallobálvalus	1	0	1	0
 
 sikkerhetstjeneste	sihkarvuohtavirgge	sihkarvuođabálvalus/dorvobálvalus/dorvvolašvuođabálvalus	3	0	1	0
-sikkerhetstjeneste	sihkarvuohtavarresvuodadievnastus	sihkarvuođabálvalus/dorvobálvalus/dorvvolašvuođabálvalus	3	0	1	0
++sikkerhetstjeneste	sihkarvuohtadievnastus	sihkarvuođabálvalus/dorvobálvalus/dorvvolašvuođabálvalus	3	0	1	0
 sikkerhetstjeneste	sihkarvuohtaámmát	sihkarvuođabálvalus/dorvobálvalus/dorvvolašvuođabálvalus	3	0	1	0
 
 posttjeneste	poasstavirgge	poastabálvalus/boastabálvalus	2	0	1	0
-posttjeneste	poasstavarresvuodadievnastus	poastabálvalus/boastabálvalus	2	0	1	0
++posttjeneste	poasstadievnastus	poastabálvalus/boastabálvalus	2	0	1	0
 posttjeneste	poasstaámmát	poastabálvalus/boastabálvalus	2	0	1	0
 
 nordfylkemøte	nuorttafylkkavæddja	davvifylkkaidčoahkkin	1	0	0	0
@@ -283,7 +284,7 @@ nordfylkemøte	nuorttafylkapládna	davvifylkkaidčoahkkin	1	0	0	0
 nordfylkemøte	nuorttofylkapládna	davvifylkkaidčoahkkin	1	0	0	0
 
 termgruppemøte	juohkotjåhkanibme	tearbmajoavkočoahkkin	1	0	1	0
-termgruppemøte	juogostjåhkanibme	tearbmajoavkočoahkkin	1	0	1	0
++termgruppemøte	tærmmajuogostjåhkanibme	tearbmajoavkočoahkkin	1	0	1	0
 
 pressemøte	præssadoarjjadigge	preassačoahkkin	2	0	1	0
 pressemøte	pressadigge	preassačoahkkin	2	0	1	0
@@ -298,10 +299,10 @@ nettmøte	gæjnnonæhttatjåhkanibme	neahttačoahkkin	3	0	1	0
 
 lærefag	oahppopládnafáhkaterminologiddja	oahpahallanfága	3	0	1	0
 lærefag	oahppafáhkaterminologiddja	oahpahallanfága	3	0	1	0
-lærefag	oahppofáhkaterminologiddja	oahpahallanfága	3	0	1	0
++lærefag	oahppofáhka	oahpahallanfága	3	0	1	0
 lærefag	giellaåhpadiddjefáhka	oahpahallanfága	3	0	1	0
 
-redskapsfag	ræjddofáhkaterminologiddja	reaidofága	3	0	1	0
++redskapsfag	ræjddofáhka	reaidofága	3	0	1	0
 redskapsfag	giehtaræjddofáhkaterminologiddja	reaidofága	3	0	1	0
 
 nabolag	ráddnábelludahkasiebrre	ránnjágoddi	3	0	1	0
@@ -311,7 +312,7 @@ salgslag	oassesládja	vuovdinsearvi	3	0	1	0
 salgslag	oasevuohke	vuovdinsearvi	3	0	1	0
 salgslag	oassevuohke	vuovdinsearvi	3	0	1	0
 salgslag	oasesbelludahkasiebrre	vuovdinsearvi	3	0	1	0
-salgslag	oasesiebrre	vuovdinsearvi	3	0	1	0
++salgslag	oasesiebrre	vuovdinsearvi	3	0	1	0
 salgslag	oasesjuohko	vuovdinsearvi	3	0	1	0
 salgslag	oasedoarro	vuovdinsearvi	3	0	1	0
 salgslag	oassedoarro	vuovdinsearvi	3	0	1	0
@@ -319,9 +320,9 @@ salgslag	oasejuogos	vuovdinsearvi	3	0	1	0
 salgslag	oassejuogos	vuovdinsearvi	3	0	1	0
 
 reguleringsplanforslag	regulierimpládnapládnaoajvvadus	muddenplánaevttohus	4	0	1	0
-reguleringsplanforslag	regulierimpládnapládnaárvvalus	muddenplánaevttohus	4	0	1	0
++reguleringsplanforslag	regulierimpládnaárvvalus	muddenplánaevttohus	4	0	1	0
 
-bevilgningsforslag	ruhtaoajvvadus	juolludanevttohus/juolludusevttohus/juolludanárvalus	2	0	1	0
++bevilgningsforslag	ruhtajuollodimoajvvadus	juolludanevttohus/juolludusevttohus/juolludanárvalus	2	0	1	0
 bevilgningsforslag	ruhttaoajvvadus	juolludanevttohus/juolludusevttohus/juolludanárvalus	2	0	1	0
 bevilgningsforslag	ruhtaárvvalus	juolludanevttohus/juolludusevttohus/juolludanárvalus	2	0	1	0
 bevilgningsforslag	ruhttaárvvalus	juolludanevttohus/juolludusevttohus/juolludanárvalus	2	0	1	0
@@ -331,10 +332,10 @@ omsorgsbolig	berustimviesso	fuolahanviessu/fuollavisti/fuollaásodat/fuolahanvis
 
 utdanningsvalg	oahppajienastibme	oahppoválljen	2	0	1	0
 utdanningsvalg	oahpojienastibme	oahppoválljen	2	0	1	0
-utdanningsvalg	oahppojienastibme	oahppoválljen	2	0	1	0
++utdanningsvalg	åhpadusválljim	oahppoválljen	2	0	1	0
 
 forhandlingsutvalg	sjiehtadallamajuohko	šiehtadallanlávdegoddi/šiehtadanlávdegoddi	11	0	4	0
-forhandlingsutvalg	sjiehtadallamjuohko	šiehtadallanlávdegoddi/šiehtadanlávdegoddi	11	0	4	0
++forhandlingsutvalg	sjiehtadallamjuogos	šiehtadallanlávdegoddi/šiehtadanlávdegoddi	11	0	4	0
 
 balansegang	balánssarájgge	dássádatdilálašvuohta	2	0	1	0
 balansegang	balánssavádtsem	dássádatdilálašvuohta	2	0	1	0
@@ -342,26 +343,26 @@ balansegang	balánssavádtsem	dássádatdilálašvuohta	2	0	1	0
 årsakssammenheng	oaregasskavuohta	sivvaoktavuohta	2	0	1	0
 årsakssammenheng	oarregasskavuohta	sivvaoktavuohta	2	0	1	0
 årsakssammenheng	oareaktijvuohta	sivvaoktavuohta	2	0	1	0
-årsakssammenheng	oarreaktijvuohta	sivvaoktavuohta	2	0	1	0
++årsakssammenheng	oarreaktijvuohta	sivvaoktavuohta	2	0	1	0
 
 egenmelding	sierradiededibme	iešdieđáhus	2	0	3	0
 egenmelding	oabmeguládis	iešdieđáhus	2	0	3	0
 egenmelding	oabmediedádus	iešdieđáhus	2	0	3	0
 
 hovedanbefaling	oajveoajvvadus	váldoráva	1	0	1	0
-hovedanbefaling	oajvveoajvvadus	váldoráva	1	0	1	0
++hovedanbefaling	oajvveoajvvadus	váldoráva	1	0	1	0
 
-regningsbetaling	rieknikmákso	rehketmáksin	0	0	1	0
++regningsbetaling	rieknikmáksem	rehketmáksin	0	0	1	0
 regningsbetaling	máksemusmákso	rehketmáksin	0	0	1	0
 
 hovedfordeling	oajvejuollodibme	váldojuohkin	1	0	1	0
-hovedfordeling	oajvvejuollodibme	váldojuohkin	1	0	1	0
++hovedfordeling	oajvvejuollodibme	váldojuohkin	1	0	1	0
 
 egenutvikling	oabmeåvddånibme	iešovdáneapmi	7	0	1	0
 egenutvikling	oabmeåvddånahttem	iešovdáneapmi	7	0	1	0
 
 riksteaterforestilling	rijkkateáhtarájádus	riikkateáhterčájálmas	1	0	1	0
-riksteaterforestilling	rijkkateáhtarvuosádus	riikkateáhterčájálmas	1	0	1	0
++riksteaterforestilling	rijkkateáhtarvuosádus	riikkateáhterčájálmas	1	0	1	0
 
 motforestilling	måvtugisvuohtaájádus	vuosteguoddu	3	0	1	0
 motforestilling	roahkkatvuohtaájádus	vuosteguoddu	3	0	1	0
@@ -369,13 +370,13 @@ motforestilling	måvtugisvuohtavuosádus	vuosteguoddu	3	0	1	0
 motforestilling	roahkkatvuohtavuosádus	vuosteguoddu	3	0	1	0
 
 scenekunstforestilling	siednaájádus	lávdedáiddačájálmas	1	0	1	0
-scenekunstforestilling	siednavuosádus	lávdedáiddačájálmas	1	0	1	0
++scenekunstforestilling	siednadájddavuosádus	lávdedáiddačájálmas	1	0	1	0
 
-salgsbevilling	oaseloahpe	vuovdinlohpi	3	0	3	0
++salgsbevilling	oasesloahpe	vuovdinlohpi	3	0	3	0
 salgsbevilling	oasseloahpe	vuovdinlohpi	3	0	3	0
 
 separasjonsbevilling	sierranimeloahpe	sierranandohkkeheapmi	1	0	1	0
-separasjonsbevilling	sierranimloahpe	sierranandohkkeheapmi	1	0	1	0
++separasjonsbevilling	sierranimloahpe	sierranandohkkeheapmi	1	0	1	0
 
 nordfylkesamling	nuorttafylkkavæddja	davvifylkkaidčoagganeapmi	1	0	0	0
 nordfylkesamling	nuorttofylkkavæddja	davvifylkkaidčoagganeapmi	1	0	0	0
@@ -388,13 +389,13 @@ nordfylkesamling	nuorttofylkapládna	davvifylkkaidčoagganeapmi	1	0	0	0
 
 novellesamling	novællatjåhkanibme	noveallačoakkáldat	1	0	2	0
 novellesamling	novællatjåhkalvis	noveallačoakkáldat	1	0	2	0
-novellesamling	novællavuorkká	noveallačoakkáldat	1	0	2	0
++novellesamling	novællatjoakke	noveallačoakkáldat	1	0	2	0
 
 treningssamling	hárjjidallamtjoakkáldahka	hárjehallančoahkkaneapmi	1	0	0	0
-treningssamling	hárjjidallamtjoahkke	hárjehallančoahkkaneapmi	1	0	0	0
++treningssamling	hárjjidallamtjåhkanibme	hárjehallančoahkkaneapmi	1	0	0	0
 
 ungdomssamling	nuorratjåhkanibme	nuoraiddeaivvadeapmi	1	0	2	0
-ungdomssamling	nuorajskåvllåtjåhkanibme	nuoraiddeaivvadeapmi	1	0	2	0
++ungdomssamling	nuorajtjåhkanibme	nuoraiddeaivvadeapmi	1	0	2	0
 ungdomssamling	nuorratjåhkalvis	nuoraiddeaivvadeapmi	1	0	2	0
 ungdomssamling	nuorajskåvllåtjåhkalvis	nuoraiddeaivvadeapmi	1	0	2	0
 ungdomssamling	nuorravuorkká	nuoraiddeaivvadeapmi	1	0	2	0
@@ -402,7 +403,7 @@ ungdomssamling	nuorajskåvllåvuorkká	nuoraiddeaivvadeapmi	1	0	2	0
 
 skjelettsamling	sjelæhttatjåhkanibme	dákteriggečoahkkádus/dákteriggečoakkádus	1	0	0	0
 skjelettsamling	sjelæhttatjåhkalvis	dákteriggečoahkkádus/dákteriggečoakkádus	1	0	0	0
-skjelettsamling	sjelæhttavuorkká	dákteriggečoahkkádus/dákteriggečoakkádus	1	0	0	0
++skjelettsamling	sjelæhttatjoahkke	dákteriggečoahkkádus/dákteriggečoakkádus	1	0	0	0
 
 elevsamling	skåvllåoahppetjoakkáldahka	oahppičoagganeapmi	1	0	1	0
 elevsamling	skåvllåoahppetjoahkke	oahppičoagganeapmi	1	0	1	0
@@ -416,10 +417,10 @@ elevsamling	oahppeoahttsevuorkká	oahppičoagganeapmi	1	0	1	0
 underholdning	oavddomiellaguoddo	áiggeájanas/guoimmuheapmi	7	0	10	0
 underholdning	oavdomiellaguoddo	áiggeájanas/guoimmuheapmi	7	0	10	0
 
-læringordning	oahppamdoarjjaårnik	fidnooahppoortnet	3	0	1	0
++læringordning	oahppamårnik	fidnooahppoortnet	3	0	1	0
 læringordning	oahppodoarjjaårnik	fidnooahppoortnet	3	0	1	0
 
-ombudsordning	oahttseårnik	áittardanortnet/áittardeaddjiortnet	1	0	1	0
++ombudsordning	oahttseårnik	áittardanortnet/áittardeaddjiortnet	1	0	1	0
 ombudsordning	oahttseháldadusårnik	áittardanortnet/áittardeaddjiortnet	1	0	1	0
 ombudsordning	oahttsekvåvttåårnik	áittardanortnet/áittardeaddjiortnet	1	0	1	0
 ombudsordning	oahtsenjuolgadus	áittardanortnet/áittardeaddjiortnet	1	0	1	0
@@ -427,7 +428,7 @@ ombudsordning	oahttsenjuolgadus	áittardanortnet/áittardeaddjiortnet	1	0	1	0
 ombudsordning	oahttseásadus	áittardanortnet/áittardeaddjiortnet	1	0	1	0
 
 distriktsordning	guovlloháldadusårnik	orohatortnet	1	0	1	0
-distriktsordning	guovllokvåvttåårnik	orohatortnet	1	0	1	0
++distriktsordning	guovlloårnik	orohatortnet	1	0	1	0
 
 utjevningsmandatordning	dássemandáhttaháldadusårnik	dássenmandáhtaortnet	1	0	1	0
 utjevningsmandatordning	dássemandáhttakvåvttåårnik	dássenmandáhtaortnet	1	0	1	0
@@ -437,91 +438,91 @@ fraktordning	gálvvokvåvttåårnik	fievrrádusortnet	1	0	0	0
 
 bevilgningsøkning	ruhtalassánibme	juolluduslasiheapmi/ruhtalassáneapmi	9	0	1	0
 bevilgningsøkning	ruhttalassánibme	juolluduslasiheapmi/ruhtalassáneapmi	9	0	1	0
-bevilgningsøkning	ruhtalasádus	juolluduslasiheapmi/ruhtalassáneapmi	9	0	1	0
++bevilgningsøkning	juollodimlasádus	juolluduslasiheapmi/ruhtalassáneapmi	9	0	1	0
 bevilgningsøkning	ruhttalasádus	juolluduslasiheapmi/ruhtalassáneapmi	9	0	1	0
 
 samiskløsning	gielatjoavdos	sámegielčoavddus	1	0	1	0
-samiskløsning	giellatjoavdos	sámegielčoavddus	1	0	1	0
++samiskløsning	sámegiellatjoavdos	sámegielčoavddus	1	0	1	0
 
 eierforvaltning	niehkkeháldadibme	oamastanhálddašeapmi	1	0	1	0
 eierforvaltning	niehkkeháldadus	oamastanhálddašeapmi	1	0	1	0
 
 hovedendring	oajverievddadus	váldorievdadus	1	0	1	0
-hovedendring	oajvverievddadus	váldorievdadus	1	0	1	0
++hovedendring	oajvverievddadus	váldorievdadus	1	0	1	0
 
 egenfinansiering	oameruhtadibme	iešruhtadeapmi	3	0	1	0
 egenfinansiering	oabmeruhtadibme	iešruhtadeapmi	3	0	1	0
 
-forskriftsregulering	njuolgadustjálaregulierimpládna	láhkaásahusheiveheapmi	1	0	1	0
++forskriftsregulering	njuolgadustjálaregulierim	láhkaásahusheiveheapmi	1	0	1	0
 forskriftsregulering	njuolgadustjáladulvvadibme	láhkaásahusheiveheapmi	1	0	1	0
 
 rasering	nállesuormma	njeaidin/bilideapmi	3	0	7	0
 rasering	nállesuormas	njeaidin/bilideapmi	3	0	7	0
 
-avfallshandtering	ruhtsedåmadibme	doapparhálddašeapmi	2	0	1	0
++avfallshandtering	ruhtsedåmadibme	doapparhálddašeapmi	2	0	1	0
 avfallshandtering	ruhtsegiehtadallam	doapparhálddašeapmi	2	0	1	0
 avfallshandtering	rutsegiehtadallam	doapparhálddašeapmi	2	0	1	0
 
 samfunnsstyring	sebrudahkastivrra	servodatstivren	1	0	1	0
-samfunnsstyring	sebrudakstivrra	servodatstivren	1	0	1	0
++samfunnsstyring	sebrudakstivrrim	servodatstivren	1	0	1	0
 
 ressursstyring	resursastivrra	resursastivrejupmi	1	0	1	0
 ressursstyring	ressursastivrra	resursastivrejupmi	1	0	1	0
 ressursstyring	resurssastivrra	resursastivrejupmi	1	0	1	0
-ressursstyring	ressurssastivrra	resursastivrejupmi	1	0	1	0
++ressursstyring	ressurssastivrrim	resursastivrejupmi	1	0	1	0
 
-prosjektstyring	prosjæktastivrra	prošeaktastivren	2	0	1	0
++prosjektstyring	prosjæktastivrrim	prošeaktastivren	2	0	1	0
 prosjektstyring	projevtastivrra	prošeaktastivren	2	0	1	0
 prosjektstyring	prosjevtastivrra	prošeaktastivren	2	0	1	0
 
 ministererklæring	minisstarajavllamus	ministtarjulggaštus	1	0	1	0
 ministererklæring	ministarjavllamus	ministtarjulggaštus	1	0	1	0
 ministererklæring	minisstaraduodastus	ministtarjulggaštus	1	0	1	0
-ministererklæring	ministarduodastus	ministtarjulggaštus	1	0	1	0
++ministererklæring	ministarduodastus	ministtarjulggaštus	1	0	1	0
 
 tillitserklæring	luohtádusjavllamus	luohttámušduođaštus	1	0	1	0
-tillitserklæring	luohtádusduodastus	luohttámušduođaštus	1	0	1	0
++tillitserklæring	luohtádusduodastus	luohttámušduođaštus	1	0	1	0
 
 slutterklæring	loahppajavllamus	loahppajulggaštus	4	0	2	0
-slutterklæring	loahppaduodastus	loahppajulggaštus	4	0	2	0
++slutterklæring	loahppaduodastus	loahppajulggaštus	4	0	2	0
 
 politikeropplæring	politihkkároahppa	politihkaroahppu	1	0	1	0
-politikeropplæring	politihkkárgiellaåhpadus	politihkaroahppu	1	0	1	0
++politikeropplæring	politihkkáråhpadibme	politihkaroahppu	1	0	1	0
 
 regnskapsføring	ruhtatjálle	rehketdoallofievrrideapmi	5	0	1	0
 regnskapsføring	ruhttatjálle	rehketdoallofievrrideapmi	5	0	1	0
-regnskapsføring	ruhtalåhkotjálle	rehketdoallofievrrideapmi	5	0	1	0
++regnskapsføring	ruhtalåhkotjállem	rehketdoallofievrrideapmi	5	0	1	0
 
 ungdomssatsing	nuoradoajmma	nuoraidáŋgiruššan	2	0	1	0
 ungdomssatsing	nuorradoajmma	nuoraidáŋgiruššan	2	0	1	0
-ungdomssatsing	nuorajskåvllådoajmma	nuoraidáŋgiruššan	2	0	1	0
++ungdomssatsing	nuorajvuorodibme	nuoraidáŋgiruššan	2	0	1	0
 
 målsetting	mihtoulmme	juksanmearri/mihttomearri	272	0	139	0
 målsetting	mihttoulmme	juksanmearri/mihttomearri	272	0	139	0
 
 overføringsverdi	sirddemahadde	fievrridanárvu/sirddihanárvu/sirdinárvu	9	0	1	0
-overføringsverdi	sirddemhadde	fievrridanárvu/sirddihanárvu/sirdinárvu	9	0	1	0
++overføringsverdi	sirddemárvvo	fievrridanárvu/sirddihanárvu/sirdinárvu	9	0	1	0
 
 bevilgningsvedtak	ruhtamærrádus	juolludusmearrádus	3	0	1	0
 bevilgningsvedtak	ruhttamærrádus	juolludusmearrádus	3	0	1	0
 
-salgstiltak	oasedoajmma	vuovdindoaibma	1	0	1	0
++salgstiltak	oasesdoajmma	vuovdindoaibma	1	0	1	0
 salgstiltak	oassedoajmma	vuovdindoaibma	1	0	1	0
 salgstiltak	oasseåvddånahttemdoajmma	vuovdindoaibma	1	0	1	0
 salgstiltak	oassedåjmalasjvuohta	vuovdindoaibma	1	0	1	0
 
 studiebibliotek	låhkåmbibliotæhkka	oahppogirjerádju	1	0	1	0
-studiebibliotek	låhkåmgirjjevuorkká	oahppogirjerádju	1	0	1	0
++studiebibliotek	oahppogirjjevuorkká	oahppogirjerádju	1	0	1	0
 
 boligpolitikk	goadeguovllopolitihkka	ássanpolitihkka	2	0	1	0
-boligpolitikk	goahteguovllopolitihkka	ássanpolitihkka	2	0	1	0
++boligpolitikk	goahtepolitihkka	ássanpolitihkka	2	0	1	0
 boligpolitikk	goadeguovllopolitijkka	ássanpolitihkka	2	0	1	0
 boligpolitikk	goahteguovllopolitijkka	ássanpolitihkka	2	0	1	0
 
 handelspolitikk	oasestimeguovllopolitihkka	gávpepolitihkka	3	0	1	0
 handelspolitikk	oaseguovllopolitihkka	gávpepolitihkka	3	0	1	0
 handelspolitikk	oasseguovllopolitihkka	gávpepolitihkka	3	0	1	0
-handelspolitikk	oasestimguovllopolitihkka	gávpepolitihkka	3	0	1	0
++handelspolitikk	oasespolitihkka	gávpepolitihkka	3	0	1	0
 handelspolitikk	oasesguovllopolitihkka	gávpepolitihkka	3	0	1	0
 handelspolitikk	oasestimeguovllopolitijkka	gávpepolitihkka	3	0	1	0
 handelspolitikk	oaseguovllopolitijkka	gávpepolitihkka	3	0	1	0
@@ -535,7 +536,7 @@ stammefolk	nálleålmåj	čeardaálbmot/čearda	45	0	43	0
 stammefolk	nálleálmmuk	čeardaálbmot/čearda	45	0	43	0
 
 nordområdenettverk	nuorttalijguovlloværmádahka	davviguovllufierpmádat	6	0	1	0
-nordområdenettverk	nuorttoguovlloværmádahka	davviguovllufierpmádat	6	0	1	0
++nordområdenettverk	nuorttoguovlloværmádahka	davviguovllufierpmádat	6	0	1	0
 
 nordvestsamisk	nuorttavæssta	davveoarjesápmi	6	0	4	0
 nordvestsamisk	nuorttovæssta	davveoarjesápmi	6	0	4	0
@@ -553,10 +554,10 @@ handelsjordbruk	oasesednam	gávpeeanadoallu/gávpeeanandoallu	1	0	1	0
 scenespråk	siednadájddagiella	lávdegiella	1	0	1	0
 scenespråk	siednagiellaprosjækta	lávdegiella	1	0	1	0
 scenespråk	siednagiellaåvddånahttem	lávdegiella	1	0	1	0
-scenespråk	siednagiellaåhpadus	lávdegiella	1	0	1	0
++scenespråk	siednagiella	lávdegiella	1	0	1	0
 
 lærespråk	oahppopládnagiellaprosjækta	oahppangiella	1	0	1	0
-lærespråk	oahppagiellaprosjækta	oahppangiella	1	0	1	0
++lærespråk	oahppamgiella	oahppangiella	1	0	1	0
 lærespråk	oahppogiellaprosjækta	oahppangiella	1	0	1	0
 lærespråk	oahppopládnagiellaåvddånahttem	oahppangiella	1	0	1	0
 lærespråk	oahppagiellaåvddånahttem	oahppangiella	1	0	1	0
@@ -567,13 +568,13 @@ lærespråk	oahppogiellaåhpadus	oahppangiella	1	0	1	0
 
 bruksspråk	adnemgiellaprosjækta	geavahusgiella	6	0	1	0
 bruksspråk	adnogiellaprosjækta	geavahusgiella	6	0	1	0
-bruksspråk	adnemgiellaåvddånahttem	geavahusgiella	6	0	1	0
++bruksspråk	adnemgiella	geavahusgiella	6	0	1	0
 bruksspråk	adnogiellaåvddånahttem	geavahusgiella	6	0	1	0
 bruksspråk	adnemgiellaåhpadus	geavahusgiella	6	0	1	0
 bruksspråk	adnogiellaåhpadus	geavahusgiella	6	0	1	0
 
 handelsspråk	oassegiellaprosjækta	gávpegiella	1	0	1	0
-handelsspråk	oasesgiellaprosjækta	gávpegiella	1	0	1	0
++handelsspråk	oasesgiella	gávpegiella	1	0	1	0
 handelsspråk	oassegiellaåvddånahttem	gávpegiella	1	0	1	0
 handelsspråk	oasesgiellaåvddånahttem	gávpegiella	1	0	1	0
 handelsspråk	oassegiellaåhpadus	gávpegiella	1	0	1	0
@@ -581,26 +582,26 @@ handelsspråk	oasesgiellaåhpadus	gávpegiella	1	0	1	0
 
 pressebesøk	præssadoarjjaguossidibme	preassagalledeapmi	1	0	1	0
 pressebesøk	pressaguossidibme	preassagalledeapmi	1	0	1	0
-pressebesøk	præssaguossidibme	preassagalledeapmi	1	0	1	0
++pressebesøk	præssaguossidibme	preassagalledeapmi	1	0	1	0
 
 rentemiddel	rænntogasska	reantoruhta	1	0	1	0
 rentemiddel	rænntoåvddånahttemruhtta	reantoruhta	1	0	1	0
-rentemiddel	rænntoruhtta	reantoruhta	1	0	1	0
++rentemiddel	rænntoruhta	reantoruhta	1	0	1	0
 
 kontrollmiddel	dárkastusgasska	dárkkistanneavvu	1	0	1	0
 kontrollmiddel	dárkastusåvddånahttemruhtta	dárkkistanneavvu	1	0	1	0
-kontrollmiddel	dárkastusruhtta	dárkkistanneavvu	1	0	1	0
++kontrollmiddel	dárkastusruhta	dárkkistanneavvu	1	0	1	0
 
 omstillingsmiddel	nuppástuhttemgasska	nuppástuhttinruhta	1	0	1	0
 omstillingsmiddel	nuppástuhttemåvddånahttemruhtta	nuppástuhttinruhta	1	0	1	0
-omstillingsmiddel	nuppástuhttemruhtta	nuppástuhttinruhta	1	0	1	0
++omstillingsmiddel	nuppástuhttemruhta	nuppástuhttinruhta	1	0	1	0
 
 språkopplæringsmiddel	giellaåvddånahttemruhta	giellaoahpahusruhta	0	0	1	0
-språkopplæringsmiddel	giellaåhpadusåvddånahttemruhtta	giellaoahpahusruhta	0	0	1	0
++språkopplæringsmiddel	giellaåhpadusruhta	giellaoahpahusruhta	0	0	1	0
 
 netthandel	gæjnnonæhttaoasestibme	neahttagávppašeapmi	1	0	1	0
 netthandel	nehtaoasse	neahttagávppašeapmi	1	0	1	0
-netthandel	næhttaoasse	neahttagávppašeapmi	1	0	1	0
++netthandel	næhttaoases	neahttagávppašeapmi	1	0	1	0
 netthandel	gæjnnonæhttaoases	neahttagávppašeapmi	1	0	1	0
 
 halvdel	jahkebieloasse	bealli/lahkki	52	0	430	0
@@ -609,16 +610,16 @@ halvdel	jahkebielguovllo	bealli/lahkki	52	0	430	0
 arbeidsforbrukstall	pládnabarggogållådibme	bargogolahuslohku	1	0	0	0
 arbeidsforbrukstall	pládnabarggoadno	bargogolahuslohku	1	0	0	0
 
-betalingsmodell	máksemvuohke	máksinmálle	1	0	1	0
++betalingsmodell	máksemmodælla	máksinmálle	1	0	1	0
 betalingsmodell	máksovuohke	máksinmálle	1	0	1	0
 
 finansieringsmodell	ruhtadimevuohke	ruhtadanmálle/ruhtadanmodealla	5	0	1	0
-finansieringsmodell	ruhtadimvuohke	ruhtadanmálle/ruhtadanmodealla	5	0	1	0
++finansieringsmodell	ruhtadimmodælla	ruhtadanmálle/ruhtadanmodealla	5	0	1	0
 
 internkontroll	internáhttadárkestibme	siskkáldas bearráigeahččan	4	0	0	0
 internkontroll	internáhttadárkastus	siskkáldas bearráigeahččan	4	0	0	0
 
-ressurskontroll	resurssaháldadusdárkestibme	resursadárkkisteapmi	3	0	0	0
++ressurskontroll	ressurssadárkestibme	resursadárkkisteapmi	3	0	0	0
 ressurskontroll	resurssaháldadusdárkastus	resursadárkkisteapmi	3	0	0	0
 
 åremål	oallemåhkke	mearreáigi	6	0	6	0
@@ -629,65 +630,65 @@ ressurskontroll	resurssaháldadusdárkastus	resursadárkkisteapmi	3	0	0	0
 
 skoleformål	skåvllågirjjeulmme	skuvlaáigumuš	1	0	1	0
 skoleformål	skåvllågirjjevuorkkáulmme	skuvlaáigumuš	1	0	1	0
-skoleformål	skåvllågirjjeájggomus	skuvlaáigumuš	1	0	1	0
++skoleformål	skåvllåájggomus	skuvlaáigumuš	1	0	1	0
 skoleformål	skåvllågirjjevuorkkáájggomus	skuvlaáigumuš	1	0	1	0
 
 kystformål	meraulmme	riddoulbmil	1	0	0	0
 kystformål	merraulmme	riddoulbmil	1	0	0	0
 kystformål	merraájggomus	riddoulbmil	1	0	0	0
-kystformål	merraguovlloájggomus	riddoulbmil	1	0	0	0
++kystformål	merraguovlloájggomus	riddoulbmil	1	0	0	0
 
-skolebibliotekprogram	skåvllågirjjeprográmma	skuvlagirjerádjoprográmma	1	0	1	0
++skolebibliotekprogram	skåvllågirjjevuorkkáprográmma	skuvlagirjerádjoprográmma	1	0	1	0
 skolebibliotekprogram	skåvllåbibliotehkkaåvddånahttemprográmma	skuvlagirjerádjoprográmma	1	0	1	0
 skolebibliotekprogram	skåvllågirjjeåvddånahttemprográmma	skuvlagirjerádjoprográmma	1	0	1	0
 skolebibliotekprogram	skåvllåprográmma	skuvlagirjerádjoprográmma	1	0	1	0
 
-skolehjem	skåvllågirjjesijdda	skuvlaruoktu	4	0	1	0
++skolehjem	skåvllåsijdda	skuvlaruoktu	4	0	1	0
 skolehjem	skåvllågirjjevuorkkásijdda	skuvlaruoktu	4	0	1	0
 
 ungdomshjem	nuoraviesso	nuoraidruoktu	1	0	2	0
 ungdomshjem	nuorraviesso	nuoraidruoktu	1	0	2	0
-ungdomshjem	nuorajskåvllåviesso	nuoraidruoktu	1	0	2	0
++ungdomshjem	nuorajsijdda	nuoraidruoktu	1	0	2	0
 
 kontrollsystem	dárkastussuorgge	dárkkistanvuogádat/dárkkistansystema	2	0	1	0
-kontrollsystem	dárkastusvuohke	dárkkistanvuogádat/dárkkistansystema	2	0	1	0
++kontrollsystem	dárkastussystiebma	dárkkistanvuogádat/dárkkistansystema	2	0	1	0
 
 overføringssystem	sirddemasuorgge	ruhtajuolludanvuogádat	1	0	0	0
 overføringssystem	sirddemsuorgge	ruhtajuolludanvuogádat	1	0	0	0
 overføringssystem	sirddemavuohke	ruhtajuolludanvuogádat	1	0	0	0
-overføringssystem	sirddemvuohke	ruhtajuolludanvuogádat	1	0	0	0
++overføringssystem	sirddemsystiebma	ruhtajuolludanvuogádat	1	0	0	0
 
 regnskapssystem	ruhtasuorgge	rehketdoallovuogádat	2	0	1	0
 regnskapssystem	ruhttasuorgge	rehketdoallovuogádat	2	0	1	0
 regnskapssystem	ruhtalåhkosuorgge	rehketdoallovuogádat	2	0	1	0
 regnskapssystem	ruhtavuohke	rehketdoallovuogádat	2	0	1	0
 regnskapssystem	ruhttavuohke	rehketdoallovuogádat	2	0	1	0
-regnskapssystem	ruhtalåhkovuohke	rehketdoallovuogádat	2	0	1	0
++regnskapssystem	ruhtalåhkosystiebma	rehketdoallovuogádat	2	0	1	0
 
 tilknytningsform	aktisasjvuodavuohke	čatnasanhápmi/čatnasanvuohki/gullevašvuođahápmi	7	0	1	0
 tilknytningsform	aktisasjvuohtavuohke	čatnasanhápmi/čatnasanvuohki/gullevašvuođahápmi	7	0	1	0
 tilknytningsform	aktisasjvuohtahábme	čatnasanhápmi/čatnasanvuohki/gullevašvuođahápmi	7	0	1	0
 
-organiseringsform	organisierimvuohke	organiserenhápmi	2	0	1	0
++organiseringsform	organisierimvuohke	organiserenhápmi	2	0	1	0
 organiseringsform	organisierimhábme	organiserenhápmi	2	0	1	0
 
 nordområdemuseum	nuorttalijguovllomusedja	davviguovllumusea	1	0	0	0
-nordområdemuseum	nuorttoguovllomusedja	davviguovllumusea	1	0	0	0
++nordområdemuseum	nuorttoguovllomusedja	davviguovllumusea	1	0	0	0
 nordområdemuseum	nuorttalijguovllodávvervuorkká	davviguovllumusea	1	0	0	0
 nordområdemuseum	nuorttoguovllodávvervuorkká	davviguovllumusea	1	0	0	0
 
 sammenlikningsstudium	buohtastahttemaoahppo	buohtastahttindutkamuš	1	0	1	0
-sammenlikningsstudium	buohtastahttemoahppo	buohtastahttindutkamuš	1	0	1	0
++sammenlikningsstudium	buohtastahttemoahppo	buohtastahttindutkamuš	1	0	1	0
 sammenlikningsstudium	buohtastahttemåhpadus	buohtastahttindutkamuš	1	0	1	0
 
-praksisstudium	dáhpeoahppo	práksisoahppu	1	0	0	0
++praksisstudium	hárjjidallamoahppo	práksisoahppu	1	0	0	0
 praksisstudium	barggoduogásjoahppo	práksisoahppu	1	0	0	0
 praksisstudium	barggoduogásjåhpadus	práksisoahppu	1	0	0	0
 
 hovedplan	oajvvevæddjapládna	váldoplána	1	0	1	0
 hovedplan	oajvvebarggopládna	váldoplána	1	0	1	0
 hovedplan	oajvvedásse	váldoplána	1	0	1	0
-hovedplan	oajvveájggom	váldoplána	1	0	1	0
++hovedplan	oajvvepládna	váldoplána	1	0	1	0
 
 normalplan	njuolgadusåvddånahttempládna	normálaplána	4	0	1	0
 normalplan	njuolgaduspládna	normálaplána	4	0	1	0
@@ -695,7 +696,7 @@ normalplan	njuolgaduspládna	normálaplána	4	0	1	0
 reguleringsplan	regulierimpládnavæddjapládna	muddenplána/regulerenplána/ásahallanplána	62	0	9	0
 reguleringsplan	regulierimpládnabarggopládna	muddenplána/regulerenplána/ásahallanplána	62	0	9	0
 reguleringsplan	regulierimpládnadásse	muddenplána/regulerenplána/ásahallanplána	62	0	9	0
-reguleringsplan	regulierimpládnaájggom	muddenplána/regulerenplána/ásahallanplána	62	0	9	0
++reguleringsplan	regulierimpládna	muddenplána/regulerenplána/ásahallanplána	62	0	9	0
 
 skolesanglærereksamen	skåvllågirjjelávlla	skuvlalávlunoahpaheaddjeeksámen	1	0	0	0
 skolesanglærereksamen	skåvllågirjjevuorkkálávlla	skuvlalávlunoahpaheaddjeeksámen	1	0	0	0
@@ -708,30 +709,30 @@ skolesanglærereksamen	skåvllågirjjevuorkkálávllo	skuvlalávlunoahpaheaddjee
 skolesanglærereksamen	skåvllågirjjelávludis	skuvlalávlunoahpaheaddjeeksámen	1	0	0	0
 skolesanglærereksamen	skåvllågirjjevuorkkálávludis	skuvlalávlunoahpaheaddjeeksámen	1	0	0	0
 
-studiedesign	oahppohábmedibme	dutkanhápmi	1	0	1	0
++studiedesign	oahppohábmedibme	dutkanhápmi	1	0	1	0
 studiedesign	låhkåmhábbmim	dutkanhápmi	1	0	1	0
 
 merkesmann	mærkkaguojmme	mearkaalmmái	1	0	1	0
 merkesmann	merkaguojmme	mearkaalmmái	1	0	1	0
 merkesmann	mærkkaalmasj	mearkaalmmái	1	0	1	0
 merkesmann	merkaalmasj	mearkaalmmái	1	0	1	0
-merkesmann	mærkkadiedaålmåj	mearkaalmmái	1	0	1	0
++merkesmann	mærkkaålmåj	mearkaalmmái	1	0	1	0
 
 riksmeklingsmann	rijkkasåbadallam	riikkasoabaheaddji	1	0	1	0
-riksmeklingsmann	rijkkasåbadahttem	riikkasoabaheaddji	1	0	1	0
++riksmeklingsmann	rijkkasåbadahttemålmåj	riikkasoabaheaddji	1	0	1	0
 
 skirenn	sabegagilpos	čuoigan/čuoigangilvu/gilvočuoigan	2	0	37	0
-skirenn	sabekgilpos	čuoigan/čuoigangilvu/gilvočuoigan	2	0	37	0
++skirenn	tjuojggamgilpos	čuoigan/čuoigangilvu/gilvočuoigan	2	0	37	0
 
 pelsskinn	skiddeguojta	beaskanáhkki	1	0	1	0
 pelsskinn	náhkkeduodjeguojta	beaskanáhkki	1	0	1	0
-pelsskinn	náhkkeguojta	beaskanáhkki	1	0	1	0
++pelsskinn	náhkke	beaskanáhkki	1	0	1	0
 pelsskinn	skitteguojta	beaskanáhkki	1	0	1	0
 pelsskinn	skiddeskidde	beaskanáhkki	1	0	1	0
 pelsskinn	náhkkeduodjeskidde	beaskanáhkki	1	0	1	0
 pelsskinn	náhkkeskidde	beaskanáhkki	1	0	1	0
 pelsskinn	skitteskidde	beaskanáhkki	1	0	1	0
-pelsskinn	skiddesassne	beaskanáhkki	1	0	1	0
++pelsskinn	skidde	beaskanáhkki	1	0	1	0
 pelsskinn	náhkkeduodjesassne	beaskanáhkki	1	0	1	0
 pelsskinn	náhkkesassne	beaskanáhkki	1	0	1	0
 pelsskinn	skittesassne	beaskanáhkki	1	0	1	0
@@ -741,18 +742,18 @@ pelsskinn	náhkkeguojttem	beaskanáhkki	1	0	1	0
 pelsskinn	skitteguojttem	beaskanáhkki	1	0	1	0
 
 salgsorganisasjon	oasesiebrre	gávpeorganisašuvdna	6	0	2	0
-salgsorganisasjon	oasseorganisasjåvnnå	gávpeorganisašuvdna	6	0	2	0
++salgsorganisasjon	oasesorganisasjåvnnå	gávpeorganisašuvdna	6	0	2	0
 
 paraplyorganisasjon	rássjosuodjesiebrre	goavdeorganisašuvdna	2	0	1	0
 paraplyorganisasjon	rássjosuojánsiebrre	goavdeorganisašuvdna	2	0	1	0
 
 regnskapsdokumentasjon	ruhtadokumentasjåvnnå	rehketdoalloduođaštus	0	0	1	0
 regnskapsdokumentasjon	ruhttadokumentasjåvnnå	rehketdoalloduođaštus	0	0	1	0
-regnskapsdokumentasjon	ruhtalåhkodokumentasjåvnnå	rehketdoalloduođaštus	0	0	1	0
++regnskapsdokumentasjon	ruhtalåhkodokumentasjåvnnå	rehketdoalloduođaštus	0	0	1	0
 
 regnskapsrevisjon	ruhtarevisjåvnnå	rehketdoallorevišuvdna	1	0	1	0
 regnskapsrevisjon	ruhttarevisjåvnnå	rehketdoallorevišuvdna	1	0	1	0
-regnskapsrevisjon	ruhtalåhkorevisjåvnnå	rehketdoallorevišuvdna	1	0	1	0
++regnskapsrevisjon	ruhtalåhkorevisjåvnnå	rehketdoallorevišuvdna	1	0	1	0
 
 eierfunksjon	niehkedoajmma	oamastandoaibma	1	0	1	0
 eierfunksjon	niehkkedoajmma	oamastandoaibma	1	0	1	0
@@ -764,15 +765,15 @@ støttepunktfunksjon	oatsodimetjuokkes	doarjjabáikedoaibma	1	0	1	0
 støttepunktfunksjon	oatsodimtjuokkes	doarjjabáikedoaibma	1	0	1	0
 
 hovedkonklusjon	oajvvetjoahkkájgæsos	váldoboađus/váldokonklušuvdna	3	0	1	0
-hovedkonklusjon	oajvvekonklusjåvnnå	váldoboađus/váldokonklušuvdna	3	0	1	0
++hovedkonklusjon	oajvvekonklusjåvnnå	váldoboađus/váldokonklušuvdna	3	0	1	0
 
-ressursvern	resurssaháldadussuodjalibme	resursasuodjaleapmi	3	0	0	0
++ressursvern	ressurssasuodjalibme	resursasuodjaleapmi	3	0	0	0
 ressursvern	resurssaháldadussuodjalus	resursasuodjaleapmi	3	0	0	0
 
 myndighetstilsyn	oajvvebærrájgæhttje	eiseváldegoziheapmi	1	0	0	0
-myndighetstilsyn	oajvvegæhttjo	eiseváldegoziheapmi	1	0	0	0
++myndighetstilsyn	oajválasjgæhttjo	eiseváldegoziheapmi	1	0	0	0
 
-studielån	låhkåmlådna	studieloatna/oahppoloatna	23	0	4	0
++studielån	oahppolådna	studieloatna/oahppoloatna	23	0	4	0
 studielån	oahppoluojkkam	studieloatna/oahppoloatna	23	0	4	0
 
 landskap	rijkkaskáhppa	eanadat	70	0	23	0
@@ -782,7 +783,7 @@ landskap	rijkkaaktijvuohta	eanadat	70	0	23	0
 egenskap	sierraskáhppa	iešvuohta	17	0	54	0
 egenskap	sierraaktijvuohta	iešvuohta	17	0	54	0
 
-prosjektregnskap	prosjæktaruhta	prošeaktarehketdoallu	36	0	11	0
++prosjektregnskap	prosjæktaruhtalåhko	prošeaktarehketdoallu	36	0	11	0
 prosjektregnskap	projevtaruhta	prošeaktarehketdoallu	36	0	11	0
 prosjektregnskap	prosjevtaruhta	prošeaktarehketdoallu	36	0	11	0
 prosjektregnskap	prosjæktaruhtta	prošeaktarehketdoallu	36	0	11	0
@@ -790,9 +791,9 @@ prosjektregnskap	projevtaruhtta	prošeaktarehketdoallu	36	0	11	0
 prosjektregnskap	prosjevtaruhtta	prošeaktarehketdoallu	36	0	11	0
 
 markedskunnskap	márnándoajmma	márkanmáhtolašvuohta	2	0	1	0
-markedskunnskap	márnánoahppa	márkanmáhtolašvuohta	2	0	1	0
++markedskunnskap	márnánmáhtudahka	márkanmáhtolašvuohta	2	0	1	0
 
-forretningskunnskap	oasesdoajmma	gávpemáhttu	1	0	1	0
++forretningskunnskap	oasesmáhtudahka	gávpemáhttu	1	0	1	0
 forretningskunnskap	oasesoahppa	gávpemáhttu	1	0	1	0
 
 skolemesterskap	skåvllågirjjegilpos	skuvlameašttirgilvvohallan	1	0	1	0
@@ -814,19 +815,19 @@ middelalder	ruhttaáldar	gaskaáigi/gaskaahki	4	0	3	0
 middelalder	nævvoáldar	gaskaáigi/gaskaahki	4	0	3	0
 
 gjennomsnittsalder	gasskamierreájgge	gaskamearreahki/gaskamearálašahki	12	0	1	0
-gjennomsnittsalder	gasskamierreáldar	gaskamearreahki/gaskamearálašahki	12	0	1	0
++gjennomsnittsalder	gasskamierreáldar	gaskamearreahki/gaskamearálašahki	12	0	1	0
 
 oljepenger	oaljoruhtta	oljoruhta	2	0	1	0
-oljepenger	oalljoruhtta	oljoruhta	2	0	1	0
++oljepenger	oalljoruhta	oljoruhta	2	0	1	0
 
 hovedbruker	oajvebargge	váldodoalli	6	0	1	0
-hovedbruker	oajvvebargge	váldodoalli	6	0	1	0
++hovedbruker	oajvveaddne	váldodoalli	6	0	1	0
 
 spiskammer	sierrarájdam	borramušáiti	2	0	0	0
 spiskammer	sierratjåhkom	borramušáiti	2	0	0	0
 
 handelspartner	oasseiellemguojmme	gávpeverdde/gávpeguoibmi/gávpeoasálaš	3	0	1	0
-handelspartner	oasesiellemguojmme	gávpeverdde/gávpeguoibmi/gávpeoasálaš	3	0	1	0
++handelspartner	oasesguojmme	gávpeverdde/gávpeguoibmi/gávpeoasálaš	3	0	1	0
 
 politimester	politiddjavuojtte	politiijameašttir	3	0	8	0
 politimester	politidjavuojtte	politiijameašttir	3	0	8	0
@@ -838,33 +839,33 @@ hovedmønster	oajvegirjos	váldominsttar	1	0	1	0
 hovedmønster	oajvvegirjos	váldominsttar	1	0	1	0
 
 pakketur	páhkkamanno	mátkefálaldat	1	0	1	0
-pakketur	páhkkemanno	mátkefálaldat	1	0	1	0
++pakketur	páhkkemanno	mátkefálaldat	1	0	1	0
 pakketur	skurppomanno	mátkefálaldat	1	0	1	0
 pakketur	skurpomanno	mátkefálaldat	1	0	1	0
 
-læringsvilkår	oahppamdille	oahppandilálašvuohta	1	0	1	0
++læringsvilkår	oahppamækto	oahppandilálašvuohta	1	0	1	0
 læringsvilkår	oahpodille	oahppandilálašvuohta	1	0	1	0
 læringsvilkår	oahppodille	oahppandilálašvuohta	1	0	1	0
 
-vekstvilkår	sjaddodille	šaddandilli	1	0	1	0
++vekstvilkår	sjaddamækto	šaddandilli	1	0	1	0
 vekstvilkår	sjattodille	šaddandilli	1	0	1	0
 
-skoledirektør	skåvllågirjjedirekterra	skuvladirektevra	29	0	19	0
++skoledirektør	skåvllådirekterra	skuvladirektevra	29	0	19	0
 skoledirektør	skåvllågirjjevuorkkádirekterra	skuvladirektevra	29	0	19	0
 
 boligpris	goadehievedibme	stohpohaddi	1	0	1	0
 boligpris	goahtehievedibme	stohpohaddi	1	0	1	0
 
-kortpris	kårttåhadde	goartahaddi	1	0	1	0
++kortpris	kårttåhadde	goartahaddi	1	0	1	0
 kortpris	kårttåguddnebálkká	goartahaddi	1	0	1	0
 kortpris	kårttågudnebálkká	goartahaddi	1	0	1	0
 kortpris	kårttåbálkká	goartahaddi	1	0	1	0
 
 forretningspraksis	oasesbarggoduogásj	gávppašanvuohki	1	0	1	0
-forretningspraksis	oaseshárjjidallam	gávppašanvuohki	1	0	1	0
++forretningspraksis	oasesvuohke	gávppašanvuohki	1	0	1	0
 
 vevkurs	sjnjissjkomakurssa	gođđinkursa	1	0	1	0
-vevkurs	sjnjissjkomkurssa	gođđinkursa	1	0	1	0
++vevkurs	sjnjissjkomkurssa	gođđinkursa	1	0	1	0
 
 undergrunnsressurs	oavddobåddne	eatnanvulošriggodat	2	0	1	0
 undergrunnsressurs	oavddovuodo	eatnanvulošriggodat	2	0	1	0
@@ -874,43 +875,43 @@ undergrunnsressurs	oavddovuodoåhpadus	eatnanvulošriggodat	2	0	1	0
 undergrunnsressurs	oavddoednamæjgát	eatnanvulošriggodat	2	0	1	0
 undergrunnsressurs	oavddovuodoskåvllå	eatnanvulošriggodat	2	0	1	0
 
-avfallsplass	ruhtsesalljo	doapparvearru	2	0	1	0
++avfallsplass	ruhtsesalljo	doapparvearru	2	0	1	0
 avfallsplass	rutsesalljo	doapparvearru	2	0	1	0
 
-bevilgningsprosess	ruhtaprosæssa	juolludanproseassa	1	0	1	0
++bevilgningsprosess	ruhtajuollodimprosæssa	juolludanproseassa	1	0	1	0
 bevilgningsprosess	ruhttaprosæssa	juolludanproseassa	1	0	1	0
 
 omsorgsinnsats	berustimebarggo	fuollaáŋgiruššan	1	0	0	0
 omsorgsinnsats	berustimbarggo	fuollaáŋgiruššan	1	0	0	0
 
-ressursinnsats	resurssaratjástibme	resursaáŋgiruššan/resursabidju	5	0	1	0
++ressursinnsats	ressurssaratjástibme	resursaáŋgiruššan/resursabidju	5	0	1	0
 ressursinnsats	resurssaháldadusbarggo	resursaáŋgiruššan/resursabidju	5	0	1	0
 
-skolekrets	skåvllåbijrra	skuvlabiire	16	0	8	0
++skolekrets	skåvllåbijrra	skuvlabiire	16	0	8	0
 skolekrets	skåvllådáfo	skuvlabiire	16	0	8	0
 
-fotballkrets	bállotjiektjambijrra	spábbačiekčanbiire	1	0	5	0
++fotballkrets	bállotjiektjambijrra	spábbačiekčanbiire	1	0	5	0
 fotballkrets	bállotjiektjamdáfo	spábbačiekčanbiire	1	0	5	0
 
-skoleresultat	skåvllågirjjeboados	skuvlaboađus	1	0	1	0
++skoleresultat	skåvllåboados	skuvlaboađus	1	0	1	0
 skoleresultat	skåvllågirjjevuorkkáboados	skuvlaboađus	1	0	1	0
 
-forhandlingsresultat	sjiehtadallamaboahto	šiehtadusboađus/šiehtadallanboađus	8	0	2	0
++forhandlingsresultat	sjiehtadallamaboados	šiehtadusboađus/šiehtadallanboađus	8	0	2	0
 forhandlingsresultat	sjiehtadallamboahto	šiehtadusboađus/šiehtadallanboađus	8	0	2	0
 
 oppnevningsmyndighet	nammadimeoajvve	nammadanvuoigatvuohta/nammadanváldi	8	0	1	0
-oppnevningsmyndighet	nammadimoajvve	nammadanvuoigatvuohta/nammadanváldi	8	0	1	0
++oppnevningsmyndighet	nammadimoajválasj	nammadanvuoigatvuohta/nammadanváldi	8	0	1	0
 
 reisevirksomhet	mannodoarjjadoajmma	mátkedoaibma	7	0	2	0
-reisevirksomhet	mannodoarjjaæládusdoajmma	mátkedoaibma	7	0	2	0
++reisevirksomhet	mannoæládusdoajmma	mátkedoaibma	7	0	2	0
 
 utvinningsvirksomhet	buvtadimedoajmma	bohkandoaibma	1	0	1	0
-utvinningsvirksomhet	buvtadimdoajmma	bohkandoaibma	1	0	1	0
++utvinningsvirksomhet	buvtadimdoajmma	bohkandoaibma	1	0	1	0
 
 handelsvirksomhet	oasestimebarggo	gávpedoaibma	1	0	4	0
 handelsvirksomhet	oasebarggo	gávpedoaibma	1	0	4	0
 handelsvirksomhet	oassebarggo	gávpedoaibma	1	0	4	0
-handelsvirksomhet	oasestimbarggo	gávpedoaibma	1	0	4	0
++handelsvirksomhet	oasestimdoajmma	gávpedoaibma	1	0	4	0
 handelsvirksomhet	oasesbarggo	gávpedoaibma	1	0	4	0
 
 utdanningskapasitet	oahppakapacitiehtta	oahppokapasitehta	1	0	0	0
@@ -918,14 +919,14 @@ utdanningskapasitet	oahpokapacitiehtta	oahppokapasitehta	1	0	0	0
 utdanningskapasitet	oahppokapacitiehtta	oahppokapasitehta	1	0	0	0
 utdanningskapasitet	oahppakapasitiehtta	oahppokapasitehta	1	0	0	0
 utdanningskapasitet	oahpokapasitiehtta	oahppokapasitehta	1	0	0	0
-utdanningskapasitet	oahppokapasitiehtta	oahppokapasitehta	1	0	0	0
++utdanningskapasitet	oahppokapasitiehtta	oahppokapasitehta	1	0	0	0
 utdanningskapasitet	oahppakapasitæhtta	oahppokapasitehta	1	0	0	0
 utdanningskapasitet	oahppokapasitæhtta	oahppokapasitehta	1	0	0	0
 
 overnattingskapasitet	idjadimekapacitiehtta	idjadankapasitehta	1	0	1	0
 overnattingskapasitet	idjadimkapacitiehtta	idjadankapasitehta	1	0	1	0
 overnattingskapasitet	idjadimekapasitiehtta	idjadankapasitehta	1	0	1	0
-overnattingskapasitet	idjadimkapasitiehtta	idjadankapasitehta	1	0	1	0
++overnattingskapasitet	idjadimkapasitiehtta	idjadankapasitehta	1	0	1	0
 
 lærekraft	oahppopládnaliebma	oahpponákca	2	0	1	0
 lærekraft	oahppaliebma	oahpponákca	2	0	1	0
@@ -937,7 +938,7 @@ vekstkraft	sjattoliebma	šaddanfápmu/ahtanuššanfápmu	3	0	1	0
 
 kystavgift	meradivut	riddodivat	2	0	1	0
 kystavgift	merradivut	riddodivat	2	0	1	0
-kystavgift	merraguovllodivut	riddodivat	2	0	1	0
++kystavgift	merraguovllodivut	riddodivat	2	0	1	0
 kystavgift	merraguovlodivut	riddodivat	2	0	1	0
 
 forretningsdrift	oasesdoajmmaruhta	fitnodatdoaibma/fitnodatdoallu	7	0	3	0
@@ -945,7 +946,7 @@ forretningsdrift	oasesdoallo	fitnodatdoaibma/fitnodatdoallu	7	0	3	0
 forretningsdrift	oasessujtto	fitnodatdoaibma/fitnodatdoallu	7	0	3	0
 
 sykehusdrift	skihppijviesodoajmmaruhta	buohcceviessodoaibma	1	0	1	0
-sykehusdrift	skihppijviessodoajmmaruhta	buohcceviessodoaibma	1	0	1	0
++sykehusdrift	skihppijviessodoajmma	buohcceviessodoaibma	1	0	1	0
 sykehusdrift	skihppijviesodoallo	buohcceviessodoaibma	1	0	1	0
 sykehusdrift	skihppijviessodoallo	buohcceviessodoaibma	1	0	1	0
 sykehusdrift	skihppijviesosujtto	buohcceviessodoaibma	1	0	1	0
@@ -954,7 +955,7 @@ sykehusdrift	skihppijviessosujtto	buohcceviessodoaibma	1	0	1	0
 kårkontrakt	njálmmekontrákta	dáluealátšiehtadus	0	0	0	0
 kårkontrakt	njálmmesjiehtadus	dáluealátšiehtadus	0	0	0	0
 
-salgsinntekt	oaseboahto	vuovdindienas	8	0	2	0
++salgsinntekt	vuobddemboahto	vuovdindienas	8	0	2	0
 salgsinntekt	oasseboahto	vuovdindienas	8	0	2	0
 salgsinntekt	oasesisboahto	vuovdindienas	8	0	2	0
 salgsinntekt	oassesisboahto	vuovdindienas	8	0	2	0
@@ -971,14 +972,14 @@ boligfelt	goadedajvva	ássanviessoguovlu/ásodatbáiki	4	0	1	0
 boligfelt	goahtedajvva	ássanviessoguovlu/ásodatbáiki	4	0	1	0
 
 ungdomsrepresentant	nuorraájrra	nuoraidovddasteaddji	1	0	1	0
-ungdomsrepresentant	nuorajskåvllåájrra	nuoraidovddasteaddji	1	0	1	0
++ungdomsrepresentant	nuorajájras	nuoraidovddasteaddji	1	0	1	0
 
 lavart	njárretjærdda	jeagelšaddu	2	0	5	0
 lavart	njárresládja	jeagelšaddu	2	0	5	0
 lavart	njárrekártta	jeagelšaddu	2	0	5	0
 
 utvinningsrett	buvtadimerievtesvuohta	rogganriekti	14	0	2	0
-utvinningsrett	buvtadimrievtesvuohta	rogganriekti	14	0	2	0
++utvinningsrett	buvtadimriektá	rogganriekti	14	0	2	0
 
 foreningsliv	siebreielle	searvedoaibma	1	0	3	0
 foreningsliv	siebrreielle	searvedoaibma	1	0	3	0
@@ -990,7 +991,7 @@ luftfartøy	ilmevanntsa	áibmofievru	3	0	1	0
 luftfartøy	ilmmevanntsa	áibmofievru	3	0	1	0
 
 bevilgningsnivå	ruhtadásse	juolludandássi	2	0	1	0
-bevilgningsnivå	ruhttadásse	juolludandássi	2	0	1	0
++bevilgningsnivå	ruhtadimdásse	juolludandássi	2	0	1	0
 
 innkjøpskomité	oasstusajuohko	oastinlávdegoddi	2	0	1	0
 innkjøpskomité	oastosjuohko	oastinlávdegoddi	2	0	1	0
