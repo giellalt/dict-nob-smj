@@ -1,69 +1,70 @@
+# these are all good
 
-ta forbehold	ævtodit	eaktudit	0	48	87	1
-
-
-holde	ásadit	hehttet/dollet	441	1097	129	6
-
-vende	jårrålit	jorralit	13	17	4	0
+foreslå	ævtodit	eaktudit	0	48	87	1
 
 
-omtale	gåvvidit	válddahallat	159	222	40	4
+arrangere	ásadit	hehttet/dollet	441	1097	129	6
 
-skjemme	biledit	bilidit	5	7	62	0
-
-nedstemme	jienastit	jienastit	2	459	370	49
-
-havne	doalvvut	doalvut	25	1	192	0
-
-re	láhtjet	láhčit	128	280	245	30
-
-oppbevare	rádjat	rádjat	21	688	64	0
-
-agere	vuosedit	láhttet	1	1076	110	0
-
-variere	rievdadit	rievddadit	134	25	31	0
-
-forsere	vuodjet	jođálmahttit	5	242	2	0
-
-klapre	tsábbmet	čoalkit	1	89	1	0
-
-henvise	vuosedit	čujuhit	33	1076	484	15
-
-sakse	tjuohppat	čuohppat	3	78	78	0
-
-synse	árvvedit	navdit	4	212	106	0
-
-ryste	balldet	suorggahit	2	24	23	0
+falle	jårrålit	jorralit	13	17	4	0
 
 
-innrette	ásadit	feret	14	1097	3	0
+beskrive	gåvvidit	válddahallat	159	222	40	4
 
-forutsette	ævtodit	ovdehit	244	48	5	1
+ødelegge	biledit	bilidit	5	7	62	0
 
-dytte	håjggådit	hoigadit	1	26	14	0
+stemme	jienastit	jienastit	2	459	370	49
+
+følge	doalvvot	doalvut	25	1	192	0
+
+re opp	láhtjet	láhčit	128	280	245	30
+
+rydde	rádjat	rádjat	21	688	64	0
+
+vise	vuosedit	láhttet	1	1076	110	0
+
+endre	rievdadit	rievddadit	134	25	31	0
+
+kjøre	vuodjet	jođálmahttit	5	242	2	0
+
+slå	tsábbmet	čoalkit	1	89	1	0
+
+vise	vuosedit	čujuhit	33	1076	484	15
+
+kutte	tjuohppat	čuohppat	3	78	78	0
+
+anta	árvvedit	navdit	4	212	106	0
+
+skremme	balldet	suorggahit	2	24	23	0
+
+
+opprette	ásadit	feret	14	1097	3	0
+
+foreslå	ævtodit	ovdehit	244	48	5	1
+
+kaste	håjggådit	hoigadit	1	26	14	0
 
 benytte	adnet	geavahit/atnit	288	3245	1552	339
 
-yte	vaddet	addit	115	2297	1599	214
+gi	vaddet	addit	115	2297	1599	214
 
 
-overprøve	dárkestit	dárkkistit	9	59	168	2
+kontrollere	dárkestit	dárkkistit	9	59	168	2
 
 legge opp til	láhtjet	láhčit	0	280	245	30
 
-ro	suvddet	suhkat	58	51	39	0
+skysse	suvddet	suhkat	58	51	39	0
 
-vokse opp	sjaddat	bajásšaddat	0	2600	110	0
+bli	sjaddat	bajásšaddat	0	2600	110	0
 
-ledes	jådedit	jođihit	52	365	999	31
+lede	jådedit	jođihit	52	365	999	31
 
-samles	tjoahkkit	čoahkkanit/čoagganit	35	285	84	7
+samle	tjoahkkit	čoahkkanit/čoagganit	35	285	84	7
 
-synes	årrut	orrut	276	587	1176	34
+bosette	årrut	orrut	276	587	1176	34
 
-høres	gulldalit	guldalit	41	592	181	38
+høre	gulldalit	guldalit	41	592	181	38
 
-oppleves	vásedit	vásihit	43	138	382	20
+oppleve	vásedit	vásihit	43	138	382	20
 
-gå for fort	åvdedit	ovddidit	0	782	1564	75
+fremskynde	åvdedit	ovddidit	0	782	1564	75
 

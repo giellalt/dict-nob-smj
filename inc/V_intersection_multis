@@ -1,16 +1,17 @@
+# these are all good candidates
 
-kle	nuoladit	nuoladit	43	26	5	4
-kle	gárvodit	gárvodit	43	68	37	2
+kle av seg	nuoladit	nuoladit	43	26	5	4
+kle på noen	gárvodit	gárvodit	43	68	37	2
 
-engasjere	mákset	bálkáhit	65	461	49	0
-engasjere	bálkkit	bálkáhit	65	39	49	2
+betale	mákset	bálkáhit	65	461	49	0
+lønne	bálkkit	bálkáhit	65	39	49	2
 
-markere	dættodit	čujuhit	83	250	484	3
-markere	tjalmostit	čalmmustahttit	83	194	122	12
+vektlegge	dættodit	čujuhit	83	250	484	3
+fokusere	tjalmostit	čalmmustahttit	83	194	122	12
 
-ferdes	mannat	mátkkoštit	21	1851	133	2
-ferdes	jåhtålit	johtalit	21	20	39	1
+dra	mannat	mátkkoštit	21	1851	133	2
+flytte	jåhtet	johtalit	21	20	39	1
 
 
-bestå	bisodit	seailut	227	403	151	39
-bestå	nagádit	ceavzit/seailut	227	30	106	0
+bevare	bisodit	seailut	227	403	151	39
+klare	nahkat	ceavzit/seailut	227	30	106	0
