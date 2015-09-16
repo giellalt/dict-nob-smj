@@ -1,36 +1,37 @@
+# only some good candidates here
 
-opprinnelse	vuolga	vuolgga	24	4	117	0
+opprinnelse	álggo	vuolgga	24	4	117	0
 
-verk	værkka	vearka	147	2	0	0
+@verk	værkka	vearka	147	2	0	0
 
 middelalder	gasskaájge	gaskaáigi	4	4	4	0
 
-passasje	njoasskerájge	njoaskeráigi	4	0	0	0
+@passasje	njoasskerájge	njoaskeráigi	4	0	0	0
 
-fangst	bivdden	bivdin	208	2	49	0
+fangst	bivddem	bivdin	208	2	49	0
 
-trekk	máksen	máksin	67	0	51	0
+betaling	máksem	máksin	67	0	51	0
 
-fullmakt	fábmudus	fápmudus	116	0	37	0
+fullmakt	fábmodus	fápmudus	116	0	37	0
 
-barmark	bievllat	bievlat	52	1	12	0
+@barmark	bievllat	bievlat	52	1	12	0
 
-affekt	dárrat	dárrat	1	0	4	0
+@affekt	dárrat	dárrat	1	0	4	0
 
-avgift	divát	divat	96	1	65	0
+avgift	divut	divat	96	1	65	0
 
-kamerat	ålmmåtjat	olbmážat	5	0	6	0
+@kamerat	ålmmåtjat	olbmážat	5	0	6	0
 
-rygg	sælgát	sealggát	12	0	1	0
+@rygg	sælgát	sealggát	12	0	1	0
 
-holdning	miellaguoddu	miellaguoddu	123	0	24	0
+@holdning	miellaguoddu	miellaguoddu	123	0	24	0
 
 utstyr	ræjddo	reaidu	95	65	47	27
 
-flokk	joavkko	joavku	73	3	951	0
+@flokk	joavkko	joavku	73	3	951	0
 
-onkel	æno	eanu	8	9	42	0
+@onkel	æno	eanu	8	9	42	0
 
-avgift	værro	vearru	96	156	155	1
+@avgift	værro	vearru	96	156	155	1
 
 museum	dávvervuorká	dávvirvuorká	462	17	14	0

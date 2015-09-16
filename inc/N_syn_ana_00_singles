@@ -1,17 +1,18 @@
+# @ = bad candidates
 
-kr.	kråvnnå	kruvdno	212	389	34	32
+krone	kråvnnå	kruvdno	212	389	34	32
 
-regelbrudd	vierredahko	rihkkun	0	28	42	0
+@regelbrudd	vierredahko	rihkkun	0	28	42	0
 
 treffsted	tjåhkanimsadje	deaivvadanbáiki	1	51	34	2
 
-dokumentmengd	dokumænntavaljesvuohta	dokumeantahivvodat/áššebábermearri	1	0	1	0
+dokumentmengde	dokumænntavaljesvuohta	dokumeantahivvodat/áššebábermearri	1	0	1	0
 
-arealvernsarbeid	areállasuodjalibme	areálagáhttenbargu	0	0	1	0
+arealvern	areállasuodjalibme	areálagáhttenbargu	0	0	1	0
 
 storfehold	slidorsujtto	šibitdoallu	1	0	18	1
 
-fastland	ednam	nannán	13	1449	14	0
+@fastland	ednam	nannán	13	1449	14	0
 
 velstand	álkkádus	buresbirgejupmi/buorredilálašvuohta	7	31	3	0
 
@@ -19,202 +20,202 @@ vevgrind	snjissjkom	njuikun	1	2	3	0
 
 slede	tjielkká	reahka	12	5	27	0
 
-kulde	ruosstetjoasskem	buolaš/buolaštit	8	1	47	0
+kulde	tjoasskem	buolaš/buolaštit	8	1	47	0
 
-reisende	turissta	mátkkošteaddji/mátkkolaš/táhter	8	110	6	0
+turist	turissta	mátkkošteaddji/mátkkolaš/táhter	8	110	6	0
 
 prøveperiode	gæhttjaladdamgávdda	geahččalanáigodat	7	0	3	0
 
-ekstra byrde	noade	lassinoađđi	0	51	1	0
+byrde	noade	lassinoađđi	0	51	1	0
 
-guttunge	bárnne	bárehuoš	2	856	2	0
+gutt	bárnne	bárehuoš	2	856	2	0
 
-passasje	gahttun	njoaskeráigi/manahat/suohpa/gudji	4	24	2	0
+@passasje	gahttun	njoaskeráigi/manahat/suohpa/gudji	4	24	2	0
 
-slitasje	biednikgållo	gollu/gollan	11	0	115	0
+@slitasje	biednikgållo	gollu/gollan	11	0	115	0
 
-tilfelle	vásádus	dáhpáhus/dáhpedorbmi	271	58	170	0
+erfaring	vásádus	dáhpáhus/dáhpedorbmi	271	58	170	0
 
-brille	tjalmmeglása	čalbmeláset	2	0	5	0
+briller	tjalmmeglása	čalbmeláset	2	0	5	0
 
-verdiskapingsevne	æládusåvddånahttembarggo	árvoloktennákca	1	0	1	0
+@verdiskapingsevne	æládusåvddånahttembarggo	árvoloktennákca	1	0	1	0
 
-stolpe	nihta	čuolda/stoalpu	5	2	8	0
+@stolpe	nihta	čuolda/stoalpu	5	2	8	0
 
-sjøaure	merradábmuk	guvžá	3	0	6	0
+@sjøaure	merradábmuk	guvžá	3	0	6	0
 
-talesyntese	hållamprográmma	jietnadanprográmma/hupmansyntesa	17	0	2	0
+talesyntese	hållamsyntiessa	jietnadanprográmma/hupmansyntesa	17	0	2	0
 
-avreise	manno	vuolgga	4	205	117	0
+reise	manno	vuolgga	4	205	117	0
 
 medfølelse	vetsadibme	miehtemiella	3	0	7	0
 
-etterlevelse	vieledus	doahttaleapmi	11	32	5	0
+hensyn	vieledus	doahttaleapmi	11	32	5	0
 
-kumelkekvote	mielkkekvåvttå	mielkeearri	1	0	13	0
+kumelkekvote	gussamielkkekvåvttå	mielkeearri	1	0	13	0
 
-tjeneste	næjttso	biigot/reŋgot/bálvaleapmi/bálvalus	406	262	102	0
+@tjeneste	næjttso	biigot/reŋgot/bálvaleapmi/bálvalus	406	262	102	0
 
-hjelpetjeneste	viehkkeapparáhtta	veahkkebálvalus	3	1	4	0
+hjelpeapparat	viehkkeapparáhtta	veahkkebálvalus	3	1	4	0
 
-hytte	ståhpe	barta	70	2	129	0
+@hytte	ståhpe	barta	70	2	129	0
 
-stavemåte	tjállemvuohke	čállinhápmi	2	80	4	0
+skrivemåte	tjállemvuohke	čállinhápmi	2	80	4	0
 
-kontrolloppgave	gæhttjo	bearráigeahččodoaibma	1	23	1	0
+@kontrolloppgave	gæhttjo	bearráigeahččodoaibma	1	23	1	0
 
-rygg	gielas	gávvut/sealggát/sealggálassii/čielgi/sealgi	12	186	9	0
+@rygg	gielas	gávvut/sealggát/sealggálassii/čielgi/sealgi	12	186	9	0
 
-omgang	luossa	vuorru	84	83	441	0
+@omgang	luossa	vuorru	84	83	441	0
 
-klang	melodiddja	gilkkas/skádja/šuokŋa	2	3	16	0
+melodi	melodiddja	gilkkas/skádja/šuokŋa	2	3	16	0
 
-teltstang	dægá	goahtemuorra/lávvomuorra	3	5	2	0
+@teltstang	dægá	goahtemuorra/lávvomuorra	3	5	2	0
 
-ombygging	ådåstuhttem	ođđahuksen/ođasmahttindoaibma	29	71	1	0
+fornying	ådåstuhttem	ođđahuksen/ođasmahttindoaibma	29	71	1	0
 
-plateinnspilling	báddim	bádden	1	3	19	0
+innspilling	báddim	bádden	1	3	19	0
 
-filminnspilling	báddim	filbmenbargu	1	3	3	0
+@filminnspilling	báddim	filbmenbargu	1	3	3	0
 
-anmodning	oajvvadus	bivdda/ávžžuhus	56	213	31	0
+@anmodning	oajvvadus	bivdda/ávžžuhus	56	213	31	0
 
-legning	tendænssa	sodju	9	1	6	0
+tendens	tendænssa	sodju	9	1	6	0
 
-langtidsettervirkning	guhkkeájggevájkkudus	guhkesáiggeváikkuhus	1	0	1	0
+langtidsettervirkning	guhkesájggevájkkudus	guhkesáiggeváikkuhus	1	0	1	0
 
-utvinning	ulljobuvtadibme	roggan/bohkan/oljoroggan	51	0	16	0
+utvinning	buvtadibme	roggan/bohkan/oljoroggan	51	0	16	0
 
-forfatning	máhtukvuohta	veadju	6	68	1193	2
+forfatning	dille	veadju	6	68	1193	2
 
 avslutning	hiejtedibme	loahpaheapmi/loahpahus	38	7	13	0
 
-differensiering	suoja	sirren	10	2	17	0
+@differensiering	suoja	sirren	10	2	17	0
 
-formulering	gárgadis	dajaldat	30	502	33	2
+setning	gárgadis	dajaldat	30	502	33	2
 
-videreføring	joarkka	joatkka	97	341	391	6
+videreføring	joarkedibme	joatkka	97	341	391	6
 
-overføring	jåhtem	fievrrideapmi/sirdin	183	30	62	0
+overføring	joarkedibme	fievrrideapmi/sirdin	183	30	62	0
 
-lesing	lågådallam	lohkan	37	86	286	1
+lesing	låhkåm	lohkan	37	86	286	1
 
-kartleggingslovgiving	guoradallamláhka	kártenláhka/kártenláhkaaddin	2	0	1	0
+@kartleggingslovgiving	guoradallamláhka	kártenláhka/kártenláhkaaddin	2	0	1	0
 
 opptak	báddim	bádden/sisaváldin	56	3	20	0
 
-prøveuttak	gæhttjalibme	iskosiidváldin/iskkus/geahččalanroggan	13	172	13	5
+@prøveuttak	gæhttjalibme	iskosiidváldin/iskkus/geahččalanroggan	13	172	13	5
 
-sprekk	rahpam	sálvu/ráhku/latnja	3	73	40	0
+@sprekk	rahpam	sálvu/ráhku/latnja	3	73	40	0
 
-blokk	tjállemgirjje	geardeviessu/blohkka	6	23	2	0
+skrivebok	tjállemgirjje	geardeviessu/blohkka	6	23	2	0
 
-møteplass for folk	tjåhkanimsadje	gávnnadanbáiki	0	51	4	0
+møteplass	tjåhkanimsadje	gávnnadanbáiki	0	51	4	0
 
-innmark	sádjoednam	bealdu	24	0	16	0
+innmark	sisednam	bealdu	24	0	16	0
 
 samhandlingsspråk	guládallamgiella	servvoštallangiella/ovttastallangiella	4	3	1	0
 
 vekstpotensial	åvddånahttemmáhttelisvuohta	stuorrunvejolašvuohta	2	0	1	0
 
-innfallsvinkel	vuododille	vuolggasadji	3	0	68	0
+@innfallsvinkel	vuododille	vuolggasadji	3	0	68	0
 
-onkel	sibjuk	eanu/máhka/eahki/čeahci	8	0	17	0
+@onkel	sibjuk	eanu/máhka/eahki/čeahci	8	0	17	0
 
-gummistøvel	stiebil	gummestevvel/sáppahat	1	13	1	0
+støvel	stiebil	gummestevvel/sáppahat	1	13	1	0
 
-ca. en mil	mijlla	beanatgullan	0	14	2	0
+mil	mijlla	beanatgullan	0	14	2	0
 
-kjæremål	diededibme	guoddalus	6	213	8	0
+@kjæremål	diededibme	guoddalus	6	213	8	0
 
-lam	sávttsalibba	láppis	11	0	17	0
+lam	libba	láppis	11	0	17	0
 
 adferdsproblem	ulmutjahttemgássjelisvuohta	láhttenváttisvuohta	0	0	2	0
 
 atferdsproblem	ulmutjahttemgássjelisvuohta	láhttenváttisvuohta	1	0	2	0
 
-strandsonen	merraguovllo	riddoavádat	3	19	1	0
+@strandsonen	merraguovllo	riddoavádat	3	19	1	0
 
-brunalge i sjøen	dágge	stuollá	0	8	1	0
+tang	dágge	stuollá	0	8	1	0
 
-drivgarnfiske i sjøen	viermmeguollim	mearragolgadeapmi	0	0	1	0
+garnfiske	viermmeguollim	mearragolgadeapmi	0	0	1	0
 
-langrenn	sabek	čuoigan/gilvočuoigan	4	38	53	0
+ski	sabek	čuoigan/gilvočuoigan	4	38	53	0
 
-grobunn	åvddånahttemmáhttelisvuohta	ahtanuššanvuođđu/šaddanvejolašvuohta	6	0	1	0
+@grobunn	åvddånahttemmáhttelisvuohta	ahtanuššanvuođđu/šaddanvejolašvuohta	6	0	1	0
 
-kompensasjon	mákso	buhtadus	50	140	152	2
+@kompensasjon	mákso	buhtadus	50	140	152	2
 
-person med barn	æjgát	mánnáolmmoš	0	584	4	0
+forelder	æjgát	mánnáolmmoš	0	584	4	0
 
-tilsyn av barn	gæhttjo	mánáidgeahčču	0	23	1	0
+tilsyn av barn	mánájgæhttjo	mánáidgeahčču	0	23	1	0
 
-tempo	valludahka	leaktu/bargoleaktu/leahttu	7	1	30	0
+@tempo	valludahka	leaktu/bargoleaktu/leahttu	7	1	30	0
 
-eksemplar	oasse	gáhppálat	17	1985	7	0
+eksemplar	eksemplárra	gáhppálat	17	1985	7	0
 
-kamp mot hindringer	rahtjamus	rahčan	0	30	45	0
+@kamp mot hindringer	rahtjamus	rahčan	0	30	45	0
 
 pioner	njunnjusj	ovdavázzin	1	115	2	0
 
-skuter	muohtavuoján	skuhter/mohtorgielká/skuter	6	3	29	0
+snøskuter	muohtavuoján	skuhter/mohtorgielká/skuter	6	3	29	0
 
-eksteriør	profijlla	olgogovva	1	12	1	0
+profil	profijlla	olgogovva	1	12	1	0
 
 peis	vuodná	uvdna	1	34	11	0
 
-intelligens	vuojŋam	jierbmi	1	18	62	0
+@intelligens	vuojŋam	jierbmi	1	18	62	0
 
-observatørkorps	váksjárnanosvuohta	dárkunjoavku	0	0	0	0
+@observatørkorps	váksjárnanosvuohta	dárkunjoavku	0	0	0	0
 
-krets	boatsojguohtomguovllo	biire	77	0	50	0
+@krets	boatsojguohtomguovllo	biire	77	0	50	0
 
-årssyklus	jáhpe	jahkodatvuogádat/jahkodatjorru/jahkodat	3	20	4	1
+årstid	jáhpe	jahkodatvuogádat/jahkodatjorru/jahkodat	3	20	4	1
 
-ledighet	bargodisvuohta	bargguhisvuohta	7	11	35	2
+arbeidsledighet	bargodisvuohta	bargguhisvuohta	7	11	35	2
 
-festlighet	mæsso	meassut	1	22	19	0
+@festlighet	mæsso	meassut	1	22	19	0
 
-følsomhet	rasjesvuohta	hearkivuohta	2	9	2	0
+svakhet	rasjesvuohta	hearkivuohta	2	9	2	0
 
-lokalitet	birás	lokalitehta	17	576	7	0
+miljø	birás	lokalitehta	17	576	7	0
 
-avgift	dávver	divat/vearru	96	188	110	0
+@avgift	dávver	divat/vearru	96	188	110	0
 
 prøvedrift	gæhttjaladdamdoajmma	geahččalanbuvttadus/geahččalandoaibma	3	0	2	0
 
-affekt	rádamoarre	dárrat/moarri/moaráskit	1	0	5	0
+@affekt	rádamoarre	dárrat/moarri/moaráskit	1	0	5	0
 
-kommunikasjonssvikt	guládallamgássjelisvuohta	gulahallanváttisvuohta	2	0	4	0
+kommunikasjonsproblem	guládallamgássjelisvuohta	gulahallanváttisvuohta	2	0	4	0
 
-hovedargument	oajvvesivva	váldovuođustus/oaiveágga/váldoágga	3	4	2	0
+hovedgrunn	oajvvesivva	váldovuođustus/oaiveágga/váldoágga	3	4	2	0
 
 skipsfart	merramannulahka	mearrajohtolat	10	3	3	0
 
-smågutt	bárnne	smávvagánddaš	1	856	1	0
+gutt	bárnne	smávvagánddaš	1	856	1	0
 
-gåstav	soabbe	vázzinsoabbi	0	62	2	0
+stav	soabbe	vázzinsoabbi	0	62	2	0
 
-verv	virgge	ámmát/luohttámušdoaibma/áirrasdoaibma	52	301	29	3
+@verv	virgge	ámmát/luohttámušdoaibma/áirrasdoaibma	52	301	29	3
 
 erverv	åttjulvis	háhkan	30	0	66	0
 
-meny	fálaldahka	fállu	31	300	120	0
+@meny	fálaldahka	fállu	31	300	120	0
 
-iver	energiddja	árja	42	0	86	0
+@iver	energiddja	árja	42	0	86	0
 
-bakketopp	tjåhkkå	várrečohkka	1	132	4	0
+topp	tjåhkkå	várrečohkka	1	132	4	0
 
-skurlast	materiálla	ávnnas	1	52	116	0
+@skurlast	materiálla	ávnnas	1	52	116	0
 
-kamerat	lávve	skibir/verdde/ustit	5	21	50	0
+@kamerat	lávve	skibir/verdde/ustit	5	21	50	0
 
-tjeneste	niejdda	biigot	406	294	3	0
+@tjeneste	niejdda	biigot	406	294	3	0
 
-holdning	árvvalus	miellaguoddu	123	51	24	0
+@holdning	árvvalus	miellaguoddu	123	51	24	0
 
-verk	doarjja	buktu	147	292	6	0
+@verk	doarjja	buktu	147	292	6	0
 
-tempo	jåhto	leaktu/leahttu	7	218	44	0
+@tempo	jåhto	leaktu/leahttu	7	218	44	0
 
-museum	rádjo	dávvirvuorká	462	2	14	0
+@museum	rádjo	dávvirvuorká	462	2	14	0
