@@ -1,238 +1,240 @@
+# @ = dårlige kandidater
 
-frata	láhppet	manahit/rivvet	21	84	32	0
-frata	rievvot	manahit/rivvet	21	11	32	0
 
-frita	tjuolldet	luvvet/čoavdit	18	135	138	0
-frita	tjoavddalit	luvvet/čoavdit	18	5	138	0
+miste	láhppet	manahit/rivvet	21	84	32	0
+røve	rievvot	manahit/rivvet	21	11	32	0
 
-utrydde	adnet	jávkadit	7	3245	83	0
+sortere	tjuolldet	luvvet/čoavdit	18	135	138	0
+@frita	tjoavddalit	luvvet/čoavdit	18	5	138	0
+
+ha	adnet	jávkadit	7	3245	83	0
 utrydde	gádodit	jávkadit	7	110	83	2
 
 opparbeide	åttjudit	gártadit/rábidit/háhkat	27	314	72	10
 opparbeide	rekruttierit	gártadit/rábidit/háhkat	27	59	72	0
 
-politianmelde	gujddit	váidit	1	116	164	3
-politianmelde	guoddalit	váidit	1	91	164	0
+klage	gujddit	váidit	1	116	164	3
+anmelde	guoddalit	váidit	1	91	164	0
 
-antyde	sáhkadit	geažidit/geažuhit	11	250	12	0
-antyde	rudnalit	geažidit/geažuhit	11	3	12	0
-antyde	signalisierit	geažidit/geažuhit	11	0	12	0
+snakke	sáhkadit	geažidit/geažuhit	11	250	12	0
+@antyde	rudnalit	geažidit/geažuhit	11	3	12	0
+signalisere	signalisierit	geažidit/geažuhit	11	0	12	0
 
-hogge	tjuorggat	čuollat/njáskat/čuolastit/meaidit	8	88	12	0
-hogge	gålkudallat	čuollat/njáskat/čuolastit/meaidit	8	3	12	0
-hogge	slåbmat	čuollat/njáskat/čuolastit/meaidit	8	0	12	0
-hogge	tjuohppat	čuollat/njáskat/čuolastit/meaidit	8	78	12	0
-hogge	vierddet	čuollat/njáskat/čuolastit/meaidit	8	8	12	0
-hogge	goalkkalit	čuollat/njáskat/čuolastit/meaidit	8	16	12	0
-hogge	oallot	čuollat/njáskat/čuolastit/meaidit	8	476	12	0
+tegne	tjuorggat	čuollat/njáskat/čuolastit/meaidit	8	88	12	0
+@hogge	gålkudallat	čuollat/njáskat/čuolastit/meaidit	8	3	12	0
+@hogge	slåbmat	čuollat/njáskat/čuolastit/meaidit	8	0	12	0
+@hogge	tjuohppat	čuollat/njáskat/čuolastit/meaidit	8	78	12	0
+@hogge	vierddet	čuollat/njáskat/čuolastit/meaidit	8	8	12	0
+@hogge	goalkkalit	čuollat/njáskat/čuolastit/meaidit	8	16	12	0
+@hogge	oallot	čuollat/njáskat/čuolastit/meaidit	8	476	12	0
 
-stige	badjánaddat	badjánit/lassánit/goargŋut	57	2	140	0
-stige	rahpasit	badjánit/lassánit/goargŋut	57	33	140	0
-stige	rahpusit	badjánit/lassánit/goargŋut	57	14	140	0
-stige	ædnot	badjánit/lassánit/goargŋut	57	42	140	0
+stige opp	badjánit	badjánit/lassánit/goargŋut	57	2	140	0
+@stige	rahpasit	badjánit/lassánit/goargŋut	57	33	140	0
+@stige	rahpusit	badjánit/lassánit/goargŋut	57	14	140	0
+@stige	ædnot	badjánit/lassánit/goargŋut	57	42	140	0
 
-stange	rahtjat	nordat/doarrut	8	204	39	0
-stange	svatjádit	nordat/doarrut	8	0	39	0
-stange	skuorrit	nordat/doarrut	8	0	39	0
-stange	doarrot	nordat/doarrut	8	291	39	2
-stange	skuorrot	nordat/doarrut	8	6	39	0
+streve	rahtjat	nordat/doarrut	8	204	39	0
+@stange	svatjádit	nordat/doarrut	8	0	39	0
+@stange	skuorrit	nordat/doarrut	8	0	39	0
+sloss	doarrot	nordat/doarrut	8	291	39	2
+børste	skuorrot	nordat/doarrut	8	6	39	0
 
-utelukke	hiejtedit	lihccut	33	73	18	0
-utelukke	ålgodit	lihccut	33	12	18	1
+@utelukke	hiejtedit	lihccut	33	73	18	0
+utestenge	ålgodit	lihccut	33	12	18	1
 
-sparke	gålkudallat	čievččastit/čiekčat	5	3	217	0
-sparke	slåbmat	čievččastit/čiekčat	5	0	217	0
-sparke	tsábbmet	čievččastit/čiekčat	5	89	217	0
-sparke	goalkkalit	čievččastit/čiekčat	5	16	217	0
-sparke	stinnit	čievččastit/čiekčat	5	1	217	0
+@sparke	gålkudallat	čievččastit/čiekčat	5	3	217	0
+@sparke	slåbmat	čievččastit/čiekčat	5	0	217	0
+slå	tsábbmet	čievččastit/čiekčat	5	89	217	0
+@sparke	goalkkalit	čievččastit/čiekčat	5	16	217	0
+sparke	tjiektjat	čievččastit/čiekčat	5	1	217	0
 
-bemerke	tjállet	mearkkašit/mearkkašuhttit/mearkkašahttit	52	2503	233	5
+skrive	tjállet	mearkkašit/mearkkašuhttit/mearkkašahttit	52	2503	233	5
 bemerke	merkahit	mearkkašit/mearkkašuhttit/mearkkašahttit	52	152	233	29
 
-tørke	njávkkat	sihkastit/goikat/sihkkut/goikadit	14	29	35	0
-tørke	gádodit	sihkastit/goikat/sihkkut/goikadit	14	110	35	0
-tørke	mállit	sihkastit/goikat/sihkkut/goikadit	14	23	35	0
+@tørke	njávkkat	sihkastit/goikat/sihkkut/goikadit	14	29	35	0
+@tørke	gádodit	sihkastit/goikat/sihkkut/goikadit	14	110	35	0
+@tørke	mállit	sihkastit/goikat/sihkkut/goikadit	14	23	35	0
 tørke	sihkkot	sihkastit/goikat/sihkkut/goikadit	14	24	35	2
 
 
-anbefale	hásstet	rávvet/evttohit/ávžžuhit	90	13	338	0
+@anbefale	hásstet	rávvet/evttohit/ávžžuhit	90	13	338	0
 anbefale	oajvvadit	rávvet/evttohit/ávžžuhit	90	384	338	43
-anbefale	ráddit	rávvet/evttohit/ávžžuhit	90	443	338	2
-anbefale	hasodit	rávvet/evttohit/ávžžuhit	90	56	338	5
-anbefale	árvvalit	rávvet/evttohit/ávžžuhit	90	105	338	1
-anbefale	gåhttjot	rávvet/evttohit/ávžžuhit	90	1188	338	6
+anbefale	ævtodit	rávvet/evttohit/ávžžuhit	90	443	338	2
+oppfordre	hasodit	rávvet/evttohit/ávžžuhit	90	56	338	5
+@anbefale	árvvalit	rávvet/evttohit/ávžžuhit	90	105	338	1
+@anbefale	gåhttjot	rávvet/evttohit/ávžžuhit	90	1188	338	6
 
-overtale	bájnnet	hálahit	3	161	7	0
-overtale	såjådahttet	hálahit	3	1	7	0
-overtale	doalvodit	hálahit	3	34	7	0
-overtale	vájkudit	hálahit	3	61	7	0
-overtale	vájkkudit	hálahit	3	403	7	0
-overtale	såjådit	hálahit	3	37	7	0
+påvirke	bájnnet	hálahit	3	161	7	0
+@overtale	såjådahttet	hálahit	3	1	7	0
+@overtale	doalvodit	hálahit	3	34	7	0
+@overtale	vájkudit	hálahit	3	61	7	0
+påvirke	vájkkudit	hálahit	3	403	7	0
+@overtale	såjådit	hálahit	3	37	7	0
 
-nulle	njávkkat	sihkkut	5	29	68	0
-nulle	gádodit	sihkkut	5	110	68	0
-nulle	sihkkot	sihkkut	5	24	68	2
+@nulle	njávkkat	sihkkut	5	29	68	0
+@nulle	gádodit	sihkkut	5	110	68	0
+@nulle	sihkkot	sihkkut	5	24	68	2
 
-brøle	ganjáldit	giljádit/čeargut/rohkut/čerget/gilljut/muollat	1	3	5	0
-brøle	tjuorvvot	giljádit/čeargut/rohkut/čerget/gilljut/muollat	1	192	5	0
+@brøle	ganjáldit	giljádit/čeargut/rohkut/čerget/gilljut/muollat	1	3	5	0
+rope	tjuorvvot	giljádit/čeargut/rohkut/čerget/gilljut/muollat	1	192	5	0
 
-sovne	oadet	nohkkat	3	249	89	8
-sovne	jábmet	nohkkat	3	686	89	1
+sove	oadet	nohkkat	3	249	89	8
+@sovne	jábmet	nohkkat	3	686	89	1
 
-røyne	vájvedit	vuortnuhit	1	82	5	0
-røyne	nággit	vuortnuhit	1	43	5	0
+@røyne	vájvedit	vuortnuhit	1	82	5	0
+@røyne	nággit	vuortnuhit	1	43	5	0
 
-skamfere	njiejddet	soardit	0	1	14	0
-skamfere	niejddet	soardit	0	18	14	0
+@skamfere	njiejddet	soardit	0	1	14	0
+@skamfere	niejddet	soardit	0	18	14	0
 
-kalkulere	merustit	rehkenastit	1	86	121	1
-kalkulere	rassjot	rehkenastit	1	1	121	0
+@kalkulere	merustit	rehkenastit	1	86	121	1
+@kalkulere	rassjot	rehkenastit	1	1	121	0
 
-registrere	gæhttjat	čálihit/registreret/áicat/logahallat/fuopmášit/sisačállit	316	2123	50	5
-registrere	tjállet	čálihit/registreret/áicat/logahallat/fuopmášit/sisačállit	316	2503	50	16
-registrere	merkahit	čálihit/registreret/áicat/logahallat/fuopmášit/sisačállit	316	152	50	2
-registrere	ájtsastit	čálihit/registreret/áicat/logahallat/fuopmášit/sisačállit	316	2	50	0
-registrere	váksjot	čálihit/registreret/áicat/logahallat/fuopmášit/sisačállit	316	28	50	0
-registrere	váksjut	čálihit/registreret/áicat/logahallat/fuopmášit/sisačállit	316	30	50	0
+registrere	registrierit	čálihit/registreret/áicat/logahallat/fuopmášit/sisačállit	316	2123	50	5
+@registrere	tjállet	čálihit/registreret/áicat/logahallat/fuopmášit/sisačállit	316	2503	50	16
+@registrere	merkahit	čálihit/registreret/áicat/logahallat/fuopmášit/sisačállit	316	152	50	2
+@registrere	ájtsastit	čálihit/registreret/áicat/logahallat/fuopmášit/sisačállit	316	2	50	0
+@registrere	váksjot	čálihit/registreret/áicat/logahallat/fuopmášit/sisačállit	316	28	50	0
+@registrere	váksjut	čálihit/registreret/áicat/logahallat/fuopmášit/sisačállit	316	30	50	0
 
-montere	tjoagget	čohkket/giddet	8	70	202	1
-montere	fiesstit	čohkket/giddet	8	45	202	0
-montere	jåksåt	čohkket/giddet	8	440	202	0
+plukke	tjoagget	čohkket/giddet	8	70	202	1
+feste	fiesstit	čohkket/giddet	8	45	202	0
+nå	jåksåt	čohkket/giddet	8	440	202	0
 
-involvere	fármastit	sorrat/fátmmastit	77	24	33	1
-involvere	gåbttjåt	sorrat/fátmmastit	77	173	33	3
+klemme	fármastit	sorrat/fátmmastit	77	24	33	1
+dekke	gåbttjåt	sorrat/fátmmastit	77	173	33	3
 
-tjore	tjuolmadallat	veaddit	1	0	7	0
+@tjore	tjuolmadallat	veaddit	1	0	7	0
 tjore	tjadnat	veaddit	1	484	7	0
-tjore	avtastahttet	veaddit	1	13	7	0
-tjore	tjadnalit	veaddit	1	1	7	0
-tjore	tjanástit	veaddit	1	4	7	0
+@tjore	avtastahttet	veaddit	1	13	7	0
+@tjore	tjadnalit	veaddit	1	1	7	0
+@tjore	tjanástit	veaddit	1	4	7	0
 
-etterspørre	ságájdahttet	ohcalit/jearahit	30	107	96	6
-etterspørre	gatjádit	ohcalit/jearahit	30	813	96	3
-etterspørre	åhtsåt	ohcalit/jearahit	30	1946	96	5
+@etterspørre	ságájdahttet	ohcalit/jearahit	30	107	96	6
+spørre	gatjádit	ohcalit/jearahit	30	813	96	3
+@etterspørre	åhtsåt	ohcalit/jearahit	30	1946	96	5
 
-klistre	vuojddat	darvehit/liibmet	1	53	7	0
-klistre	giddit	darvehit/liibmet	1	93	7	0
-klistre	dabbmit	darvehit/liibmet	1	10	7	0
-klistre	dabrrit	darvehit/liibmet	1	4	7	0
-klistre	fiesstit	darvehit/liibmet	1	45	7	0
+smøre	vuojddat	darvehit/liibmet	1	53	7	0
+fange	giddit	darvehit/liibmet	1	93	7	0
+@klistre	dabbmit	darvehit/liibmet	1	10	7	0
+feste	dabrrit	darvehit/liibmet	1	4	7	0
+@klistre	fiesstit	darvehit/liibmet	1	45	7	0
 
-erklære	vierddet	cealkit/julggaštit/gulahit	38	8	278	0
-erklære	guládahttet	cealkit/julggaštit/gulahit	38	2	278	0
-erklære	diededit	cealkit/julggaštit/gulahit	38	531	278	0
-erklære	tjuottjodit	cealkit/julggaštit/gulahit	38	141	278	3
-erklære	almodit	cealkit/julggaštit/gulahit	38	353	278	0
-erklære	subtsastit	cealkit/julggaštit/gulahit	38	1033	278	0
+@erklære	vierddet	cealkit/julggaštit/gulahit	38	8	278	0
+@erklære	guládahttet	cealkit/julggaštit/gulahit	38	2	278	0
+melde	diededit	cealkit/julggaštit/gulahit	38	531	278	0
+hevde	tjuottjodit	cealkit/julggaštit/gulahit	38	141	278	3
+offentliggjøre	almodit	cealkit/julggaštit/gulahit	38	353	278	0
+fortelle	subtsastit	cealkit/julggaštit/gulahit	38	1033	278	0
 
-avvise	boarkkit	hilgut/biehttalit	38	40	124	0
-avvise	hilggot	hilgut/biehttalit	38	92	124	12
-avvise	buorggot	hilgut/biehttalit	38	51	124	0
+@avvise	boarkkit	hilgut/biehttalit	38	40	124	0
+@avvise	hilggot	hilgut/biehttalit	38	92	124	12
+@avvise	buorggot	hilgut/biehttalit	38	51	124	0
 avvise	vuornnot	hilgut/biehttalit	38	124	124	0
 
-hilse	vierddet	cealkit/dearvvahit	10	8	268	0
-hilse	tjuottjodit	cealkit/dearvvahit	10	141	268	3
+@hilse	vierddet	cealkit/dearvvahit	10	8	268	0
+@hilse	tjuottjodit	cealkit/dearvvahit	10	141	268	3
 
-suse	råhtjat	šuvihit/šoavvat/juhcat/šuvvat	4	1	2	0
-suse	márrat	šuvihit/šoavvat/juhcat/šuvvat	4	7	2	0
-suse	burssjot	šuvihit/šoavvat/juhcat/šuvvat	4	0	2	0
+@suse	råhtjat	šuvihit/šoavvat/juhcat/šuvvat	4	1	2	0
+@suse	márrat	šuvihit/šoavvat/juhcat/šuvvat	4	7	2	0
+@suse	burssjot	šuvihit/šoavvat/juhcat/šuvvat	4	0	2	0
 
-frakte	sirddet	vuojihit/fievrridit/geasehit	23	195	69	0
-frakte	joarkket	vuojihit/fievrridit/geasehit	23	385	69	2
-frakte	rájadit	vuojihit/fievrridit/geasehit	23	156	69	0
-frakte	sáddit	vuojihit/fievrridit/geasehit	23	194	69	0
-frakte	jådedit	vuojihit/fievrridit/geasehit	23	365	69	0
-frakte	joarkedit	vuojihit/fievrridit/geasehit	23	1	69	0
-frakte	bisodit	vuojihit/fievrridit/geasehit	23	403	69	0
-frakte	doalvodit	vuojihit/fievrridit/geasehit	23	34	69	0
-frakte	buktalit	vuojihit/fievrridit/geasehit	23	7	69	0
-frakte	eksportierit	vuojihit/fievrridit/geasehit	23	4	69	0
+flytte	sirddet	vuojihit/fievrridit/geasehit	23	195	69	0
+fortsette	joarkket	vuojihit/fievrridit/geasehit	23	385	69	2
+@frakte	rájadit	vuojihit/fievrridit/geasehit	23	156	69	0
+sende	sáddit	vuojihit/fievrridit/geasehit	23	194	69	0
+lede	jådedit	vuojihit/fievrridit/geasehit	23	365	69	0
+overføre	joarkedit	vuojihit/fievrridit/geasehit	23	1	69	0
+bevare	bisodit	vuojihit/fievrridit/geasehit	23	403	69	0
+@frakte	doalvodit	vuojihit/fievrridit/geasehit	23	34	69	0
+@frakte	buktalit	vuojihit/fievrridit/geasehit	23	7	69	0
+eksportere	eksportierit	vuojihit/fievrridit/geasehit	23	4	69	0
 
-utslette	jáddat	jávkadit	4	27	83	0
-utslette	gádodit	jávkadit	4	110	83	2
+@utslette	jáddat	jávkadit	4	27	83	0
+@utslette	gádodit	jávkadit	4	110	83	2
 
-kutte	tjuorggat	njiejahit	17	88	1	0
-kutte	tjuollat	njiejahit	17	140	1	0
+@kutte	tjuorggat	njiejahit	17	88	1	0
+@kutte	tjuollat	njiejahit	17	140	1	0
 kutte	tjuohppat	njiejahit	17	78	1	0
 
-skyte	vierddet	báhčit	18	8	250	0
-skyte	skuorrot	báhčit	18	6	250	0
-skyte	tsåggåt	báhčit	18	87	250	0
+@skyte	vierddet	báhčit	18	8	250	0
+@skyte	skuorrot	báhčit	18	6	250	0
+@skyte	tsåggåt	báhčit	18	87	250	0
 
-true	nággit	áitit/nihttit/vuohkadit/uhkidit	50	43	29	1
-true	buorggot	áitit/nihttit/vuohkadit/uhkidit	50	51	29	0
-true	vuornnot	áitit/nihttit/vuohkadit/uhkidit	50	124	29	0
+tvinge	nággit	áitit/nihttit/vuohkadit/uhkidit	50	43	29	1
+@true	buorggot	áitit/nihttit/vuohkadit/uhkidit	50	51	29	0
+@true	vuornnot	áitit/nihttit/vuohkadit/uhkidit	50	124	29	0
 
-heve	lånudallat	bajidit/loktet	45	8	143	0
-heve	balldet	bajidit/loktet	45	24	143	0
-heve	rievdadit	bajidit/loktet	45	25	143	0
-heve	juogadit	bajidit/loktet	45	165	143	1
-heve	lånudit	bajidit/loktet	45	24	143	0
-heve	målssot	bajidit/loktet	45	205	143	2
-heve	målssut	bajidit/loktet	45	0	143	0
+@heve	lånudallat	bajidit/loktet	45	8	143	0
+@heve	balldet	bajidit/loktet	45	24	143	0
+@heve	rievdadit	bajidit/loktet	45	25	143	0
+fordele	juogadit	bajidit/loktet	45	165	143	1
+@heve	lånudit	bajidit/loktet	45	24	143	0
+bytte	målssot	bajidit/loktet	45	205	143	2
+@heve	målssut	bajidit/loktet	45	0	143	0
 
-skøye	ståhkat	leaikkastallat	1	176	21	0
-skøye	juhtsat	leaikkastallat	1	12	21	0
+@skøye	ståhkat	leaikkastallat	1	176	21	0
+@skøye	juhtsat	leaikkastallat	1	12	21	0
 
-gjengi	referierit	bájuhit	24	6	8	0
-gjengi	sitierit	bájuhit	24	1	8	0
+referere	referierit	bájuhit	24	6	8	0
+sitere	sitierit	bájuhit	24	1	8	0
 
-svekkes	hæboduhttet	návccahuvvat/fuotnánit/hedjonit/raššut	11	1	10	0
-svekkes	nammadit	návccahuvvat/fuotnánit/hedjonit/raššut	11	527	10	0
+@svekkes	hæboduhttet	návccahuvvat/fuotnánit/hedjonit/raššut	11	1	10	0
+nevne	nammadit	návccahuvvat/fuotnánit/hedjonit/raššut	11	527	10	0
 
-hanskes	rahtjat	dáistalit	1	204	8	0
-hanskes	vuosteldit	dáistalit	1	85	8	0
+@hanskes	rahtjat	dáistalit	1	204	8	0
+motsette seg	vuosteldit	dáistalit	1	85	8	0
 
-gjennomgå	guoradallat	guorahallat	94	1013	438	14
-gjennomgå	dágástallat	guorahallat	94	44	438	0
+@gjennomgå	guoradallat	guorahallat	94	1013	438	14
+@gjennomgå	dágástallat	guorahallat	94	44	438	0
 
-så	biedjat	gilvit	2072	1502	141	2
-så	hádjet	gilvit	2072	36	141	0
-så	sjaddadit	gilvit	2072	309	141	0
+@så	biedjat	gilvit	2072	1502	141	2
+@så	hádjet	gilvit	2072	36	141	0
+@så	sjaddadit	gilvit	2072	309	141	0
 
-oppstå	badjánaddat	čuožžilit/bohciidit	72	2	67	0
-oppstå	tjuodtjánaddat	čuožžilit/bohciidit	72	0	67	0
-oppstå	tjuovvolit	čuožžilit/bohciidit	72	195	67	0
-oppstå	tsæggánit	čuožžilit/bohciidit	72	0	67	0
+@oppstå	badjánaddat	čuožžilit/bohciidit	72	2	67	0
+@oppstå	tjuodtjánaddat	čuožžilit/bohciidit	72	0	67	0
+@oppstå	tjuovvolit	čuožžilit/bohciidit	72	195	67	0
+@oppstå	tsæggánit	čuožžilit/bohciidit	72	0	67	0
 oppstå	badjánit	čuožžilit/bohciidit	72	213	67	4
-oppstå	doalvvot	čuožžilit/bohciidit	72	306	67	0
-oppstå	tjuovvot	čuožžilit/bohciidit	72	1094	67	1
+@oppstå	doalvvot	čuožžilit/bohciidit	72	306	67	0
+@oppstå	tjuovvot	čuožžilit/bohciidit	72	1094	67	1
 
-avstå	diededit	luobahit/liigudit	9	531	10	0
-avstå	hilgodit	luobahit/liigudit	9	38	10	0
+@avstå	diededit	luobahit/liigudit	9	531	10	0
+@avstå	hilgodit	luobahit/liigudit	9	38	10	0
 
-ramme	guosskat	čuohcat	692	517	147	7
-ramme	bájnnet	čuohcat	692	161	147	0
-ramme	vájkudit	čuohcat	692	61	147	0
+omfatte	guosskat	čuohcat	692	517	147	7
+@ramme	bájnnet	čuohcat	692	161	147	0
+@ramme	vájkudit	čuohcat	692	61	147	0
 
-skjelve	sluvgget	darrat	1	3	2	0
-skjelve	sjavnnjelit	darrat	1	0	2	0
+@skjelve	sluvgget	darrat	1	3	2	0
+@skjelve	sjavnnjelit	darrat	1	0	2	0
 
-stille	álgadit	cegget	475	401	202	0
-stille	ásadit	cegget	475	1097	202	0
-stille	vuododit	cegget	475	256	202	0
+@stille	álgadit	cegget	475	401	202	0
+@stille	ásadit	cegget	475	1097	202	0
+@stille	vuododit	cegget	475	256	202	0
 
-fyre	goarddet	ligget	8	19	32	0
-fyre	liekkadit	ligget	8	0	32	0
+@fyre	goarddet	ligget	8	19	32	0
+@fyre	liekkadit	ligget	8	0	32	0
 
-skille	gággat	botket	131	9	31	0
-skille	doadjet	botket	131	135	31	3
-skille	fággádit	botket	131	13	31	0
+@skille	gággat	botket	131	9	31	0
+@skille	doadjet	botket	131	135	31	3
+@skille	fággádit	botket	131	13	31	0
 
-oppfange	dádjadit	fáhtet	1	889	24	2
-oppfange	gávnadit	fáhtet	1	207	24	0
+@oppfange	dádjadit	fáhtet	1	889	24	2
+@oppfange	gávnadit	fáhtet	1	207	24	0
 
-frita	gálggat	luvvet	18	74	37	0
-frita	tjoavddásit	luvvet	18	1	37	0
+@frita	gálggat	luvvet	18	74	37	0
+@frita	tjoavddásit	luvvet	18	1	37	0
 
-hogge	tjassket	meaidit	8	19	1	0
-hogge	roassjkut	meaidit	8	0	1	0
+@hogge	tjassket	meaidit	8	19	1	0
+@hogge	roassjkut	meaidit	8	0	1	0
 
-løfte	lånodit	bajidit	79	1	100	0
-løfte	lassánit	bajidit	79	196	100	0
+@løfte	lånodit	bajidit	79	1	100	0
+@løfte	lassánit	bajidit	79	196	100	0
 
-skyte	tjuollat	báhčit	18	140	250	0
-skyte	javllat	báhčit	18	4291	250	0
-skyte	njiejddet	báhčit	18	1	250	0
-skyte	gåddet	báhčit	18	218	250	0
-skyte	viehkalit	báhčit	18	32	250	0
+@skyte	tjuollat	báhčit	18	140	250	0
+@skyte	javllat	báhčit	18	4291	250	0
+@skyte	njiejddet	báhčit	18	1	250	0
+@skyte	gåddet	báhčit	18	218	250	0
+@skyte	viehkalit	báhčit	18	32	250	0
