@@ -4871,7 +4871,113 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">vanskelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gássjel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">rimelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">mutták</t>
+        <t pos="A">álbbe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">trivelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">hávsske</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">aktuell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">guovdálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">stødig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">nanos</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sterk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gievrra</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">øm</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">lines</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">råtten</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">miesska</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kjær</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gieres</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
+rimelig ::: muttáklágásj
+rimelig ::: hiebalasj
+aktuell ::: relevánnta
+trivelig ::: miellagiddis
+trivelig ::: miellagiddevasj
+trivelig ::: venagis
+trivelig ::: mielludahtte
+voldsom ::: viekses
+voldsom ::: væksák
+voldsom ::: rámes
+ubehagelig ::: hiebalgahtes
+sårbar ::: tjuorbbe
+sårbar ::: hædjo
+sårbar ::: lájvve
+sårbar ::: dájgge
 trygg ::: visses
 trygg ::: dårvulasj
 trygg ::: sihkar
