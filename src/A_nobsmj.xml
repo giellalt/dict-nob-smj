@@ -4962,6 +4962,226 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">stille</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">jasskat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">snill</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">lådje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sikker</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">visses</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tykk (om flytende)</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">suohkat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">åpen</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">rabás</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">nåtidig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dálásj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">hederlig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gudnálasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">helhetlig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">åbbålasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">virkelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">duodalasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">nødvendig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dárbulasj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ond</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">bahá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sunn</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">biektel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">bøyelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">såddjel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">bærekraftig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">guoddel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">arbeidssom</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">vissjal</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ukjent</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">amás</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ond</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">bahá</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">fuktig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">njuoskas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">bløt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">luvás</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">lav</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">oadne</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">svak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">rassje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">stødig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">stádes</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
 rimelig ::: muttáklágásj
 rimelig ::: hiebalasj

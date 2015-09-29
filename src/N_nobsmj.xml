@@ -105378,6 +105378,46 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forstand</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">jiermme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">betaling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">mákso</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">vær</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">dálkke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">kjørerein</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="N">hiergge</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
 teltstang ::: dægá
 lærekraft ::: oahppaliebma
