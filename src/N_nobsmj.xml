@@ -33833,16 +33833,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad"/>
-    </lg>
-    <mg>
-      <tg xml:lang="smj">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">tilsynsoppdrag</l>
     </lg>
     <mg>
@@ -85282,16 +85272,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad"> = good</l>
-    </lg>
-    <mg>
-      <tg xml:lang="smj">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">møtested</l>
     </lg>
     <mg>
@@ -99260,7 +99240,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">+´anlegg</l>
+      <l pos="N" src="fad">anlegg</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
