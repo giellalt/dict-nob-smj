@@ -1,72 +1,73 @@
+# + = gode kandidater
 
 underskudd	vuolleskoahtta	vuolláibáza/vuollebáza/váili/vádjit	71	0	16	0
 underskudd	vuoleskoahtta	vuolláibáza/vuollebáza/váili/vádjit	71	0	16	0
 
 innlandsbygd	sisednamasijdda	siseatnangilli	2	0	1	0
 innlandsbygd	sisednamsijdda	siseatnangilli	2	0	1	0
-innlandsbygd	sisednambájkke	siseatnangilli	2	0	1	0
++innlandsbygd	sisednambájkke	siseatnangilli	2	0	1	0
 
-styrkeforhold	nanosvuodadille	fápmogaskavuohta/fápmodilli	3	0	1	0
++styrkeforhold	nanosvuodadille	fápmogaskavuohta/fápmodilli	3	0	1	0
 styrkeforhold	nanosvuohtadille	fápmogaskavuohta/fápmodilli	3	0	1	0
 
 presseforbund	pressalihtto	preassasearvi	1	0	1	0
-presseforbund	præssalihtto	preassasearvi	1	0	1	0
++presseforbund	præssalihtto	preassasearvi	1	0	1	0
 
 høyfjellsområde	várresuorgge	rášša/duottarvárri	3	0	2	0
-høyfjellsområde	várreguovllo	rášša/duottarvárri	3	0	2	0
++høyfjellsområde	várreguovllo	rášša/duottarvárri	3	0	2	0
 
 helsepenge	varresvuodaruhta	dearvvašvuođaruhta	1	0	1	0
 helsepenge	varresvuohtaruhta	dearvvašvuođaruhta	1	0	1	0
-helsepenge	varresvuodabiednik	dearvvašvuođaruhta	1	0	1	0
++helsepenge	varresvuodabiednik	dearvvašvuođaruhta	1	0	1	0
 helsepenge	varresvuohtabiednik	dearvvašvuođaruhta	1	0	1	0
 
 nettverksavtale	værmádahkasjiehtadibme	fierpmádatšiehtadus	1	0	1	0
-nettverksavtale	værmádahkasjiehtadus	fierpmádatšiehtadus	1	0	1	0
++nettverksavtale	værmádahkasjiehtadus	fierpmádatšiehtadus	1	0	1	0
 
 stipendkomite	stipendanammadus	stipeandalávdegoddi	0	0	2	0
-stipendkomite	stipænndanammadus	stipeandalávdegoddi	0	0	2	0
++stipendkomite	stipænndanammadus	stipeandalávdegoddi	0	0	2	0
 
 stortingsbehandling	stuorradiggedálkudibme	stuorradiggemeannudeapmi	3	0	1	0
-stortingsbehandling	stuorradiggegiehtadallam	stuorradiggemeannudeapmi	3	0	1	0
++stortingsbehandling	stuorradiggegiehtadallam	stuorradiggemeannudeapmi	3	0	1	0
 
-hjemreiseordning	sijddamannoårnik	ruovttumátkeortnet	1	0	1	0
++hjemreiseordning	sijddamannoårnik	ruovttumátkeortnet	1	0	1	0
 hjemreiseordning	sijddamannoásadus	ruovttumátkeortnet	1	0	1	0
 
 yrkesretning	virggeguovllo	fidnogeaidnu	1	0	1	0
 yrkesretning	virgeguovllo	fidnogeaidnu	1	0	1	0
-yrkesretning	ámmátguovllo	fidnogeaidnu	1	0	1	0
++yrkesretning	ámmátguovllo	fidnogeaidnu	1	0	1	0
 
-nettverksetablering	værmádahkaásadibme	fierpmádatásaheapmi	2	0	1	0
++nettverksetablering	værmádahkaásadibme	fierpmádatásaheapmi	2	0	1	0
 nettverksetablering	værmádahkavuododibme	fierpmádatásaheapmi	2	0	1	0
 
-drøftingssak	árvvaladdamássje	guorahallanášši/ságaškuššanášši	3	0	1	0
++drøftingssak	árvvaladdamássje	guorahallanášši/ságaškuššanášši	3	0	1	0
 drøftingssak	ságastallamássje	guorahallanášši/ságaškuššanášši	3	0	1	0
 
-nettverkstiltak	værmádahkadoajmma	fierpmádatdoaibmabidju	1	0	1	0
++nettverkstiltak	værmádahkadoajmma	fierpmádatdoaibmabidju	1	0	1	0
 nettverkstiltak	værmádahkadåjmalasjvuohta	fierpmádatdoaibmabidju	1	0	1	0
 
-studiehjemmel	oahppoloahpádus	lohkanlohpi	4	0	1	0
++studiehjemmel	oahppoloahpádus	lohkanlohpi	4	0	1	0
 studiehjemmel	åhpadusloahpádus	lohkanlohpi	4	0	1	0
 
 saksproduksjon	ássjebuvtadibme	áššebuvttadeapmi	1	0	0	0
-saksproduksjon	ássjebuvtadus	áššebuvttadeapmi	1	0	0	0
++saksproduksjon	ássjebuvtadus	áššebuvttadeapmi	1	0	0	0
 
 høyproduksjon	ájvvebuvtadibme	suoidnešaddadeapmi	1	0	1	0
-høyproduksjon	ájvvebuvtadus	suoidnešaddadeapmi	1	0	1	0
++høyproduksjon	ájvvebuvtadus	suoidnešaddadeapmi	1	0	1	0
 
 hushjelp	goadeviehkke	viessoveahkki	3	0	1	0
-hushjelp	goahteviehkke	viessoveahkki	3	0	1	0
++hushjelp	goahteviehkke	viessoveahkki	3	0	1	0
 
-helsepenger	varresvuodaruhta	dearvvašvuođaruhta	1	0	1	0
++helsepenger	varresvuodarudá	dearvvašvuođaruhta	1	0	1	0
 helsepenger	varresvuohtaruhta	dearvvašvuođaruhta	1	0	1	0
 helsepenger	varresvuodabiednik	dearvvašvuođaruhta	1	0	1	0
 helsepenger	varresvuohtabiednik	dearvvašvuođaruhta	1	0	1	0
 
 samfunnshus	sebrudahkagoahte	servodatvisti/servodatviessu	4	0	7	0
-samfunnshus	sebrudakgoahte	servodatvisti/servodatviessu	4	0	7	0
++samfunnshus	sebrudakgoahte	servodatvisti/servodatviessu	4	0	7	0
 
-sektoravgift	suorggedivut	suorgedivat	2	0	0	0
++sektoravgift	suorggedivut	suorgedivat	2	0	0	0
 sektoravgift	suorgedivut	suorgedivat	2	0	0	0
 
 årsavgift	jagedivut	jahkedivat	4	0	4	0
-årsavgift	jahkedivut	jahkedivat	4	0	4	0
++årsavgift	jahkedivut	jahkedivat	4	0	4	0

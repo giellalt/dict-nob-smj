@@ -1,3 +1,4 @@
+# @ = dårlig
 
 nettverkssamarbeid	værmádahkaaktisasjbarggo	fierpmádatovttasbargu	8	0	3	0
 
@@ -11,7 +12,7 @@ overgangsbestemmelse	sirddemmærrádus	sirdásannjuolggadus	6	0	1	0
 
 reguleringsbestemmelse	regulierimmærrádus	muddenmearrádus/regulerenmearrádus	3	0	1	0
 
-pengemarkedsrente	ruhtamárnán	ruhtamárkanreantu	1	0	1	0
+pengemarkedsrente	ruhtamárnánrænnto	ruhtamárkanreantu	1	0	1	0
 
 fjelltjeneste	várredievnastus	meahccebálvalus	5	0	9	0
 
@@ -29,9 +30,9 @@ utviklingstjeneste	åvddånahttemdievnastus	ovddidanbálvalus	1	0	1	0
 
 bygningstjeneste	tsiekkadusdievnastus	huksenbálvalus	4	0	2	0
 
-statstjeneste	stáhttadievnastus	stáhtabálvalus	4	0	1	0
+statstjeneste	stáhtadievnastus	stáhtabálvalus	4	0	1	0
 
-styrkeprøve	nanosvuohtagæhttjalibme	givrodatgeahččaleapmi	1	0	1	0
+styrkeprøve	nanosvuodagæhttjalibme	givrodatgeahččaleapmi	1	0	1	0
 
 utstillingsvederlag	vuosádusmákso	čájáhusbuhtadas	6	0	1	0
 
@@ -51,7 +52,7 @@ telefonløsning	telefåvnnåtjoavdos	telefovdnačoavddus	1	0	0	0
 
 verdenserklæring	væráltjavllamus	máilmmijulggaštus	2	0	1	0
 
-statsrådsak	stáhttarádeássje	stáhtaráđđeášši	1	0	1	0
+statsrådsak	stáhtarádeássje	stáhtaráđđeášši	1	0	1	0
 
 flaggsak	slávggáássje	leavgaášši	1	0	1	0
 
@@ -59,9 +60,9 @@ eiendomssak	æjggoássje	opmodatášši	1	0	1	0
 
 stipendmiddel	stipænndanævvo	stipeandaruhta	1	0	2	0
 
-plantevernmiddel	sjaddosuodjalibme	šaddosuodjalanávnnas	3	0	1	0
+plantevernmiddel	sjaddosuodjalimábnas	šaddosuodjalanávnnas	3	0	1	0
 
-myndighetstildelingshjemmel	oajválasjjuogadibme	fápmoaddinláhkavuođđu	1	0	1	0
+myndighetstildelingshjemmel	oajválasjjuogadimloahpádus	fápmoaddinláhkavuođđu	1	0	1	0
 
 reguleringsspørsmål	regulierimgatjálvis	regulerengažaldat/muddengažaldat	2	0	1	0
 
@@ -77,11 +78,11 @@ nettverksinstitusjon	værmádahkainstitusjåvnnå	fierpmádatásahus	1	0	1	0
 
 nettverksseminar	værmádahkaseminárra	fierpmádatseminára	1	0	1	0
 
-undersøker	vuolleåhttse	iskkadeaddji	4	0	2	0
+@undersøker	vuolleåhttse	iskkadeaddji	4	0	2	0
 
 underkontor	vuollekontåvrrå	guovllukantuvra	5	0	14	0
 
-skadedyr	vahágahttemjudos	vahátealli	11	0	2	0
+@skadedyr	vahágahttemjudos	vahátealli	11	0	2	0
 
 reguleringsprosess	regulierimprosæssa	regulerenproseassa/muddenproseassa	1	0	1	0
 
