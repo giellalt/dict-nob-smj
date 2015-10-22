@@ -1,31 +1,32 @@
+# + = bra
 
 nettverkssted	værmádahkajålådahka	fierpmádatbáiki	3	0	1	0
 nettverkssted	værmádahkatjievtjastahka	fierpmádatbáiki	3	0	1	0
 
-forskningsfond	dutkamfoannda	dutkanfoanda	16	0	5	0
++forskningsfond	dutkamfoannda	dutkanfoanda	16	0	5	0
 forskningsfond	dutkamruhtavuorkká	dutkanfoanda	16	0	5	0
 
 oljepenge	oaljoruhta	oljoruhta	2	0	1	0
-oljepenge	oalljoruhta	oljoruhta	2	0	1	0
++oljepenge	oalljoruhta	oljoruhta	2	0	1	0
 oljepenge	oaljobiednik	oljoruhta	2	0	1	0
 oljepenge	oalljobiednik	oljoruhta	2	0	1	0
 
 oppfølgingsstudie	oatsodimeoahppo	čuovvolaniskkadeapmi/čuovvolandutkamuš	2	0	0	0
 oppfølgingsstudie	oatsodimoahppo	čuovvolaniskkadeapmi/čuovvolandutkamuš	2	0	0	0
 
-timetallsutvidelse	tijmmalåhkovijdedibme	diibmolasiheapmi	1	0	1	0
++timetallsutvidelse	tijmmalåhkovijdedibme	diibmolasiheapmi	1	0	1	0
 timetallsutvidelse	tijmmalåhkostuoredibme	diibmolasiheapmi	1	0	1	0
 
-utstyrsanskaffelse	ræjddoháhkuhibme	dávviroastin	2	0	1	0
++utstyrsanskaffelse	ræjddoháhkuhibme	dávviroastin	2	0	1	0
 utstyrsanskaffelse	ræjddoåttjulvis	dávviroastin	2	0	1	0
 
-turnéstøtte	turniedjadoarjja	gierdomátkedoarjja	2	0	1	0
++turnéstøtte	turniedjadoarjja	gierdomátkedoarjja	2	0	1	0
 turnéstøtte	turniedjaoatsodibme	gierdomátkedoarjja	2	0	1	0
 
-prisanslag	haddesulástibme	haddemeroštallan	1	0	1	0
++prisanslag	haddesulástibme	haddemeroštallan	1	0	1	0
 prisanslag	gudnebálkkásulástibme	haddemeroštallan	1	0	1	0
 
-inntektsanslag	boahtosulástibme	sisaboahtomeroštallan/boahtomeroštallan	1	0	0	0
++inntektsanslag	boahtosulástibme	sisaboahtomeroštallan/boahtomeroštallan	1	0	0	0
 inntektsanslag	sisboahtosulástibme	sisaboahtomeroštallan/boahtomeroštallan	1	0	0	0
 
 styrkebidrag	nanosvuodaviehkke	soahteveahkaoassi	2	0	0	0
@@ -38,25 +39,25 @@ underholdning	vuollemiellaguoddo	áiggeájanas/guoimmuheapmi	8	0	11	0
 underholdning	vuolemiellaguoddo	áiggeájanas/guoimmuheapmi	8	0	11	0
 
 lagerendring	vuorkudahkarievddadus	rádjorievdadus/vuorkárievdadus	1	0	0	0
-lagerendring	vuorkudakrievddadus	rádjorievdadus/vuorkárievdadus	1	0	0	0
++lagerendring	vuorkudakrievddadus	rádjorievdadus/vuorkárievdadus	1	0	0	0
 lagerendring	vuorkkárievddadus	rádjorievdadus/vuorkárievdadus	1	0	0	0
 
 risikovurdering	váhtáárvustallam	riskaárvvoštallan	2	0	1	0
 risikovurdering	váhtáárvustallamdájddo	riskaárvvoštallan	2	0	1	0
 
-naturressursutnytting	luonndoresurssaávkástallam	luondduresursageavaheapmi	0	0	1	0
++naturressursutnytting	luonndoresurssaávkástallam	luondduresursageavaheapmi	0	0	1	0
 naturressursutnytting	luonndoresurssaávkkim	luondduresursageavaheapmi	0	0	1	0
 
 skipsfartspolitikk	merramannulahkapolitihkka	mearrajohtolatpolitihkka/skiipajohtolatpolitihkka	1	0	1	0
-skipsfartspolitikk	merramannulakpolitihkka	mearrajohtolatpolitihkka/skiipajohtolatpolitihkka	1	0	1	0
++skipsfartspolitikk	merramannulakpolitihkka	mearrajohtolatpolitihkka/skiipajohtolatpolitihkka	1	0	1	0
 skipsfartspolitikk	merramannulahkapolitijkka	mearrajohtolatpolitihkka/skiipajohtolatpolitihkka	1	0	1	0
 skipsfartspolitikk	merramannulakpolitijkka	mearrajohtolatpolitihkka/skiipajohtolatpolitihkka	1	0	1	0
 
 startkapital	álggoruhtaåbmudahka	álggahankapitála	2	0	1	0
-startkapital	álggokapitálla	álggahankapitála	2	0	1	0
++startkapital	álgadimkapitálla	álggahankapitála	2	0	1	0
 
 halvdel	bieleoasse	bealli/lahkki	58	0	497	0
-halvdel	bielleoasse	bealli/lahkki	58	0	497	0
++halvdel	lahkke	bealli/lahkki	58	0	497	0
 
 sidemål	bielemoalla	oalgegiella/siidogiella	12	0	2	0
 sidemål	biellemoalla	oalgegiella/siidogiella	12	0	2	0
@@ -68,11 +69,11 @@ sidemål	sijddoulmme	oalgegiella/siidogiella	12	0	2	0
 sidemål	sijdoulmme	oalgegiella/siidogiella	12	0	2	0
 sidemål	doaresulmme	oalgegiella/siidogiella	12	0	2	0
 
-menighetsrådsmedlem	tjoaggulvisrádesebrulasj	searvegoddelahttu	1	0	1	0
++menighetsrådsmedlem	tjoaggulvisrádesebrulasj	searvegoddelahttu	1	0	1	0
 menighetsrådsmedlem	tjoaggulvisrádeájras	searvegoddelahttu	1	0	1	0
 
 forskningssystem	dutkamvuogádahka	dutkanvuogádat	3	0	1	0
-forskningssystem	dutkamsystiebma	dutkanvuogádat	3	0	1	0
++forskningssystem	dutkamsystiebma	dutkanvuogádat	3	0	1	0
 forskningssystem	dutkamvuohke	dutkanvuogádat	3	0	1	0
 
 karsykdom	lihteskihpudahka	varrasuotnavihki	12	0	3	0
@@ -81,7 +82,7 @@ karsykdom	lihteskihpudak	varrasuotnavihki	12	0	3	0
 karsykdom	lihtteskihpudak	varrasuotnavihki	12	0	3	0
 
 forvaltningsmuseum	háldadusdávvervuorkká	hálddašanmusea/hálddašandávvirvuorká	1	0	1	0
-forvaltningsmuseum	háldadusdávvervuorká	hálddašanmusea/hálddašandávvirvuorká	1	0	1	0
++forvaltningsmuseum	háldadusdávvervuorká	hálddašanmusea/hálddašandávvirvuorká	1	0	1	0
 
 dybdestudium	tjiegŋudahkaoahppo	dárkilisiskan	2	0	1	0
 dybdestudium	tjiegŋudakoahppo	dárkilisiskan	2	0	1	0
@@ -90,20 +91,20 @@ forfatningsvern	dilesuodjalibme	vuođđonjuolggadussuodji	1	0	1	0
 forfatningsvern	dillesuodjalibme	vuođđonjuolggadussuodji	1	0	1	0
 
 gårdsnummer	sijddanummar	dállonummir/dállonummar	0	0	1	0
-gårdsnummer	sijdanummar	dállonummir/dállonummar	0	0	1	0
++gårdsnummer	sijdanummar	dállonummir/dállonummar	0	0	1	0
 
 eventyrfigur	subttsasafiguvrra	máinnasfuođđu	1	0	1	0
-eventyrfigur	subtsasfiguvrra	máinnasfuođđu	1	0	1	0
++eventyrfigur	subtsasfiguvrra	máinnasfuođđu	1	0	1	0
 
-trafikksikkerhetspris	trafihkkasihkarvuohtahadde	johtolatsihkarvuođabálkkašupmi	1	0	2	0
++trafikksikkerhetspris	trafihkkasihkarvuohtahadde	johtolatsihkarvuođabálkkašupmi	1	0	2	0
 trafikksikkerhetspris	trafihkkasihkarvuohtagudnebálkká	johtolatsihkarvuođabálkkašupmi	1	0	2	0
 
 personopplysningsforskrift	ulmusjdiehto	persovdnadiehtoláhkaásahus	1	0	0	0
 personopplysningsforskrift	persåvnnådiehto	persovdnadiehtoláhkaásahus	1	0	0	0
 
-arbeidskontrakt	barggokontrákta	bargosoahpamuš/bargošiehtadus	0	0	2	0
++arbeidskontrakt	barggokontrákta	bargosoahpamuš/bargošiehtadus	0	0	2	0
 arbeidskontrakt	barggosjiehtadus	bargosoahpamuš/bargošiehtadus	0	3	2	1
 arbeidskontrakt	bargosjiehtadus	bargošiehtadus	0	0	3	0
 
 gårdsprodukt	sijddabuvtadus	doallobuvtta	1	0	1	0
-gårdsprodukt	sijdabuvtadus	doallobuvtta	1	0	1	0
++gårdsprodukt	sijdabuvtadus	doallobuvtta	1	0	1	0

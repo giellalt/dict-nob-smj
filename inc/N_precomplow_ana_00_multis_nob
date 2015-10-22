@@ -1,15 +1,16 @@
+# + = bra
 
 boligdata	goadediehto	ásodatdiehtu	1	0	0	0
-boligdata	goahtediehto	ásodatdiehtu	1	0	0	0
++boligdata	goahtediehto	ásodatdiehtu	1	0	0	0
 
 medlemsblad	ájraslassta	miellahttobláđđi	1	0	1	0
-medlemsblad	ájrrabláde	miellahttobláđđi	1	0	1	0
++medlemsblad	ájrasbláde	miellahttobláđđi	1	0	1	0
 medlemsblad	stivrrasebrulasjbláde	miellahttobláđđi	1	0	1	0
 medlemsblad	ájrrasláhpe	miellahttobláđđi	1	0	1	0
 medlemsblad	stivrrasebrulasjsláhpe	miellahttobláđđi	1	0	1	0
 
 ungdomsblad	nuorrabláde	nuoraidbláđđi	4	0	5	0
-ungdomsblad	nuorajskåvllåbláde	nuoraidbláđđi	4	0	5	0
++ungdomsblad	nuorajbláde	nuoraidbláđđi	4	0	5	0
 ungdomsblad	nuorrasláhpe	nuoraidbláđđi	4	0	5	0
 ungdomsblad	nuorajskåvllåsláhpe	nuoraidbláđđi	4	0	5	0
 
@@ -33,12 +34,12 @@ underskudd	oavddoskoahtta	vuolláibáza/vuollebáza/váili/vádjit	71	0	16	0
 underskudd	oavdoskoahtta	vuolláibáza/vuollebáza/váili/vádjit	71	0	16	0
 
 nettverksarbeid	værmádahkadoajmma	fierpmádatbargu	6	0	2	0
-nettverksarbeid	værmádahkapládnabarggo	fierpmádatbargu	6	0	2	0
++nettverksarbeid	værmádahkabarggo	fierpmádatbargu	6	0	2	0
 nettverksarbeid	værmádahkaåvddånahttembarggo	fierpmádatbargu	6	0	2	0
 nettverksarbeid	værmádahkabálkká	fierpmádatbargu	6	0	2	0
 
 idrettsarbeid	valástallamdoajmma	falástallanbargu	2	0	1	0
-idrettsarbeid	valástallampládnabarggo	falástallanbargu	2	0	1	0
++idrettsarbeid	valástallambarggo	falástallanbargu	2	0	1	0
 idrettsarbeid	valástallamåvddånahttembarggo	falástallanbargu	2	0	1	0
 idrettsarbeid	valástallambálkká	falástallanbargu	2	0	1	0
 
@@ -53,16 +54,16 @@ fastland	stuovesdåktårednam	nannán	15	0	15	0
 fastland	stuovesednambarggo	nannán	15	0	15	0
 
 rypestand	rievsagavehka	rievssatmáddodat	1	0	2	0
-rypestand	rievsakvehka	rievssatmáddodat	1	0	2	0
++rypestand	rievsaklåhko	rievssatmáddodat	1	0	2	0
 rypestand	åresvehka	rievssatmáddodat	1	0	2	0
 
 motstand	vuosstevehka	vuostálastit/vuosteháhku/caggan/vuostálastin/vuosttaldeapmi	55	0	39	0
 motstand	vuosstedálvve	vuostálastit/vuosteháhku/caggan/vuostálastin/vuosttaldeapmi	55	0	39	0
 
 presseforbund	præssadoarjjasiebrre	preassasearvi	1	0	1	0
-presseforbund	præssadoarjjalihtto	preassasearvi	1	0	1	0
++presseforbund	præssalihtto	preassasearvi	1	0	1	0
 
-egenverd	sierraárvvo	iešárvu/iešárvodovdu	2	0	3	0
++egenverd	iesjárvvo	iešárvu/iešárvodovdu	2	0	3	0
 egenverd	sierraværált	iešárvu/iešárvodovdu	2	0	3	0
 
 behandlingstilbud	ássjegiehtadallamfálaldahka	dálkkodanfálaldat/dikšofálaldat/dikšunfálaldat	17	0	3	0
@@ -89,20 +90,20 @@ samhandlingsområde	guládallamednam	ovttasdoaibmasuorgi	1	0	1	0
 samhandlingsområde	guládallamguohtomednam	ovttasdoaibmasuorgi	1	0	1	0
 
 høyfjellsområde	várresadje	rášša/duottarvárri	3	0	2	0
-høyfjellsområde	várrebájkke	rášša/duottarvárri	3	0	2	0
++høyfjellsområde	várrebájkke	rášša/duottarvárri	3	0	2	0
 høyfjellsområde	várreednam	rášša/duottarvárri	3	0	2	0
 høyfjellsområde	várreguohtomednam	rášša/duottarvárri	3	0	2	0
 
 menneskeføde	ulmusjriegádibme	olbmoborramuš	2	0	1	0
 menneskeføde	ulmusjriegádahttem	olbmoborramuš	2	0	1	0
 
-helsepenge	varresvuodaruhtta	dearvvašvuođaruhta	1	0	1	0
++helsepenge	varresvuodaruhta	dearvvašvuođaruhta	1	0	1	0
 helsepenge	varresvuohtaruhtta	dearvvašvuođaruhta	1	0	1	0
 
 feltstudie	suorggeoahppo	gieddedutkan	2	0	1	0
 feltstudie	suorgeoahppo	gieddedutkan	2	0	1	0
 
-storfamilie	stuorrefamillja	stuorabearaš	3	0	1	0
++storfamilie	stuorfamillja	stuorabearaš	3	0	1	0
 storfamilie	stuorakfamillja	stuorabearaš	3	0	1	0
 
 bakstykke	tjievtjassárdde	oalli	0	0	85	0
@@ -123,7 +124,7 @@ leirskole	rájrreskåvllå	leairaskuvlaoahpahus	5	0	1	0
 leirskole	årojskåvllå	leairaskuvlaoahpahus	5	0	1	0
 leirskole	årroskåvllå	leairaskuvlaoahpahus	5	0	1	0
 
-samisktime	sámegiellatijmma	sámegieldiibmu/sámegieltiibmu	5	0	2	0
++samisktime	sámegiellatijmma	sámegieldiibmu/sámegieltiibmu	5	0	2	0
 samisktime	sámetijmma	sámegieldiibmu/sámegieltiibmu	5	0	2	0
 
 behandlingstime	sujtodijmma	dikšundiibmu	1	0	1	0
@@ -138,9 +139,9 @@ masseturisme	vegaturissma	mássáturisma/joavkoturisma	1	0	1	0
 masseturisme	vehkaturissma	mássáturisma/joavkoturisma	1	0	1	0
 
 innkjøpsrutine	oasstusarutijnna	sisaoastinvuohki	1	0	0	0
-innkjøpsrutine	oastosrutijnna	sisaoastinvuohki	1	0	0	0
++innkjøpsrutine	oastosrutijnna	sisaoastinvuohki	1	0	0	0
 
-termgruppe	tærmmajuohko	tearbmajoavku	6	0	4	0
++termgruppe	tærmmajuogos	tearbmajoavku	6	0	4	0
 termgruppe	termajuohko	tearbmajoavku	6	0	4	0
 termgruppe	tærmmadiggejuohko	tearbmajoavku	6	0	4	0
 termgruppe	tærmmabarggojuohko	tearbmajoavku	6	0	4	0
@@ -152,7 +153,7 @@ nettverksgruppe	værmádahkabarggojuohko	fierpmádatjoavku	2	0	1	0
 
 fokusgruppe	guovdásjdiggejuogos	fokusjoavku	1	0	1	0
 fokusgruppe	tjalmostimejuogos	fokusjoavku	1	0	1	0
-fokusgruppe	tjalmostimjuogos	fokusjoavku	1	0	1	0
++fokusgruppe	tjalmostimjuogos	fokusjoavku	1	0	1	0
 fokusgruppe	tjalmostimebarggojuogos	fokusjoavku	1	0	1	0
 fokusgruppe	tjalmostimbarggojuogos	fokusjoavku	1	0	1	0
 
@@ -175,7 +176,7 @@ boligmasse	goahtevehka	viessohivvodat	1	0	1	0
 søknadsmasse	åhtsåmhávdde	ohcanhivvodat	9	0	2	0
 søknadsmasse	åhtsåmushávdde	ohcanhivvodat	9	0	2	0
 
-regimeskifte	stivrramålssusibme	ráđđenvuohkemolsun	1	0	1	0
++regimeskifte	stivrrimvuohkemålssusibme	ráđđenvuohkemolsun	1	0	1	0
 regimeskifte	vuohkemålssusibme	ráđđenvuohkemolsun	1	0	1	0
 regimeskifte	stivrrajuohko	ráđđenvuohkemolsun	1	0	1	0
 regimeskifte	stivrajuohko	ráđđenvuohkemolsun	1	0	1	0
@@ -183,11 +184,11 @@ regimeskifte	vuogejuohko	ráđđenvuohkemolsun	1	0	1	0
 regimeskifte	vuohkejuohko	ráđđenvuohkemolsun	1	0	1	0
 
 stipendkomite	stipendajuohko	stipeandalávdegoddi	0	0	2	0
-stipendkomite	stipænndajuohko	stipeandalávdegoddi	0	0	2	0
++stipendkomite	stipænndajuogos	stipeandalávdegoddi	0	0	2	0
 stipendkomite	stipænndadiggenammadus	stipeandalávdegoddi	0	0	2	0
 
 kommunalkomite	suohkanajuohko	gieldakomitea	2	0	1	0
-kommunalkomite	suohkanjuohko	gieldakomitea	2	0	1	0
++kommunalkomite	suohkanjuogos	gieldakomitea	2	0	1	0
 kommunalkomite	suohkandiggenammadus	gieldakomitea	2	0	1	0
 
 parkbelte	párkkagetsam	párkaavádat	1	0	0	0
@@ -195,7 +196,7 @@ parkbelte	saljogetsam	párkaavádat	1	0	0	0
 parkbelte	salljogetsam	párkaavádat	1	0	0	0
 parkbelte	álmmuksalljogetsam	párkaavádat	1	0	0	0
 
-gruppekvote	juohkokvåvttå	joavkoearri	2	0	1	0
++gruppekvote	juogoskvåvttå	joavkoearri	2	0	1	0
 gruppekvote	diggejuohkokvåvttå	joavkoearri	2	0	1	0
 gruppekvote	diggejuogoskvåvttå	joavkoearri	2	0	1	0
 
@@ -211,13 +212,13 @@ fjelltjeneste	várreámmát	meahccebálvalus	5	0	9	0
 økosystemtjeneste	økosystiebmavarresvuodadievnastus	ekovuogádatbálvalus	2	0	1	0
 økosystemtjeneste	ekosystiebmadievnastus	ekovuogádatbálvalus	2	0	1	0
 økosystemtjeneste	ekosystebmadievnastus	ekovuogádatbálvalus	2	0	1	0
-økosystemtjeneste	økosystebmadievnastus	ekovuogádatbálvalus	2	0	1	0
++økosystemtjeneste	økosystebmadievnastus	ekovuogádatbálvalus	2	0	1	0
 økosystemtjeneste	ekosystiemadievnastus	ekovuogádatbálvalus	2	0	1	0
 økosystemtjeneste	ekosystemadievnastus	ekovuogádatbálvalus	2	0	1	0
 økosystemtjeneste	økosystiebmaámmát	ekovuogádatbálvalus	2	0	1	0
 
 telefontjeneste	telefåvnnåvirgge	telefonbálvalus/telefovdnabálvalus	2	0	1	0
-telefontjeneste	telefåvnnådievnno	telefonbálvalus/telefovdnabálvalus	2	0	1	0
++telefontjeneste	telefåvnnådievnno	telefonbálvalus/telefovdnabálvalus	2	0	1	0
 telefontjeneste	telefåvnnåvarresvuodadievnastus	telefonbálvalus/telefovdnabálvalus	2	0	1	0
 telefontjeneste	telefåvnnåámmát	telefonbálvalus/telefovdnabálvalus	2	0	1	0
 
@@ -238,32 +239,32 @@ fortjeneste	åvdepámmát	dienas	8	0	145	0
 fortjeneste	åvddåámmát	dienas	8	0	145	0
 
 sekretærtjeneste	tjállevirgge	čállibálvalus/čállinbálvalus	2	0	1	0
-sekretærtjeneste	tjálledievnno	čállibálvalus/čállinbálvalus	2	0	1	0
++sekretærtjeneste	tjálledievnno	čállibálvalus/čállinbálvalus	2	0	1	0
 sekretærtjeneste	tjállevarresvuodadievnastus	čállibálvalus/čállinbálvalus	2	0	1	0
 sekretærtjeneste	tjálleámmát	čállibálvalus/čállinbálvalus	2	0	1	0
 
 velferdstjeneste	álkkádusvirgge	čálgobálvalus	5	0	1	0
-velferdstjeneste	álkkádusdievnno	čálgobálvalus	5	0	1	0
++velferdstjeneste	álkkádusdievnno	čálgobálvalus	5	0	1	0
 velferdstjeneste	álkkádusvarresvuodadievnastus	čálgobálvalus	5	0	1	0
 velferdstjeneste	álkkádusámmát	čálgobálvalus	5	0	1	0
 
 saksbehandlingstjeneste	ássjegiehtadallamvirgge	áššemeannudanbálvalus	1	0	1	0
-saksbehandlingstjeneste	ássjegiehtadallamdievnno	áššemeannudanbálvalus	1	0	1	0
++saksbehandlingstjeneste	ássjegiehtadallamdievnno	áššemeannudanbálvalus	1	0	1	0
 saksbehandlingstjeneste	ássjegiehtadallamvarresvuodadievnastus	áššemeannudanbálvalus	1	0	1	0
 saksbehandlingstjeneste	ássjegiehtadallamámmát	áššemeannudanbálvalus	1	0	1	0
 
 utviklingstjeneste	åvddånahttemvirgge	ovddidanbálvalus	1	0	1	0
-utviklingstjeneste	åvddånahttemdievnno	ovddidanbálvalus	1	0	1	0
++utviklingstjeneste	åvddånahttemdievnno	ovddidanbálvalus	1	0	1	0
 utviklingstjeneste	åvddånahttemvarresvuodadievnastus	ovddidanbálvalus	1	0	1	0
 utviklingstjeneste	åvddånahttemámmát	ovddidanbálvalus	1	0	1	0
 
 bygningstjeneste	tsiekkadusvirgge	huksenbálvalus	4	0	2	0
-bygningstjeneste	tsiekkadusdievnno	huksenbálvalus	4	0	2	0
++bygningstjeneste	tsiekkadusdievnno	huksenbálvalus	4	0	2	0
 bygningstjeneste	tsiekkadusvarresvuodadievnastus	huksenbálvalus	4	0	2	0
 bygningstjeneste	tsiekkadusámmát	huksenbálvalus	4	0	2	0
 
 statstjeneste	stáhttavirgge	stáhtabálvalus	4	0	1	0
-statstjeneste	stáhttadievnno	stáhtabálvalus	4	0	1	0
++statstjeneste	stáhttadievnno	stáhtabálvalus	4	0	1	0
 statstjeneste	stáhttavarresvuodadievnastus	stáhtabálvalus	4	0	1	0
 statstjeneste	stáhttaámmát	stáhtabálvalus	4	0	1	0
 
@@ -285,7 +286,7 @@ hjerneslag	vuojŋamsiebrre	vuoiŋŋaščaskkástat	1	0	1	0
 hjerneslag	vuojŋŋamadoarro	vuoiŋŋaščaskkástat	1	0	1	0
 hjerneslag	vuojŋamdoarro	vuoiŋŋaščaskkástat	1	0	1	0
 
-reguleringsforslag	regulierimpládnaoajvvadus	muddenevttohus	4	0	1	0
++reguleringsforslag	regulierimoajvvadus	muddenevttohus	4	0	1	0
 reguleringsforslag	regulierimpládnaárvvalus	muddenevttohus	4	0	1	0
 
 feltoppdrag	suorggedoajmma	gieddebargu	1	0	7	0
@@ -335,26 +336,26 @@ nordfylkesamling	nuorttafylkka	davvifylkkaidčoagganeapmi	1	0	0	0
 nordfylkesamling	nuorttofylkka	davvifylkkaidčoagganeapmi	1	0	0	0
 
 nettverksamling	værmádahkatjåhkanibme	fierpmádatčoahkkaneapmi	2	0	1	0
-nettverksamling	værmádahkatjåhkalvis	fierpmádatčoahkkaneapmi	2	0	1	0
++nettverksamling	værmádahkatjåhkalvis	fierpmádatčoahkkaneapmi	2	0	1	0
 nettverksamling	værmádahkavuorkká	fierpmádatčoahkkaneapmi	2	0	1	0
 
 plenumssamling	ållestjoakkáldahka	dievasčoahkkinčoagganeapmi	23	0	1	0
 plenumssamling	ållestjoahkke	dievasčoahkkinčoagganeapmi	23	0	1	0
 
 elevsamling	oahppeoahttsetjoakkáldahka	oahppičoagganeapmi	1	0	1	0
-elevsamling	oahppeoahttsetjoahkke	oahppičoagganeapmi	1	0	1	0
++elevsamling	oahppetjåhkalvis	oahppičoagganeapmi	1	0	1	0
 
 motutredning	måvtugisvuohtatjielgadus	vuostečielggadus	1	0	1	0
 motutredning	roahkkatvuohtatjielgadus	vuostečielggadus	1	0	1	0
-motutredning	vuossteguoradus	vuostečielggadus	1	0	1	0
++motutredning	vuossteguoradus	vuostečielggadus	1	0	1	0
 
 hjemreiseordning	sijddamannodoarjjaårnik	ruovttumátkeortnet	1	0	1	0
 hjemreiseordning	sijddamannoháldadusårnik	ruovttumátkeortnet	1	0	1	0
-hjemreiseordning	sijddamannokvåvttåårnik	ruovttumátkeortnet	1	0	1	0
++hjemreiseordning	sijddamannoårnik	ruovttumátkeortnet	1	0	1	0
 
 prøveordning	gæhttjaladdamdoarjjaårnik	geahččalanortnet/geahččaladdanortnet	18	0	6	0
 prøveordning	gæhttjaladdamháldadusårnik	geahččalanortnet/geahččaladdanortnet	18	0	6	0
-prøveordning	gæhttjaladdamkvåvttåårnik	geahččalanortnet/geahččaladdanortnet	18	0	6	0
++prøveordning	gæhttjaladdamårnik	geahččalanortnet/geahččaladdanortnet	18	0	6	0
 
 leirordning	rájrreårnik	leairaortnet	1	0	1	0
 leirordning	årojårnik	leairaortnet	1	0	1	0
@@ -376,14 +377,14 @@ innsigelsesordning	vuossteháhkoásadus	vuosttaldanortnet	1	0	0	0
 nordområdeutdanning	nuorttalijguovllooahppa	davviguovlooahppu	1	0	0	0
 nordområdeutdanning	nuortooahppa	davviguovlooahppu	1	0	0	0
 nordområdeutdanning	nuorttooahppa	davviguovlooahppu	1	0	0	0
-nordområdeutdanning	nuorttalijguovllooahppo	davviguovlooahppu	1	0	0	0
++nordområdeutdanning	nuorttalijguovllooahppo	davviguovlooahppu	1	0	0	0
 nordområdeutdanning	nuortooahppo	davviguovlooahppu	1	0	0	0
 nordområdeutdanning	nuorttooahppo	davviguovlooahppu	1	0	0	0
 nordområdeutdanning	nuorttalijguovlloåhpadiddjeåhpadus	davviguovlooahppu	1	0	0	0
 nordområdeutdanning	nuorttoåhpadiddjeåhpadus	davviguovlooahppu	1	0	0	0
 nordområdeutdanning	nuorttoåhpadus	davviguovlooahppu	1	0	0	0
 
-vassdragsforvaltning	tjáhtjádahkaháldadibme	čázádathálddašeapmi	2	0	1	0
++vassdragsforvaltning	tjáhtjádahkaháldadibme	čázádathálddašeapmi	2	0	1	0
 vassdragsforvaltning	tjáhtjádahkaháldadus	čázádathálddašeapmi	2	0	1	0
 
 forundring	álggooavdduhibme	imaštallan	2	0	11	0
@@ -398,17 +399,17 @@ rasering	ulmusjsuormma	njeaidin/bilideapmi	4	0	8	0
 rasering	ulmutjasuormas	njeaidin/bilideapmi	4	0	8	0
 rasering	ulmusjsuormas	njeaidin/bilideapmi	4	0	8	0
 
-eierstyring	åmastiddjestivrra	eaiggátstivren	3	0	1	0
++eierstyring	åmastiddjestivrrim	eaiggátstivren	3	0	1	0
 eierstyring	æjgátstivrra	eaiggátstivren	3	0	1	0
 
 etableringsopplæring	vuododimeoahppa	álggahanoahpahus	1	0	1	0
-etableringsopplæring	vuododimoahppa	álggahanoahpahus	1	0	1	0
++etableringsopplæring	vuododimoahppo	álggahanoahpahus	1	0	1	0
 
 underernæring	vuollebiebbmo	váilebiebman	2	0	1	0
 underernæring	vuolebiebbmo	váilebiebman	2	0	1	0
 underernæring	vuolepbiebbmo	váilebiebman	2	0	1	0
 
-sosialsatsing	sosiálladoajmma	sosiálaáŋgiruššan	20	0	8	0
++sosialsatsing	sosiállavuorodibme	sosiálaáŋgiruššan	20	0	8	0
 sosialsatsing	sosialdoajmma	sosiálaáŋgiruššan	20	0	8	0
 
 bosetting	årojulmme	ássan	259	0	281	0
@@ -426,7 +427,7 @@ tilknytningsvei	aktisasjvuohtagæjnno	beassangeaidnu	1	0	1	0
 luftvei	ájmmoluodda	vuoiŋŋahatbohcci	3	0	1	0
 luftvei	ájmmovæddja	vuoiŋŋahatbohcci	3	0	1	0
 luftvei	ilmerahte	vuoiŋŋahatbohcci	3	0	1	0
-luftvei	ilmmerahte	vuoiŋŋahatbohcci	3	0	1	0
++luftvei	ilmmegæjnno	vuoiŋŋahatbohcci	3	0	1	0
 luftvei	ájmmogæjnno	vuoiŋŋahatbohcci	3	0	1	0
 
 samlingsparti	tjoahkkepartiddja	ovttastusbellodat	1	0	0	0
@@ -436,19 +437,19 @@ samlingsparti	tjoakkáldahkabelludahka	ovttastusbellodat	1	0	0	0
 samlingsparti	vuorkkábelludahka	ovttastusbellodat	1	0	0	0
 
 statsrådsak	stáhttaássje	stáhtaráđđeášši	1	0	1	0
-statsrådsak	stáhtarádeássjegiehtadallam	stáhtaráđđeášši	1	0	1	0
++statsrådsak	stáhtarádeássje	stáhtaráđđeášši	1	0	1	0
 statsrådsak	stáhttarádeássjegiehtadallam	stáhtaráđđeášši	1	0	1	0
 
 drøftingssak	árvvaladdamássjegiehtadallam	guorahallanášši/ságaškuššanášši	3	0	1	0
 drøftingssak	ságastallamássjegiehtadallam	guorahallanášši/ságaškuššanášši	3	0	1	0
 
-eiendomssak	åbmudahkaássjegiehtadallam	opmodatášši	1	0	1	0
++eiendomssak	åbmudahkaássje	opmodatášši	1	0	1	0
 eiendomssak	æjggoássjegiehtadallam	opmodatášši	1	0	1	0
 
 fellestrekk	vádágæsos	oktasašdovdomearka/oktasašoassi/oktasašsárggus	7	0	1	0
 fellestrekk	váhtágæsos	oktasašdovdomearka/oktasašoassi/oktasašsárggus	7	0	1	0
 
-petroleumspolitikk	petroleumaguovllopolitihkka	petroleumpolitihkka	1	0	0	0
++petroleumspolitikk	petroleumpolitihkka	petroleumpolitihkka	1	0	0	0
 petroleumspolitikk	petroleumguovllopolitihkka	petroleumpolitihkka	1	0	0	0
 petroleumspolitikk	petroleumaguovllopolitijkka	petroleumpolitihkka	1	0	0	0
 petroleumspolitikk	petroleumguovllopolitijkka	petroleumpolitihkka	1	0	0	0
@@ -486,7 +487,7 @@ underforbruk	oavddoadno	unnitgolaheapmi	18	0	1	0
 underforbruk	oavdoadno	unnitgolaheapmi	18	0	1	0
 
 enkeltbruk	ájnegisadnem	eaŋkildoallu	1	0	1	0
-enkeltbruk	ájnegisadno	eaŋkildoallu	1	0	1	0
++enkeltbruk	ájnegisadno	eaŋkildoallu	1	0	1	0
 
 stipendmiddel	stipendagasska	stipeandaruhta	1	0	2	0
 stipendmiddel	stipænndagasska	stipeandaruhta	1	0	2	0
@@ -520,7 +521,7 @@ undertittel	oavdonamma	liigenamahus	1	0	1	0
 arbeidsforbrukstall	åvddånahttembarggogållådibme	bargogolahuslohku	1	0	0	0
 arbeidsforbrukstall	åvddånahttembarggoadno	bargogolahuslohku	1	0	0	0
 
-styringsmodell	stivrravuohke	stivrenmálle	5	0	3	0
++styringsmodell	stivrrimvuohke	stivrenmálle	5	0	3	0
 styringsmodell	stivravuohke	stivrenmálle	5	0	3	0
 
 regnskapsmateriell	ruhtamateriálla	rehketdoalloávnnas	2	0	1	0
@@ -543,14 +544,14 @@ polarspørsmål	nuorttaássje	polárajearaldat	1	0	0	0
 polarspørsmål	nuorttagatjálvis	polárajearaldat	1	0	0	0
 
 reguleringsspørsmål	regulierimpládnaássje	regulerengažaldat/muddengažaldat	2	0	1	0
-reguleringsspørsmål	regulierimpládnagatjálvis	regulerengažaldat/muddengažaldat	2	0	1	0
++reguleringsspørsmål	regulierimgatjálvis	regulerengažaldat/muddengažaldat	2	0	1	0
 
 handelsspørsmål	oasseássje	gávpeášši	1	0	1	0
-handelsspørsmål	oassegatjálvis	gávpeášši	1	0	1	0
++handelsspørsmål	oasesgatjálvis	gávpeášši	1	0	1	0
 
 styringssystem	stivrrasuorgge	stivrenvuogádat/stivrensystema	7	0	2	0
 styringssystem	stivrasuorgge	stivrenvuogádat/stivrensystema	7	0	2	0
-styringssystem	stivrravuohke	stivrenvuogádat/stivrensystema	7	0	2	0
++styringssystem	stivrrimvuohke	stivrenvuogádat/stivrensystema	7	0	2	0
 styringssystem	stivravuohke	stivrenvuogádat/stivrensystema	7	0	2	0
 
 enkeltsykdom	ájnegisdávdda	bođudávda	1	0	1	0
@@ -565,12 +566,12 @@ røykskjerm	suovvaberjas	bearjjas	0	0	1	0
 boform	årrovuohke	ássanvuohki	3	0	2	0
 boform	årrohábme	ássanvuohki	3	0	2	0
 
-prøveplan	gæhttjaladdamvæddjapládna	geahččalanplána	1	0	1	0
++prøveplan	gæhttjaladdampládna	geahččalanplána	1	0	1	0
 prøveplan	gæhttjaladdambarggopládna	geahččalanplána	1	0	1	0
 prøveplan	gæhttjaladdamdásse	geahččalanplána	1	0	1	0
 prøveplan	gæhttjaladdamájggom	geahččalanplána	1	0	1	0
 
-ungdomsmagasin	nuoramagasijnna	nuoraidbláđđi/nuoraidmagasiidna	7	0	4	0
++ungdomsmagasin	nuorajmagasijnna	nuoraidbláđđi/nuoraidmagasiidna	7	0	4	0
 ungdomsmagasin	nuorramagasijnna	nuoraidbláđđi/nuoraidmagasiidna	7	0	4	0
 ungdomsmagasin	nuorajskåvllåmagasijnna	nuoraidbláđđi/nuoraidmagasiidna	7	0	4	0
 
@@ -589,7 +590,7 @@ nisjeproduksjon	suorgebuvtadibme	oalgebuvttadus	2	0	1	0
 nisjeproduksjon	suorggebuvtadus	oalgebuvttadus	2	0	1	0
 nisjeproduksjon	suorgebuvtadus	oalgebuvttadus	2	0	1	0
 
-saksproduksjon	ássjegiehtadallambuvtadibme	áššebuvttadeapmi	1	0	0	0
++saksproduksjon	ássjebuvtadibme	áššebuvttadeapmi	1	0	0	0
 saksproduksjon	ássjegiehtadallambuvtadus	áššebuvttadeapmi	1	0	0	0
 
 enkeltproduksjon	ájnegisbuvtadibme	eaŋkilbuvttus	1	0	1	0
@@ -638,14 +639,14 @@ plenumsleder	ållesjådediddje	dievasčoahkkinjođiheaddji	24	0	11	0
 
 idrettsleder	valástallamdåjmadiddje	valáštallanjođiheaddji	1	0	1	0
 idrettsleder	valástallamoajvve	valáštallanjođiheaddji	1	0	1	0
-idrettsleder	valástallamnjunnjusj	valáštallanjođiheaddji	1	0	1	0
++idrettsleder	valástallamnjunnjusj	valáštallanjođiheaddji	1	0	1	0
 idrettsleder	valástallamgieris	valáštallanjođiheaddji	1	0	1	0
 idrettsleder	valástallamtjielkká	valáštallanjođiheaddji	1	0	1	0
 
-helsepenger	varresvuodaruhtta	dearvvašvuođaruhta	1	0	1	0
++helsepenger	varresvuodaruhta	dearvvašvuođaruhta	1	0	1	0
 helsepenger	varresvuohtaruhtta	dearvvašvuođaruhta	1	0	1	0
 
-stortingspolitiker	stuorakdiggepolitihkkár	stuorradiggepolitihkkár	1	0	1	0
++stortingspolitiker	stuorakdiggepolitihkkár	stuorradiggepolitihkkár	1	0	1	0
 stortingspolitiker	stuorakpolitihkkár	stuorradiggepolitihkkár	1	0	1	0
 
 undervisningsminister	oahpoministar	oahpahusministtar	1	0	7	0
@@ -659,7 +660,7 @@ handelsminister	oasestimministar	gávpeministtar	11	0	2	0
 underkontor	oavddokontåvrrå	guovllukantuvra	5	0	14	0
 underkontor	oavddobarggokontåvrrå	guovllukantuvra	5	0	14	0
 
-skadedyr	vahágahttemielle	vahátealli	11	0	2	0
++skadedyr	vahágahttemielle	vahátealli	11	0	2	0
 skadedyr	vahágahttemjudo	vahátealli	11	0	2	0
 skadedyr	vahákjudos	vahátealli	11	0	2	0
 
@@ -670,11 +671,11 @@ undervisningsutstyr	oahppovædtsak	oahpahusreaidu	2	0	1	0
 undervisningsutstyr	åhpadusræjddo	oahpahusreaidu	2	0	1	0
 
 sportspris	valástallamhadde	valáštallanhaddi	1	0	1	0
-sportspris	valástallamguddnebálkká	valáštallanhaddi	1	0	1	0
++sportspris	valástallamguddnebálkká	valáštallanhaddi	1	0	1	0
 sportspris	valástallamgudnebálkká	valáštallanhaddi	1	0	1	0
 sportspris	valástallambálkká	valáštallanhaddi	1	0	1	0
 
-virkemiddelinnsats	vájkkudimnævvobarggo	reaidoulbmil	2	0	0	0
++virkemiddelinnsats	vájkkudimnævvovuorodibme	reaidoulbmil	2	0	0	0
 virkemiddelinnsats	vájkkudusbarggo	reaidoulbmil	2	0	0	0
 
 tjenestekrets	virggebijrra	bálvalanviidodat	8	0	2	0
@@ -684,7 +685,7 @@ tjenestekrets	virggedáfo	bálvalanviidodat	8	0	2	0
 tjenestekrets	ámmátdáfo	bálvalanviidodat	8	0	2	0
 
 sykkelkrets	syhkkalabijrra	sihkkelbiire	1	0	1	0
-sykkelkrets	syhkalbijrra	sihkkelbiire	1	0	1	0
++sykkelkrets	syhkalbijrra	sihkkelbiire	1	0	1	0
 sykkelkrets	syhkaldáfo	sihkkelbiire	1	0	1	0
 
 innsigelsesmyndighet	vuossteháhkofábmudahka	cealkinváldi	9	0	1	0
@@ -696,7 +697,7 @@ føringsmulighet	tjállemáhttelisvuohta	hovdenvejolašvuohta	1	0	1	0
 føringsmulighet	tjállemmáhttelisvuohta	hovdenvejolašvuohta	1	0	1	0
 
 teatervirksomhet	teáhteræládusdoajmma	teáhterdoaibma	11	0	4	0
-teatervirksomhet	teáhtarbarggo	teáhterdoaibma	11	0	4	0
++teatervirksomhet	teáhtardoajmma	teáhterdoaibma	11	0	4	0
 
 fortolkningsvirksomhet	tjielggidusdoajmma	dulkondoaibma	1	0	1	0
 fortolkningsvirksomhet	tjielggidusæládusdoajmma	dulkondoaibma	1	0	1	0
@@ -750,7 +751,7 @@ nisjeprodusent	suorggebuvtadiddje	oalgegálvobuvttadeaddji	1	0	1	0
 nisjeprodusent	suorgebuvtadiddje	oalgegálvobuvttadeaddji	1	0	1	0
 
 ungdomskort	nuorrakårttå	nuoraidkoarta	2	0	1	0
-ungdomskort	nuorajskåvllåkårttå	nuoraidkoarta	2	0	1	0
++ungdomskort	nuorajkårttå	nuoraidkoarta	2	0	1	0
 
 øyekast	tjalmevirro	geahčastat	1	0	19	0
 øyekast	tjalmmevirro	geahčastat	1	0	19	0
@@ -774,42 +775,42 @@ forkjøpsrett	åvddåoasste	ovdadastinvuoigatvuohta	1	0	1	0
 opphavsrett	vuodorievtes	dahkkivuoigatvuohta	9	0	4	0
 opphavsrett	vuodoriektá	dahkkivuoigatvuohta	9	0	4	0
 
-naturmangfoldlov	luondomoattebelakvuohtaskåvllåláhka	luonddušláddjivuođaláhka/luondduvalljivuođaláhka/luondduvalljodatláhka	9	0	2	0
++naturmangfoldlov	luondomoattebelakvuohtaláhka	luonddušláddjivuođaláhka/luondduvalljivuođaláhka/luondduvalljodatláhka	9	0	2	0
 naturmangfoldlov	luondomoattebelakvuohtahievedus	luonddušláddjivuođaláhka/luondduvalljivuođaláhka/luondduvalljodatláhka	9	0	2	0
 
-flagglov	slávggáskåvllåláhka	leavgaláhka	1	0	1	0
++flagglov	slávggáláhka	leavgaláhka	1	0	1	0
 flagglov	slávggáhievedus	leavgaláhka	1	0	1	0
 
-sektorlov	suorggeskåvllåláhka	suorgeláhka	1	0	1	0
++sektorlov	suorggeláhka	suorgeláhka	1	0	1	0
 sektorlov	suorggehievedus	suorgeláhka	1	0	1	0
 sektorlov	suorgehievedus	suorgeláhka	1	0	1	0
 
 utlendingslov	ålggorijkakskåvllåláhka	olgoriikalaččaidláhka	4	0	0	0
 utlendingslov	ålggorijkakhievedus	olgoriikalaččaidláhka	4	0	0	0
 
-bygningslov	tsiekkadusskåvllåláhka	huksenláhka	125	0	52	0
++bygningslov	tsiekkadusláhka	huksenláhka	125	0	52	0
 bygningslov	tsiekkadushievedus	huksenláhka	125	0	52	0
 
-forurensningslov	nuoskodimehievedus	nuoskkidanláhka	3	0	2	0
++forurensningslov	nuoskodimláhka	nuoskkidanláhka	3	0	2	0
 forurensningslov	nuoskodimhievedus	nuoskkidanláhka	3	0	2	0
 
 personopplysningslov	ulmusjdiehto	persondiehtoláhka/heaggadiehtoláhka	7	0	1	0
-personopplysningslov	persåvnnådiehto	persondiehtoláhka/heaggadiehtoláhka	7	0	1	0
++personopplysningslov	persåvnnådiehtoláhka	persondiehtoláhka/heaggadiehtoláhka	7	0	1	0
 
-kringkastingslov	sáddimskåvllåláhka	áibmomedialáhka	2	0	1	0
++kringkastingslov	sáddimláhka	áibmomedialáhka	2	0	1	0
 kringkastingslov	sáddimhievedus	áibmomedialáhka	2	0	1	0
 
 petroleumslov	gássaguollimláhka	oljoláhka	1	0	1	0
-petroleumslov	petroleumskåvllåláhka	oljoláhka	1	0	1	0
++petroleumslov	petroleumláhka	oljoláhka	1	0	1	0
 petroleumslov	petroleumahievedus	oljoláhka	1	0	1	0
 petroleumslov	petroleumhievedus	oljoláhka	1	0	1	0
 
-pasientrettighetslov	pasiænntariektáguollimláhka	buhcciidvuoigatvuođaláhka/divššohasvuoigatvuođaláhka	13	0	3	0
++pasientrettighetslov	pasiænntariektáguollimláhka	buhcciidvuoigatvuođaláhka/divššohasvuoigatvuođaláhka	13	0	3	0
 pasientrettighetslov	pasiænntariektáláhka	buhcciidvuoigatvuođaláhka/divššohasvuoigatvuođaláhka	13	0	3	2
 
 kommunalkomité	suohkanajuohko	gieldakomitea	10	0	1	0
-kommunalkomité	suohkanjuohko	gieldakomitea	10	0	1	0
++kommunalkomité	suohkanjuogos	gieldakomitea	10	0	1	0
 kommunalkomité	suohkandiggenammadus	gieldakomitea	10	0	1	0
 
-bomiljø	årojbarggobirás	ássanbiras	2	0	1	0
++bomiljø	årojbirás	ássanbiras	2	0	1	0
 bomiljø	årrobirás	ássanbiras	2	0	1	0
