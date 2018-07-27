@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r id="nobsmj" xml:lang="nob">
   <e>
     <lg>
@@ -5182,7 +5186,7 @@
       </tg>
     </mg>
   </e>
-  <!-- Bad suggestions, remove next time round: 
+  <!-- Bad suggestions, remove next time round:
 rimelig ::: muttáklágásj
 rimelig ::: hiebalasj
 aktuell ::: relevánnta
