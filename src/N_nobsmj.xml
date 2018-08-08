@@ -41056,10 +41056,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">kjæreste (kvinne)</l>
+      <l pos="N" src="fad">kjæreste</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
+        <re>kvinne</re>
         <t pos="N">moarsse</t>
       </tg>
     </mg>
@@ -89046,10 +89047,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">stryk (i elv)</l>
+      <l pos="N" src="fad">stryk</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
+        <re>i elv</re>
         <t pos="N">guojkka</t>
       </tg>
     </mg>
@@ -98917,10 +98919,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">opphold (på et sted)</l>
+      <l pos="N" src="fad">opphold</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
+        <re>på et sted</re>
         <t pos="N">åroj</t>
         <t pos="N">årro</t>
       </tg>
@@ -99919,10 +99922,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">omvendelse (religiøs)</l>
+      <l pos="N" src="fad">omvendelse</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
+        <re>religiøs</re>
         <t pos="N">buorádus</t>
       </tg>
     </mg>
@@ -100165,10 +100169,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">strimmel (kjøtt o.l.)</l>
+      <l pos="N" src="fad">strimmel</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
+        <re>kjøtt o.l.</re>
         <t pos="N">sárgge</t>
         <t pos="N">sárdde</t>
       </tg>
@@ -100176,10 +100181,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">båt (appelsin)</l>
+      <l pos="N" src="fad">båt</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
+        <re>appelsin</re>
         <t pos="N">sárgge</t>
         <t pos="N">sárdde</t>
       </tg>
@@ -100187,10 +100193,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">arbeidstilsyn (person fra arbeidstilsynet)</l>
+      <l pos="N" src="fad">arbeidstilsyn</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
+        <re>person fra arbeidstilsynet</re>
         <t pos="N">barggogæhttje</t>
         <t pos="N">barggobærrájgæhttje</t>
       </tg>

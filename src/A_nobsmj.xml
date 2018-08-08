@@ -2149,10 +2149,11 @@
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">tykk (om masse)</l>
+      <l pos="A" src="fad">tykk</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
+        <re>om masse</re>
         <t pos="A">suohkat</t>
       </tg>
     </mg>
@@ -3637,10 +3638,11 @@
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">tykk (om veske)</l>
+      <l pos="A" src="fad">tykk</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
+        <re>om veske</re>
         <t pos="A">suohkat</t>
       </tg>
     </mg>
@@ -4998,10 +5000,11 @@
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">tykk (om flytende)</l>
+      <l pos="A" src="fad">tykk</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
+        <re>om flytende</re>
         <t pos="A">suohkat</t>
       </tg>
     </mg>

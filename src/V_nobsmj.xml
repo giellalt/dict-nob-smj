@@ -4970,10 +4970,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V" src="fad">lyse/tindre (dim.) (om stjerner)</l>
+      <l pos="V" src="fad">lyse/tindre</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
+        <re>dim., om stjerner</re>
         <t pos="V">jillalit</t>
       </tg>
     </mg>
@@ -10699,10 +10700,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V" src="fad">åpnes (av seg selv)</l>
+      <l pos="V" src="fad">åpnes</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
+        <re>av seg selv</re>
         <t pos="V">rahpusit</t>
         <t pos="V">rahpasit</t>
       </tg>
@@ -10730,10 +10732,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V" src="fad">stryke (med flat hand)</l>
+      <l pos="V" src="fad">stryke</l>
     </lg>
     <mg>
       <tg xml:lang="smj">
+        <re>med flat hand</re>
         <t pos="V">njávkadit</t>
       </tg>
     </mg>
