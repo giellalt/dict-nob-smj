@@ -24446,7 +24446,8 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="N">(vuona)ådådárogiella</t>
+        <re>vuona</re>
+        <t pos="N">ådådárogiella</t>
       </tg>
     </mg>
   </e>
@@ -25963,7 +25964,8 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="N">(duolla)tjállemnjuolgadus</t>
+        <re>duolla</re>
+        <t pos="N">tjállemnjuolgadus</t>
       </tg>
     </mg>
   </e>
@@ -102514,7 +102516,8 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="N">oasesulmutja (fl)</t>
+        <re>fl</re>
+        <t pos="N">oasesulmutja</t>
       </tg>
     </mg>
   </e>

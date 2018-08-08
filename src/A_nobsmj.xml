@@ -1872,7 +1872,8 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="A">ekstrema (attr)</t>
+        <re>attr</re>
+        <t pos="A">ekstrema</t>
       </tg>
     </mg>
   </e>
@@ -1983,7 +1984,8 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="A">primitijva (attr)</t>
+        <re>attr</re>
+        <t pos="A">primitijva</t>
       </tg>
     </mg>
   </e>
@@ -2003,7 +2005,8 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="A">boahtte (attr)</t>
+        <re>attr</re>
+        <t pos="A">boahtte</t>
       </tg>
     </mg>
   </e>
@@ -2033,7 +2036,8 @@
     </lg>
     <mg>
       <tg xml:lang="smj">
-        <t pos="A">diejddis (attr)</t>
+        <re>attr</re>
+        <t pos="A">diejddis</t>
       </tg>
     </mg>
   </e>
