@@ -8,7 +8,7 @@
       <l pos="A" src="fad">ideell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ideell 589c47ea-d409-48ad-8d81-514ae64d6421">
+      <tg xml:lang="smj">
         <t pos="A">ideálla</t>
       </tg>
     </mg>
@@ -18,7 +18,7 @@
       <l pos="A" src="fad">fast</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fast f096e255-6ed0-4c63-b3be-1fba8f9cf1fd">
+      <tg xml:lang="smj">
         <t pos="A">fássta</t>
       </tg>
     </mg>
@@ -28,7 +28,7 @@
       <l pos="A" src="fad">treg</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="treg feb3f9fd-6b6f-4d59-b252-143d87cec465">
+      <tg xml:lang="smj">
         <t pos="A">njoahtse</t>
       </tg>
     </mg>
@@ -38,7 +38,7 @@
       <l pos="A" src="fad">sped</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sped 5517349c-746b-4956-abf8-2ca9e0955988">
+      <tg xml:lang="smj">
         <t pos="A">siegge</t>
       </tg>
     </mg>
@@ -48,7 +48,7 @@
       <l pos="A" src="fad">doven</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="doven ef784a96-3c7d-48bf-9da8-fcc8aad04c80">
+      <tg xml:lang="smj">
         <t pos="A">lájkke</t>
       </tg>
     </mg>
@@ -58,7 +58,7 @@
       <l pos="A" src="fad">velfungerende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="velfungerende 81b82f1c-592c-40e2-9332-5a00db85980d">
+      <tg xml:lang="smj">
         <t pos="A">doajmme</t>
       </tg>
     </mg>
@@ -68,7 +68,7 @@
       <l pos="A" src="fad">bærekraftig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="bærekraftig 57761a96-808a-4f9f-84ae-004338b4193a">
+      <tg xml:lang="smj">
         <t pos="A">guoddel</t>
       </tg>
     </mg>
@@ -78,7 +78,7 @@
       <l pos="A" src="fad">arbeidsom</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="arbeidsom cb2d1f86-fb18-4e68-83b2-3bea8745451f">
+      <tg xml:lang="smj">
         <t pos="A">bargál</t>
       </tg>
     </mg>
@@ -88,7 +88,7 @@
       <l pos="A" src="fad">søvnig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="søvnig 5337a059-d848-45d5-86c2-e1a9071f1fe6">
+      <tg xml:lang="smj">
         <t pos="A">vájbas</t>
       </tg>
     </mg>
@@ -98,7 +98,7 @@
       <l pos="A" src="fad">sirkulær</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sirkulær 8b3d9366-76e2-4a91-a73c-d1937406ab3a">
+      <tg xml:lang="smj">
         <t pos="A">jårbås</t>
       </tg>
     </mg>
@@ -108,7 +108,7 @@
       <l pos="A" src="fad">rund</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="rund 927dde3a-8fa3-454b-8363-e7a7e2235df5">
+      <tg xml:lang="smj">
         <t pos="A">jårbås</t>
       </tg>
     </mg>
@@ -118,7 +118,7 @@
       <l pos="A" src="fad">opphetet</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="opphetet 77456ca9-e288-4a4a-b286-e48e63381225">
+      <tg xml:lang="smj">
         <t pos="A">báhkas</t>
       </tg>
     </mg>
@@ -128,7 +128,7 @@
       <l pos="A" src="fad">ydmyk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ydmyk ad731dc3-edbb-4e78-9f01-f4a16c37ac30">
+      <tg xml:lang="smj">
         <t pos="A">njuoras</t>
       </tg>
     </mg>
@@ -138,7 +138,7 @@
       <l pos="A" src="fad">morsom</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="morsom bdef1811-7390-4c98-933a-3bacfeb431fd">
+      <tg xml:lang="smj">
         <t pos="A">suohtas</t>
       </tg>
     </mg>
@@ -148,7 +148,7 @@
       <l pos="A" src="fad">sjenerøs</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sjenerøs 9509a530-7ade-4675-825a-3907e4f523d4">
+      <tg xml:lang="smj">
         <t pos="A">árvas</t>
       </tg>
     </mg>
@@ -158,7 +158,7 @@
       <l pos="A" src="fad">omfattende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="omfattende beef8e9d-98a4-47c4-ae16-49a0baeffa7f">
+      <tg xml:lang="smj">
         <t pos="A">vijddásasj</t>
       </tg>
     </mg>
@@ -168,7 +168,7 @@
       <l pos="A" src="fad">direkte</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="direkte e778ba39-ba91-4597-b9b0-338abea0a260">
+      <tg xml:lang="smj">
         <t pos="A">njuolgga</t>
       </tg>
     </mg>
@@ -178,7 +178,7 @@
       <l pos="A" src="fad">mye</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="mye 42baec01-bb98-4f2f-abe6-81a3d4851975">
+      <tg xml:lang="smj">
         <t pos="A">ållo</t>
       </tg>
     </mg>
@@ -188,7 +188,7 @@
       <l pos="A" src="fad">mange</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="mange cb1ae7e2-3f9e-45c7-a64d-a19b2fc1a6bc">
+      <tg xml:lang="smj">
         <t pos="A">moadda</t>
       </tg>
     </mg>
@@ -198,7 +198,7 @@
       <l pos="A" src="fad">ond</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ond dfb88aac-2fe2-4fdb-bea3-d5d0ef44fa92">
+      <tg xml:lang="smj">
         <t pos="A">bahá</t>
       </tg>
     </mg>
@@ -208,7 +208,7 @@
       <l pos="A" src="fad">grammatisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="grammatisk 28d1da66-f3df-4421-bc94-01f489c66243">
+      <tg xml:lang="smj">
         <t pos="A">grammáhtalasj</t>
       </tg>
     </mg>
@@ -218,7 +218,7 @@
       <l pos="A" src="fad">journalistisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="journalistisk 0911b4cb-3a8c-4307-996c-52b2ed73ab94">
+      <tg xml:lang="smj">
         <t pos="A">journalistalasj</t>
       </tg>
     </mg>
@@ -228,7 +228,7 @@
       <l pos="A" src="fad">lingvistisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="lingvistisk 8b762959-a1ed-4f8f-873e-962e0f8a40f7">
+      <tg xml:lang="smj">
         <t pos="A">gielladiedalasj</t>
       </tg>
     </mg>
@@ -238,7 +238,7 @@
       <l pos="A" src="fad">finsk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="finsk f3a15649-5fd9-4a09-a26d-f2e772b74ab5">
+      <tg xml:lang="smj">
         <t pos="A">suobmelasj</t>
       </tg>
     </mg>
@@ -248,7 +248,7 @@
       <l pos="A" src="fad">ordinær</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ordinær 9df3661c-29e2-44c2-82ce-fc4e889558ec">
+      <tg xml:lang="smj">
         <t pos="A">dábálasj</t>
       </tg>
     </mg>
@@ -258,7 +258,7 @@
       <l pos="A" src="fad">allmenn</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="allmenn c78d4404-082b-4df1-90e8-7deee36a3475">
+      <tg xml:lang="smj">
         <t pos="A">dábálasj</t>
       </tg>
     </mg>
@@ -268,7 +268,7 @@
       <l pos="A" src="fad">treårig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="treårig 502f4326-fb27-4778-a927-8301494e6370">
+      <tg xml:lang="smj">
         <t pos="A">gålmåjahkásasj</t>
       </tg>
     </mg>
@@ -278,7 +278,7 @@
       <l pos="A" src="fad">eksisterende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="eksisterende 68cd35e9-c029-4322-9e78-0d6302d4e209">
+      <tg xml:lang="smj">
         <t pos="A">dálásj</t>
       </tg>
     </mg>
@@ -288,7 +288,7 @@
       <l pos="A" src="fad">abstrakt</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="abstrakt 002ee756-8241-4824-ab25-4f825a6e7ca4">
+      <tg xml:lang="smj">
         <t pos="A">abstrákta</t>
       </tg>
     </mg>
@@ -298,7 +298,7 @@
       <l pos="A" src="fad">akademisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="akademisk dde6aac9-98f5-4c6a-9e4a-7705fa4e3d4a">
+      <tg xml:lang="smj">
         <t pos="A">akademalasj</t>
       </tg>
     </mg>
@@ -308,7 +308,7 @@
       <l pos="A" src="fad">arkeologisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="arkeologisk 22ecec54-ea2d-4c82-8f65-20f0d6f1913d">
+      <tg xml:lang="smj">
         <t pos="A">arkeolåvgålasj</t>
       </tg>
     </mg>
@@ -318,7 +318,7 @@
       <l pos="A" src="fad">didaktisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="didaktisk f2a524c5-b403-4407-a190-34e687e895d6">
+      <tg xml:lang="smj">
         <t pos="A">didavtalasj</t>
       </tg>
     </mg>
@@ -328,7 +328,7 @@
       <l pos="A" src="fad">ekstern</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ekstern f2111103-c1ff-45c7-be7e-db339d86810f">
+      <tg xml:lang="smj">
         <t pos="A">ålgoldis</t>
       </tg>
     </mg>
@@ -338,7 +338,7 @@
       <l pos="A" src="fad">enerådende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="enerådende 4ea5ed48-c428-4d7f-802c-be7dbf90b8fa">
+      <tg xml:lang="smj">
         <t pos="A">akturádálasj</t>
       </tg>
     </mg>
@@ -348,7 +348,7 @@
       <l pos="A" src="fad">flerårig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="flerårig 4af94b74-aaa9-4de6-a155-308c40e66546">
+      <tg xml:lang="smj">
         <t pos="A">moattejahkásasj</t>
       </tg>
     </mg>
@@ -358,7 +358,7 @@
       <l pos="A" src="fad">formell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="formell e9c7f951-cf8a-441b-a18e-f8b6110f871c">
+      <tg xml:lang="smj">
         <t pos="A">formálla</t>
       </tg>
     </mg>
@@ -368,7 +368,7 @@
       <l pos="A" src="fad">fornybar</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fornybar f089d496-7c3d-4c2c-a77c-ab2eeb893dac">
+      <tg xml:lang="smj">
         <t pos="A">ådåsmahtte</t>
       </tg>
     </mg>
@@ -378,7 +378,7 @@
       <l pos="A" src="fad">fremtidsrettet</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fremtidsrettet a264f4c9-de6a-48ad-aea9-8f4cb95c1fb3">
+      <tg xml:lang="smj">
         <t pos="A">boahtteájggásasj</t>
       </tg>
     </mg>
@@ -388,7 +388,7 @@
       <l pos="A" src="fad">funksjonell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="funksjonell 4b2a9580-3d63-4865-9bac-c283cf07b5c1">
+      <tg xml:lang="smj">
         <t pos="A">dåjmalasj</t>
       </tg>
     </mg>
@@ -398,7 +398,7 @@
       <l pos="A" src="fad">geografisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="geografisk 4ec15e73-7682-4d84-a92f-a3ad7e422043">
+      <tg xml:lang="smj">
         <t pos="A">geográfalasj</t>
       </tg>
     </mg>
@@ -408,7 +408,7 @@
       <l pos="A" src="fad">geologisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="geologisk 7e7e7ed8-3b4e-42f2-a5ba-6df4b2745680">
+      <tg xml:lang="smj">
         <t pos="A">geolåvgålasj</t>
       </tg>
     </mg>
@@ -418,7 +418,7 @@
       <l pos="A" src="fad">hensiktsmessig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="hensiktsmessig 04bedf4e-2d07-411d-98f1-ccdd4407238d">
+      <tg xml:lang="smj">
         <t pos="A">ávkálasj</t>
       </tg>
     </mg>
@@ -428,7 +428,7 @@
       <l pos="A" src="fad">interkommunal</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="interkommunal cb208359-6a37-4c74-b7ca-e9ee1f99bf90">
+      <tg xml:lang="smj">
         <t pos="A">suohkanijgasskasasj</t>
       </tg>
     </mg>
@@ -438,7 +438,7 @@
       <l pos="A" src="fad">kollektiv</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kollektiv 613472e4-eba2-4023-bff7-46ea93e7a69f">
+      <tg xml:lang="smj">
         <t pos="A">aktisasj</t>
       </tg>
     </mg>
@@ -448,7 +448,7 @@
       <l pos="A" src="fad">landsdekkende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="landsdekkende 29f14423-7c93-4cf8-9caf-65284f829aa1">
+      <tg xml:lang="smj">
         <t pos="A">rijkavijddásasj</t>
       </tg>
     </mg>
@@ -458,7 +458,7 @@
       <l pos="A" src="fad">landsomfattende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="landsomfattende 00f8221f-4e88-4a90-aa0d-b30b3db05d43">
+      <tg xml:lang="smj">
         <t pos="A">rijkavijddásasj</t>
       </tg>
     </mg>
@@ -468,7 +468,7 @@
       <l pos="A" src="fad">mekanisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="mekanisk 5ade435a-1809-40e9-8ca8-598d59c81984">
+      <tg xml:lang="smj">
         <t pos="A">mekánalasj</t>
       </tg>
     </mg>
@@ -478,7 +478,7 @@
       <l pos="A" src="fad">mellomstatlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="mellomstatlig bfe6f8c3-2c59-468e-88e3-5087d2d6de88">
+      <tg xml:lang="smj">
         <t pos="A">rijkajgasskasasj</t>
       </tg>
     </mg>
@@ -488,7 +488,7 @@
       <l pos="A" src="fad">minimal</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="minimal 5dd651e7-e66b-4371-9f99-06fdba4ad25c">
+      <tg xml:lang="smj">
         <t pos="A">minimálla</t>
       </tg>
     </mg>
@@ -498,7 +498,7 @@
       <l pos="A" src="fad">parlamentarisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="parlamentarisk 99803bd3-c945-4212-9216-61b6164b1e0b">
+      <tg xml:lang="smj">
         <t pos="A">parlamentáralasj</t>
       </tg>
     </mg>
@@ -508,7 +508,7 @@
       <l pos="A" src="fad">prinsipiell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="prinsipiell e539da57-5177-4902-9bf2-1edebc088581">
+      <tg xml:lang="smj">
         <t pos="A">prinsihpalasj</t>
       </tg>
     </mg>
@@ -518,7 +518,7 @@
       <l pos="A" src="fad">privat</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="privat 2ab6d44c-5eec-4da2-b28b-623cc66ab2e4">
+      <tg xml:lang="smj">
         <t pos="A">priváhta</t>
       </tg>
     </mg>
@@ -528,7 +528,7 @@
       <l pos="A" src="fad">produktiv</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="produktiv 1f1464dd-0392-4b2f-ac3b-2bf3d3f46c34">
+      <tg xml:lang="smj">
         <t pos="A">produktijvalasj</t>
       </tg>
     </mg>
@@ -538,7 +538,7 @@
       <l pos="A" src="fad">retorisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="retorisk baa3c18e-1d40-4868-8dc0-1c41b361d388">
+      <tg xml:lang="smj">
         <t pos="A">retorihkalasj</t>
       </tg>
     </mg>
@@ -548,7 +548,7 @@
       <l pos="A" src="fad">rosa</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="rosa 46ba1b1b-dc25-43da-ac8d-41e8e80f4376">
+      <tg xml:lang="smj">
         <t pos="A">guovggisruoppsat</t>
       </tg>
     </mg>
@@ -558,7 +558,7 @@
       <l pos="A" src="fad">skjønnlitterær</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="skjønnlitterær a4e44ed8-db9b-4e48-a4a0-a88ebdc4e2a7">
+      <tg xml:lang="smj">
         <t pos="A">tjáppagirjálasj</t>
       </tg>
     </mg>
@@ -568,7 +568,7 @@
       <l pos="A" src="fad">smittsom</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="smittsom 13062500-a908-484d-b081-5d9bec765a0c">
+      <tg xml:lang="smj">
         <t pos="A">dæhppulis</t>
       </tg>
     </mg>
@@ -578,7 +578,7 @@
       <l pos="A" src="fad">sosiokulturell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sosiokulturell ab1f5472-a571-4f4e-b84e-fbf0904090c9">
+      <tg xml:lang="smj">
         <t pos="A">sosiokultuvralasj</t>
       </tg>
     </mg>
@@ -588,7 +588,7 @@
       <l pos="A" src="fad">statistisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="statistisk a670587f-ded9-4f05-b1ab-853b656ddbd7">
+      <tg xml:lang="smj">
         <t pos="A">statistihkalasj</t>
       </tg>
     </mg>
@@ -598,7 +598,7 @@
       <l pos="A" src="fad">strukturell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="strukturell 7a04e8ab-b571-4baf-a40d-f534eae0700a">
+      <tg xml:lang="smj">
         <t pos="A">struktuvralasj</t>
       </tg>
     </mg>
@@ -608,7 +608,7 @@
       <l pos="A" src="fad">syntetisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="syntetisk d9d7cea6-cad5-4206-af2a-6dc267fd9ae9">
+      <tg xml:lang="smj">
         <t pos="A">syntehtalasj</t>
       </tg>
     </mg>
@@ -618,7 +618,7 @@
       <l pos="A" src="fad">tapper</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tapper d1111e91-a80c-4028-a332-666c006873a2">
+      <tg xml:lang="smj">
         <t pos="A">gierddis</t>
       </tg>
     </mg>
@@ -628,7 +628,7 @@
       <l pos="A" src="fad">teknisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="teknisk e5552ac6-92be-4cfe-a224-728ade80fc8d">
+      <tg xml:lang="smj">
         <t pos="A">teknihkalasj</t>
       </tg>
     </mg>
@@ -638,7 +638,7 @@
       <l pos="A" src="fad">teologisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="teologisk 84f5424e-1eda-41f6-b658-fef55baa3fff">
+      <tg xml:lang="smj">
         <t pos="A">teolåvgålasj</t>
       </tg>
     </mg>
@@ -648,7 +648,7 @@
       <l pos="A" src="fad">ufullstendig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ufullstendig a83f6bac-0a6e-4be4-8eb5-bbb41f8eb8af">
+      <tg xml:lang="smj">
         <t pos="A">iehpedievalasj</t>
       </tg>
     </mg>
@@ -658,7 +658,7 @@
       <l pos="A" src="fad">unaturlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="unaturlig 96bcb176-95b3-4efc-82e6-14e5c953ef82">
+      <tg xml:lang="smj">
         <t pos="A">iehpeluondulasj</t>
       </tg>
     </mg>
@@ -668,7 +668,7 @@
       <l pos="A" src="fad">universell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="universell 05055b64-9c4d-4436-93f2-c0ad5682cb50">
+      <tg xml:lang="smj">
         <t pos="A">gájkkásasj</t>
       </tg>
     </mg>
@@ -678,7 +678,7 @@
       <l pos="A" src="fad">visuell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="visuell bc59f3d8-f665-48c0-b3d3-1c7447217bca">
+      <tg xml:lang="smj">
         <t pos="A">visuálla</t>
       </tg>
     </mg>
@@ -688,7 +688,7 @@
       <l pos="A" src="fad">mer</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="mer 6673149f-1e07-4000-bd0f-ba7b0b2bdf56">
+      <tg xml:lang="smj">
         <t pos="A">ienep</t>
       </tg>
     </mg>
@@ -698,7 +698,7 @@
       <l pos="A" src="fad">enig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="enig bd7e7a7a-0b7f-451f-8b05-2a813c642345">
+      <tg xml:lang="smj">
         <t pos="A">avtamielalasj</t>
       </tg>
     </mg>
@@ -708,7 +708,7 @@
       <l pos="A" src="fad">tilfreds</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tilfreds 44f59c22-bbd5-4d49-b726-f0a3126c24d0">
+      <tg xml:lang="smj">
         <t pos="A">dudálasj</t>
       </tg>
     </mg>
@@ -718,7 +718,7 @@
       <l pos="A" src="fad">sist</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sist 1d6ea53d-24f7-43e1-be30-f68c7014464b">
+      <tg xml:lang="smj">
         <t pos="A">maŋemus</t>
       </tg>
     </mg>
@@ -728,7 +728,7 @@
       <l pos="A" src="fad">særlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="særlig 3a47b7ca-005a-45fc-9d14-4c0e07412ee2">
+      <tg xml:lang="smj">
         <t pos="A">sierralágásj</t>
       </tg>
     </mg>
@@ -738,7 +738,7 @@
       <l pos="A" src="fad">ekstensiv</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ekstensiv 7572085b-7e64-4f84-adf0-5f22e0190b4e">
+      <tg xml:lang="smj">
         <t pos="A">ekstensijva</t>
       </tg>
     </mg>
@@ -748,7 +748,7 @@
       <l pos="A" src="fad">alternativ</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="alternativ 39c8d75f-40d1-4cf5-80cf-dde09a4d3827">
+      <tg xml:lang="smj">
         <t pos="A">alternatijva</t>
       </tg>
     </mg>
@@ -758,7 +758,7 @@
       <l pos="A" src="fad">innovativ</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="innovativ d2ac2bbb-6459-4632-828c-9ff81f5bd835">
+      <tg xml:lang="smj">
         <t pos="A">innovatijva</t>
       </tg>
     </mg>
@@ -768,7 +768,7 @@
       <l pos="A" src="fad">deduktiv</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="deduktiv b14904dc-460c-41a6-a56d-d3d2d9e0d5e3">
+      <tg xml:lang="smj">
         <t pos="A">deduktijva</t>
       </tg>
     </mg>
@@ -778,7 +778,7 @@
       <l pos="A" src="fad">mer</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="mer e4ce786a-a18c-40b9-9fec-234aaab84a5b">
+      <tg xml:lang="smj">
         <t pos="A">ienep</t>
       </tg>
     </mg>
@@ -788,7 +788,7 @@
       <l pos="A" src="fad">samisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="samisk 60567b5e-3050-43d1-bfb0-012cc53f7084">
+      <tg xml:lang="smj">
         <t pos="A">sáme</t>
       </tg>
     </mg>
@@ -798,7 +798,7 @@
       <l pos="A" src="fad">real</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="real cca982b8-71fe-4a69-a27a-c803efeb2da6">
+      <tg xml:lang="smj">
         <t pos="A">reálla</t>
       </tg>
     </mg>
@@ -808,7 +808,7 @@
       <l pos="A" src="fad">reell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="reell e0fd8b96-f6d6-4318-82d8-bb858de3b260">
+      <tg xml:lang="smj">
         <t pos="A">reálla</t>
       </tg>
     </mg>
@@ -818,7 +818,7 @@
       <l pos="A" src="fad">uformell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="uformell 6a5a1023-6bcf-42dd-a725-e5f01394af57">
+      <tg xml:lang="smj">
         <t pos="A">iehpeformálla</t>
       </tg>
     </mg>
@@ -828,7 +828,7 @@
       <l pos="A" src="fad">unormal</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="unormal b37270a0-8797-47cb-8ec0-f8f4f98a57c8">
+      <tg xml:lang="smj">
         <t pos="A">iehpenormálla</t>
       </tg>
     </mg>
@@ -838,7 +838,7 @@
       <l pos="A" src="fad">regional</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="regional 55a354ec-14c0-4bdd-b7bf-7b9b68465c93">
+      <tg xml:lang="smj">
         <t pos="A">regionálla</t>
       </tg>
     </mg>
@@ -848,7 +848,7 @@
       <l pos="A" src="fad">liberal</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="liberal 3e7ccdd9-cd44-49a3-9559-87cdfd6e962d">
+      <tg xml:lang="smj">
         <t pos="A">liberálla</t>
       </tg>
     </mg>
@@ -858,7 +858,7 @@
       <l pos="A" src="fad">nøytral</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="nøytral 975aadaf-e7bf-4554-afb1-e52bd3d20339">
+      <tg xml:lang="smj">
         <t pos="A">neutrálla</t>
       </tg>
     </mg>
@@ -868,7 +868,7 @@
       <l pos="A" src="fad">audiovisuell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="audiovisuell 73ba0db6-d0fe-4adc-a4f3-26b4f3242d56">
+      <tg xml:lang="smj">
         <t pos="A">audiovisuálla</t>
       </tg>
     </mg>
@@ -878,7 +878,7 @@
       <l pos="A" src="fad">relevant</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="relevant 6ee89590-04af-4aa8-bfb1-4cf5bf38ddf9">
+      <tg xml:lang="smj">
         <t pos="A">relevánnta</t>
       </tg>
     </mg>
@@ -888,7 +888,7 @@
       <l pos="A" src="fad">eksklusiv</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="eksklusiv 4700bf7e-1e1a-46f1-bae5-2d6aacf43f26">
+      <tg xml:lang="smj">
         <t pos="A">eksklusijva</t>
       </tg>
     </mg>
@@ -898,7 +898,7 @@
       <l pos="A" src="fad">kumulativ</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kumulativ 42495652-90ec-4f24-8679-c442e4300ac7">
+      <tg xml:lang="smj">
         <t pos="A">kumulatijva</t>
       </tg>
     </mg>
@@ -908,7 +908,7 @@
       <l pos="A" src="fad">representativ</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="representativ 82f821e0-8dba-4090-aac4-65025e780904">
+      <tg xml:lang="smj">
         <t pos="A">representatijva</t>
       </tg>
     </mg>
@@ -918,7 +918,7 @@
       <l pos="A" src="fad">subjektiv</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="subjektiv c6ce1860-cdcd-425a-89ba-77e1b85a5109">
+      <tg xml:lang="smj">
         <t pos="A">subjektijva</t>
       </tg>
     </mg>
@@ -928,7 +928,7 @@
       <l pos="A" src="fad">kort</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kort efc52243-9180-415d-8e1e-00ebbbbc8665">
+      <tg xml:lang="smj">
         <t pos="A">oadne</t>
       </tg>
     </mg>
@@ -938,7 +938,7 @@
       <l pos="A" src="fad">intelligent</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="intelligent fedd16d2-e7c2-473d-bd15-777c96b2cb8d">
+      <tg xml:lang="smj">
         <t pos="A">oajvvá</t>
       </tg>
     </mg>
@@ -948,7 +948,7 @@
       <l pos="A" src="fad">fornuftig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fornuftig 62e2b5e8-a971-4439-902e-535e3f8e7de0">
+      <tg xml:lang="smj">
         <t pos="A">jiermmá</t>
       </tg>
     </mg>
@@ -958,7 +958,7 @@
       <l pos="A" src="fad">effektiv</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="effektiv 23e837d7-dc9e-4824-a2f6-109ee695e229">
+      <tg xml:lang="smj">
         <t pos="A">dåbmar</t>
       </tg>
     </mg>
@@ -968,7 +968,7 @@
       <l pos="A" src="fad">funksjonssikker</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="funksjonssikker 3ffc646e-a04e-4c06-9a75-7146f42e22f3">
+      <tg xml:lang="smj">
         <t pos="A">doajmmel</t>
       </tg>
     </mg>
@@ -978,7 +978,7 @@
       <l pos="A" src="fad">krevende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="krevende a2ed9c78-3f84-40c1-aa67-a2ed7db7e6bb">
+      <tg xml:lang="smj">
         <t pos="A">gájbbedahkes</t>
       </tg>
     </mg>
@@ -988,7 +988,7 @@
       <l pos="A" src="fad">uviss</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="uviss 55d2628e-39f5-456c-98aa-bf6411e1284e">
+      <tg xml:lang="smj">
         <t pos="A">iehpevisses</t>
       </tg>
     </mg>
@@ -998,7 +998,7 @@
       <l pos="A" src="fad">usikker</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="usikker 1e9ebb2a-109f-4a80-8c81-8c74819c0b72">
+      <tg xml:lang="smj">
         <t pos="A">iehpesihkar</t>
       </tg>
     </mg>
@@ -1008,7 +1008,7 @@
       <l pos="A" src="fad">fremste</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fremste ee215643-e1a6-4456-91c8-bf2071fc5c36">
+      <tg xml:lang="smj">
         <t pos="A">åvdemus</t>
       </tg>
     </mg>
@@ -1018,7 +1018,7 @@
       <l pos="A" src="fad">deilig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="deilig fa6cd895-2a3e-4123-a37a-80cd64e5939a">
+      <tg xml:lang="smj">
         <t pos="A">njálgge</t>
       </tg>
     </mg>
@@ -1028,7 +1028,7 @@
       <l pos="A" src="fad">flerspråklig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="flerspråklig 218486cd-ae1d-4993-be15-7b86751d3c41">
+      <tg xml:lang="smj">
         <t pos="A">moattegielak</t>
       </tg>
     </mg>
@@ -1038,7 +1038,7 @@
       <l pos="A" src="fad">trespråklig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="trespråklig d4bb09d1-aaf6-48e0-a0a9-363dcc0f514a">
+      <tg xml:lang="smj">
         <t pos="A">gålmågielak</t>
       </tg>
     </mg>
@@ -1048,7 +1048,7 @@
       <l pos="A" src="fad">enspråklig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="enspråklig d491cdce-67f6-46a3-8fdd-298e77d9bac6">
+      <tg xml:lang="smj">
         <t pos="A">avtagielak</t>
       </tg>
     </mg>
@@ -1058,7 +1058,7 @@
       <l pos="A" src="fad">samiskspråklig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="samiskspråklig eb479b7a-042d-4aeb-8863-fbdb6763971c">
+      <tg xml:lang="smj">
         <t pos="A">sámegielak</t>
       </tg>
     </mg>
@@ -1068,7 +1068,7 @@
       <l pos="A" src="fad">mangeartet</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="mangeartet 91e26d3e-8da5-473a-b231-9ff4dcdf5707">
+      <tg xml:lang="smj">
         <t pos="A">moattesuorak</t>
       </tg>
     </mg>
@@ -1078,7 +1078,7 @@
       <l pos="A" src="fad">fremre</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fremre 964ef9c3-c018-4d32-b6ab-a00ab373f882">
+      <tg xml:lang="smj">
         <t pos="A">åvdep</t>
       </tg>
     </mg>
@@ -1088,7 +1088,7 @@
       <l pos="A" src="fad">overordnet</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="overordnet 00437188-d310-4721-a7cc-343fb08cac9c">
+      <tg xml:lang="smj">
         <t pos="A">bajep</t>
       </tg>
     </mg>
@@ -1098,7 +1098,7 @@
       <l pos="A" src="fad">djerv</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="djerv 05450602-f23e-4a7d-914c-75ad2233df9e">
+      <tg xml:lang="smj">
         <t pos="A">jállo</t>
       </tg>
     </mg>
@@ -1108,7 +1108,7 @@
       <l pos="A" src="fad">elektronisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="elektronisk 238c7d0b-9f04-4830-b9d3-55c6ebf0e8f8">
+      <tg xml:lang="smj">
         <t pos="A">elektråvnålasj</t>
       </tg>
     </mg>
@@ -1118,7 +1118,7 @@
       <l pos="A" src="fad">genetisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="genetisk bf60d002-9b39-4d9f-9938-1ea7fbf031ec">
+      <tg xml:lang="smj">
         <t pos="A">genetihkalasj</t>
       </tg>
     </mg>
@@ -1128,7 +1128,7 @@
       <l pos="A" src="fad">likestillingspolitisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="likestillingspolitisk c75b6c8d-95cd-496c-9c75-866b732d266d">
+      <tg xml:lang="smj">
         <t pos="A">dássáduspolitihkalasj</t>
       </tg>
     </mg>
@@ -1138,7 +1138,7 @@
       <l pos="A" src="fad">flerspråklig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="flerspråklig 16b43a11-3024-4180-bff9-4195c38428d4">
+      <tg xml:lang="smj">
         <t pos="A">moattegielalasj</t>
       </tg>
     </mg>
@@ -1148,7 +1148,7 @@
       <l pos="A" src="fad">enspråklig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="enspråklig fcc38983-9dfb-4e52-81a1-d17f80062729">
+      <tg xml:lang="smj">
         <t pos="A">åvtågielalasj</t>
       </tg>
     </mg>
@@ -1158,7 +1158,7 @@
       <l pos="A" src="fad">enig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="enig 1326971d-fa41-47d2-86e7-f35fb574c48b">
+      <tg xml:lang="smj">
         <t pos="A">avtamielalasj</t>
       </tg>
     </mg>
@@ -1168,7 +1168,7 @@
       <l pos="A" src="fad">finansiell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="finansiell edaf4a24-0eb4-482e-9d4c-f01107479b6b">
+      <tg xml:lang="smj">
         <t pos="A">rudálasj</t>
       </tg>
     </mg>
@@ -1178,7 +1178,7 @@
       <l pos="A" src="fad">utradisjonell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="utradisjonell 6773eb84-cf8c-4fcf-b98a-71139b047303">
+      <tg xml:lang="smj">
         <t pos="A">iehpedábálasj</t>
       </tg>
     </mg>
@@ -1188,7 +1188,7 @@
       <l pos="A" src="fad">uvanlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="uvanlig 1bbfab2b-6d7d-4314-b026-a32d30913afc">
+      <tg xml:lang="smj">
         <t pos="A">iehpedábálasj</t>
       </tg>
     </mg>
@@ -1198,7 +1198,7 @@
       <l pos="A" src="fad">harmonisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="harmonisk 3e50ce35-1c84-43bb-bd49-95efbb06f86d">
+      <tg xml:lang="smj">
         <t pos="A">ráfálasj</t>
       </tg>
     </mg>
@@ -1208,7 +1208,7 @@
       <l pos="A" src="fad">litterær</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="litterær 599c6940-a3b6-4a77-996c-8f92bb9c2fb8">
+      <tg xml:lang="smj">
         <t pos="A">girjálasj</t>
       </tg>
     </mg>
@@ -1218,7 +1218,7 @@
       <l pos="A" src="fad">toårig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="toårig 4e5a9be8-5064-4b31-888c-58ea81885092">
+      <tg xml:lang="smj">
         <t pos="A">guovtejahkásasj</t>
       </tg>
     </mg>
@@ -1228,7 +1228,7 @@
       <l pos="A" src="fad">analog</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="analog 3a947e1f-a139-44bb-b96d-61b659c873ea">
+      <tg xml:lang="smj">
         <t pos="A">análåvggå</t>
       </tg>
     </mg>
@@ -1238,7 +1238,7 @@
       <l pos="A" src="fad">føderal</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="føderal 0e115a2a-8831-4ed9-ab54-f96400feb1ed">
+      <tg xml:lang="smj">
         <t pos="A">føderálla</t>
       </tg>
     </mg>
@@ -1248,7 +1248,7 @@
       <l pos="A" src="fad">bilateral</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="bilateral 8132d2b1-c4e3-4530-9235-334833e8a3b5">
+      <tg xml:lang="smj">
         <t pos="A">bilaterálla</t>
       </tg>
     </mg>
@@ -1258,7 +1258,7 @@
       <l pos="A" src="fad">heterogen</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="heterogen ea55229e-4d89-4599-9e10-d31bf074ff5b">
+      <tg xml:lang="smj">
         <t pos="A">heterogedna</t>
       </tg>
     </mg>
@@ -1268,7 +1268,7 @@
       <l pos="A" src="fad">framvoksende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="framvoksende c1b3e1e6-27d8-49b9-a887-8811a0c7cdf2">
+      <tg xml:lang="smj">
         <t pos="A">sjaddel</t>
       </tg>
     </mg>
@@ -1278,7 +1278,7 @@
       <l pos="A" src="fad">langsiktig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="langsiktig 42cbab84-44bd-4283-905b-432fc0a49412">
+      <tg xml:lang="smj">
         <t pos="A">guhkesájggásasj</t>
       </tg>
     </mg>
@@ -1288,7 +1288,7 @@
       <l pos="A" src="fad">tilsvarende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tilsvarende 78f65c30-a077-4019-958c-f13591f418ab">
+      <tg xml:lang="smj">
         <t pos="A">vásstediddje</t>
       </tg>
     </mg>
@@ -1298,7 +1298,7 @@
       <l pos="A" src="fad">representativ</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="representativ 57f785ac-a2e1-4701-851f-135966f86856">
+      <tg xml:lang="smj">
         <t pos="A">åvdåstiddje</t>
       </tg>
     </mg>
@@ -1308,7 +1308,7 @@
       <l pos="A" src="fad">hjerteskjærende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="hjerteskjærende fdf6df39-2d42-4e29-8a64-b7eeb20d73b0">
+      <tg xml:lang="smj">
         <t pos="A">vájmobávtjak</t>
       </tg>
     </mg>
@@ -1318,7 +1318,7 @@
       <l pos="A" src="fad">anvendbar</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="anvendbar 8b4bf959-b6c9-4e1a-850c-3e20647378ea">
+      <tg xml:lang="smj">
         <t pos="A">anedahtte</t>
       </tg>
     </mg>
@@ -1328,7 +1328,7 @@
       <l pos="A" src="fad">anvendelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="anvendelig c072bedb-8b89-4534-a310-374cf39889b4">
+      <tg xml:lang="smj">
         <t pos="A">anedahtte</t>
       </tg>
     </mg>
@@ -1338,7 +1338,7 @@
       <l pos="A" src="fad">sentral</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sentral 5b26c7cf-2bf6-43ef-8ff8-0fedda60e1af">
+      <tg xml:lang="smj">
         <t pos="A">guovddelis</t>
       </tg>
     </mg>
@@ -1348,7 +1348,7 @@
       <l pos="A" src="fad">forskjellig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="forskjellig b164c2b2-1e2e-4e1a-962b-2c91ec6378c6">
+      <tg xml:lang="smj">
         <t pos="A">ietjálágásj</t>
       </tg>
     </mg>
@@ -1358,7 +1358,7 @@
       <l pos="A" src="fad">uavklart</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="uavklart a7b5068f-e10c-4b30-bd74-e497050cede1">
+      <tg xml:lang="smj">
         <t pos="A">iehpetjielgas</t>
       </tg>
     </mg>
@@ -1368,7 +1368,7 @@
       <l pos="A" src="fad">var</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="var d3880b55-c5cf-4ffe-aba1-6a490277e3eb">
+      <tg xml:lang="smj">
         <t pos="A">várrogis</t>
       </tg>
     </mg>
@@ -1378,7 +1378,7 @@
       <l pos="A" src="fad">ensom</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ensom af544ebb-213e-4e4c-bfa0-3353e1476bd0">
+      <tg xml:lang="smj">
         <t pos="A">aktugasj</t>
       </tg>
     </mg>
@@ -1388,7 +1388,7 @@
       <l pos="A" src="fad">første</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="første d9a3f3ab-3e7a-43b0-909a-e845486dd29c">
+      <tg xml:lang="smj">
         <t pos="A">vuostasj</t>
       </tg>
     </mg>
@@ -1398,7 +1398,7 @@
       <l pos="A" src="fad">mangeartet</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="mangeartet 5d259f6e-f184-4611-892b-4090fc8b4714">
+      <tg xml:lang="smj">
         <t pos="A">moatteslájak</t>
       </tg>
     </mg>
@@ -1408,7 +1408,7 @@
       <l pos="A" src="fad">mangeartet</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="mangeartet 3b0df111-9db2-487a-8a52-fe10921daee1">
+      <tg xml:lang="smj">
         <t pos="A">moattebelak</t>
       </tg>
     </mg>
@@ -1418,7 +1418,7 @@
       <l pos="A" src="fad">kvensktalende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kvensktalende fd45f093-e78d-41b5-a5a7-cdaa0f58611c">
+      <tg xml:lang="smj">
         <t pos="A">kvenagielak</t>
       </tg>
     </mg>
@@ -1428,7 +1428,7 @@
       <l pos="A" src="fad">firespråklig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="firespråklig eb8f2868-1d8d-4536-81c4-bacbe168264d">
+      <tg xml:lang="smj">
         <t pos="A">nieljegielak</t>
       </tg>
     </mg>
@@ -1438,7 +1438,7 @@
       <l pos="A" src="fad">norsktalende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="norsktalende 10461947-ab0b-4b97-b93d-59059c18d6ae">
+      <tg xml:lang="smj">
         <t pos="A">dárogielak</t>
       </tg>
     </mg>
@@ -1448,7 +1448,7 @@
       <l pos="A" src="fad">norsk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="norsk 4f466629-0cd8-4a8b-af8a-c632e1030c60">
+      <tg xml:lang="smj">
         <t pos="A">dáro</t>
       </tg>
     </mg>
@@ -1458,7 +1458,7 @@
       <l pos="A" src="fad">nynorsktalende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="nynorsktalende 79e795c5-b8d1-44e6-8661-ee9cb516a5fa">
+      <tg xml:lang="smj">
         <t pos="A">åddådárogielak</t>
       </tg>
     </mg>
@@ -1468,7 +1468,7 @@
       <l pos="A" src="fad">positiv</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="positiv 82e3128d-4c56-43aa-9134-a0e5d39b5e37">
+      <tg xml:lang="smj">
         <t pos="A">miehtemielak</t>
       </tg>
     </mg>
@@ -1478,7 +1478,7 @@
       <l pos="A" src="fad">flerkulturell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="flerkulturell 47e4cbae-6444-4f17-bfd3-81ea408a8106">
+      <tg xml:lang="smj">
         <t pos="A">moattekultuvrak</t>
       </tg>
     </mg>
@@ -1488,7 +1488,7 @@
       <l pos="A" src="fad">trekulturell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="trekulturell d6409878-1e56-496a-ba1b-63bd966b183d">
+      <tg xml:lang="smj">
         <t pos="A">gålmåkultuvrak</t>
       </tg>
     </mg>
@@ -1498,7 +1498,7 @@
       <l pos="A" src="fad">tidlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tidlig 831b4626-5fa8-4e7e-ad32-b8076a8f84e3">
+      <tg xml:lang="smj">
         <t pos="A">árrat</t>
       </tg>
     </mg>
@@ -1508,7 +1508,7 @@
       <l pos="A" src="fad">femte</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="femte 764c4465-4535-4499-971b-03d06ef10ca7">
+      <tg xml:lang="smj">
         <t pos="A">vidát</t>
       </tg>
     </mg>
@@ -1518,7 +1518,7 @@
       <l pos="A" src="fad">mer</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="mer edc23faa-e329-47d7-bff5-66b93a290aa1">
+      <tg xml:lang="smj">
         <t pos="A">ienep</t>
       </tg>
     </mg>
@@ -1528,7 +1528,7 @@
       <l pos="A" src="fad">trist</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="trist cdba2d2e-841a-4e5c-9d00-a19973f8ad3d">
+      <tg xml:lang="smj">
         <t pos="A">ahket</t>
       </tg>
     </mg>
@@ -1538,7 +1538,7 @@
       <l pos="A" src="fad">ytre</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ytre 9dc373af-48d3-45d3-9cd8-d043b6f42bf0">
+      <tg xml:lang="smj">
         <t pos="A">ålgop</t>
       </tg>
     </mg>
@@ -1548,7 +1548,7 @@
       <l pos="A" src="fad">ensartet</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ensartet d27c2a26-28c0-483d-9dd3-c5c085df21cf">
+      <tg xml:lang="smj">
         <t pos="A">avtalágasj</t>
       </tg>
     </mg>
@@ -1558,7 +1558,7 @@
       <l pos="A" src="fad">fleretnisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fleretnisk dbb6fa53-0c32-4657-ad7a-38ac3f0e19ef">
+      <tg xml:lang="smj">
         <t pos="A">moattetjerdalasj</t>
       </tg>
     </mg>
@@ -1568,7 +1568,7 @@
       <l pos="A" src="fad">praktisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="praktisk aa494205-8705-4586-8989-87ae0a607cae">
+      <tg xml:lang="smj">
         <t pos="A">praktihkalasj</t>
       </tg>
     </mg>
@@ -1578,7 +1578,7 @@
       <l pos="A" src="fad">innenlandsk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="innenlandsk c7cd601a-611a-4ac0-b735-466eb2c35839">
+      <tg xml:lang="smj">
         <t pos="A">sisrijkalasj</t>
       </tg>
     </mg>
@@ -1588,7 +1588,7 @@
       <l pos="A" src="fad">norskspråklig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="norskspråklig 9204a204-b67f-4cd2-aac5-80a2e2b6ace7">
+      <tg xml:lang="smj">
         <t pos="A">dárogielalasj</t>
       </tg>
     </mg>
@@ -1598,7 +1598,7 @@
       <l pos="A" src="fad">driftsmessig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="driftsmessig b2a69457-664b-4e0b-9565-74e130ec6057">
+      <tg xml:lang="smj">
         <t pos="A">dåjmalasj</t>
       </tg>
     </mg>
@@ -1608,7 +1608,7 @@
       <l pos="A" src="fad">handlekraftig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="handlekraftig bc974293-d7af-4c28-9eba-49ccd027ad88">
+      <tg xml:lang="smj">
         <t pos="A">dåjmalasj</t>
       </tg>
     </mg>
@@ -1618,7 +1618,7 @@
       <l pos="A" src="fad">nasjonal</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="nasjonal 884af9d3-416e-44bc-b630-8a63de1518d6">
+      <tg xml:lang="smj">
         <t pos="A">nasjåvnålasj</t>
       </tg>
     </mg>
@@ -1628,7 +1628,7 @@
       <l pos="A" src="fad">arktisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="arktisk 0eea7581-d8d7-4cc7-843b-29e73c941bb7">
+      <tg xml:lang="smj">
         <t pos="A">árktalasj</t>
       </tg>
     </mg>
@@ -1638,7 +1638,7 @@
       <l pos="A" src="fad">subarktisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="subarktisk 6473778d-cf3f-40e5-b387-52bbf3feb017">
+      <tg xml:lang="smj">
         <t pos="A">subárktalasj</t>
       </tg>
     </mg>
@@ -1648,7 +1648,7 @@
       <l pos="A" src="fad">humanistisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="humanistisk c52ee118-7b5b-4f13-8f5a-ebdaae01e8d2">
+      <tg xml:lang="smj">
         <t pos="A">humanistalasj</t>
       </tg>
     </mg>
@@ -1658,7 +1658,7 @@
       <l pos="A" src="fad">samisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="samisk 02ac4b8b-8dc0-468a-80a2-85a077d777ac">
+      <tg xml:lang="smj">
         <t pos="A">sábmelasj</t>
       </tg>
     </mg>
@@ -1668,7 +1668,7 @@
       <l pos="A" src="fad">regional</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="regional 22b2b2d4-2682-4815-96a7-b26c608685e1">
+      <tg xml:lang="smj">
         <t pos="A">guovlulasj</t>
       </tg>
     </mg>
@@ -1678,7 +1678,7 @@
       <l pos="A" src="fad">norsk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="norsk 300ecf0b-bf4b-46b0-916b-1f8f7a346b60">
+      <tg xml:lang="smj">
         <t pos="A">dárulasj</t>
       </tg>
     </mg>
@@ -1688,7 +1688,7 @@
       <l pos="A" src="fad">midlertidig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="midlertidig 73e9ed40-595e-4b50-ae38-401a9e167231">
+      <tg xml:lang="smj">
         <t pos="A">gasskabåddåsasj</t>
       </tg>
     </mg>
@@ -1698,7 +1698,7 @@
       <l pos="A" src="fad">foreløpig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="foreløpig b73e9137-f1a4-4157-b6b2-fff19bd27781">
+      <tg xml:lang="smj">
         <t pos="A">gasskabåddåsasj</t>
       </tg>
     </mg>
@@ -1708,7 +1708,7 @@
       <l pos="A" src="fad">midlertidig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="midlertidig e28dc7e9-5cf2-42a9-829b-f9deaebec86f">
+      <tg xml:lang="smj">
         <t pos="A">båddåsasj</t>
       </tg>
     </mg>
@@ -1718,7 +1718,7 @@
       <l pos="A" src="fad">likeverdig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="likeverdig 15530db9-94fd-412b-bae7-251a207f1cdf">
+      <tg xml:lang="smj">
         <t pos="A">dássásasj</t>
       </tg>
     </mg>
@@ -1728,7 +1728,7 @@
       <l pos="A" src="fad">likeverdig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="likeverdig 6c2d8d98-a723-4063-a0ad-190a47b955d6">
+      <tg xml:lang="smj">
         <t pos="A">dássásasj</t>
       </tg>
     </mg>
@@ -1738,7 +1738,7 @@
       <l pos="A" src="fad">aktiv</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="aktiv f343342f-4825-4007-b011-17943b06bd69">
+      <tg xml:lang="smj">
         <t pos="A">dåjmalasj</t>
       </tg>
     </mg>
@@ -1748,7 +1748,7 @@
       <l pos="A" src="fad">primær</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="primær 876a7c53-b1b4-426a-8553-bcdbe34bd356">
+      <tg xml:lang="smj">
         <t pos="A">åvdemus</t>
       </tg>
     </mg>
@@ -1758,7 +1758,7 @@
       <l pos="A" src="fad">overordnet</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="overordnet 27dc7317-86c8-4dbe-b859-d77c1c6d102c">
+      <tg xml:lang="smj">
         <t pos="A">bajemus</t>
       </tg>
     </mg>
@@ -1768,7 +1768,7 @@
       <l pos="A" src="fad">sist</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sist 0255ae92-4d3f-49ce-972f-b67b264ee067">
+      <tg xml:lang="smj">
         <t pos="A">maŋemus</t>
       </tg>
     </mg>
@@ -1778,7 +1778,7 @@
       <l pos="A" src="fad">fremmed</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fremmed f71d2402-ad65-4e5a-8d68-2b1ebca8adbb">
+      <tg xml:lang="smj">
         <t pos="A">amás</t>
         <t pos="A">vieres</t>
       </tg>
@@ -1789,7 +1789,7 @@
       <l pos="A" src="fad">gjeldende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="gjeldende 795ab4da-0921-471b-b43f-31aac7f16e2c">
+      <tg xml:lang="smj">
         <t pos="A">guoskavasj</t>
       </tg>
     </mg>
@@ -1799,7 +1799,7 @@
       <l pos="A" src="fad">snar</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="snar ef9f8aca-346c-4976-8c9b-aa6bcf856372">
+      <tg xml:lang="smj">
         <t pos="A">háhppel</t>
         <t pos="A">jåhtel</t>
       </tg>
@@ -1810,7 +1810,7 @@
       <l pos="A" src="fad">stille</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="stille 33f35733-c38c-478e-85d3-83ca6ecc8fb9">
+      <tg xml:lang="smj">
         <t pos="A">jasska</t>
       </tg>
     </mg>
@@ -1820,7 +1820,7 @@
       <l pos="A" src="fad">ordentlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ordentlig 48081aea-847d-4a0d-884d-70140e043719">
+      <tg xml:lang="smj">
         <t pos="A">almma</t>
       </tg>
     </mg>
@@ -1830,7 +1830,7 @@
       <l pos="A" src="fad">saklig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="saklig 435d57cc-5eb7-49f4-9eb7-5af686a41dec">
+      <tg xml:lang="smj">
         <t pos="A">ássjálasj</t>
       </tg>
     </mg>
@@ -1840,7 +1840,7 @@
       <l pos="A" src="fad">usaklig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="usaklig 4e3c506f-c835-46aa-a160-f3ef9ff3557c">
+      <tg xml:lang="smj">
         <t pos="A">iehpeássjálasj</t>
       </tg>
     </mg>
@@ -1850,7 +1850,7 @@
       <l pos="A" src="fad">rik</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="rik 5c9265dd-fe96-4aa7-af63-d0d282fd4e83">
+      <tg xml:lang="smj">
         <t pos="A">boanndá</t>
       </tg>
     </mg>
@@ -1860,7 +1860,7 @@
       <l pos="A" src="fad">bøyelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="bøyelig c8e0d9ae-915a-4678-9a1c-51250887bcf9">
+      <tg xml:lang="smj">
         <t pos="A">såddjel</t>
       </tg>
     </mg>
@@ -1870,7 +1870,7 @@
       <l pos="A" src="fad">ekstrem</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ekstrem 99341811-3b30-4fc8-9f5d-bddd489f1baa">
+      <tg xml:lang="smj">
         <re>attr</re>
         <t pos="A">ekstrema</t>
       </tg>
@@ -1881,7 +1881,7 @@
       <l pos="A" src="fad">lunken</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="lunken c30db6d2-4337-4da7-ae79-54c351b03d1e">
+      <tg xml:lang="smj">
         <t pos="A">låjkås</t>
       </tg>
     </mg>
@@ -1891,7 +1891,7 @@
       <l pos="A" src="fad">dyr</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="dyr 9595a49e-758b-4849-92ab-8443fa074888">
+      <tg xml:lang="smj">
         <t pos="A">divras</t>
       </tg>
     </mg>
@@ -1901,7 +1901,7 @@
       <l pos="A" src="fad">viss</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="viss 687fa81f-4d63-4660-b97e-b600885a6d75">
+      <tg xml:lang="smj">
         <t pos="A">visses</t>
       </tg>
     </mg>
@@ -1911,7 +1911,7 @@
       <l pos="A" src="fad">svart</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="svart e8d7c64a-fd69-4e31-8448-181cdacca4f7">
+      <tg xml:lang="smj">
         <t pos="A">tjáhppat</t>
       </tg>
     </mg>
@@ -1921,7 +1921,7 @@
       <l pos="A" src="fad">rett</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="rett d657549c-98a0-421c-95a4-b12c41240bfa">
+      <tg xml:lang="smj">
         <t pos="A">njuolggat</t>
       </tg>
     </mg>
@@ -1931,7 +1931,7 @@
       <l pos="A" src="fad">flott</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="flott 0b9e9efd-ba9d-40b7-b146-9872a9970acf">
+      <tg xml:lang="smj">
         <t pos="A">fijnes</t>
       </tg>
     </mg>
@@ -1941,7 +1941,7 @@
       <l pos="A" src="fad">rå</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="rå 5be8ec93-1354-4563-ba21-3c27021dbf9b">
+      <tg xml:lang="smj">
         <t pos="A">njuoskas</t>
       </tg>
     </mg>
@@ -1951,7 +1951,7 @@
       <l pos="A" src="fad">ekte</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ekte c7d6fa81-0ab3-4e26-86fe-fb575666d652">
+      <tg xml:lang="smj">
         <t pos="A">oalle</t>
       </tg>
     </mg>
@@ -1961,7 +1961,7 @@
       <l pos="A" src="fad">urimelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="urimelig 7e8a8045-ee58-49f3-ae8a-9275d3af4067">
+      <tg xml:lang="smj">
         <t pos="A">rievtesferdugahtes</t>
       </tg>
     </mg>
@@ -1971,7 +1971,7 @@
       <l pos="A" src="fad">dobbelt</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="dobbelt bb3b9983-f9bc-429b-8536-96de0ac64b91">
+      <tg xml:lang="smj">
         <t pos="A">guovtegærddásasj</t>
         <t pos="A">guovtegerdak</t>
       </tg>
@@ -1982,7 +1982,7 @@
       <l pos="A" src="fad">primitiv</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="primitiv 681e1393-ec1a-40a3-a638-b9f076e67d44">
+      <tg xml:lang="smj">
         <re>attr</re>
         <t pos="A">primitijva</t>
       </tg>
@@ -1993,7 +1993,7 @@
       <l pos="A" src="fad">sant</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sant 1aeb58e9-6549-4bd2-84f1-e0b409470480">
+      <tg xml:lang="smj">
         <t pos="A">duohta</t>
       </tg>
     </mg>
@@ -2003,7 +2003,7 @@
       <l pos="A" src="fad">kommende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kommende a2b40734-4528-4101-b76f-9c6d7e9b919d">
+      <tg xml:lang="smj">
         <re>attr</re>
         <t pos="A">boahtte</t>
       </tg>
@@ -2014,7 +2014,7 @@
       <l pos="A" src="fad">målretta</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="målretta e535d0ff-2489-4c5e-80f2-c70e8ec92f0d">
+      <tg xml:lang="smj">
         <t pos="A">ulmmelasj</t>
       </tg>
     </mg>
@@ -2024,7 +2024,7 @@
       <l pos="A" src="fad">angjeldende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="angjeldende c136c674-d9d9-4820-ae4c-45f066facc8a">
+      <tg xml:lang="smj">
         <t pos="A">guoskavasj</t>
       </tg>
     </mg>
@@ -2034,7 +2034,7 @@
       <l pos="A" src="fad">treffsikker</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="treffsikker e42d350d-dd07-4e9a-a9db-6ad37177c905">
+      <tg xml:lang="smj">
         <re>attr</re>
         <t pos="A">diejddis</t>
       </tg>
@@ -2045,7 +2045,7 @@
       <l pos="A" src="fad">sakte</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sakte 8a713323-cf70-4dc3-b99d-791fb14e71d5">
+      <tg xml:lang="smj">
         <t pos="A">suojmma</t>
       </tg>
     </mg>
@@ -2055,7 +2055,7 @@
       <l pos="A" src="fad">ligegyldig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ligegyldig 0ac9ae61-6aa7-43da-90e0-0c02be548614">
+      <tg xml:lang="smj">
         <t pos="A">huvsodibme</t>
       </tg>
     </mg>
@@ -2065,7 +2065,7 @@
       <l pos="A" src="fad">sen</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sen ba0b8016-866f-4224-9f94-9a45e5b62ffb">
+      <tg xml:lang="smj">
         <t pos="A">nuolle</t>
       </tg>
     </mg>
@@ -2075,7 +2075,7 @@
       <l pos="A" src="fad">ubrukelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ubrukelig bc14fcef-a775-4271-8506-2b54a8dd183e">
+      <tg xml:lang="smj">
         <t pos="A">dåhkkimahtes</t>
       </tg>
     </mg>
@@ -2085,7 +2085,7 @@
       <l pos="A" src="fad">ufør</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ufør 57dd5ce1-9545-4ebb-ace3-f2abde3d5287">
+      <tg xml:lang="smj">
         <t pos="A">sáhtus</t>
       </tg>
     </mg>
@@ -2095,7 +2095,7 @@
       <l pos="A" src="fad">utadvendt</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="utadvendt 3a7a1bc9-c940-4699-88ea-fd1ab3e2bc8c">
+      <tg xml:lang="smj">
         <t pos="A">bigok</t>
       </tg>
     </mg>
@@ -2105,7 +2105,7 @@
       <l pos="A" src="fad">egnet</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="egnet 672a7816-2f9e-4195-8be9-3df9d98d65fc">
+      <tg xml:lang="smj">
         <t pos="A">hiebalasj</t>
       </tg>
     </mg>
@@ -2115,7 +2115,7 @@
       <l pos="A" src="fad">variert</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="variert a07a1333-46d5-4478-9209-3b5dae7d6f0c">
+      <tg xml:lang="smj">
         <t pos="A">målssudahkes</t>
       </tg>
     </mg>
@@ -2125,7 +2125,7 @@
       <l pos="A" src="fad">nedslått</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="nedslått 631e48ba-1c89-4634-9699-2cf7ee159778">
+      <tg xml:lang="smj">
         <t pos="A">surgulasj</t>
       </tg>
     </mg>
@@ -2135,7 +2135,7 @@
       <l pos="A" src="fad">enkel</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="enkel 534606ba-1789-4dec-8ed1-9780d0f06eac">
+      <tg xml:lang="smj">
         <t pos="A">álkke</t>
       </tg>
     </mg>
@@ -2145,7 +2145,7 @@
       <l pos="A" src="fad">robust</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="robust 01cdbef0-793d-4a1d-9f15-05558142a021">
+      <tg xml:lang="smj">
         <t pos="A">stádes</t>
       </tg>
     </mg>
@@ -2155,7 +2155,7 @@
       <l pos="A" src="fad">tykk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tykk 69aeed0a-75d0-46a8-a2a0-ada7ec202fb2">
+      <tg xml:lang="smj">
         <re>om masse</re>
         <t pos="A">suohkat</t>
       </tg>
@@ -2166,7 +2166,7 @@
       <l pos="A" src="fad">foregående</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="foregående 783ed0a4-485d-439b-8a5e-48b906ea1ad3">
+      <tg xml:lang="smj">
         <t pos="A">åvdusj</t>
       </tg>
     </mg>
@@ -2176,7 +2176,7 @@
       <l pos="A" src="fad">rede</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="rede aeeae665-5b3f-40db-8b8e-713fc2436b52">
+      <tg xml:lang="smj">
         <t pos="A">gárves</t>
       </tg>
     </mg>
@@ -2186,7 +2186,7 @@
       <l pos="A" src="fad">skjev</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="skjev 8c246ea7-e1c4-4177-acdd-2a761d6a15ee">
+      <tg xml:lang="smj">
         <t pos="A">bånjo</t>
       </tg>
     </mg>
@@ -2196,7 +2196,7 @@
       <l pos="A" src="fad">høy</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="høy c4d3cb49-74e3-4643-8f59-733884d5b764">
+      <tg xml:lang="smj">
         <t pos="A">allak</t>
       </tg>
     </mg>
@@ -2206,7 +2206,7 @@
       <l pos="A" src="fad">grov</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="grov d38e1712-3afe-4797-adaf-3cb60f6faf06">
+      <tg xml:lang="smj">
         <t pos="A">ruobes</t>
       </tg>
     </mg>
@@ -2216,7 +2216,7 @@
       <l pos="A" src="fad">grafisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="grafisk 5dae8a88-ef00-4d0a-8865-c25514d50342">
+      <tg xml:lang="smj">
         <t pos="A">gráfalasj</t>
       </tg>
     </mg>
@@ -2226,7 +2226,7 @@
       <l pos="A" src="fad">rasjonell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="rasjonell 706df33b-a0c6-45dc-b651-9100c0f9e4f6">
+      <tg xml:lang="smj">
         <t pos="A">jergalasj</t>
       </tg>
     </mg>
@@ -2236,7 +2236,7 @@
       <l pos="A" src="fad">elektrisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="elektrisk bbe24eea-c480-46ed-b9a4-d60924cd4439">
+      <tg xml:lang="smj">
         <t pos="A">elektrihkalasj</t>
       </tg>
     </mg>
@@ -2246,7 +2246,7 @@
       <l pos="A" src="fad">tverrpolitisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tverrpolitisk 6b00b342-bdd9-467e-a25b-3f40b9f63201">
+      <tg xml:lang="smj">
         <t pos="A">doarespolitihkalasj</t>
       </tg>
     </mg>
@@ -2256,7 +2256,7 @@
       <l pos="A" src="fad">ukritisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ukritisk 7ea5de45-77bb-46f2-a55b-84a06fce7408">
+      <tg xml:lang="smj">
         <t pos="A">iehpekritihkalasj</t>
       </tg>
     </mg>
@@ -2266,7 +2266,7 @@
       <l pos="A" src="fad">pussig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="pussig bd37fbbd-52ab-4f46-b72e-c27a1c7a554b">
+      <tg xml:lang="smj">
         <t pos="A">imálasj</t>
       </tg>
     </mg>
@@ -2276,7 +2276,7 @@
       <l pos="A" src="fad">idealistisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="idealistisk 1f3a598f-8e39-4589-82b5-9fe85f8e08ee">
+      <tg xml:lang="smj">
         <t pos="A">idealistalasj</t>
       </tg>
     </mg>
@@ -2286,7 +2286,7 @@
       <l pos="A" src="fad">urealistisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="urealistisk 63dd69cd-aab3-410f-9d44-bab0805f1fe2">
+      <tg xml:lang="smj">
         <t pos="A">iehperealistalasj</t>
       </tg>
     </mg>
@@ -2296,7 +2296,7 @@
       <l pos="A" src="fad">ukristelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ukristelig ba81a8d8-1517-4003-8550-3a638bc26806">
+      <tg xml:lang="smj">
         <t pos="A">iehperistalasj</t>
       </tg>
     </mg>
@@ -2306,7 +2306,7 @@
       <l pos="A" src="fad">religiøs</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="religiøs 119bf3fd-4ad5-432e-a1d9-782a7c388a6d">
+      <tg xml:lang="smj">
         <t pos="A">åskulasj</t>
       </tg>
     </mg>
@@ -2316,7 +2316,7 @@
       <l pos="A" src="fad">kommende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kommende 87fad1b9-7b7e-4a9a-86e6-dffc8488f628">
+      <tg xml:lang="smj">
         <t pos="A">boahtte</t>
       </tg>
     </mg>
@@ -2326,7 +2326,7 @@
       <l pos="A" src="fad">rettslig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="rettslig b4460a1b-691d-440b-a965-c58b2452e4f4">
+      <tg xml:lang="smj">
         <t pos="A">lágalasj</t>
       </tg>
     </mg>
@@ -2336,7 +2336,7 @@
       <l pos="A" src="fad">lovmessig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="lovmessig 1b6ef6dd-4cb7-411a-af2f-970ad900e97c">
+      <tg xml:lang="smj">
         <t pos="A">lágalasj</t>
       </tg>
     </mg>
@@ -2346,7 +2346,7 @@
       <l pos="A" src="fad">lodden</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="lodden 6ea8a4cf-44ff-4039-9f1b-3077fb933df0">
+      <tg xml:lang="smj">
         <t pos="A">guolggá</t>
       </tg>
     </mg>
@@ -2356,7 +2356,7 @@
       <l pos="A" src="fad">flekket</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="flekket 6fbc415a-0127-40c7-8b82-2643bbf2c1b6">
+      <tg xml:lang="smj">
         <t pos="A">deblak</t>
       </tg>
     </mg>
@@ -2366,7 +2366,7 @@
       <l pos="A" src="fad">nødvendig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="nødvendig 12a280b9-4373-4e0d-9846-613468ef7352">
+      <tg xml:lang="smj">
         <t pos="A">dárbulasj</t>
       </tg>
     </mg>
@@ -2376,7 +2376,7 @@
       <l pos="A" src="fad">overlegen</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="overlegen 9576220e-5f9e-4386-a87b-9680afb6f2c1">
+      <tg xml:lang="smj">
         <t pos="A">stuores</t>
       </tg>
     </mg>
@@ -2386,7 +2386,7 @@
       <l pos="A" src="fad">dynamisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="dynamisk 2b3b4594-0ff0-43b0-9072-10a0061efceb">
+      <tg xml:lang="smj">
         <t pos="A">dynámalasj</t>
       </tg>
     </mg>
@@ -2396,7 +2396,7 @@
       <l pos="A" src="fad">gammeldags</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="gammeldags ae2fc79d-1ca6-4e0a-a322-1079978086bb">
+      <tg xml:lang="smj">
         <t pos="A">dålusj</t>
       </tg>
     </mg>
@@ -2406,7 +2406,7 @@
       <l pos="A" src="fad">underordnet</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="underordnet 5176e8bc-b39c-4328-9cc6-ab2aed0e4e3e">
+      <tg xml:lang="smj">
         <t pos="A">vuollásasj</t>
       </tg>
     </mg>
@@ -2416,7 +2416,7 @@
       <l pos="A" src="fad">øverordnet</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="øverordnet 2bde55f8-7b6d-46a8-9e91-c82edee232c4">
+      <tg xml:lang="smj">
         <t pos="A">badjásasj</t>
       </tg>
     </mg>
@@ -2426,7 +2426,7 @@
       <l pos="A" src="fad">overordnet</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="overordnet c2126641-5d15-4733-9fdf-2599ae88bf66">
+      <tg xml:lang="smj">
         <t pos="A">gájkbadjásasj</t>
       </tg>
     </mg>
@@ -2436,7 +2436,7 @@
       <l pos="A" src="fad">underordnet</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="underordnet 74a0d3c8-b090-45d7-a594-0a03e597105b">
+      <tg xml:lang="smj">
         <t pos="A">gájkvuollásasj</t>
       </tg>
     </mg>
@@ -2446,7 +2446,7 @@
       <l pos="A" src="fad">rund</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="rund 4d47cdcb-b530-4e5e-b37b-be875c66756e">
+      <tg xml:lang="smj">
         <t pos="A">jårbbåt</t>
       </tg>
     </mg>
@@ -2456,7 +2456,7 @@
       <l pos="A" src="fad">dynamisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="dynamisk 333ec4df-9b45-4f2b-8243-af6a5c29edf0">
+      <tg xml:lang="smj">
         <t pos="A">dynámalasj</t>
       </tg>
     </mg>
@@ -2466,7 +2466,7 @@
       <l pos="A" src="fad">få</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="få 2f99f64b-529f-4aac-9aa2-9aa2515269af">
+      <tg xml:lang="smj">
         <t pos="A">gallegasj</t>
       </tg>
     </mg>
@@ -2476,7 +2476,7 @@
       <l pos="A" src="fad">ryddig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ryddig 8fecac2e-e294-4299-adc8-075a034c15a2">
+      <tg xml:lang="smj">
         <t pos="A">rádjánis</t>
       </tg>
     </mg>
@@ -2486,7 +2486,7 @@
       <l pos="A" src="fad">streng</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="streng 75181e14-fe47-4aa5-ae86-eb2c86236bfd">
+      <tg xml:lang="smj">
         <t pos="A">rámes</t>
       </tg>
     </mg>
@@ -2496,7 +2496,7 @@
       <l pos="A" src="fad">krypende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="krypende 7e73e5ce-082a-42d3-98f2-a36d884a65ee">
+      <tg xml:lang="smj">
         <t pos="A">biege</t>
       </tg>
     </mg>
@@ -2506,7 +2506,7 @@
       <l pos="A" src="fad">velstående</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="velstående 434b9c91-2f93-4a15-a777-3e3c72131e1a">
+      <tg xml:lang="smj">
         <t pos="A">boanndá</t>
       </tg>
     </mg>
@@ -2516,7 +2516,7 @@
       <l pos="A" src="fad">forsvarlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="forsvarlig b7c70ae2-d350-42d7-b948-9f24c11213bb">
+      <tg xml:lang="smj">
         <t pos="A">bælostahtte</t>
       </tg>
     </mg>
@@ -2526,7 +2526,7 @@
       <l pos="A" src="fad">verdig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="verdig 65178d69-bf70-4b1f-93f7-0d8a5fec2e72">
+      <tg xml:lang="smj">
         <t pos="A">værddogis</t>
       </tg>
     </mg>
@@ -2536,7 +2536,7 @@
       <l pos="A" src="fad">hederlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="hederlig 2114194c-7443-4d7e-8317-df14e2d156b7">
+      <tg xml:lang="smj">
         <t pos="A">gudnálasj</t>
       </tg>
     </mg>
@@ -2546,7 +2546,7 @@
       <l pos="A" src="fad">operativ</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="operativ 286f4ddd-e7f1-4aaf-9989-fcaab7494638">
+      <tg xml:lang="smj">
         <t pos="A">operatijva</t>
       </tg>
     </mg>
@@ -2556,7 +2556,7 @@
       <l pos="A" src="fad">enkel</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="enkel 63f26d19-d382-4d13-a5af-8b3d64b2399d">
+      <tg xml:lang="smj">
         <t pos="A">ájnegasj</t>
       </tg>
     </mg>
@@ -2566,7 +2566,7 @@
       <l pos="A" src="fad">uærlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="uærlig 72ae4892-dbd4-451c-87f4-cf4953b6b15d">
+      <tg xml:lang="smj">
         <t pos="A">vágedibme</t>
       </tg>
     </mg>
@@ -2576,7 +2576,7 @@
       <l pos="A" src="fad">jevnaldrende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="jevnaldrende b2894210-a912-4622-b27e-98b5a2c68e86">
+      <tg xml:lang="smj">
         <t pos="A">ludtjusasj</t>
       </tg>
     </mg>
@@ -2586,7 +2586,7 @@
       <l pos="A" src="fad">skjev</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="skjev 98000d45-3ad5-4bc6-9085-ab3c018d3795">
+      <tg xml:lang="smj">
         <t pos="A">bånjo</t>
       </tg>
     </mg>
@@ -2596,7 +2596,7 @@
       <l pos="A" src="fad">feil</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="feil 6f2a2cda-82ff-4a13-b506-9edebd6d4caa">
+      <tg xml:lang="smj">
         <t pos="A">boasstot</t>
       </tg>
     </mg>
@@ -2606,7 +2606,7 @@
       <l pos="A" src="fad">hatefull</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="hatefull 534ea3f1-86cd-4594-9d8e-36762cf784d5">
+      <tg xml:lang="smj">
         <t pos="A">vassjá</t>
       </tg>
     </mg>
@@ -2616,7 +2616,7 @@
       <l pos="A" src="fad">tverrpolitisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tverrpolitisk 2f070789-2877-4ba1-80eb-120d8dfaad0b">
+      <tg xml:lang="smj">
         <t pos="A">doarespolitihkalasj</t>
       </tg>
     </mg>
@@ -2626,7 +2626,7 @@
       <l pos="A" src="fad">ukritisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ukritisk 2f80fa4c-2846-496a-a915-b6c9b1654925">
+      <tg xml:lang="smj">
         <t pos="A">iehpekritihkalasj</t>
       </tg>
     </mg>
@@ -2636,7 +2636,7 @@
       <l pos="A" src="fad">pussig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="pussig 812cde68-2339-432d-ba57-b404be828f19">
+      <tg xml:lang="smj">
         <t pos="A">imálasj</t>
       </tg>
     </mg>
@@ -2646,7 +2646,7 @@
       <l pos="A" src="fad">positiv</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="positiv 83f42c32-e789-42bd-9251-12c3c42d6cf5">
+      <tg xml:lang="smj">
         <t pos="A">mielos</t>
       </tg>
     </mg>
@@ -2656,7 +2656,7 @@
       <l pos="A" src="fad">uformell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="uformell d0b9584c-2271-4bd2-a659-cb59b909f08b">
+      <tg xml:lang="smj">
         <t pos="A">iehpeformálla</t>
       </tg>
     </mg>
@@ -2666,7 +2666,7 @@
       <l pos="A" src="fad">urealistisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="urealistisk 48695a6f-79bf-4b53-aa14-46bc672cde75">
+      <tg xml:lang="smj">
         <t pos="A">iehperealistalasj</t>
       </tg>
     </mg>
@@ -2676,7 +2676,7 @@
       <l pos="A" src="fad">ukristelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ukristelig 7d2aa0e6-2dce-4f7a-984d-509d90f03c1b">
+      <tg xml:lang="smj">
         <t pos="A">iehperistalasj</t>
       </tg>
     </mg>
@@ -2686,7 +2686,7 @@
       <l pos="A" src="fad">fruktbar</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fruktbar 669e2fe3-94fa-4da6-ad03-5d8eb5147454">
+      <tg xml:lang="smj">
         <t pos="A">sjaddel</t>
       </tg>
     </mg>
@@ -2696,7 +2696,7 @@
       <l pos="A" src="fad">offisiell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="offisiell 735c5304-57be-4f6a-9ba2-37f599cd16d3">
+      <tg xml:lang="smj">
         <t pos="A">almulasj</t>
       </tg>
     </mg>
@@ -2706,7 +2706,7 @@
       <l pos="A" src="fad">jevnaldrende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="jevnaldrende 9d29e77d-0fb7-44e7-bd89-0f1327fcc6fa">
+      <tg xml:lang="smj">
         <t pos="A">ludtjusasj</t>
       </tg>
     </mg>
@@ -2716,7 +2716,7 @@
       <l pos="A" src="fad">vid</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="vid 8e2b7e13-9b42-40aa-9f4c-25eeb49f6bf2">
+      <tg xml:lang="smj">
         <t pos="A">vijdes</t>
         <t pos="A">gallje</t>
       </tg>
@@ -2727,7 +2727,7 @@
       <l pos="A" src="fad">kald</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kald 95b7486d-8f28-4cf5-b81e-8e1b555c93b3">
+      <tg xml:lang="smj">
         <t pos="A">galmas</t>
         <t pos="A">tjoaskes</t>
       </tg>
@@ -2738,7 +2738,7 @@
       <l pos="A" src="fad">mild</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="mild 9f9f1d98-f946-4281-b4f5-2dccca33096b">
+      <tg xml:lang="smj">
         <t pos="A">bivval</t>
       </tg>
     </mg>
@@ -2748,7 +2748,7 @@
       <l pos="A" src="fad">skyldig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="skyldig 875bc7c0-f1aa-4e2a-9c49-d4d76dc8bc22">
+      <tg xml:lang="smj">
         <t pos="A">siválasj</t>
         <t pos="A">velgulasj</t>
       </tg>
@@ -2759,7 +2759,7 @@
       <l pos="A" src="fad">vågal</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="vågal 6db49654-8300-4086-ae65-0f59883c0914">
+      <tg xml:lang="smj">
         <t pos="A">duosstel</t>
       </tg>
     </mg>
@@ -2769,7 +2769,7 @@
       <l pos="A" src="fad">modig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="modig ccf89d2e-9c53-4624-8393-0e2a851f9284">
+      <tg xml:lang="smj">
         <t pos="A">jállo</t>
       </tg>
     </mg>
@@ -2779,7 +2779,7 @@
       <l pos="A" src="fad">morsom</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="morsom b3449c25-caf9-45a9-b1b6-22f293fdd503">
+      <tg xml:lang="smj">
         <t pos="A">suohtas</t>
       </tg>
     </mg>
@@ -2789,7 +2789,7 @@
       <l pos="A" src="fad">hyggelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="hyggelig 48c7ddef-0c30-4b37-8803-d6d4686086ed">
+      <tg xml:lang="smj">
         <t pos="A">hávsske</t>
       </tg>
     </mg>
@@ -2799,7 +2799,7 @@
       <l pos="A" src="fad">trygg</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="trygg 00ae8f11-5936-4d17-bc45-c7c3cd907086">
+      <tg xml:lang="smj">
         <t pos="A">jasskat</t>
       </tg>
     </mg>
@@ -2809,7 +2809,7 @@
       <l pos="A" src="fad">snill</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="snill 60491fe9-56c7-4a9a-b495-b6473f2cf785">
+      <tg xml:lang="smj">
         <t pos="A">lådje</t>
       </tg>
     </mg>
@@ -2819,7 +2819,7 @@
       <l pos="A" src="fad">ond</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ond f23adfa6-e063-44e3-8c1d-41f853ab849f">
+      <tg xml:lang="smj">
         <t pos="A">bahá</t>
       </tg>
     </mg>
@@ -2829,7 +2829,7 @@
       <l pos="A" src="fad">naturlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="naturlig af6c4d3f-6b3e-4fb8-8801-042cc1117b33">
+      <tg xml:lang="smj">
         <t pos="A">luondulasj</t>
       </tg>
     </mg>
@@ -2839,7 +2839,7 @@
       <l pos="A" src="fad">dårlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="dårlig 10390eda-475d-439e-821b-5878f7d3b84e">
+      <tg xml:lang="smj">
         <t pos="A">nievrre</t>
       </tg>
     </mg>
@@ -2849,7 +2849,7 @@
       <l pos="A" src="fad">fattig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fattig 4bd15f47-f670-408d-9e6e-2436028f2271">
+      <tg xml:lang="smj">
         <t pos="A">hædjo</t>
       </tg>
     </mg>
@@ -2859,7 +2859,7 @@
       <l pos="A" src="fad">meningsfull</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="meningsfull 3c5babea-9285-42a4-932d-39baec5bb240">
+      <tg xml:lang="smj">
         <t pos="A">mávsulasj</t>
       </tg>
     </mg>
@@ -2869,7 +2869,7 @@
       <l pos="A" src="fad">viktig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="viktig cae05dac-ea12-4d56-90ef-dfb7d8b68040">
+      <tg xml:lang="smj">
         <t pos="A">ájnas</t>
       </tg>
     </mg>
@@ -2879,7 +2879,7 @@
       <l pos="A" src="fad">trang</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="trang 73e87c56-9e2a-4dff-8e78-7bf8ffd85ee5">
+      <tg xml:lang="smj">
         <t pos="A">basske</t>
         <t pos="A">gárttje</t>
       </tg>
@@ -2890,7 +2890,7 @@
       <l pos="A" src="fad">dårlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="dårlig fe63889a-938b-43b3-bca3-0c1e19557ffa">
+      <tg xml:lang="smj">
         <t pos="A">nievrre</t>
       </tg>
     </mg>
@@ -2900,7 +2900,7 @@
       <l pos="A" src="fad">svak</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="svak 8fc69902-f4df-48b2-8bbc-b5d25de600c9">
+      <tg xml:lang="smj">
         <t pos="A">rassje</t>
       </tg>
     </mg>
@@ -2910,7 +2910,7 @@
       <l pos="A" src="fad">klønete</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="klønete 6f281b2d-153d-4cb0-8277-e46e6eba8f13">
+      <tg xml:lang="smj">
         <t pos="A">tjuorbbe</t>
       </tg>
     </mg>
@@ -2920,7 +2920,7 @@
       <l pos="A" src="fad">tynn</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tynn fa72e460-87e1-45e0-a95e-ce2d7763a3f4">
+      <tg xml:lang="smj">
         <t pos="A">siegge</t>
       </tg>
     </mg>
@@ -2930,7 +2930,7 @@
       <l pos="A" src="fad">flink</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="flink 4391db1e-2e7b-4773-9c5f-1a702f5b91b0">
+      <tg xml:lang="smj">
         <t pos="A">tjiehppe</t>
       </tg>
     </mg>
@@ -2940,7 +2940,7 @@
       <l pos="A" src="fad">sterk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sterk 7b9d83a5-de40-4ec3-8564-48345647d3b6">
+      <tg xml:lang="smj">
         <t pos="A">nanos</t>
         <t pos="A">gievrra</t>
       </tg>
@@ -2951,7 +2951,7 @@
       <l pos="A" src="fad">hard</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="hard 593a0e2d-032c-434f-9494-ed233e77ad8e">
+      <tg xml:lang="smj">
         <t pos="A">garras</t>
       </tg>
     </mg>
@@ -2961,7 +2961,7 @@
       <l pos="A" src="fad">rask</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="rask 652b2cff-7a10-4b0f-8a02-128a9f837494">
+      <tg xml:lang="smj">
         <t pos="A">háhppel</t>
         <t pos="A">jåhtel</t>
       </tg>
@@ -2972,7 +2972,7 @@
       <l pos="A" src="fad">øm</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="øm 62a1dcd4-eb39-487f-9365-3a8022bda194">
+      <tg xml:lang="smj">
         <t pos="A">lines</t>
       </tg>
     </mg>
@@ -2982,7 +2982,7 @@
       <l pos="A" src="fad">myk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="myk 674770b0-31b2-452d-b5b0-a02ed7d1f880">
+      <tg xml:lang="smj">
         <t pos="A">dimes</t>
       </tg>
     </mg>
@@ -2992,7 +2992,7 @@
       <l pos="A" src="fad">tynn</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tynn d64414f9-21a3-4b12-a01f-f29518b804b5">
+      <tg xml:lang="smj">
         <t pos="A">siegge</t>
       </tg>
     </mg>
@@ -3002,7 +3002,7 @@
       <l pos="A" src="fad">smal</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="smal e9cae6aa-f5e0-4045-b7ed-335a27fc26d0">
+      <tg xml:lang="smj">
         <t pos="A">gárttje</t>
       </tg>
     </mg>
@@ -3012,7 +3012,7 @@
       <l pos="A" src="fad">hel</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="hel 13f056a9-3d59-4d25-9c2e-04cfc8431da4">
+      <tg xml:lang="smj">
         <t pos="A">ålles</t>
       </tg>
     </mg>
@@ -3022,7 +3022,7 @@
       <l pos="A" src="fad">gammel</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="gammel b09c0565-e4fb-4b43-a162-626e95b7626c">
+      <tg xml:lang="smj">
         <t pos="A">boares</t>
         <t pos="A">vuoras</t>
       </tg>
@@ -3033,7 +3033,7 @@
       <l pos="A" src="fad">full</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="full bb419046-b513-4c3a-a274-e709906604b2">
+      <tg xml:lang="smj">
         <t pos="A">dievas</t>
       </tg>
     </mg>
@@ -3043,7 +3043,7 @@
       <l pos="A" src="fad">varm</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="varm 27043851-0e7d-47e3-9bdb-1daf02ab874f">
+      <tg xml:lang="smj">
         <t pos="A">liekkas</t>
         <t pos="A">báhkas</t>
       </tg>
@@ -3054,7 +3054,7 @@
       <l pos="A" src="fad">åpen</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="åpen 5a6543fd-1bb7-4e33-bdd6-73bfbf550a4f">
+      <tg xml:lang="smj">
         <t pos="A">rabás</t>
       </tg>
     </mg>
@@ -3064,7 +3064,7 @@
       <l pos="A" src="fad">liten</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="liten ef34f777-aeaa-4b35-8101-e0497a4966b8">
+      <tg xml:lang="smj">
         <t pos="A">unne</t>
       </tg>
     </mg>
@@ -3074,7 +3074,7 @@
       <l pos="A" src="fad">tynn</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tynn b9a5b02c-35fb-4412-99b1-c6f9ce5d077b">
+      <tg xml:lang="smj">
         <t pos="A">siegge</t>
       </tg>
     </mg>
@@ -3084,7 +3084,7 @@
       <l pos="A" src="fad">klar</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="klar 955de867-26d1-45c5-81e9-23431557b5c9">
+      <tg xml:lang="smj">
         <t pos="A">gárves</t>
       </tg>
     </mg>
@@ -3094,7 +3094,7 @@
       <l pos="A" src="fad">tydelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tydelig b8cb649e-e2e9-4159-b4a5-2a8c9db4ba50">
+      <tg xml:lang="smj">
         <t pos="A">tjielgas</t>
       </tg>
     </mg>
@@ -3104,7 +3104,7 @@
       <l pos="A" src="fad">stor</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="stor ad98898b-aa04-4235-8806-124bccc49f17">
+      <tg xml:lang="smj">
         <t pos="A">stuorra</t>
       </tg>
     </mg>
@@ -3114,7 +3114,7 @@
       <l pos="A" src="fad">vid</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="vid c2e31689-a82c-4352-817b-10cc850eae79">
+      <tg xml:lang="smj">
         <t pos="A">vijdes</t>
       </tg>
     </mg>
@@ -3124,7 +3124,7 @@
       <l pos="A" src="fad">ensom</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ensom 89a34b7a-ae8a-482b-ac28-af0d1ad15536">
+      <tg xml:lang="smj">
         <t pos="A">aktugasj</t>
       </tg>
     </mg>
@@ -3134,7 +3134,7 @@
       <l pos="A" src="fad">enkelt</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="enkelt 25dbfb7d-3aa8-4fca-90c2-896612d5dc4b">
+      <tg xml:lang="smj">
         <t pos="A">álkke</t>
       </tg>
     </mg>
@@ -3144,7 +3144,7 @@
       <l pos="A" src="fad">særskilt</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="særskilt 9e400aea-747f-4020-adfa-6ee654ee95ad">
+      <tg xml:lang="smj">
         <t pos="A">sierra</t>
       </tg>
     </mg>
@@ -3154,7 +3154,7 @@
       <l pos="A" src="fad">spesiell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="spesiell 7c5fdc7f-bca1-45e7-85a0-a82fedcf2103">
+      <tg xml:lang="smj">
         <t pos="A">sierralágásj</t>
       </tg>
     </mg>
@@ -3164,7 +3164,7 @@
       <l pos="A" src="fad">uredd</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="uredd 65aff10c-cf41-4c87-b9e1-6ab0b5cdb388">
+      <tg xml:lang="smj">
         <t pos="A">jállo</t>
       </tg>
     </mg>
@@ -3174,7 +3174,7 @@
       <l pos="A" src="fad">bred</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="bred b98181ad-fb5b-4277-aed3-fafd58733fde">
+      <tg xml:lang="smj">
         <t pos="A">gåbdde</t>
       </tg>
     </mg>
@@ -3184,7 +3184,7 @@
       <l pos="A" src="fad">gavmild</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="gavmild 2b2ecbe1-2510-457c-8e2c-422c72ede3af">
+      <tg xml:lang="smj">
         <t pos="A">árvas</t>
       </tg>
     </mg>
@@ -3194,7 +3194,7 @@
       <l pos="A" src="fad">vond</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="vond 1dc5cac8-1601-46cd-8dcd-0eb7b0eeba62">
+      <tg xml:lang="smj">
         <t pos="A">bávtjas</t>
       </tg>
     </mg>
@@ -3204,7 +3204,7 @@
       <l pos="A" src="fad">hard</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="hard b2928a94-7915-4920-9916-0d4c02ef5f74">
+      <tg xml:lang="smj">
         <t pos="A">garras</t>
       </tg>
     </mg>
@@ -3214,7 +3214,7 @@
       <l pos="A" src="fad">fornøyd</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fornøyd eacd8c4a-9ea7-4096-bcc5-77d8de0bd48f">
+      <tg xml:lang="smj">
         <t pos="A">dudálasj</t>
       </tg>
     </mg>
@@ -3224,7 +3224,7 @@
       <l pos="A" src="fad">underliggende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="underliggende 52ebbe0f-6f7a-439a-a0c9-1eed5208128f">
+      <tg xml:lang="smj">
         <t pos="A">vuollásasj</t>
       </tg>
     </mg>
@@ -3234,7 +3234,7 @@
       <l pos="A" src="fad">følgende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="følgende 9f604e51-b6c0-4a35-a9eb-e2cc922cbd70">
+      <tg xml:lang="smj">
         <t pos="A">tjuovvovasj</t>
       </tg>
     </mg>
@@ -3244,7 +3244,7 @@
       <l pos="A" src="fad">øvre</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="øvre 64be2baf-fef7-452e-92eb-82fa428a5e0d">
+      <tg xml:lang="smj">
         <t pos="A">bajep</t>
       </tg>
     </mg>
@@ -3254,7 +3254,7 @@
       <l pos="A" src="fad">åpen</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="åpen c5ff098f-4b57-48ca-870f-627fa5601cd8">
+      <tg xml:lang="smj">
         <t pos="A">rabás</t>
       </tg>
     </mg>
@@ -3264,7 +3264,7 @@
       <l pos="A" src="fad">nåtidens</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="nåtidens 0fcb3071-26b3-4547-a630-8e60c11422da">
+      <tg xml:lang="smj">
         <t pos="A">dálásj</t>
       </tg>
     </mg>
@@ -3274,7 +3274,7 @@
       <l pos="A" src="fad">selvstendig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="selvstendig a9f1fcc9-079f-4aa5-92b3-d9961c0bfbe4">
+      <tg xml:lang="smj">
         <t pos="A">iesjrádálasj</t>
       </tg>
     </mg>
@@ -3284,7 +3284,7 @@
       <l pos="A" src="fad">grundig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="grundig 5ffab329-23d2-4390-b20e-7688bb3c308d">
+      <tg xml:lang="smj">
         <t pos="A">dárkkel</t>
       </tg>
     </mg>
@@ -3294,7 +3294,7 @@
       <l pos="A" src="fad">ferdig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ferdig fbde8422-c000-4ec4-8b4b-7f7086b07d9d">
+      <tg xml:lang="smj">
         <t pos="A">gárves</t>
       </tg>
     </mg>
@@ -3304,7 +3304,7 @@
       <l pos="A" src="fad">hederlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="hederlig 0d945260-e5b7-4293-b74f-c453d535ccc3">
+      <tg xml:lang="smj">
         <t pos="A">gudnálasj</t>
       </tg>
     </mg>
@@ -3314,7 +3314,7 @@
       <l pos="A" src="fad">helhetlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="helhetlig 7059e653-3d59-447e-98ca-4a9912fca19c">
+      <tg xml:lang="smj">
         <t pos="A">åbbålasj</t>
       </tg>
     </mg>
@@ -3324,7 +3324,7 @@
       <l pos="A" src="fad">uavhengig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="uavhengig 193ed3c6-10d7-4083-baf4-cc3ed6872b1e">
+      <tg xml:lang="smj">
         <t pos="A">iesjrádálasj</t>
       </tg>
     </mg>
@@ -3334,7 +3334,7 @@
       <l pos="A" src="fad">månedlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="månedlig 1e446b8a-80a8-4c67-b011-2ffddb4fb619">
+      <tg xml:lang="smj">
         <t pos="A">mánnusasj</t>
       </tg>
     </mg>
@@ -3344,7 +3344,7 @@
       <l pos="A" src="fad">fredelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fredelig a427f782-5896-416c-a719-e28e17502dce">
+      <tg xml:lang="smj">
         <t pos="A">ráfálasj</t>
       </tg>
     </mg>
@@ -3354,7 +3354,7 @@
       <l pos="A" src="fad">oppriktig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="oppriktig c604085b-a784-4343-ba32-eea4fe3798d2">
+      <tg xml:lang="smj">
         <t pos="A">duodalasj</t>
       </tg>
     </mg>
@@ -3364,7 +3364,7 @@
       <l pos="A" src="fad">tydelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tydelig 58104eed-69cb-400b-9af0-febce61d153a">
+      <tg xml:lang="smj">
         <t pos="A">tjielgas</t>
       </tg>
     </mg>
@@ -3374,7 +3374,7 @@
       <l pos="A" src="fad">skikkelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="skikkelig c4ce25cd-db34-4486-a0f5-83b6274233a0">
+      <tg xml:lang="smj">
         <t pos="A">almma</t>
       </tg>
     </mg>
@@ -3384,7 +3384,7 @@
       <l pos="A" src="fad">vanskelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="vanskelig 5ac46053-8415-4361-a545-49b34c06cb26">
+      <tg xml:lang="smj">
         <t pos="A">gássjel</t>
       </tg>
     </mg>
@@ -3394,7 +3394,7 @@
       <l pos="A" src="fad">alminnelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="alminnelig 4d728e35-0fbc-4aa3-beb0-b906692dc7dc">
+      <tg xml:lang="smj">
         <t pos="A">dábálasj</t>
       </tg>
     </mg>
@@ -3404,7 +3404,7 @@
       <l pos="A" src="fad">vitenskapelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="vitenskapelig b9da0f2b-4ccf-4f8f-9f28-e133f361e989">
+      <tg xml:lang="smj">
         <t pos="A">diedalasj</t>
       </tg>
     </mg>
@@ -3414,7 +3414,7 @@
       <l pos="A" src="fad">passelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="passelig 86dcf4d5-2ee9-43f8-8bbd-8340f8122aff">
+      <tg xml:lang="smj">
         <t pos="A">hiebalasj</t>
       </tg>
     </mg>
@@ -3424,7 +3424,7 @@
       <l pos="A" src="fad">nødvendig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="nødvendig bc9dcb27-4e22-4fb9-a06e-dedcd48c42ca">
+      <tg xml:lang="smj">
         <t pos="A">dárbulasj</t>
       </tg>
     </mg>
@@ -3434,7 +3434,7 @@
       <l pos="A" src="fad">språklig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="språklig 34200bee-a46d-41fa-8f9c-bf25bcb5c31d">
+      <tg xml:lang="smj">
         <t pos="A">gielalasj</t>
       </tg>
     </mg>
@@ -3444,7 +3444,7 @@
       <l pos="A" src="fad">hellig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="hellig ed7b8d15-b6e9-4f06-a2a5-f00a587e8b47">
+      <tg xml:lang="smj">
         <t pos="A">ájlis</t>
       </tg>
     </mg>
@@ -3454,7 +3454,7 @@
       <l pos="A" src="fad">billig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="billig 626c0cad-b184-436c-bad1-6bd867aea8c5">
+      <tg xml:lang="smj">
         <t pos="A">álbbe</t>
       </tg>
     </mg>
@@ -3464,7 +3464,7 @@
       <l pos="A" src="fad">vanlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="vanlig 7f559f82-6036-4661-849a-0d372d2dbe86">
+      <tg xml:lang="smj">
         <t pos="A">dábálasj</t>
       </tg>
     </mg>
@@ -3474,7 +3474,7 @@
       <l pos="A" src="fad">farlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="farlig ec58a279-d760-41b3-8453-e052da7202ad">
+      <tg xml:lang="smj">
         <t pos="A">várálasj</t>
       </tg>
     </mg>
@@ -3484,7 +3484,7 @@
       <l pos="A" src="fad">årlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="årlig fb101bbc-4f14-481e-a22c-9dfd3fba7158">
+      <tg xml:lang="smj">
         <t pos="A">jahkásasj</t>
       </tg>
     </mg>
@@ -3494,7 +3494,7 @@
       <l pos="A" src="fad">statlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="statlig 3aeae76f-e111-4a6c-a84e-3ac9cfa011d7">
+      <tg xml:lang="smj">
         <t pos="A">stáhtalasj</t>
       </tg>
     </mg>
@@ -3504,7 +3504,7 @@
       <l pos="A" src="fad">offentlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="offentlig a6c58e05-424a-4c1b-80ef-0c544396cdd9">
+      <tg xml:lang="smj">
         <t pos="A">almulasj</t>
       </tg>
     </mg>
@@ -3514,7 +3514,7 @@
       <l pos="A" src="fad">ukentlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ukentlig bc630340-5dc2-42c9-aed8-1804f47b2775">
+      <tg xml:lang="smj">
         <t pos="A">vahkkusasj</t>
       </tg>
     </mg>
@@ -3524,7 +3524,7 @@
       <l pos="A" src="fad">lovlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="lovlig 89b29d62-e6e0-4e8a-a3ac-c1f97cf6f7ec">
+      <tg xml:lang="smj">
         <t pos="A">loabálasj</t>
       </tg>
     </mg>
@@ -3534,7 +3534,7 @@
       <l pos="A" src="fad">kjølig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kjølig 410b5a12-86b9-4f78-8b5f-4d5ae82f9eca">
+      <tg xml:lang="smj">
         <t pos="A">tjoaskes</t>
       </tg>
     </mg>
@@ -3544,7 +3544,7 @@
       <l pos="A" src="fad">enstemmig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="enstemmig 011e8ed4-b3de-44a0-939c-f427007e7e03">
+      <tg xml:lang="smj">
         <t pos="A">avtajienalasj</t>
       </tg>
     </mg>
@@ -3554,7 +3554,7 @@
       <l pos="A" src="fad">riktig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="riktig 1b9ca7da-9a8f-417c-913d-6cafcfd74165">
+      <tg xml:lang="smj">
         <t pos="A">riekta</t>
       </tg>
     </mg>
@@ -3564,7 +3564,7 @@
       <l pos="A" src="fad">dyktig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="dyktig 82b7b61c-5f86-4e0d-884b-4ab624bb5714">
+      <tg xml:lang="smj">
         <t pos="A">tjiehppe</t>
       </tg>
     </mg>
@@ -3574,7 +3574,7 @@
       <l pos="A" src="fad">artig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="artig 28f6e85c-a57e-4681-83fa-a3b5f1fd5215">
+      <tg xml:lang="smj">
         <t pos="A">suohtas</t>
       </tg>
     </mg>
@@ -3584,7 +3584,7 @@
       <l pos="A" src="fad">nyttig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="nyttig 80001a7f-3fba-49dc-b640-33d245bc48ce">
+      <tg xml:lang="smj">
         <t pos="A">ávkálasj</t>
       </tg>
     </mg>
@@ -3594,7 +3594,7 @@
       <l pos="A" src="fad">lang</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="lang b216f1a3-956b-4d88-89cd-d63a77bb5f31">
+      <tg xml:lang="smj">
         <t pos="A">guhkke</t>
       </tg>
     </mg>
@@ -3604,7 +3604,7 @@
       <l pos="A" src="fad">ung</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ung fe38ced4-f7be-45a2-8ce6-c6b7845a9e88">
+      <tg xml:lang="smj">
         <t pos="A">nuorra</t>
       </tg>
     </mg>
@@ -3614,7 +3614,7 @@
       <l pos="A" src="fad">tung</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tung 2b66f207-6008-4bc8-96a9-13bb9585bf46">
+      <tg xml:lang="smj">
         <t pos="A">låssåt</t>
       </tg>
     </mg>
@@ -3624,7 +3624,7 @@
       <l pos="A" src="fad">fri</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fri b250761b-9271-499c-8fb0-452b1bfcf97c">
+      <tg xml:lang="smj">
         <t pos="A">friddja</t>
       </tg>
     </mg>
@@ -3634,7 +3634,7 @@
       <l pos="A" src="fad">næringsrik</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="næringsrik 86d819cc-9601-45da-989e-7dc77e960c02">
+      <tg xml:lang="smj">
         <t pos="A">biektel</t>
       </tg>
     </mg>
@@ -3644,7 +3644,7 @@
       <l pos="A" src="fad">tykk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tykk 1fbdb7a8-e982-405f-a5e0-d47ac4e276ea">
+      <tg xml:lang="smj">
         <re>om veske</re>
         <t pos="A">suohkat</t>
       </tg>
@@ -3655,7 +3655,7 @@
       <l pos="A" src="fad">klok</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="klok 991442db-4e41-4756-aeea-51f8e47aa023">
+      <tg xml:lang="smj">
         <t pos="A">vijses</t>
       </tg>
     </mg>
@@ -3665,7 +3665,7 @@
       <l pos="A" src="fad">strategisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="strategisk a9e992f1-5bd2-423a-9a7e-39bcd62089dc">
+      <tg xml:lang="smj">
         <t pos="A">strategalasj</t>
       </tg>
     </mg>
@@ -3675,7 +3675,7 @@
       <l pos="A" src="fad">kunstnerisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kunstnerisk f5fa48d9-ac85-47c4-9b55-4749e7ad51c2">
+      <tg xml:lang="smj">
         <t pos="A">dájdalasj</t>
       </tg>
     </mg>
@@ -3685,7 +3685,7 @@
       <l pos="A" src="fad">dramatisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="dramatisk 972a29e4-6d29-4436-870f-3c94510ffa28">
+      <tg xml:lang="smj">
         <t pos="A">dramáhtalasj</t>
       </tg>
     </mg>
@@ -3695,7 +3695,7 @@
       <l pos="A" src="fad">teoretisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="teoretisk eb1d7031-53cf-4779-abda-8a2871614913">
+      <tg xml:lang="smj">
         <t pos="A">teorehtalasj</t>
       </tg>
     </mg>
@@ -3705,7 +3705,7 @@
       <l pos="A" src="fad">politisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="politisk 4c95d246-7d8b-41e7-a629-18ff8f41c148">
+      <tg xml:lang="smj">
         <t pos="A">politihkalasj</t>
       </tg>
     </mg>
@@ -3715,7 +3715,7 @@
       <l pos="A" src="fad">fersk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fersk 4ffdb2bd-c695-462a-b310-8559c06f21f6">
+      <tg xml:lang="smj">
         <t pos="A">varás</t>
       </tg>
     </mg>
@@ -3725,7 +3725,7 @@
       <l pos="A" src="fad">mjuk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="mjuk e11b3a54-c674-4f17-a2bb-1b29c6408dd8">
+      <tg xml:lang="smj">
         <t pos="A">dimes</t>
       </tg>
     </mg>
@@ -3735,7 +3735,7 @@
       <l pos="A" src="fad">lokal</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="lokal 955de400-dcfe-4244-8e14-d88d3cde965e">
+      <tg xml:lang="smj">
         <t pos="A">bájkálasj</t>
       </tg>
     </mg>
@@ -3745,7 +3745,7 @@
       <l pos="A" src="fad">normal</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="normal 1312bbc2-aee7-4b9f-aade-906cbf6687d0">
+      <tg xml:lang="smj">
         <t pos="A">dábálasj</t>
       </tg>
     </mg>
@@ -3755,7 +3755,7 @@
       <l pos="A" src="fad">internasjonal</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="internasjonal 66e6e2c4-9e70-4c46-aed2-c9792e3021fc">
+      <tg xml:lang="smj">
         <t pos="A">rijkajgasskasasj</t>
       </tg>
     </mg>
@@ -3765,7 +3765,7 @@
       <l pos="A" src="fad">total</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="total 692aa92a-ae56-4edf-bb92-b71194f82458">
+      <tg xml:lang="smj">
         <t pos="A">åbbålasj</t>
       </tg>
     </mg>
@@ -3775,7 +3775,7 @@
       <l pos="A" src="fad">bøyelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="bøyelig ea054fff-c4a3-427d-9607-6f583b25792e">
+      <tg xml:lang="smj">
         <t pos="A">såddjel</t>
       </tg>
     </mg>
@@ -3785,7 +3785,7 @@
       <l pos="A" src="fad">stabil</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="stabil ba2b0bb9-b39a-48c9-89cc-db0d8b622ea3">
+      <tg xml:lang="smj">
         <t pos="A">stuoves</t>
       </tg>
     </mg>
@@ -3795,7 +3795,7 @@
       <l pos="A" src="fad">spesiell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="spesiell b3e14d31-87bd-4e26-81c7-fdb331fbcb9c">
+      <tg xml:lang="smj">
         <t pos="A">sierralágásj</t>
       </tg>
     </mg>
@@ -3805,7 +3805,7 @@
       <l pos="A" src="fad">verdifull</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="verdifull e03cd526-2732-4aa9-b7cb-123213540b5f">
+      <tg xml:lang="smj">
         <t pos="A">árvulasj</t>
       </tg>
     </mg>
@@ -3815,7 +3815,7 @@
       <l pos="A" src="fad">bærekraftig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="bærekraftig 87918fc5-7e42-4c91-9cbd-b1638a97a541">
+      <tg xml:lang="smj">
         <t pos="A">guoddel</t>
       </tg>
     </mg>
@@ -3825,7 +3825,7 @@
       <l pos="A" src="fad">dum</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="dum 1920907d-4a68-4fa0-bbaf-db918f99c9e8">
+      <tg xml:lang="smj">
         <t pos="A">jalla</t>
       </tg>
     </mg>
@@ -3835,7 +3835,7 @@
       <l pos="A" src="fad">ren</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ren 111f648a-57f9-4d93-9abf-e4fb57c553eb">
+      <tg xml:lang="smj">
         <t pos="A">rájnas</t>
       </tg>
     </mg>
@@ -3845,7 +3845,7 @@
       <l pos="A" src="fad">bein</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="bein d76d6af2-ad9c-44a3-9107-cbce78a2aa20">
+      <tg xml:lang="smj">
         <t pos="A">njuolggat</t>
       </tg>
     </mg>
@@ -3855,7 +3855,7 @@
       <l pos="A" src="fad">sein</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sein 068ea9a5-737d-4d7a-a4b7-e9fb2d230afb">
+      <tg xml:lang="smj">
         <t pos="A">nuolle</t>
       </tg>
     </mg>
@@ -3865,7 +3865,7 @@
       <l pos="A" src="fad">fin</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fin 6caef6dc-bfda-405a-a9cf-a178a0b19098">
+      <tg xml:lang="smj">
         <t pos="A">fijnes</t>
       </tg>
     </mg>
@@ -3875,7 +3875,7 @@
       <l pos="A" src="fad">jevn</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="jevn 1591b3a2-27d7-4be8-bbc3-7bfff2abbbd1">
+      <tg xml:lang="smj">
         <t pos="A">jalggat</t>
       </tg>
     </mg>
@@ -3885,7 +3885,7 @@
       <l pos="A" src="fad">moro</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="moro e8a499b0-53f6-4c55-ae6d-365fd83cd51f">
+      <tg xml:lang="smj">
         <t pos="A">suohtas</t>
       </tg>
     </mg>
@@ -3895,7 +3895,7 @@
       <l pos="A" src="fad">skarp</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="skarp d0454123-fe22-4f7a-bbf6-f84eedd01c58">
+      <tg xml:lang="smj">
         <t pos="A">basstel</t>
       </tg>
     </mg>
@@ -3905,7 +3905,7 @@
       <l pos="A" src="fad">kostbar</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kostbar 461d8fba-3c1d-4a2f-ad91-619366040d9d">
+      <tg xml:lang="smj">
         <t pos="A">divras</t>
       </tg>
     </mg>
@@ -3915,7 +3915,7 @@
       <l pos="A" src="fad">vakker</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="vakker 003f1f92-a141-48a1-9963-90de58cb3e2f">
+      <tg xml:lang="smj">
         <t pos="A">fávrro</t>
       </tg>
     </mg>
@@ -3925,7 +3925,7 @@
       <l pos="A" src="fad">sikker</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sikker 058ac188-a4f9-415d-bec5-4ddc34e1bf9f">
+      <tg xml:lang="smj">
         <t pos="A">visses</t>
       </tg>
     </mg>
@@ -3935,7 +3935,7 @@
       <l pos="A" src="fad">felles</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="felles a1c81ebf-0483-4921-8b0b-9cd829090d40">
+      <tg xml:lang="smj">
         <t pos="A">aktisasj</t>
       </tg>
     </mg>
@@ -3945,7 +3945,7 @@
       <l pos="A" src="fad">nåtidens</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="nåtidens 7e857491-e4a5-4f61-9e71-ae9717bb4942">
+      <tg xml:lang="smj">
         <t pos="A">dálásj</t>
       </tg>
     </mg>
@@ -3955,7 +3955,7 @@
       <l pos="A" src="fad">kvass</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kvass 0024f420-5258-4477-bfd8-e63b3b0a4643">
+      <tg xml:lang="smj">
         <t pos="A">basstel</t>
       </tg>
     </mg>
@@ -3965,7 +3965,7 @@
       <l pos="A" src="fad">foreldreløs</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="foreldreløs 73bdb481-9e67-436a-8f4f-a812c7a0c46f">
+      <tg xml:lang="smj">
         <t pos="A">oarbes</t>
       </tg>
     </mg>
@@ -3975,7 +3975,7 @@
       <l pos="A" src="fad">underlagt</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="underlagt 32495bbc-0ec5-42a2-b4f8-8a2d8daff6bb">
+      <tg xml:lang="smj">
         <t pos="A">vuollásasj</t>
       </tg>
     </mg>
@@ -3985,7 +3985,7 @@
       <l pos="A" src="fad">feit</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="feit 6e8e46b1-f8b4-428c-8d2a-28d5771e9dba">
+      <tg xml:lang="smj">
         <t pos="A">buojdde</t>
       </tg>
     </mg>
@@ -3995,7 +3995,7 @@
       <l pos="A" src="fad">hvit</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="hvit 0c1fc9f1-0fca-46b2-b0b4-4d16f246567b">
+      <tg xml:lang="smj">
         <t pos="A">vielggat</t>
       </tg>
     </mg>
@@ -4005,7 +4005,7 @@
       <l pos="A" src="fad">korrekt</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="korrekt 6d665c4f-6d5f-4153-9f4f-5b63a3561937">
+      <tg xml:lang="smj">
         <t pos="A">riekta</t>
       </tg>
     </mg>
@@ -4015,7 +4015,7 @@
       <l pos="A" src="fad">tiltalt</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tiltalt 5bb6eb41-0f07-4c15-a3e1-cae15c86d96f">
+      <tg xml:lang="smj">
         <t pos="A">ássjálasj</t>
       </tg>
     </mg>
@@ -4025,7 +4025,7 @@
       <l pos="A" src="fad">bestemt</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="bestemt 98df537d-73a5-4a0f-a932-3d897c9313ee">
+      <tg xml:lang="smj">
         <t pos="A">vissa</t>
       </tg>
     </mg>
@@ -4035,7 +4035,7 @@
       <l pos="A" src="fad">kjent</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kjent 38bc2cc1-c616-443b-82f9-2ff4d0ebef78">
+      <tg xml:lang="smj">
         <t pos="A">oahpes</t>
       </tg>
     </mg>
@@ -4045,7 +4045,7 @@
       <l pos="A" src="fad">fremmed</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fremmed e2e95fd3-77b4-4e65-ab59-b1bcb6a8f314">
+      <tg xml:lang="smj">
         <t pos="A">amás</t>
       </tg>
     </mg>
@@ -4055,7 +4055,7 @@
       <l pos="A" src="fad">ond</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ond f8f6c79f-3379-4dd1-98c6-ba26d2806fef">
+      <tg xml:lang="smj">
         <t pos="A">bahá</t>
       </tg>
     </mg>
@@ -4065,7 +4065,7 @@
       <l pos="A" src="fad">detaljert</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="detaljert c742a3a7-a5cb-4aa4-bc10-f04f8ea5936c">
+      <tg xml:lang="smj">
         <t pos="A">dárkkel</t>
       </tg>
     </mg>
@@ -4075,7 +4075,7 @@
       <l pos="A" src="fad">lett</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="lett 72e67e9d-e82f-4a6a-92e9-f4be6cdbb414">
+      <tg xml:lang="smj">
         <t pos="A">álkke</t>
       </tg>
     </mg>
@@ -4085,7 +4085,7 @@
       <l pos="A" src="fad">trøtt</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="trøtt ba94193f-935b-426c-a4a6-1d6366ad7ae4">
+      <tg xml:lang="smj">
         <t pos="A">vájbas</t>
       </tg>
     </mg>
@@ -4095,7 +4095,7 @@
       <l pos="A" src="fad">rå</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="rå a731efab-f71b-46ff-82c1-4af7508c277a">
+      <tg xml:lang="smj">
         <t pos="A">njuoskas</t>
       </tg>
     </mg>
@@ -4105,7 +4105,7 @@
       <l pos="A" src="fad">fuktig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fuktig 2f5bd6a3-272f-4b8d-91bd-71dfb7598757">
+      <tg xml:lang="smj">
         <t pos="A">njuoskas</t>
       </tg>
     </mg>
@@ -4115,7 +4115,7 @@
       <l pos="A" src="fad">kort</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kort 08c565af-5e58-48e1-ac1c-fe7be0543921">
+      <tg xml:lang="smj">
         <t pos="A">oadne</t>
       </tg>
     </mg>
@@ -4125,7 +4125,7 @@
       <l pos="A" src="fad">stødig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="stødig 269a1098-b0be-4c1b-8dfa-cd880ea7bec8">
+      <tg xml:lang="smj">
         <t pos="A">stádes</t>
       </tg>
     </mg>
@@ -4135,7 +4135,7 @@
       <l pos="A" src="fad">ny</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ny 526aa017-17d2-4386-bdd2-aaf24067fbc4">
+      <tg xml:lang="smj">
         <t pos="A">ådås</t>
       </tg>
     </mg>
@@ -4145,7 +4145,7 @@
       <l pos="A" src="fad">grå</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="grå 7d7cd00d-0e4d-4b24-90e8-5273f51ad0ee">
+      <tg xml:lang="smj">
         <t pos="A">rávvis</t>
       </tg>
     </mg>
@@ -4155,7 +4155,7 @@
       <l pos="A" src="fad">levende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="levende 67283211-03d1-432c-9de7-06eb56e6e78e">
+      <tg xml:lang="smj">
         <t pos="A">ielle</t>
       </tg>
     </mg>
@@ -4165,7 +4165,7 @@
       <l pos="A" src="fad">fremtidig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fremtidig 27991f7a-c399-4440-bbeb-f8fa8cc9b7d4">
+      <tg xml:lang="smj">
         <t pos="A">boahtteájggásasj</t>
       </tg>
     </mg>
@@ -4175,7 +4175,7 @@
       <l pos="A" src="fad">merkelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="merkelig d124eb24-7970-419b-87a3-4a7e2efe7a28">
+      <tg xml:lang="smj">
         <t pos="A">imálasj</t>
       </tg>
     </mg>
@@ -4185,7 +4185,7 @@
       <l pos="A" src="fad">interessant</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="interessant 128821d6-258c-4d0e-ad9a-4f1357ac978a">
+      <tg xml:lang="smj">
         <t pos="A">miellagiddis</t>
       </tg>
     </mg>
@@ -4195,7 +4195,7 @@
       <l pos="A" src="fad">ætrivelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ætrivelig 083fc9cc-45d0-4d50-9c26-e961636afb14">
+      <tg xml:lang="smj">
         <t pos="A">mielludahtte</t>
       </tg>
     </mg>
@@ -4205,7 +4205,7 @@
       <l pos="A" src="fad">mektig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="mektig 6042fc17-7daf-4a3c-aef4-24ceaa80c043">
+      <tg xml:lang="smj">
         <t pos="A">viekses</t>
       </tg>
     </mg>
@@ -4215,7 +4215,7 @@
       <l pos="A" src="fad">råtten</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="råtten e8530954-df4d-4f42-8a09-d6eb2beb41bc">
+      <tg xml:lang="smj">
         <t pos="A">miesska</t>
       </tg>
     </mg>
@@ -4225,7 +4225,7 @@
       <l pos="A" src="fad">glemsk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="glemsk 31fcf719-ff5f-4e0e-8299-1e75c61142fb">
+      <tg xml:lang="smj">
         <t pos="A">mujtodibme</t>
       </tg>
     </mg>
@@ -4235,7 +4235,7 @@
       <l pos="A" src="fad">syk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="syk f2e0e301-ce4f-40fc-8491-86e2d9715745">
+      <tg xml:lang="smj">
         <t pos="A">skibás</t>
       </tg>
     </mg>
@@ -4245,7 +4245,7 @@
       <l pos="A" src="fad">voksen</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="voksen a2858a74-346a-482b-8be9-ec7081960859">
+      <tg xml:lang="smj">
         <t pos="A">ållessjattuk</t>
       </tg>
     </mg>
@@ -4255,7 +4255,7 @@
       <l pos="A" src="fad">uklar</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="uklar 8f90a397-0542-4865-965b-2299d4616014">
+      <tg xml:lang="smj">
         <t pos="A">iehpetjielgas</t>
       </tg>
     </mg>
@@ -4265,7 +4265,7 @@
       <l pos="A" src="fad">spraglet</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="spraglet 2f403a0e-74fa-403e-95f1-e937645bafb4">
+      <tg xml:lang="smj">
         <t pos="A">girjak</t>
       </tg>
     </mg>
@@ -4275,7 +4275,7 @@
       <l pos="A" src="fad">stolt</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="stolt 0dcf3573-a186-4854-a038-52a5304d2bde">
+      <tg xml:lang="smj">
         <t pos="A">mihá</t>
       </tg>
     </mg>
@@ -4285,7 +4285,7 @@
       <l pos="A" src="fad">øverst</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="øverst 42dc48aa-ea58-4e53-9796-ab9cc134da92">
+      <tg xml:lang="smj">
         <t pos="A">bajemus</t>
       </tg>
     </mg>
@@ -4295,7 +4295,7 @@
       <l pos="A" src="fad">snill</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="snill dd993811-e333-43d4-a18b-c0c3373266f8">
+      <tg xml:lang="smj">
         <t pos="A">lådje</t>
       </tg>
     </mg>
@@ -4305,7 +4305,7 @@
       <l pos="A" src="fad">heldig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="heldig f6f99e49-65b5-42c7-8186-d012ca49c421">
+      <tg xml:lang="smj">
         <t pos="A">vuorbálasj</t>
       </tg>
     </mg>
@@ -4315,7 +4315,7 @@
       <l pos="A" src="fad">forskrekkende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="forskrekkende 178a6e32-e569-475e-ad92-ea53bf4ae0c5">
+      <tg xml:lang="smj">
         <t pos="A">suorgganahtte</t>
       </tg>
     </mg>
@@ -4325,7 +4325,7 @@
       <l pos="A" src="fad">oppegående</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="oppegående 72f410a0-a460-406a-85c8-e834f5742735">
+      <tg xml:lang="smj">
         <t pos="A">oajvvá</t>
       </tg>
     </mg>
@@ -4335,7 +4335,7 @@
       <l pos="A" src="fad">fruktbar</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fruktbar 7bdee8a8-5380-4dd5-b93e-595db9abe3e9">
+      <tg xml:lang="smj">
         <t pos="A">sjaddel</t>
       </tg>
     </mg>
@@ -4345,7 +4345,7 @@
       <l pos="A" src="fad">vanlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="vanlig 26c92298-b81a-4d3e-85b7-5b8f91e439c8">
+      <tg xml:lang="smj">
         <t pos="A">iemelágásj</t>
       </tg>
     </mg>
@@ -4355,7 +4355,7 @@
       <l pos="A" src="fad">upassende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="upassende 22b24618-7150-4607-bd2d-8d7db9198d53">
+      <tg xml:lang="smj">
         <t pos="A">hiebalgahtes</t>
       </tg>
     </mg>
@@ -4365,7 +4365,7 @@
       <l pos="A" src="fad">mistenksom</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="mistenksom ccf3bba4-f9b6-4715-b3eb-d292fce81ec5">
+      <tg xml:lang="smj">
         <t pos="A">gáddális</t>
       </tg>
     </mg>
@@ -4375,7 +4375,7 @@
       <l pos="A" src="fad">forståelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="forståelig a5ee14ee-dba5-417b-92cb-c389336b9e2f">
+      <tg xml:lang="smj">
         <t pos="A">dádjadahtte</t>
       </tg>
     </mg>
@@ -4385,7 +4385,7 @@
       <l pos="A" src="fad">underlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="underlig 1bade2d7-9253-434a-8016-f713b1a61a9e">
+      <tg xml:lang="smj">
         <t pos="A">imálasj</t>
       </tg>
     </mg>
@@ -4395,7 +4395,7 @@
       <l pos="A" src="fad">moderne</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="moderne 0411aed5-fdb5-4bf3-ae9b-8c689ec062ba">
+      <tg xml:lang="smj">
         <t pos="A">ådåájggásasj</t>
       </tg>
     </mg>
@@ -4405,7 +4405,7 @@
       <l pos="A" src="fad">liberalistisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="liberalistisk b4c0cde7-a272-4bf7-97ef-673d0bcc4afd">
+      <tg xml:lang="smj">
         <t pos="A">liberálla</t>
       </tg>
     </mg>
@@ -4415,7 +4415,7 @@
       <l pos="A" src="fad">ubrukelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ubrukelig a4200986-8701-48c6-abc3-ce21e4ef86e1">
+      <tg xml:lang="smj">
         <t pos="A">dåhkkimahtes</t>
       </tg>
     </mg>
@@ -4425,7 +4425,7 @@
       <l pos="A" src="fad">snill</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="snill 1c629d3a-60a5-4ce6-8e0f-ed0867d2ee18">
+      <tg xml:lang="smj">
         <t pos="A">lådje</t>
       </tg>
     </mg>
@@ -4435,7 +4435,7 @@
       <l pos="A" src="fad">uholdbar</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="uholdbar aa03401f-4d0f-4646-9468-ac4754ca53eb">
+      <tg xml:lang="smj">
         <t pos="A">dåhkkimahtes</t>
       </tg>
     </mg>
@@ -4445,7 +4445,7 @@
       <l pos="A" src="fad">kompromissløs</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kompromissløs ecbf6ea5-3fbe-4486-87b6-5163bc9d2659">
+      <tg xml:lang="smj">
         <t pos="A">såbadimahtes</t>
       </tg>
     </mg>
@@ -4455,7 +4455,7 @@
       <l pos="A" src="fad">verdig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="verdig bec28954-3a78-447b-bfb8-8f467f990e42">
+      <tg xml:lang="smj">
         <t pos="A">værddogis</t>
       </tg>
     </mg>
@@ -4465,7 +4465,7 @@
       <l pos="A" src="fad">fornuftig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fornuftig d1d723a6-471c-4f34-958b-77fab8954cd2">
+      <tg xml:lang="smj">
         <t pos="A">jiermmá</t>
       </tg>
     </mg>
@@ -4475,7 +4475,7 @@
       <l pos="A" src="fad">smart</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="smart 34086677-b171-44c1-a1b5-e4f924715c78">
+      <tg xml:lang="smj">
         <t pos="A">oajvvá</t>
       </tg>
     </mg>
@@ -4485,7 +4485,7 @@
       <l pos="A" src="fad">sunn</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sunn 21938542-6902-4a4e-b441-e25c7f8de99e">
+      <tg xml:lang="smj">
         <t pos="A">biektel</t>
       </tg>
     </mg>
@@ -4495,7 +4495,7 @@
       <l pos="A" src="fad">smart</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="smart 61e3ecf7-741f-4ba2-a6eb-7a59d57a5d5e">
+      <tg xml:lang="smj">
         <t pos="A">sluogas</t>
       </tg>
     </mg>
@@ -4505,7 +4505,7 @@
       <l pos="A" src="fad">lett</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="lett 97b3de50-6ef2-4c42-80b6-55b7a4f651d4">
+      <tg xml:lang="smj">
         <t pos="A">álkke</t>
       </tg>
     </mg>
@@ -4515,7 +4515,7 @@
       <l pos="A" src="fad">flittig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="flittig 19fe3585-7b9d-4e52-b8e1-0e91beb4e02d">
+      <tg xml:lang="smj">
         <t pos="A">vissjal</t>
       </tg>
     </mg>
@@ -4525,7 +4525,7 @@
       <l pos="A" src="fad">åpenbar</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="åpenbar 4292184c-0a65-42e3-9a70-c55265f14df3">
+      <tg xml:lang="smj">
         <t pos="A">tjielgas</t>
       </tg>
     </mg>
@@ -4535,7 +4535,7 @@
       <l pos="A" src="fad">tom</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tom 0ce6fd32-6cb2-4e3d-b2cf-4a46edcdbd5f">
+      <tg xml:lang="smj">
         <t pos="A">guoros</t>
       </tg>
     </mg>
@@ -4545,7 +4545,7 @@
       <l pos="A" src="fad">seig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="seig bc258109-0fb4-4ec5-a3ee-3b961eb2fdfd">
+      <tg xml:lang="smj">
         <t pos="A">sávrre</t>
       </tg>
     </mg>
@@ -4555,7 +4555,7 @@
       <l pos="A" src="fad">pen</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="pen 4a7e2b6a-e66e-4034-9b92-7672c61aa76e">
+      <tg xml:lang="smj">
         <t pos="A">tjábbe</t>
       </tg>
     </mg>
@@ -4565,7 +4565,7 @@
       <l pos="A" src="fad">løs</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="løs 40f1e941-4618-4caf-a4d6-3f755ed722b2">
+      <tg xml:lang="smj">
         <t pos="A">luovas</t>
       </tg>
     </mg>
@@ -4575,7 +4575,7 @@
       <l pos="A" src="fad">kjedelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kjedelig 41d6fc37-8727-491a-b664-3ab0396af1d5">
+      <tg xml:lang="smj">
         <t pos="A">gávgas</t>
       </tg>
     </mg>
@@ -4585,7 +4585,7 @@
       <l pos="A" src="fad">ivrig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ivrig 28405816-500b-4a7d-9006-2574d83bc4df">
+      <tg xml:lang="smj">
         <t pos="A">vissjal</t>
       </tg>
     </mg>
@@ -4595,7 +4595,7 @@
       <l pos="A" src="fad">langvarig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="langvarig b74121cb-35f9-49eb-b613-3151499da501">
+      <tg xml:lang="smj">
         <t pos="A">stuoves</t>
       </tg>
     </mg>
@@ -4605,7 +4605,7 @@
       <l pos="A" src="fad">uriktig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="uriktig 60ebc2a1-8093-4819-83d8-731a89c04a17">
+      <tg xml:lang="smj">
         <t pos="A">boasstot</t>
       </tg>
     </mg>
@@ -4615,7 +4615,7 @@
       <l pos="A" src="fad">sivil</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sivil 5e397d9b-46a5-4e7b-bb9e-83299cb34361">
+      <tg xml:lang="smj">
         <t pos="A">sivijlla</t>
       </tg>
     </mg>
@@ -4625,7 +4625,7 @@
       <l pos="A" src="fad">jålete</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="jålete 4664bc32-9b6b-4dba-a564-2334e2e84fd5">
+      <tg xml:lang="smj">
         <t pos="A">tjævlláj</t>
       </tg>
     </mg>
@@ -4635,7 +4635,7 @@
       <l pos="A" src="fad">oppegående</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="oppegående 8d8dd856-bc1b-4ceb-8d0d-ac75abb44f31">
+      <tg xml:lang="smj">
         <t pos="A">jiermmá</t>
       </tg>
     </mg>
@@ -4645,7 +4645,7 @@
       <l pos="A" src="fad">flat</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="flat 1d4a5fab-3ff0-422f-af65-00e029466a41">
+      <tg xml:lang="smj">
         <t pos="A">duolbbat</t>
       </tg>
     </mg>
@@ -4655,7 +4655,7 @@
       <l pos="A" src="fad">grønn</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="grønn 7a151557-09fe-4dda-8c79-604ca1987408">
+      <tg xml:lang="smj">
         <t pos="A">ruodná</t>
       </tg>
     </mg>
@@ -4665,7 +4665,7 @@
       <l pos="A" src="fad">pen</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="pen f118681f-d8b3-4608-a91e-dbcb06d7c862">
+      <tg xml:lang="smj">
         <t pos="A">tjábbe</t>
       </tg>
     </mg>
@@ -4675,7 +4675,7 @@
       <l pos="A" src="fad">tospråklig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tospråklig bd7ea484-abe6-4978-93f4-60a439278703">
+      <tg xml:lang="smj">
         <t pos="A">guovtegielak</t>
       </tg>
     </mg>
@@ -4685,7 +4685,7 @@
       <l pos="A" src="fad">blå</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="blå a55084a0-b75e-4c9c-9ac7-92afcdc982b0">
+      <tg xml:lang="smj">
         <t pos="A">alek</t>
       </tg>
     </mg>
@@ -4695,7 +4695,7 @@
       <l pos="A" src="fad">nedre</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="nedre a1ab03d8-f633-41f2-83df-6290f6c1f5e3">
+      <tg xml:lang="smj">
         <t pos="A">vuolep</t>
       </tg>
     </mg>
@@ -4705,7 +4705,7 @@
       <l pos="A" src="fad">etnisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="etnisk 20561785-a492-4871-8b3e-5402c5492b22">
+      <tg xml:lang="smj">
         <t pos="A">tjerdalasj</t>
       </tg>
     </mg>
@@ -4715,7 +4715,7 @@
       <l pos="A" src="fad">tverrfaglig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tverrfaglig 2f789395-0ef4-4aea-a263-89918794fb76">
+      <tg xml:lang="smj">
         <t pos="A">doaresfágalasj</t>
       </tg>
     </mg>
@@ -4725,7 +4725,7 @@
       <l pos="A" src="fad">psykisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="psykisk f1be9202-7006-40dd-8ba5-5a31816844c8">
+      <tg xml:lang="smj">
         <t pos="A">psyhkalasj</t>
       </tg>
     </mg>
@@ -4735,7 +4735,7 @@
       <l pos="A" src="fad">merkelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="merkelig 7c4c7126-ec80-4538-90f0-4b6655161872">
+      <tg xml:lang="smj">
         <t pos="A">imálasj</t>
       </tg>
     </mg>
@@ -4745,7 +4745,7 @@
       <l pos="A" src="fad">tospråklig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tospråklig 7f907fa4-ec0e-4cac-9044-c222db8183c2">
+      <tg xml:lang="smj">
         <t pos="A">guovtegielalasj</t>
       </tg>
     </mg>
@@ -4755,7 +4755,7 @@
       <l pos="A" src="fad">økonomisk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="økonomisk b33ce2a0-e313-4442-9890-c7e09703921b">
+      <tg xml:lang="smj">
         <t pos="A">rudálasj</t>
       </tg>
     </mg>
@@ -4765,7 +4765,7 @@
       <l pos="A" src="fad">spennende</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="spennende c3854378-6e8b-4d6b-97e3-cda9d9335554">
+      <tg xml:lang="smj">
         <t pos="A">geldulasj</t>
       </tg>
     </mg>
@@ -4775,7 +4775,7 @@
       <l pos="A" src="fad">kirkelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kirkelig f56af6e3-5342-4392-8d45-1fa4a5f32e80">
+      <tg xml:lang="smj">
         <t pos="A">girkkulasj</t>
       </tg>
     </mg>
@@ -4785,7 +4785,7 @@
       <l pos="A" src="fad">hjertelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="hjertelig a115aaea-56c0-4e42-b6a3-3161de18abe1">
+      <tg xml:lang="smj">
         <t pos="A">vájmulasj</t>
       </tg>
     </mg>
@@ -4795,7 +4795,7 @@
       <l pos="A" src="fad">mektig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="mektig 64a0f301-5d39-490e-8f9e-13899f3e1271">
+      <tg xml:lang="smj">
         <t pos="A">fámulasj</t>
       </tg>
     </mg>
@@ -4805,7 +4805,7 @@
       <l pos="A" src="fad">moderat</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="moderat b219907c-d08a-4282-900c-0c48f3ed253d">
+      <tg xml:lang="smj">
         <t pos="A">mutták</t>
       </tg>
     </mg>
@@ -4815,7 +4815,7 @@
       <l pos="A" src="fad">muntlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="muntlig ef9d7d8a-9e4e-426c-a192-91a3d2037721">
+      <tg xml:lang="smj">
         <t pos="A">njálmálasj</t>
       </tg>
     </mg>
@@ -4825,7 +4825,7 @@
       <l pos="A" src="fad">daglig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="daglig f7b9c199-f341-40e3-a2d1-8efedec35554">
+      <tg xml:lang="smj">
         <t pos="A">bæjválasj</t>
       </tg>
     </mg>
@@ -4835,7 +4835,7 @@
       <l pos="A" src="fad">interessant</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="interessant 1a071c4f-b349-4e4e-8854-96655dda8885">
+      <tg xml:lang="smj">
         <t pos="A">miellagiddevasj</t>
       </tg>
     </mg>
@@ -4845,7 +4845,7 @@
       <l pos="A" src="fad">takknemlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="takknemlig 1016e6a4-c265-4b80-b049-77f2b7a09833">
+      <tg xml:lang="smj">
         <t pos="A">gijttevasj</t>
       </tg>
     </mg>
@@ -4855,7 +4855,7 @@
       <l pos="A" src="fad">kristelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kristelig 07115f2a-be9f-41df-a9b5-4e857602a4c5">
+      <tg xml:lang="smj">
         <t pos="A">risstalasj</t>
       </tg>
     </mg>
@@ -4865,7 +4865,7 @@
       <l pos="A" src="fad">kristen</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kristen 5fc8470c-f4b7-45a3-8f24-c508d591d705">
+      <tg xml:lang="smj">
         <t pos="A">risstalasj</t>
       </tg>
     </mg>
@@ -4875,7 +4875,7 @@
       <l pos="A" src="fad">glad</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="glad ec2d0a0f-fc8a-4350-b3e3-ea15fba2b8fc">
+      <tg xml:lang="smj">
         <t pos="A">ávon</t>
       </tg>
     </mg>
@@ -4885,7 +4885,7 @@
       <l pos="A" src="fad">vanskelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="vanskelig aaa1537c-31f4-45d9-bda0-a78ac7b037ad">
+      <tg xml:lang="smj">
         <t pos="A">gássjel</t>
       </tg>
     </mg>
@@ -4895,7 +4895,7 @@
       <l pos="A" src="fad">rimelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="rimelig a3f28819-9b5d-44dd-85c0-6ea7d2bff4fc">
+      <tg xml:lang="smj">
         <t pos="A">mutták</t>
         <t pos="A">álbbe</t>
       </tg>
@@ -4906,7 +4906,7 @@
       <l pos="A" src="fad">trivelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="trivelig dc3ee1ef-c73a-4f1d-8588-08599d75dce8">
+      <tg xml:lang="smj">
         <t pos="A">hávsske</t>
       </tg>
     </mg>
@@ -4916,7 +4916,7 @@
       <l pos="A" src="fad">aktuell</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="aktuell c6642bed-df88-4ef9-bae6-e911df1db854">
+      <tg xml:lang="smj">
         <t pos="A">guovdálasj</t>
       </tg>
     </mg>
@@ -4926,7 +4926,7 @@
       <l pos="A" src="fad">stødig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="stødig ca29d200-8395-4b6b-85c2-969194bfde2a">
+      <tg xml:lang="smj">
         <t pos="A">nanos</t>
       </tg>
     </mg>
@@ -4936,7 +4936,7 @@
       <l pos="A" src="fad">sterk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sterk 89219b38-435d-4b4d-8264-40cd1dbc8529">
+      <tg xml:lang="smj">
         <t pos="A">gievrra</t>
       </tg>
     </mg>
@@ -4946,7 +4946,7 @@
       <l pos="A" src="fad">øm</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="øm de184b72-117e-44eb-a144-352476d58476">
+      <tg xml:lang="smj">
         <t pos="A">lines</t>
       </tg>
     </mg>
@@ -4956,7 +4956,7 @@
       <l pos="A" src="fad">råtten</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="råtten 46cba531-518e-4877-b2e1-474d2284d66c">
+      <tg xml:lang="smj">
         <t pos="A">miesska</t>
       </tg>
     </mg>
@@ -4966,7 +4966,7 @@
       <l pos="A" src="fad">kjær</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="kjær 06945ef7-279e-438d-82dc-0939b88873d6">
+      <tg xml:lang="smj">
         <t pos="A">gieres</t>
       </tg>
     </mg>
@@ -4976,7 +4976,7 @@
       <l pos="A" src="fad">stille</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="stille a916e6ee-8199-4684-a69f-d29f35d1e759">
+      <tg xml:lang="smj">
         <t pos="A">jasskat</t>
       </tg>
     </mg>
@@ -4986,7 +4986,7 @@
       <l pos="A" src="fad">snill</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="snill 34732c16-3a7f-40d0-ac58-07c86dd589d3">
+      <tg xml:lang="smj">
         <t pos="A">lådje</t>
       </tg>
     </mg>
@@ -4996,7 +4996,7 @@
       <l pos="A" src="fad">sikker</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sikker 47123a37-a1f3-4d41-8c25-749b9c2024e8">
+      <tg xml:lang="smj">
         <t pos="A">visses</t>
       </tg>
     </mg>
@@ -5006,7 +5006,7 @@
       <l pos="A" src="fad">tykk</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="tykk bdf5f29f-edaa-4838-9998-7ddd980af5a9">
+      <tg xml:lang="smj">
         <re>om flytende</re>
         <t pos="A">suohkat</t>
       </tg>
@@ -5017,7 +5017,7 @@
       <l pos="A" src="fad">åpen</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="åpen 42a23086-9ea9-41bb-91ff-a28b8c0810ca">
+      <tg xml:lang="smj">
         <t pos="A">rabás</t>
       </tg>
     </mg>
@@ -5027,7 +5027,7 @@
       <l pos="A" src="fad">nåtidig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="nåtidig aa01af25-db2f-46ff-9d3f-601f01dbf7c8">
+      <tg xml:lang="smj">
         <t pos="A">dálásj</t>
       </tg>
     </mg>
@@ -5037,7 +5037,7 @@
       <l pos="A" src="fad">hederlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="hederlig 8500b8fe-faa6-424f-9bc8-68ff100e8adc">
+      <tg xml:lang="smj">
         <t pos="A">gudnálasj</t>
       </tg>
     </mg>
@@ -5047,7 +5047,7 @@
       <l pos="A" src="fad">helhetlig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="helhetlig e036fb70-2a03-437f-8e9f-cf14bb1a6aae">
+      <tg xml:lang="smj">
         <t pos="A">åbbålasj</t>
       </tg>
     </mg>
@@ -5057,7 +5057,7 @@
       <l pos="A" src="fad">virkelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="virkelig b737c087-1f22-460f-a620-f32554621c07">
+      <tg xml:lang="smj">
         <t pos="A">duodalasj</t>
       </tg>
     </mg>
@@ -5067,7 +5067,7 @@
       <l pos="A" src="fad">nødvendig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="nødvendig 0da189eb-2b00-4ffa-859c-9ae228373d03">
+      <tg xml:lang="smj">
         <t pos="A">dárbulasj</t>
       </tg>
     </mg>
@@ -5077,7 +5077,7 @@
       <l pos="A" src="fad">ond</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ond 7a6f48d2-5ae4-4a1c-926e-49e1e5f3f37d">
+      <tg xml:lang="smj">
         <t pos="A">bahá</t>
       </tg>
     </mg>
@@ -5087,7 +5087,7 @@
       <l pos="A" src="fad">sunn</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="sunn 5a0378b9-638e-4bfa-a7f7-8dcd2da76e8c">
+      <tg xml:lang="smj">
         <t pos="A">biektel</t>
       </tg>
     </mg>
@@ -5097,7 +5097,7 @@
       <l pos="A" src="fad">bøyelig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="bøyelig e925ca15-b3ff-4def-9c48-e3c279983d71">
+      <tg xml:lang="smj">
         <t pos="A">såddjel</t>
       </tg>
     </mg>
@@ -5107,7 +5107,7 @@
       <l pos="A" src="fad">bærekraftig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="bærekraftig 172c904b-d445-4854-b261-56087b58a114">
+      <tg xml:lang="smj">
         <t pos="A">guoddel</t>
       </tg>
     </mg>
@@ -5117,7 +5117,7 @@
       <l pos="A" src="fad">arbeidssom</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="arbeidssom 8064e9b3-82f4-488e-b580-bcec18b9123c">
+      <tg xml:lang="smj">
         <t pos="A">vissjal</t>
       </tg>
     </mg>
@@ -5127,7 +5127,7 @@
       <l pos="A" src="fad">ukjent</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ukjent 43a9a71f-bd79-4111-a354-dcec0e5bd4c4">
+      <tg xml:lang="smj">
         <t pos="A">amás</t>
       </tg>
     </mg>
@@ -5137,7 +5137,7 @@
       <l pos="A" src="fad">ond</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="ond 15c93190-f199-481c-ae60-780dfc9960f1">
+      <tg xml:lang="smj">
         <t pos="A">bahá</t>
       </tg>
     </mg>
@@ -5147,7 +5147,7 @@
       <l pos="A" src="fad">fuktig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="fuktig 9eb64c40-8714-4011-b157-ecb0a8c0da1f">
+      <tg xml:lang="smj">
         <t pos="A">njuoskas</t>
       </tg>
     </mg>
@@ -5157,7 +5157,7 @@
       <l pos="A" src="fad">bløt</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="bløt 08d81d69-019a-447a-a0b1-5a51d1fae474">
+      <tg xml:lang="smj">
         <t pos="A">luvás</t>
       </tg>
     </mg>
@@ -5167,7 +5167,7 @@
       <l pos="A" src="fad">lav</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="lav 8e4846b7-c392-411a-91eb-a68ccd573a30">
+      <tg xml:lang="smj">
         <t pos="A">oadne</t>
       </tg>
     </mg>
@@ -5177,7 +5177,7 @@
       <l pos="A" src="fad">svak</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="svak 1fffe2d7-6a90-4201-945f-4adccc5f7ac7">
+      <tg xml:lang="smj">
         <t pos="A">rassje</t>
       </tg>
     </mg>
@@ -5187,7 +5187,7 @@
       <l pos="A" src="fad">stødig</l>
     </lg>
     <mg>
-      <tg xml:lang="smj" tw_id="stødig b7809833-2caa-43c8-87e0-5812c2547090">
+      <tg xml:lang="smj">
         <t pos="A">stádes</t>
       </tg>
     </mg>
